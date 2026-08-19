@@ -4,14 +4,14 @@ CREDIT to RetchErezzed for the English MACHINE TRANSLATION patch for: Lady Stalk
 https://www.romhacking.net/translations/7687/
 
 A spreadsheet comparing the machine translation to the Japanese text:
-https://docs.google.com/spreadsheets/d/1r9tgzWNMF61ixo1x2PMF-ePCaV6QFM3urqfz5nA3llY/edit?gid=510070301#gid=510070301
+[https://docs.google.com/spreadsheets/d/1r9tgzWNMF61ixo1x2PMF-ePCaV6QFM3urqfz5nA3llY/edit?gid=510070301#gid=510070301](https://docs.google.com/spreadsheets/d/e/2PACX-1vR3Hmv2-kBZEsAhIZWb3zizjndKe45VVunL_t0f3R0WhbB6wQ3s8iXGLDNsmIHKj6cHKMqlC31Ouch7/pubhtml)
 
 This package extracts the Japanese text from the headerless Super Famicom ROM
 `Lady Stalker - Kako kara no Chousen (Japan).sfc`. It also analyzes the existing
 ENG v1.0 machine-translation patch, pairs its English with the Japanese source,
 and can compile edited workspaces into a text-only overlay IPS.
 
-These tools should allow anybody to easily create a more human translation.  It is not thoroughly tested though, so use with caution and carefully check the resulting rom.  This was mostly an experiment to see how quickly it could be put together, so no guarantees.
+These tools should allow anybody to easily create a more human translation.  It is not thoroughly tested though, so use with caution and carefully check the resulting rom.  This was mostly an experiment to see how quickly it could be put together, so no guarantees.  Even the Japanese text rip should be double-checked. 
 
 ## Results
 
