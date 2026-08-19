@@ -23,6 +23,8 @@ control tags, and carefully playtest every generated build. No guarantees are
 made about translation accuracy, line fit, or complete in-game coverage of
 every visual text element.
 
+I also tried having ChatGPT extract Landstalker's font and insert it into Lady Stalker.  I've included the patch in this GitHub, just apply it to the patched English rom if you'd like to try it out.  Not thoroughly tested yet by me though.
+
 ## Results
 
 - 1,220 compressed message records
