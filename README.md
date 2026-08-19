@@ -25,6 +25,15 @@ every visual text element.
 
 I also tried having ChatGPT extract Landstalker's font and insert it into Lady Stalker.  I've included the patch in this GitHub, just apply it to the patched English rom if you'd like to try it out.  Not thoroughly tested yet by me though.
 
+## Version 1.1
+
+* Fixed an inherited ENG v1.0 bug in the separate 8×8 battle-notification renderer. Direct English text was being interpreted as Japanese tile numbers, causing messages such as `Tomaton attacked!` to appear as Japanese-looking text.
+* Added a conditional conversion table that maps all printable ASCII characters to the existing English 8×8 system font when direct English battle messages are displayed.
+* Original Japanese/fallback messages, control codes, dialogue text, pointers, imported Landstalker glyphs, and fit-safe word spacing remain unchanged.
+* The fix runs only while constructing battle-notification text and has no ongoing frame-rate cost.
+
+The patch passed static verification, checksum validation, reproducible IPS rebuilding, and dialogue regression testing. Continued playtesting of uncommon battle messages is still recommended.
+
 ## Results
 
 - 1,220 compressed message records
