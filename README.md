@@ -8,7 +8,7 @@ This package extracts the Japanese text from the headerless Super Famicom ROM
 ENG v1.0 machine-translation patch, pairs its English with the Japanese source,
 and can compile edited workspaces into a text-only overlay IPS.
 
-These tools should allow anybody to easily create a more human translation.  It is not thoroughly tested though, so use with caution and carefully check the resulting rom.
+These tools should allow anybody to easily create a more human translation.  It is not thoroughly tested though, so use with caution and carefully check the resulting rom.  This was mostly an experiment to see how quickly it could be put together, so no guarantees.
 
 ## Results
 
