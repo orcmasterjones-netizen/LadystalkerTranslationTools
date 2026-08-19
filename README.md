@@ -1,5 +1,8 @@
 # Lady Stalker extraction and retranslation kit
 
+CREDIT to RetchErezzed for the English MACHINE TRANSLATION patch for: Lady Stalker: Kako kara no Chousen Super Famicom / SNES
+https://www.romhacking.net/translations/7687/
+
 This package extracts the Japanese text from the headerless Super Famicom ROM
 `Lady Stalker - Kako kara no Chousen (Japan).sfc`. It also analyzes the existing
 ENG v1.0 machine-translation patch, pairs its English with the Japanese source,
