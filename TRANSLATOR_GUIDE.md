@@ -8,6 +8,13 @@
 Both are UTF-8 tab-separated files. Use a spreadsheet program that preserves
 UTF-8, tabs, multiline cells, and exact column names.
 
+`LadyStalker_Translation_Workspace_Corrected.xlsx` contains the same two
+workspaces as formatted `Dialogue` and `Lookups` sheets, plus a
+`Glyph Corrections` audit sheet. It is convenient for Excel or importing into
+Google Sheets. The TSV files remain the compiler inputs; after editing the
+workbook online, export the two workspace sheets as UTF-8 TSV with their exact
+headers before running the compiler.
+
 Translate into `professional_translation`. A blank cell deliberately falls
 back to `machine_english_reference`, so the project can be compiled and tested
 before every line is finished. Put discussion, context, or uncertainties in
@@ -68,4 +75,3 @@ build; do not distribute ROM images.
   jokes.
 - Run on at least one accurate emulator and, ideally, real hardware or a flash
   cartridge before release.
-
