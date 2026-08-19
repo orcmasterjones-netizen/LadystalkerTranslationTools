@@ -1,4 +1,4 @@
-# LadystalkerTranslationTools
+# Ladystalker Translation Tools
 ChatGPT created tools for updating the Ladystalker translation.
 
 To use:
