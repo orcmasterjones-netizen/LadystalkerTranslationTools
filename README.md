@@ -1,4 +1,4 @@
-# Lady Stalker extraction and retranslation kit
+# Experimental Lady Stalker extraction and retranslation kit
 
 CREDIT to RetchErezzed for the English MACHINE TRANSLATION patch for: Lady Stalker: Kako kara no Chousen Super Famicom / SNES
 https://www.romhacking.net/translations/7687/
