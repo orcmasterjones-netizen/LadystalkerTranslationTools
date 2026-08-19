@@ -1,0 +1,6894 @@
+Lady Stalker ENG v1.0 machine-translation reference dump
+Patched ROM SHA-256: 3a698798b844e248cd3cf612941d18d1837bc6af1805df18b6eff609bc97e3cf
+Messages: 1220
+Lookup strings: 358
+
+===== MSG 00:00 (EA:0CF8, 27 bytes) =====
+There's nothing that way.<WAIT_INPUT>
+
+===== MSG 00:01 (EA:0D13, 32 bytes) =====
+Lady opened the treasure chest.
+
+===== MSG 00:02 (EA:0D33, 9 bytes) =====
+Found <INSERT_A>!
+
+===== MSG 00:03 (EA:0D3C, 22 bytes) =====
+The chest was empty.<WAIT_INPUT>
+
+===== MSG 00:04 (EA:0D52, 29 bytes) =====
+But the inventory was full.<WAIT_INPUT>
+
+===== MSG 00:05 (EA:0D6F, 11 bytes) =====
+<INSERT_B>
+used <INSERT_A>.<PAUSE_30>
+
+===== MSG 00:06 (EA:0D7A, 11 bytes) =====
+<INSERT_B> cast
+<INSERT_B>.<PAUSE_30>
+
+===== MSG 00:07 (EA:0D85, 23 bytes) =====
+But nothing happened.<WAIT_INPUT>
+
+===== MSG 00:08 (EA:0D9C, 19 bytes) =====
+<INSERT_B>
+recovered <NUMBER> LP.<WAIT_INPUT>
+
+===== MSG 00:09 (EA:0DAF, 19 bytes) =====
+<INSERT_B>
+recovered <NUMBER> SP.<WAIT_INPUT>
+
+===== MSG 00:0A (EA:0DC2, 28 bytes) =====
+Zakonai's effect wore off.<WAIT_INPUT>
+
+===== MSG 00:0B (EA:0DDE, 35 bytes) =====
+The Ward Charm's
+effect wore off.<WAIT_INPUT>
+
+===== MSG 00:0C (EA:0E01, 22 bytes) =====
+<INSERT_B>
+came back to life!<WAIT_INPUT>
+
+===== MSG 00:0D (EA:0E17, 25 bytes) =====
+<INSERT_B>
+could not be revived.<WAIT_INPUT>
+
+===== MSG 00:0E (EA:0E30, 22 bytes) =====
+<INSERT_B>'s
+Power rose by <NUMBER>.<WAIT_INPUT>
+
+===== MSG 00:0F (EA:0E46, 24 bytes) =====
+<INSERT_B>'s
+Agility rose by <NUMBER>.<WAIT_INPUT>
+
+===== MSG 00:10 (EA:0E5E, 23 bytes) =====
+<INSERT_B>'s
+max LP rose by <NUMBER>.<WAIT_INPUT>
+
+===== MSG 00:11 (EA:0E75, 23 bytes) =====
+<INSERT_B>'s
+max SP rose by <NUMBER>.<WAIT_INPUT>
+
+===== MSG 00:12 (EA:0E8C, 11 bytes) =====
+<INSERT_B>
+used <INSERT_A>.<WAIT_INPUT>
+
+===== MSG 00:13 (EA:0E97, 11 bytes) =====
+<INSERT_B> cast
+<INSERT_B>.<WAIT_INPUT>
+
+===== MSG 00:14 (EA:0EA2, 3 bytes) =====
+<NOP><WAIT>
+
+===== MSG 00:15 (EA:0EA5, 3 bytes) =====
+<NOP><WAIT_INPUT>
+
+===== MSG 00:16 (EA:0EA8, 10 bytes) =====
+<INSERT_B> cast
+<INSERT_B>.
+
+===== MSG 00:17 (EA:0EB2, 18 bytes) =====
+<INSERT_B>
+recovered <NUMBER> LP.
+
+===== MSG 00:18 (EA:0EC4, 27 bytes) =====
+The treasure chest was
+<INSERT_B>!<WAIT_INPUT>
+
+===== MSG 00:19 (EA:0EDF, 16 bytes) =====
+Not enough SP.<WAIT_INPUT>
+
+===== MSG 00:1A (EA:0EEF, 26 bytes) =====
+Can't place it that way.<WAIT_INPUT>
+
+===== MSG 00:1B (EA:0F09, 16 bytes) =====
+<INSERT_B>
+gave <INSERT_A> to
+<INSERT_B>.<WAIT_INPUT>
+
+===== MSG 00:1C (EA:0F19, 37 bytes) =====
+<INSERT_B> thought
+better of it and stopped.<WAIT_INPUT>
+
+===== MSG 00:1D (EA:0F3E, 17 bytes) =====
+<INSERT_B> threw
+away <INSERT_A>.<WAIT_INPUT>
+
+===== MSG 00:1E (EA:0F4F, 11 bytes) =====
+<INSERT_B>
+read <INSERT_A>.<WAIT>
+
+===== MSG 00:1F (EA:0F5A, 18 bytes) =====
+Lady got <NUMBER> Endol.
+
+===== MSG 00:20 (EA:0F6C, 23 bytes) =====
+<INSERT_B>'s
+poison was cured.<WAIT_INPUT>
+
+===== MSG 00:21 (EA:0F83, 10 bytes) =====
+<INSERT_B>
+used <INSERT_A>.
+
+===== MSG 00:22 (EA:0F8D, 3 bytes) =====
+<NOP><PAUSE_30>
+
+===== MSG 00:23 (EA:0F90, 36 bytes) =====
+Delete Explorer's Journal
+volume <NUMBER>?
+
+===== MSG 00:24 (EA:0FB4, 41 bytes) =====
+Explorer's Journal volume
+<NUMBER> was deleted.
+
+===== MSG 00:25 (EA:0FDD, 52 bytes) =====
+Everything has gone still,
+as if nothing happened.<WAIT_INPUT>
+
+===== MSG 00:26 (EA:1011, 14 bytes) =====
+<INSERT_A> shattered.<WAIT_INPUT>
+
+===== MSG 00:27 (EA:101F, 27 bytes) =====
+The dead can't use items.<WAIT_INPUT>
+
+===== MSG 00:28 (EA:103A, 27 bytes) =====
+Lady moved <INSERT_A>
+from <INSERT_B>
+to <INSERT_B>.<WAIT_INPUT>
+
+===== MSG 00:29 (EA:1055, 23 bytes) =====
+<INSERT_A>
+can't be discarded.<WAIT_INPUT>
+
+===== MSG 00:2A (EA:106C, 11 bytes) =====
+Discard <INSERT_A>?
+
+===== MSG 00:2B (EA:1077, 51 bytes) =====
+<INSERT_B>'s inventory:
+Lady took out <INSERT_A>
+and threw it away.<WAIT_INPUT>
+
+===== MSG 00:2C (EA:10AA, 19 bytes) =====
+<INSERT_B> took
+from <INSERT_B>:
+<INSERT_A>.<WAIT_INPUT>
+
+===== MSG 00:2D (EA:10BD, 22 bytes) =====
+<INSERT_B> put
+in <INSERT_B>'s
+bag: <INSERT_A>.<WAIT_INPUT>
+
+===== MSG 00:2E (EA:10D3, 34 bytes) =====
+Lady planned her strategy alone.<WAIT_INPUT>
+
+===== MSG 00:2F (EA:10F5, 26 bytes) =====
+Zoom works! Works! Works!
+
+===== MSG 00:30 (EA:110F, 31 bytes) =====
+Zoom won't work! Won't! Won't!
+
+===== MSG 00:31 (EA:112E, 27 bytes) =====
+Evac works! Works! Works!<WAIT_INPUT>
+
+===== MSG 00:32 (EA:1149, 32 bytes) =====
+Evac won't work! Won't! Won't!<WAIT_INPUT>
+
+===== MSG 00:33 (EA:1169, 25 bytes) =====
+A curse prevents magic.<WAIT_INPUT>
+
+===== MSG 00:34 (EA:1182, 14 bytes) =====
+<INSERT_B>
+was cursed!
+
+===== MSG 00:35 (EA:1190, 33 bytes) =====
+<INSERT_A> is cursed
+and won't come off.<WAIT_INPUT>
+
+===== MSG 00:36 (EA:11B1, 48 bytes) =====
+Lady stopped rummaging
+in <INSERT_B>'s
+inventory for <INSERT_A>.<WAIT_INPUT>
+
+===== MSG 00:37 (EA:11E1, 15 bytes) =====
+<INSERT_B>
+examined <INSERT_A>.<PAUSE_30>
+
+===== MSG 00:38 (EA:11F0, 94 bytes) =====
+When the Demon Meat was
+scattered, something unidentifiable
+came creeping in from somewhere.<WAIT_INPUT>
+
+===== MSG 00:39 (EA:124E, 7 bytes) =====
+<NUMBER>hours
+
+===== MSG 00:3A (EA:1255, 10 bytes) =====
+<NOP><NUMBER>minutes
+
+===== MSG 00:3B (EA:125F, 12 bytes) =====
+<NOP><NUMBER>seconds.<WAIT_INPUT>
+
+===== MSG 00:3C (EA:126B, 19 bytes) =====
+Your play time is<LINE>
+
+===== MSG 00:3D (EA:127E, 14 bytes) =====
+Smells nice.<WAIT_INPUT>
+
+===== MSG 00:3E (EA:128C, 29 bytes) =====
+It says, "Move this lever."<WAIT>
+
+===== MSG 00:3F (EA:12A9, 31 bytes) =====
+It says, "This is the lever."<WAIT>
+
+===== MSG 00:40 (EA:12C8, 17 bytes) =====
+Move the lever?<LINE>
+
+===== MSG 00:41 (EA:12D9, 26 bytes) =====
+It says, "Out of order."<WAIT_INPUT>
+
+===== MSG 00:42 (EA:12F3, 33 bytes) =====
+It says, "DANGER:
+DO NOT MOVE."<WAIT>
+
+===== MSG 00:43 (EA:1314, 18 bytes) =====
+<INSERT_B>
+takes <NUMBER> damage.
+
+===== MSG 00:44 (EA:1326, 30 bytes) =====
+<INSERT_B>
+lands a lucky critical hit!
+
+===== MSG 00:45 (EA:1344, 46 bytes) =====
+<INSERT_B>
+was caught off guard
+and took heavy damage!
+
+===== MSG 00:46 (EA:1372, 19 bytes) =====
+<INSERT_B>
+called for help.
+
+===== MSG 00:47 (EA:1385, 13 bytes) =====
+<INSERT_B> retreated.
+
+===== MSG 00:48 (EA:1392, 10 bytes) =====
+<INSERT_B>
+used <INSERT_A>.
+
+===== MSG 00:49 (EA:139C, 10 bytes) =====
+<INSERT_B> cast
+<INSERT_B>.
+
+===== MSG 00:4A (EA:13A6, 38 bytes) =====
+But there isn't
+enough SP to cast it.
+
+===== MSG 00:4B (EA:13CC, 8 bytes) =====
+<INSERT_B> fell.
+
+===== MSG 00:4C (EA:13D4, 14 bytes) =====
+<INSERT_B> retreated.<WAIT>
+
+===== MSG 00:4D (EA:13E2, 12 bytes) =====
+<INSERT_B> attacked!
+
+===== MSG 00:4E (EA:13EE, 21 bytes) =====
+No escape. Too bad.<WAIT>
+
+===== MSG 00:4F (EA:1403, 18 bytes) =====
+<INSERT_B>
+is psyching up.
+
+===== MSG 00:50 (EA:1415, 47 bytes) =====
+But its mouth won't
+open. It can't cast magic.
+
+===== MSG 00:51 (EA:1444, 28 bytes) =====
+But a curse prevents magic.
+
+===== MSG 00:52 (EA:1460, 22 bytes) =====
+But nothing happened.
+
+===== MSG 00:53 (EA:1476, 35 bytes) =====
+But magic can't
+be used right now.
+
+===== MSG 00:54 (EA:1499, 28 bytes) =====
+<INSERT_A>
+vanished without a trace.
+
+===== MSG 00:55 (EA:14B5, 34 bytes) =====
+<INSERT_B> can't
+see anything around them.
+
+===== MSG 00:56 (EA:14D7, 23 bytes) =====
+<INSERT_B>
+is wagging its tail.
+
+===== MSG 00:57 (EA:14EE, 11 bytes) =====
+<INSERT_B> charged!
+
+===== MSG 00:58 (EA:14F9, 31 bytes) =====
+<INSERT_B>
+unleashed an electric shock!
+
+===== MSG 00:59 (EA:1518, 18 bytes) =====
+<INSERT_B>'s
+shock missed.
+
+===== MSG 00:5A (EA:152A, 21 bytes) =====
+<INSERT_B>
+split into copies!
+
+===== MSG 00:5B (EA:153F, 12 bytes) =====
+<INSERT_B> is dazed.
+
+===== MSG 00:5C (EA:154B, 10 bytes) =====
+<INSERT_B> danced.
+
+===== MSG 00:5D (EA:1555, 21 bytes) =====
+<INSERT_B>
+shouted a war cry!
+
+===== MSG 00:5E (EA:156A, 21 bytes) =====
+<INSERT_B>
+dodged the attack.
+
+===== MSG 00:5F (EA:157F, 23 bytes) =====
+<INSERT_B>
+had SP drained away.
+
+===== MSG 00:60 (EA:1596, 16 bytes) =====
+<INSERT_B>
+is panicking.
+
+===== MSG 00:61 (EA:15A6, 33 bytes) =====
+How tragic. Nobody came to help.
+
+===== MSG 00:62 (EA:15C7, 29 bytes) =====
+<INSERT_B> got
+skewered! Huge damage!
+
+===== MSG 00:63 (EA:15E4, 35 bytes) =====
+Terrible imitation. Total failure.
+
+===== MSG 00:64 (EA:1607, 19 bytes) =====
+<INSERT_B>
+self-destructed!
+
+===== MSG 00:65 (EA:161A, 22 bytes) =====
+On <INSERT_A>
+it says "FIGHT".
+
+===== MSG 00:66 (EA:1630, 36 bytes) =====
+ERROR OT<NUMBER>
+enemies cannot be fought.
+
+===== MSG 00:67 (EA:1654, 16 bytes) =====
+<INSERT_B>
+was poisoned.
+
+===== MSG 00:68 (EA:1664, 17 bytes) =====
+<INSERT_B>
+was paralyzed.
+
+===== MSG 00:69 (EA:1675, 20 bytes) =====
+<INSERT_B>
+was put to sleep.
+
+===== MSG 00:6A (EA:1689, 11 bytes) =====
+<INSERT_B> woke up.
+
+===== MSG 00:6B (EA:1694, 24 bytes) =====
+<INSERT_B>'s
+paralysis wore off.
+
+===== MSG 00:6C (EA:16AC, 17 bytes) =====
+<INSERT_B>'s
+Attack rose.
+
+===== MSG 00:6D (EA:16BD, 27 bytes) =====
+The monsters are defeated.
+
+===== MSG 00:6E (EA:16D8, 33 bytes) =====
+Each party member
+gained <NUMBER> EXP.<WAIT_INPUT>
+
+===== MSG 00:6F (EA:16F9, 20 bytes) =====
+Picked up <NUMBER> Endol.<WAIT_INPUT>
+
+===== MSG 00:70 (EA:170D, 20 bytes) =====
+<INSERT_B>
+reached level <NUMBER>!<WAIT>
+
+===== MSG 00:71 (EA:1721, 24 bytes) =====
+Max LP increased by <NUMBER>.<WAIT>
+
+===== MSG 00:72 (EA:1739, 22 bytes) =====
+Learned the spell
+<INSERT_B>!<WAIT>
+
+===== MSG 00:73 (EA:174F, 26 bytes) =====
+Learned special move:
+<INSERT_B>!<WAIT>
+
+===== MSG 00:74 (EA:1769, 53 bytes) =====
+But <INSERT_B>
+can't carry any more
+items. Discard something?
+
+===== MSG 00:75 (EA:179E, 35 bytes) =====
+Which item do you
+want to discard?
+
+===== MSG 00:76 (EA:17C1, 19 bytes) =====
+<INSERT_B> did
+not take <INSERT_A>.<WAIT_INPUT>
+
+===== MSG 00:77 (EA:17D4, 27 bytes) =====
+<INSERT_B>
+discarded <INSERT_A>
+and took <INSERT_A>.<WAIT_INPUT>
+
+===== MSG 00:78 (EA:17EF, 15 bytes) =====
+<INSERT_B>
+acquired <INSERT_A>.<WAIT>
+
+===== MSG 00:79 (EA:17FE, 23 bytes) =====
+Max SP increased by <NUMBER>.
+
+===== MSG 00:7A (EA:1815, 23 bytes) =====
+Power increased by <NUMBER>.<WAIT>
+
+===== MSG 00:7B (EA:182C, 25 bytes) =====
+Stamina increased by <NUMBER>.<WAIT>
+
+===== MSG 00:7C (EA:1845, 25 bytes) =====
+Agility increased by <NUMBER>.<WAIT>
+
+===== MSG 00:7D (EA:185E, 30 bytes) =====
+Intelligence increased by <NUMBER>.<WAIT>
+
+===== MSG 00:7E (EA:187C, 22 bytes) =====
+Luck increased by <NUMBER>.<WAIT>
+
+===== MSG 00:7F (EA:1892, 12 bytes) =====
+Defeated <INSERT_B>.
+
+===== MSG 00:80 (EA:189E, 20 bytes) =====
+Lady gained <NUMBER> EXP.<WAIT_INPUT>
+
+===== MSG 00:81 (EA:18B2, 27 bytes) =====
+<INSERT_A> is
+lying on the ground.<WAIT_INPUT>
+
+===== MSG 00:82 (EA:18CD, 22 bytes) =====
+Discard all of
+<INSERT_B>'s
+<INSERT_A>?
+
+===== MSG 00:83 (EA:18E3, 15 bytes) =====
+Discard <INSERT_B>'s
+<INSERT_A>?
+
+===== MSG 00:84 (EA:18F2, 18 bytes) =====
+You don't want <INSERT_A>?
+
+===== MSG 00:85 (EA:1904, 22 bytes) =====
+The monster ran away.
+
+===== MSG 00:86 (EA:191A, 25 bytes) =====
+Remembered the spell
+<INSERT_B>!<WAIT>
+
+===== MSG 00:87 (EA:1933, 32 bytes) =====
+<INSERT_A> shattered
+and was destroyed.<WAIT_INPUT>
+
+===== MSG 00:88 (EA:1953, 3 bytes) =====
+<NOP><WAIT>
+
+===== MSG 00:89 (EA:1956, 3 bytes) =====
+<NOP><WAIT_INPUT>
+
+===== MSG 00:8A (EA:1959, 37 bytes) =====
+Lady: .................<PAUSE_30> ..........<PAUSE_30>
+
+===== MSG 00:8B (EA:197E, 13 bytes) =====
+<NOP>I'm going!<PAUSE_60>
+
+===== MSG 00:8C (EA:198B, 3 bytes) =====
+<CLEAR>!
+
+===== MSG 00:8D (EA:198E, 16 bytes) =====
+<CLEAR><INSERT_B>
+received <INSERT_A>.<LINE>
+
+===== MSG 00:8E (EA:199E, 16 bytes) =====
+<CLEAR><INSERT_B>
+obtained <INSERT_A>.<LINE>
+
+===== MSG 00:8F (EA:19AE, 21 bytes) =====
+<CLEAR><INSERT_B> tried
+to take <INSERT_A>.<LINE>
+
+===== MSG 00:90 (EA:19C3, 37 bytes) =====
+<CLEAR>But there was no
+room to carry it.<LINE>
+
+===== MSG 00:91 (EA:19E8, 24 bytes) =====
+<CLEAR><INSERT_B> tried
+to pick up <INSERT_A>.<LINE>
+
+===== MSG 00:92 (EA:1A00, 13 bytes) =====
+<CLEAR><INSERT_B>
+found <INSERT_A>.<LINE>
+
+===== MSG 00:93 (EA:1A0D, 22 bytes) =====
+<CLEAR><INSERT_B>
+received <NUMBER> Endol.<LINE>
+
+===== MSG 00:94 (EA:1A23, 22 bytes) =====
+<CLEAR><INSERT_B>
+obtained <NUMBER> Endol.<LINE>
+
+===== MSG 00:95 (EA:1A39, 29 bytes) =====
+<CLEAR><INSERT_B>
+received <NUMBER> Casino Coins.<LINE>
+
+===== MSG 00:96 (EA:1A56, 25 bytes) =====
+<CLEAR><INSERT_B> was
+equipped with <INSERT_A>.<LINE>
+
+===== MSG 00:97 (EA:1A6F, 16 bytes) =====
+<CLEAR><INSERT_B>
+was cursed!<LINE>
+
+===== MSG 00:98 (EA:1A7F, 60 bytes) =====
+<CLEAR><INSERT_B> tried
+to equip <INSERT_A>.<LINE><WAIT><CLEAR>But <INSERT_A> is
+cursed and won't come off.<LINE>
+
+===== MSG 00:99 (EA:1ABB, 5 bytes) =====
+<CLEAR>Hi!
+
+===== MSG 00:9A (EA:1AC0, 27 bytes) =====
+<CLEAR>Lady peered into the pot.
+
+===== MSG 00:9B (EA:1ADB, 24 bytes) =====
+<CLEAR>But she found nothing.
+
+===== MSG 00:9C (EA:1AF3, 28 bytes) =====
+<CLEAR>Lady searched the dresser.
+
+===== MSG 00:9D (EA:1B0F, 27 bytes) =====
+<CLEAR>Lady searched the barrel.
+
+===== MSG 00:9E (EA:1B2A, 30 bytes) =====
+<CLEAR>Lady searched the bookshelf.
+
+===== MSG 00:9F (EA:1B48, 24 bytes) =====
+<CLEAR>A mountain of books...
+
+===== MSG 00:A0 (EA:1B60, 26 bytes) =====
+<CLEAR>Lady searched the shelf.
+
+===== MSG 00:A1 (EA:1B7A, 24 bytes) =====
+<CLEAR>Lady searched the box.
+
+===== MSG 00:A2 (EA:1B92, 40 bytes) =====
+<CLEAR>No response. It seems
+completely dead.
+
+===== MSG 00:A3 (EA:1BBA, 42 bytes) =====
+<CLEAR>There are tools for
+digging in the mine.
+
+===== MSG 00:A4 (EA:1BE4, 38 bytes) =====
+<CLEAR>It looks like a
+filthy lump of dust.
+
+===== MSG 00:A5 (EA:1C0A, 49 bytes) =====
+<CLEAR>There is some incredibly
+old cheese that reeks.
+
+===== MSG 00:A6 (EA:1C3B, 89 bytes) =====
+<CLEAR>It is dried out and rock-hard.<WAIT><CLEAR>If you put any force on it,
+it looks ready to crumble.<LINE>
+
+===== MSG 00:A7 (EA:1C94, 25 bytes) =====
+<CLEAR>Found a Shining Marble!
+
+===== MSG 00:A8 (EA:1CAD, 43 bytes) =====
+<CLEAR>Send the Shining Marble
+to the Collector?
+
+===== MSG 00:A9 (EA:1CD8, 43 bytes) =====
+<CLEAR>Sent the Shining
+Marble to the Collector.
+
+===== MSG 00:AA (EA:1D03, 38 bytes) =====
+<CLEAR>Sent the Casino
+Coins to the casino.
+
+===== MSG 00:AB (EA:1D29, 12 bytes) =====
+<CLEAR>This is <INSERT_A>.
+
+===== MSG 00:AC (EA:1D35, 31 bytes) =====
+<CLEAR>A weapon that Lady can equip.
+
+===== MSG 00:AD (EA:1D54, 30 bytes) =====
+<CLEAR>A weapon that Cox can equip.
+
+===== MSG 00:AE (EA:1D72, 38 bytes) =====
+<CLEAR>A weapon that Lady
+or Cox can equip.
+
+===== MSG 00:AF (EA:1D98, 33 bytes) =====
+<CLEAR>A weapon that Yoshio can equip.
+
+===== MSG 00:B0 (EA:1DB9, 41 bytes) =====
+<CLEAR>A weapon that Lady
+or Yoshio can equip.
+
+===== MSG 00:B1 (EA:1DE2, 40 bytes) =====
+<CLEAR>A weapon that Cox
+or Yoshio can equip.
+
+===== MSG 00:B2 (EA:1E0A, 41 bytes) =====
+<CLEAR>A weapon anyone in
+the party can equip.
+
+===== MSG 00:B3 (EA:1E33, 28 bytes) =====
+<CLEAR>Armor that Lady can equip.
+
+===== MSG 00:B4 (EA:1E4F, 27 bytes) =====
+<CLEAR>Armor that Cox can equip.
+
+===== MSG 00:B5 (EA:1E6A, 35 bytes) =====
+<CLEAR>Armor that Lady
+or Cox can equip.
+
+===== MSG 00:B6 (EA:1E8D, 30 bytes) =====
+<CLEAR>Armor that Yoshio can equip.
+
+===== MSG 00:B7 (EA:1EAB, 38 bytes) =====
+<CLEAR>Armor that Lady or
+Yoshio can equip.
+
+===== MSG 00:B8 (EA:1ED1, 37 bytes) =====
+<CLEAR>Armor that Cox
+or Yoshio can equip.
+
+===== MSG 00:B9 (EA:1EF6, 38 bytes) =====
+<CLEAR>Armor anyone in
+the party can equip.
+
+===== MSG 00:BA (EA:1F1C, 84 bytes) =====
+<CLEAR>Keep this around and even
+a small injury can be healed
+up in no time. Handy stuff!
+
+===== MSG 00:BB (EA:1F70, 57 bytes) =====
+<CLEAR>Scary poison? No problem!
+Take one along, just in case.
+
+===== MSG 00:BC (EA:1FA9, 62 bytes) =====
+<CLEAR>When paralysis hits, Para-Cure
+gets you feeling fresh again!
+
+===== MSG 00:BD (EA:1FE7, 79 bytes) =====
+<CLEAR>Too tough to bother with
+small fry? Great news! Use
+a Ward Charm and bye-bye!
+
+===== MSG 00:BE (EA:2036, 129 bytes) =====
+<CLEAR>Want to go back to town,
+but can't be bothered?<WAIT><CLEAR>Leave it to us! Use a Spring
+and jump, jump! Use it
+where you can see the sky.
+
+===== MSG 00:BF (EA:20B7, 81 bytes) =====
+<CLEAR>This history book is packed
+with Deathland secrets. You
+won't regret buying it!
+
+===== MSG 00:C0 (EA:2108, 125 bytes) =====
+<CLEAR>Deathland's famous King
+Doll contains monster-hated
+pink pyrithione!<WAIT><CLEAR>A revolutionary product that
+helps you flee monsters!
+
+===== MSG 00:C1 (EA:2185, 33 bytes) =====
+<CLEAR>Nothing seems unusual about it.
+
+===== MSG 00:C2 (EA:21A6, 30 bytes) =====
+<CLEAR>It disappears after one use.
+
+===== MSG 00:C3 (EA:21C4, 52 bytes) =====
+<CLEAR>It never runs out, no matter
+how often you use it.
+
+===== MSG 00:C4 (EA:21F8, 22 bytes) =====
+<CLEAR>There is a red door.
+
+===== MSG 00:C5 (EA:220E, 21 bytes) =====
+<CLEAR>The door is locked.
+
+===== MSG 00:C6 (EA:2223, 23 bytes) =====
+<CLEAR>There is a blue door.
+
+===== MSG 00:C7 (EA:223A, 31 bytes) =====
+<CLEAR>There is a door to the sewer.
+
+===== MSG 00:C8 (EA:2259, 54 bytes) =====
+<CLEAR>The door is glowing red-hot.<WAIT><CLEAR>It's too hot to touch.
+
+===== MSG 00:C9 (EA:228F, 25 bytes) =====
+<CLEAR>There is a door of ice.
+
+===== MSG 00:CA (EA:22A8, 44 bytes) =====
+<CLEAR>There is a stone door
+carved with Ganubis.
+
+===== MSG 00:CB (EA:22D4, 24 bytes) =====
+<CLEAR>There is a black door.
+
+===== MSG 00:CC (EA:22EC, 63 bytes) =====
+<CLEAR>There seems to be
+a transparent door.<WAIT><CLEAR>It seems to be locked.
+
+===== MSG 00:CD (EA:232B, 25 bytes) =====
+<CLEAR>There is a marble door.
+
+===== MSG 00:CE (EA:2344, 42 bytes) =====
+<CLEAR>There is a stone door
+carved with Inobu.
+
+===== MSG 00:CF (EA:236E, 18 bytes) =====
+<CLEAR>There is a door.
+
+===== MSG 00:D0 (EA:2380, 49 bytes) =====
+<CLEAR>There is a door.<WAIT><CLEAR>It won't open from this side.
+
+===== MSG 00:D1 (EA:23B1, 139 bytes) =====
+<CLEAR>A monster is carved on the
+door. It glares straight at you.<WAIT><CLEAR>As if it's saying, 'No
+humans beyond this point.'<WAIT><CLEAR>The door will not open.<LINE><LINE>
+
+===== MSG 00:D2 (EA:243C, 34 bytes) =====
+<CLEAR>A monster is
+carved on the door.
+
+===== MSG 00:D3 (EA:245E, 117 bytes) =====
+<CLEAR>The hedge has been trimmed.
+A tunnel is visible inside it.<WAIT><CLEAR>Trim a little more and you
+should be able to get in...<LINE>
+
+===== MSG 00:D4 (EA:24D3, 128 bytes) =====
+<CLEAR>A gigantic monolith blocks
+the entrance to the tower.<WAIT><CLEAR>The stone door bears the
+crest of the legendary
+king, carved in relief.
+
+===== MSG 00:D5 (EA:2553, 160 bytes) =====
+<CLEAR>The door won't open.<WAIT><CLEAR>The floor at your feet reacts
+to weight and seems to
+open the door automatically.<WAIT><CLEAR>You won't get through here
+unless you become bigger.<LINE>
+
+===== MSG 00:D6 (EA:25F3, 49 bytes) =====
+<SPEAKER>This is the weapon
+shop! What can I do for you?
+
+===== MSG 00:D7 (EA:2624, 48 bytes) =====
+<SPEAKER>This is the armor
+shop! What can I do for you?
+
+===== MSG 00:D8 (EA:2654, 83 bytes) =====
+<SPEAKER>One-use items, right
+here! They disappear when used,
+but they sure come in handy.
+
+===== MSG 00:D9 (EA:26A7, 63 bytes) =====
+<SPEAKER>Yes, yes, yes!
+This is the souvenir shop.
+What can I get you?
+
+===== MSG 00:DA (EA:26E6, 21 bytes) =====
+<SPEAKER>Need anything else?
+
+===== MSG 00:DB (EA:26FB, 13 bytes) =====
+<SPEAKER>Come again!
+
+===== MSG 00:DC (EA:2708, 24 bytes) =====
+<SPEAKER>Which one do you want?
+
+===== MSG 00:DD (EA:2720, 11 bytes) =====
+<SPEAKER><INSERT_A>, right?
+
+===== MSG 00:DE (EA:272B, 70 bytes) =====
+<SPEAKER>You can also use
+this as an item in battle.
+It has a special effect!
+
+===== MSG 00:DF (EA:2771, 34 bytes) =====
+<SPEAKER>That will be
+<NUMBER> Endol. Buying it?
+
+===== MSG 00:E0 (EA:2793, 20 bytes) =====
+<SPEAKER>Who will carry it?
+
+===== MSG 00:E1 (EA:27A7, 21 bytes) =====
+<SPEAKER>Equip it right now?
+
+===== MSG 00:E2 (EA:27BC, 60 bytes) =====
+<SPEAKER>If you don't equip it now,
+you might forget you bought it!
+
+===== MSG 00:E3 (EA:27F8, 17 bytes) =====
+<SPEAKER>Here you go, <INSERT_D>!
+
+===== MSG 00:E4 (EA:2809, 39 bytes) =====
+<SPEAKER>All right, I'll put
+it in <INSERT_D>'s coffin.
+
+===== MSG 00:E5 (EA:2830, 32 bytes) =====
+<SPEAKER>Anything else
+you want to buy?
+
+===== MSG 00:E6 (EA:2850, 31 bytes) =====
+<SPEAKER>What, you're
+done already...?
+
+===== MSG 00:E7 (EA:286F, 36 bytes) =====
+<SPEAKER><INSERT_D> can't
+equip this. Buy it anyway?
+
+===== MSG 00:E8 (EA:2893, 45 bytes) =====
+<SPEAKER>Hmm? <INSERT_D> can't
+carry anything else right now.
+
+===== MSG 00:E9 (EA:28C0, 32 bytes) =====
+<SPEAKER>Want someone
+else to carry it?
+
+===== MSG 00:EA (EA:28E0, 50 bytes) =====
+<SPEAKER>Looks like you don't
+have enough money for this.
+
+===== MSG 00:EB (EA:2912, 48 bytes) =====
+<SPEAKER>Hmm? Nobody can
+carry anything else right now.
+
+===== MSG 00:EC (EA:2942, 29 bytes) =====
+<SPEAKER>Whose item
+are you selling?
+
+===== MSG 00:ED (EA:295F, 29 bytes) =====
+<SPEAKER>Which item
+are you selling?
+
+===== MSG 00:EE (EA:297C, 49 bytes) =====
+<SPEAKER><INSERT_A>, huh...?<WAIT><SPEAKER>I'll give you
+<NUMBER> Endol for it. Deal?
+
+===== MSG 00:EF (EA:29AD, 27 bytes) =====
+<SPEAKER>Thanks for your business!
+
+===== MSG 00:F0 (EA:29C8, 33 bytes) =====
+<SPEAKER>Anything else
+you want to sell?
+
+===== MSG 00:F1 (EA:29E9, 44 bytes) =====
+<SPEAKER>Hmm? Nobody seems
+to be carrying anything.
+
+===== MSG 00:F2 (EA:2A15, 35 bytes) =====
+<SPEAKER>Hmm? Looks
+like you have nothing.
+
+===== MSG 00:F3 (EA:2A38, 109 bytes) =====
+<SPEAKER>Hmm... Now this
+is something! I can't
+take it off your hands.<WAIT><SPEAKER>Better keep it
+instead of trying to sell it.
+
+===== MSG 00:F4 (EA:2AA5, 116 bytes) =====
+<SPEAKER>Hrrngh! Hyaaah!
+No good, it won't come
+off! Looks like it's cursed.<WAIT><SPEAKER>Get it exorcised at
+a church, then come back.
+
+===== MSG 00:F5 (EA:2B19, 83 bytes) =====
+<SPEAKER>Welcome to
+the Adventurer's Inn!<WAIT><SPEAKER>A room is <NUMBER> Endol
+a night. Will you be staying?
+
+===== MSG 00:F6 (EA:2B6C, 50 bytes) =====
+<SPEAKER>Then please relax and
+make yourself comfortable.
+
+===== MSG 00:F7 (EA:2B9E, 41 bytes) =====
+<SPEAKER>Awake already?
+May today be a good day!
+
+===== MSG 00:F8 (EA:2BC7, 40 bytes) =====
+<SPEAKER>But... it seems
+you're short on money.
+
+===== MSG 00:F9 (EA:2BEF, 48 bytes) =====
+<SPEAKER>Thank you very much.
+We hope to see you again.
+
+===== MSG 00:FA (EA:2C1F, 79 bytes) =====
+<SPEAKER>Welcome to
+Chateau de Gerogero...<WAIT><SPEAKER>One night is <NUMBER>
+Endol. Will you be staying?
+
+===== MSG 00:FB (EA:2C6E, 68 bytes) =====
+<SPEAKER>Then rest easy
+until morning. Have yourself
+a long, crazy night...
+
+===== MSG 00:FC (EA:2CB2, 17 bytes) =====
+<SPEAKER>Good morning...
+
+===== MSG 00:FD (EA:2CC3, 47 bytes) =====
+<SPEAKER>Oh dear... No money?
+Whatever shall we do...?
+
+===== MSG 00:FE (EA:2CF2, 18 bytes) =====
+<SPEAKER>Then farewell...
+
+===== MSG 00:FF (EA:2D04, 75 bytes) =====
+<SPEAKER>With faith in your
+heart, all can be saved. May
+the church be of service?
+
+===== MSG 01:00 (EA:2D4F, 43 bytes) =====
+<SPEAKER>Is there anything
+else we can do for you?
+
+===== MSG 01:01 (EA:2D7A, 61 bytes) =====
+<SPEAKER>O God! Wrap
+this wandering traveler
+in your boundless love!
+
+===== MSG 01:02 (EA:2DB7, 79 bytes) =====
+<SPEAKER>Welcome back,
+<INSERT_B>.<WAIT><SPEAKER>O God! Wrap
+this wandering traveler
+in your boundless love!
+
+===== MSG 01:03 (EA:2E06, 73 bytes) =====
+<SPEAKER>Tell me
+of your adventure.<WAIT><SPEAKER>May I record it
+in this Explorer's Journal?
+
+===== MSG 01:04 (EA:2E4F, 53 bytes) =====
+<SPEAKER>Which volume of the
+Explorer's Journal shall I use?
+
+===== MSG 01:05 (EA:2E84, 30 bytes) =====
+<SPEAKER>It has been
+recorded safely!
+
+===== MSG 01:06 (EA:2EA2, 37 bytes) =====
+<SPEAKER>No record?
+Understood. As you wish!
+
+===== MSG 01:07 (EA:2EC7, 44 bytes) =====
+<SPEAKER>Would you like to
+continue your adventure?
+
+===== MSG 01:08 (EA:2EF3, 143 bytes) =====
+<SPEAKER>What? End your adventure
+without making a record?<WAIT><SPEAKER>Your latest story will
+be lost and you'll return to the
+previous entry. Is that all right?
+
+===== MSG 01:09 (EA:2F82, 27 bytes) =====
+<SPEAKER>Rest well. See you again!
+
+===== MSG 01:0A (EA:2F9D, 21 bytes) =====
+<SPEAKER>In my estimation...
+
+===== MSG 01:0B (EA:2FB2, 45 bytes) =====
+<SPEAKER><INSERT_B>
+needs <NUMBER> more EXP
+to reach the next level.
+
+===== MSG 01:0C (EA:2FDF, 39 bytes) =====
+<SPEAKER><INSERT_B>,
+you are already incredibly strong!
+
+===== MSG 01:0D (EA:3006, 46 bytes) =====
+<SPEAKER>Whom shall I call
+back from the other world?
+
+===== MSG 01:0E (EA:3034, 44 bytes) =====
+<SPEAKER>Revival costs <NUMBER>
+Endol. Is that acceptable?
+
+===== MSG 01:0F (EA:3060, 68 bytes) =====
+<SPEAKER>Blaze, blaze,
+blaze! Channeling!<WAIT><SPEAKER><INSERT_B>,
+return to this world at once!
+
+===== MSG 01:10 (EA:30A4, 21 bytes) =====
+<CLEAR><INSERT_B>
+returned to life!
+
+===== MSG 01:11 (EA:30B9, 46 bytes) =====
+<SPEAKER>Hmm?
+<INSERT_B> isn't
+dead! Don't scare me like that!
+
+===== MSG 01:12 (EA:30E7, 23 bytes) =====
+<SPEAKER>Oh? Never mind, then?
+
+===== MSG 01:13 (EA:30FE, 74 bytes) =====
+<SPEAKER>Even a church has
+some expenses to cover. But
+I will not pressure you...
+
+===== MSG 01:14 (EA:3148, 35 bytes) =====
+<SPEAKER>Hmm! You don't
+have enough money.
+
+===== MSG 01:15 (EA:316B, 28 bytes) =====
+<SPEAKER>Whose poison shall I cure?
+
+===== MSG 01:16 (EA:3187, 34 bytes) =====
+<SPEAKER>For the medicine,
+I ask <NUMBER> Endol.
+
+===== MSG 01:17 (EA:31A9, 45 bytes) =====
+<SPEAKER>San Alkali!
+Drive the poison from
+<INSERT_B>'s body!
+
+===== MSG 01:18 (EA:31D6, 25 bytes) =====
+<SPEAKER>Hmm.
+<INSERT_B>
+is not poisoned.
+
+===== MSG 01:19 (EA:31EF, 24 bytes) =====
+<SPEAKER>Whom shall I exorcise?
+
+===== MSG 01:1A (EA:3207, 30 bytes) =====
+<SPEAKER>For expenses,
+I ask <NUMBER> Endol.
+
+===== MSG 01:1B (EA:3225, 54 bytes) =====
+<SPEAKER>Naam! Naam! Nan!
+Drive away the curse clinging
+to <INSERT_B>!
+
+===== MSG 01:1C (EA:325B, 36 bytes) =====
+<SPEAKER>Hmm.
+<INSERT_B> does
+not seem to be cursed.
+
+===== MSG 01:1D (EA:327F, 74 bytes) =====
+<SPEAKER>Health is just as
+important as faith in God.
+Is something troubling you?
+
+===== MSG 01:1E (EA:32C9, 30 bytes) =====
+<SPEAKER>Anything
+else troubling you?
+
+===== MSG 01:1F (EA:32E7, 53 bytes) =====
+<SPEAKER>Faith in God is just
+as important as bodily health.
+
+===== MSG 01:20 (EA:331C, 61 bytes) =====
+<SPEAKER>Welcome back,
+<INSERT_B>.<WAIT><SPEAKER>Stay healthy today,
+too! Have a nice day!
+
+===== MSG 01:21 (EA:3359, 110 bytes) =====
+<SPEAKER>Tell me
+of your adventure.<WAIT><SPEAKER>If you like, I'll record
+it in this Explorer's Journal.
+That sounds good, right?
+
+===== MSG 01:22 (EA:33C7, 20 bytes) =====
+<SPEAKER>This will do, yes?
+
+===== MSG 01:23 (EA:33DB, 47 bytes) =====
+<SPEAKER>Don't want to write
+it down? That's fine too.
+
+===== MSG 01:24 (EA:340A, 139 bytes) =====
+<SPEAKER>Rest without updating
+the Explorer's Journal?<WAIT><SPEAKER>Your latest story will
+be lost and you'll return to the
+previous entry. Is that all right?
+
+===== MSG 01:25 (EA:3495, 54 bytes) =====
+<SPEAKER>Rest is important for
+good health too. Good night...
+
+===== MSG 01:26 (EA:34CB, 29 bytes) =====
+<SPEAKER>But
+<INSERT_B>
+is perfectly healthy.
+
+===== MSG 01:27 (EA:34E8, 19 bytes) =====
+<SPEAKER>Leave it for now?
+
+===== MSG 01:28 (EA:34FB, 41 bytes) =====
+<SPEAKER>Oh my, it seems
+you are short on money.
+
+===== MSG 01:29 (EA:3524, 24 bytes) =====
+<SPEAKER>But
+<INSERT_B>
+is not poisoned.
+
+===== MSG 01:2A (EA:353C, 24 bytes) =====
+<SPEAKER>Whom shall I exorcise?
+
+===== MSG 01:2B (EA:3554, 36 bytes) =====
+<SPEAKER>For expenses, I
+would ask <NUMBER> Endol.
+
+===== MSG 01:2C (EA:3578, 22 bytes) =====
+<SPEAKER>But
+<INSERT_B>
+is not cursed.
+
+===== MSG 01:2D (EA:358E, 77 bytes) =====
+<SPEAKER>This is where miserable
+monsters, abandoned by
+God, come seeking salvation.
+
+===== MSG 01:2E (EA:35DB, 19 bytes) =====
+<SPEAKER>Any other wishes?
+
+===== MSG 01:2F (EA:35EE, 69 bytes) =====
+<SPEAKER>O God! Show
+some mercy even to these
+pathetic, half-baked monsters!
+
+===== MSG 01:30 (EA:3633, 65 bytes) =====
+<SPEAKER>Welcome back, you
+wretched monsters! May
+the Force be with you!
+
+===== MSG 01:31 (EA:3674, 83 bytes) =====
+<SPEAKER>Confess your
+evil deeds so far.<WAIT><SPEAKER>And may I write them
+in this Explorer's Journal?
+
+===== MSG 01:32 (EA:36C7, 72 bytes) =====
+<SPEAKER>Which Explorer's
+Journal should I write in...?
+Which one do you think?
+
+===== MSG 01:33 (EA:370F, 35 bytes) =====
+<SPEAKER>It is written.
+No doubt about it!
+
+===== MSG 01:34 (EA:3732, 8 bytes) =====
+<SPEAKER>I see.
+
+===== MSG 01:35 (EA:373A, 37 bytes) =====
+<SPEAKER>Still haven't
+had enough adventure?
+
+===== MSG 01:36 (EA:375F, 84 bytes) =====
+<SPEAKER>Rest without recording
+it? Your adventure will roll
+back one entry. Fine with you?
+
+===== MSG 01:37 (EA:37B3, 87 bytes) =====
+<SPEAKER>O God! Grant even these
+creatures a moment of peaceful
+rest. May peace be with you...
+
+===== MSG 01:38 (EA:380A, 31 bytes) =====
+<SPEAKER>Hmm... From
+what I can see...
+
+===== MSG 01:39 (EA:3829, 45 bytes) =====
+<SPEAKER><INSERT_B>
+needs <NUMBER> more EXP
+to reach the next level.
+
+===== MSG 01:3A (EA:3856, 32 bytes) =====
+<SPEAKER>Isn't
+<INSERT_B>
+strong enough already?
+
+===== MSG 01:3B (EA:3876, 26 bytes) =====
+<SPEAKER>Who do
+you want revived?
+
+===== MSG 01:3C (EA:3890, 80 bytes) =====
+<SPEAKER>Let's talk terms... Donate
+<NUMBER> Endol to the church.
+That's what gratitude means.
+
+===== MSG 01:3D (EA:38E0, 22 bytes) =====
+<CLEAR><INSERT_B>
+came back to life!
+
+===== MSG 01:3E (EA:38F6, 53 bytes) =====
+<SPEAKER>Hey, they're still alive!
+Don't scare me like that!
+
+===== MSG 01:3F (EA:392B, 18 bytes) =====
+<SPEAKER>Huh? Never mind?
+
+===== MSG 01:40 (EA:393D, 49 bytes) =====
+<SPEAKER>And that, my friend,
+is what we call reality...
+
+===== MSG 01:41 (EA:396E, 53 bytes) =====
+<SPEAKER>Oh, not enough money...?
+Well, that is a problem...
+
+===== MSG 01:42 (EA:39A3, 47 bytes) =====
+<SPEAKER>Which clumsy monster
+managed to get poisoned?
+
+===== MSG 01:43 (EA:39D2, 61 bytes) =====
+<SPEAKER>Even hell has a
+price. Donate <NUMBER>
+Endol. Show some gratitude.
+
+===== MSG 01:44 (EA:3A0F, 43 bytes) =====
+<SPEAKER>Don't lie! That
+one looks perfectly fine!
+
+===== MSG 01:45 (EA:3A3A, 113 bytes) =====
+<SPEAKER>No can do.<WAIT><SPEAKER>I'm absolutely
+terrible at breaking curses.<WAIT><SPEAKER>Putting curses on people,
+though? That's my specialty.
+
+===== MSG 01:46 (EA:3AAB, 45 bytes) =====
+<CLEAR>There's an Explorer's
+Journal. Write in it?
+
+===== MSG 01:47 (EA:3AD8, 45 bytes) =====
+<CLEAR>Which Explorer's Journal
+will you write in?
+
+===== MSG 01:48 (EA:3B05, 11 bytes) =====
+<CLEAR>Recorded.
+
+===== MSG 01:49 (EA:3B10, 25 bytes) =====
+<CLEAR>Continue the adventure?
+
+===== MSG 01:4A (EA:3B29, 83 bytes) =====
+<CLEAR>If you quit without recording,
+your story will roll back
+one entry. Is that okay?
+
+===== MSG 01:4B (EA:3B7C, 20 bytes) =====
+<CLEAR>Until next time.<LINE><LINE>
+
+===== MSG 01:4C (EA:3B90, 22 bytes) =====
+<SPEAKER>Thank you very much!
+
+===== MSG 01:4D (EA:3BA6, 25 bytes) =====
+<SPEAKER>Anything else you need?
+
+===== MSG 01:4E (EA:3BBF, 27 bytes) =====
+<SPEAKER>Which item shall I store?
+
+===== MSG 01:4F (EA:3BDA, 36 bytes) =====
+<SPEAKER>All right. I
+will store it safely.
+
+===== MSG 01:50 (EA:3BFE, 25 bytes) =====
+<SPEAKER>Anything else to store?
+
+===== MSG 01:51 (EA:3C17, 35 bytes) =====
+<SPEAKER>But nobody
+is carrying any items.
+
+===== MSG 01:52 (EA:3C3A, 48 bytes) =====
+<SPEAKER>It looks like you
+are carrying nothing at all.
+
+===== MSG 01:53 (EA:3C6A, 58 bytes) =====
+<SPEAKER>Storage for
+<INSERT_A> is full right
+now. I cannot take any more.
+
+===== MSG 01:54 (EA:3CA4, 104 bytes) =====
+<SPEAKER>I'll store it safely... Huh?<WAIT><SPEAKER>This thing is cursed.
+Have it exorcised at a
+church, then bring it back.
+
+===== MSG 01:55 (EA:3D0C, 71 bytes) =====
+<SPEAKER>I accept deposits
+in units of 1,000 Endol.
+How much will you deposit?
+
+===== MSG 01:56 (EA:3D53, 40 bytes) =====
+<SPEAKER><NUMBER> Endol,
+correct? I will keep it safe.
+
+===== MSG 01:57 (EA:3D7B, 79 bytes) =====
+<SPEAKER><NUMBER> Endol?<WAIT><SPEAKER>I hate to say it,
+but you do not appear to
+have that much on you...
+
+===== MSG 01:58 (EA:3DCA, 28 bytes) =====
+<SPEAKER>Which item shall I return?
+
+===== MSG 01:59 (EA:3DE6, 19 bytes) =====
+<SPEAKER>Who will take it?
+
+===== MSG 01:5A (EA:3DF9, 30 bytes) =====
+<SPEAKER>Equip it
+here before you go?
+
+===== MSG 01:5B (EA:3E17, 38 bytes) =====
+<SPEAKER>It looks rather
+good on you. Really.
+
+===== MSG 01:5C (EA:3E3D, 15 bytes) =====
+<SPEAKER>Here you are!
+
+===== MSG 01:5D (EA:3E4C, 28 bytes) =====
+<SPEAKER>I'll put it
+in <INSERT_C>'s coffin.
+
+===== MSG 01:5E (EA:3E68, 31 bytes) =====
+<SPEAKER>Shall I
+return anything else?
+
+===== MSG 01:5F (EA:3E87, 40 bytes) =====
+<SPEAKER><INSERT_C> can't
+equip this. Is that all right?
+
+===== MSG 01:60 (EA:3EAF, 31 bytes) =====
+<SPEAKER>Should
+someone else carry it?
+
+===== MSG 01:61 (EA:3ECE, 40 bytes) =====
+<SPEAKER><INSERT_C> can't carry
+anything else right now.
+
+===== MSG 01:62 (EA:3EF6, 25 bytes) =====
+<SPEAKER>You are stopping, then.
+
+===== MSG 01:63 (EA:3F0F, 32 bytes) =====
+<SPEAKER>Shall I return
+something else?
+
+===== MSG 01:64 (EA:3F2F, 43 bytes) =====
+<SPEAKER>No one can carry
+anything else right now.
+
+===== MSG 01:65 (EA:3F5A, 43 bytes) =====
+<SPEAKER>Huh? You don't
+have anything stored here.
+
+===== MSG 01:66 (EA:3F85, 52 bytes) =====
+<SPEAKER>I currently hold <NUMBER>
+Endol. How much shall I return?
+
+===== MSG 01:67 (EA:3FB9, 46 bytes) =====
+<SPEAKER><NUMBER> Endol, correct?<WAIT><SPEAKER>Understood. Here you are.
+
+===== MSG 01:68 (EA:3FE7, 64 bytes) =====
+<SPEAKER>Huh? Money? I
+don't have a single Endol
+of yours on deposit...
+
+===== MSG 01:69 (EA:4027, 60 bytes) =====
+<SPEAKER><NUMBER> Endol?<WAIT><SPEAKER>I don't have that much
+of your money on deposit.
+
+===== MSG 01:6A (EA:4063, 65 bytes) =====
+<SPEAKER><NUMBER> Endol?<WAIT><SPEAKER>It doesn't look like you
+can carry that much at once.
+
+===== MSG 01:6B (EA:40A4, 44 bytes) =====
+<CLEAR>It says "POST."<WAIT><CLEAR>Suddenly, the post spoke!
+
+===== MSG 01:6C (EA:40D0, 80 bytes) =====
+<SPEAKER>I'm a post.<WAIT><SPEAKER>I can send money
+and items to storage.
+Which service do you need?
+
+===== MSG 01:6D (EA:4120, 51 bytes) =====
+<SPEAKER>If you plan to gamble,
+buy your coins here first.
+
+===== MSG 01:6E (EA:4153, 55 bytes) =====
+<SPEAKER>Oh, you have
+coins already? I can
+hold those for you.
+
+===== MSG 01:6F (EA:418A, 37 bytes) =====
+<SPEAKER>I'm holding <NUMBER>
+coins for you, missy.
+
+===== MSG 01:70 (EA:41AF, 47 bytes) =====
+<SPEAKER>I'm not holding a
+single coin for you, missy.
+
+===== MSG 01:71 (EA:41DE, 69 bytes) =====
+<SPEAKER>Coins are 20 Endol each.
+You can buy up to <NUMBER>.
+How many do you want?
+
+===== MSG 01:72 (EA:4223, 17 bytes) =====
+<SPEAKER><NUMBER> coins, right?
+
+===== MSG 01:73 (EA:4234, 36 bytes) =====
+<SPEAKER>That comes to
+<NUMBER> Endol. Sound good?
+
+===== MSG 01:74 (EA:4258, 34 bytes) =====
+<SPEAKER>Thanks a lot!
+Have fun in there!
+
+===== MSG 01:75 (EA:427A, 81 bytes) =====
+<SPEAKER>Coins are 20 Endol each.
+Sorry, missy, but you can't
+afford even one right now.
+
+===== MSG 01:76 (EA:42CB, 65 bytes) =====
+<SPEAKER>Come back when
+you have some spending
+money! I will be waiting!
+
+===== MSG 01:77 (EA:430C, 56 bytes) =====
+<SPEAKER>That comes to
+<NUMBER> Endol... Oh.
+Looks like you are short.
+
+===== MSG 01:78 (EA:4344, 39 bytes) =====
+<SPEAKER>This counter
+trades coins for prizes.
+
+===== MSG 01:79 (EA:436B, 43 bytes) =====
+<SPEAKER>Oh, you have coins?
+I can hold those too.
+
+===== MSG 01:7A (EA:4396, 55 bytes) =====
+<SPEAKER>I'm holding <NUMBER>
+coins for <INSERT_C>. Want
+to trade for a prize?
+
+===== MSG 01:7B (EA:43CD, 20 bytes) =====
+<SPEAKER>See you next time!
+
+===== MSG 01:7C (EA:43E1, 83 bytes) =====
+<SPEAKER><INSERT_C> has...
+not even one coin, huh?<WAIT><SPEAKER>Save up some coins
+and come back! I'll be here!
+
+===== MSG 01:7D (EA:4434, 32 bytes) =====
+<SPEAKER>What do you
+want to trade for?
+
+===== MSG 01:7E (EA:4454, 11 bytes) =====
+<SPEAKER><INSERT_A>, right?
+
+===== MSG 01:7F (EA:445F, 20 bytes) =====
+<SPEAKER>Who should get it?
+
+===== MSG 01:80 (EA:4473, 22 bytes) =====
+<SPEAKER>Equip it right away?
+
+===== MSG 01:81 (EA:4489, 13 bytes) =====
+<SPEAKER>You got it!
+
+===== MSG 01:82 (EA:4496, 10 bytes) =====
+<SPEAKER>Here, <INSERT_C>!
+
+===== MSG 01:83 (EA:44A0, 45 bytes) =====
+<SPEAKER>Here, <INSERT_C>. I'll
+put it in the coffin for you.
+
+===== MSG 01:84 (EA:44CD, 26 bytes) =====
+<SPEAKER>Trade for another prize?
+
+===== MSG 01:85 (EA:44E7, 69 bytes) =====
+<SPEAKER>I'll hold the rest
+of your coins. Come back
+again! I'll be waiting!
+
+===== MSG 01:86 (EA:452C, 36 bytes) =====
+<SPEAKER><INSERT_C> can't
+equip this. Still want it?
+
+===== MSG 01:87 (EA:4550, 35 bytes) =====
+<SPEAKER>But <INSERT_C>
+can't carry this right now.
+
+===== MSG 01:88 (EA:4573, 26 bytes) =====
+<SPEAKER>Give it to someone else?
+
+===== MSG 01:89 (EA:458D, 45 bytes) =====
+<SPEAKER>You don't have
+enough coins to trade
+for <INSERT_A>.
+
+===== MSG 01:8A (EA:45BA, 38 bytes) =====
+<SPEAKER>But nobody can
+carry this right now.
+
+===== MSG 01:8B (EA:45E0, 52 bytes) =====
+<SPEAKER>I collect Shining Marbles
+from all over the world.
+
+===== MSG 01:8C (EA:4614, 54 bytes) =====
+<SPEAKER>Hey, you've got a
+marble! I'll take that, thank you!
+
+===== MSG 01:8D (EA:464A, 69 bytes) =====
+<SPEAKER>I've received <NUMBER>
+marbles from <INSERT_D> so far.
+Want to trade for something?
+
+===== MSG 01:8E (EA:468F, 18 bytes) =====
+<SPEAKER>Come back again!
+
+===== MSG 01:8F (EA:46A1, 83 bytes) =====
+<SPEAKER>In exchange for marbles,
+I give away wonderful items
+I have collected everywhere!
+
+===== MSG 01:90 (EA:46F4, 30 bytes) =====
+<SPEAKER>Want to
+equip it right away?
+
+===== MSG 01:91 (EA:4712, 36 bytes) =====
+<SPEAKER>Here you go!
+Take good care of it!
+
+===== MSG 01:92 (EA:4736, 51 bytes) =====
+<SPEAKER>Here you go... I'll put
+it in <INSERT_C>'s coffin for now.
+
+===== MSG 01:93 (EA:4769, 21 bytes) =====
+<SPEAKER>Want anything else?
+
+===== MSG 01:94 (EA:477E, 76 bytes) =====
+<SPEAKER>Hmm... You'll need to
+collect more marbles before
+I can give you that one.
+
+===== MSG 01:95 (EA:47CA, 80 bytes) =====
+<SPEAKER>Please show me your
+island Visa. Without one, you
+cannot go beyond this point.
+
+===== MSG 01:96 (EA:481A, 18 bytes) =====
+<CLEAR><INSERT_B>
+handed over <INSERT_A>.
+
+===== MSG 01:97 (EA:482C, 98 bytes) =====
+<SPEAKER>All right, miss.
+I've confirmed your Visa.<WAIT><SPEAKER>You're registered now,
+so you may pass here anytime.
+
+===== MSG 01:98 (EA:488E, 128 bytes) =====
+<SPEAKER>Head north and you
+will eventually reach Rivertown.<WAIT><SPEAKER>It is a long walk,
+though. Say a prayer at the
+church before you set out.
+
+===== MSG 01:99 (EA:490E, 58 bytes) =====
+<SPEAKER>Welcome to
+Deathland Island, land
+of legend and mystery!
+
+===== MSG 01:9A (EA:4948, 139 bytes) =====
+<SPEAKER>Rumors are pretty
+unreliable, aren't they?<WAIT><SPEAKER>There isn't any treasure
+here, yet everyone gets wild-eyed
+over it. People really are greedy.
+
+===== MSG 01:9B (EA:49D3, 155 bytes) =====
+<SPEAKER>Damn, what a mess!<WAIT><SPEAKER>I came to explore
+the island, but without combat
+training, I couldn't get a Visa.<WAIT><SPEAKER>I should've taken my
+sword lessons more seriously!
+
+===== MSG 01:9C (EA:4A6E, 59 bytes) =====
+<SPEAKER>What? You got
+a Visa? For a woman,
+you're pretty amazing.
+
+===== MSG 01:9D (EA:4AA9, 84 bytes) =====
+<SPEAKER>I'm the old sage of
+legends. Would you like to hear
+a tale about Deathland Island?
+
+===== MSG 01:9E (EA:4AFD, 312 bytes) =====
+<SPEAKER>Long ago on
+Deathland, there lived a
+monster called King Baron...<WAIT><SPEAKER>King Baron was a
+genius. He devoted himself
+to all kinds of research.<WAIT><SPEAKER>Traps, mechanisms,
+even experiments on living
+monsters... he did it all.<WAIT><SPEAKER>At last, King Baron
+invented something truly incredible!<WAIT><SPEAKER>Well, young lady?
+Want to hear the rest?
+
+===== MSG 01:9F (EA:4C35, 127 bytes) =====
+<SPEAKER>Ho ho ho! Sorry,
+young lady, but hear
+the rest at the museum.<WAIT><SPEAKER>Someone there
+will tell you the legend
+in much greater detail.
+
+===== MSG 01:A0 (EA:4CB4, 52 bytes) =====
+<SPEAKER>Ho ho ho! Is that so?
+Then never mind, never mind.
+
+===== MSG 01:A1 (EA:4CE8, 30 bytes) =====
+<SPEAKER>Oh, I see.
+Never mind, then.
+
+===== MSG 01:A2 (EA:4D06, 69 bytes) =====
+<SPEAKER>Ho ho ho! The
+museum! Go to the museum!
+Ho ho ho! Hmph... ho ho ho!
+
+===== MSG 01:A3 (EA:4D4B, 135 bytes) =====
+<SPEAKER>Well? How was the
+legend? Mysterious, wasn't it?<WAIT><SPEAKER>To think someone so
+remarkable lived thousands of
+years ago... It boggles the mind!
+
+===== MSG 01:A4 (EA:4DD2, 167 bytes) =====
+<SPEAKER>The island's legend
+spread worldwide, so all sorts
+keep arriving one after another.<WAIT><SPEAKER>Scholars, bounty hunters...
+Well, more tourists means
+more money for the island.
+
+===== MSG 01:A5 (EA:4E79, 134 bytes) =====
+<SPEAKER>Absolutely fascinating!<WAIT><SPEAKER>I've been a scientist
+for many years myself,<WAIT><SPEAKER>but nothing stirs
+my passion like the
+legends of this island.
+
+===== MSG 01:A6 (EA:4EFF, 55 bytes) =====
+<SPEAKER>Hey, cutie. Those fiery
+eyes of yours give me chills.
+
+===== MSG 01:A7 (EA:4F36, 131 bytes) =====
+<SPEAKER>The King Doll is a folk
+craft handed down on this island.<WAIT><SPEAKER>When a monster
+appears, thrust the King Doll
+at it and it'll run away.
+
+===== MSG 01:A8 (EA:4FB9, 73 bytes) =====
+<SPEAKER>Whoa! Finally made
+it! Huff... huff... Mmm, the
+scent of foreign lands!
+
+===== MSG 01:A9 (EA:5002, 59 bytes) =====
+<SPEAKER>Hm? Did you
+come to this island
+looking for treasure too?
+
+===== MSG 01:AA (EA:503D, 66 bytes) =====
+<SPEAKER>I knew it! Damn!
+Can't sit around now.
+Gotta hurry, gotta hurry!
+
+===== MSG 01:AB (EA:507F, 213 bytes) =====
+<SPEAKER>What? No? Then
+what? You came to study
+history? Ha ha ha! I see!<WAIT><SPEAKER>Well, there aren't
+many places as fascinating as
+Deathland. Study hard, I guess.<WAIT><SPEAKER>Maybe I'll go do
+a little studying myself!
+Ha ha! See you, sis!
+
+===== MSG 01:AC (EA:5154, 120 bytes) =====
+<SPEAKER>No one is left
+here now. The women and
+children evacuated by ship.<WAIT><SPEAKER>All the tourists raced
+home as fast as they could.
+
+===== MSG 01:AD (EA:51CC, 78 bytes) =====
+<SPEAKER>If monsters take the
+island, I'll be a wanderer!
+A Deathland refugee... sob.
+
+===== MSG 01:AE (EA:521A, 61 bytes) =====
+<SPEAKER>Stock up on
+plenty of Medicine or
+you will regret it later.
+
+===== MSG 01:AF (EA:5257, 89 bytes) =====
+<SPEAKER>What should I get as a
+souvenir? Maybe an Ancient Book.
+Could learn something for once.
+
+===== MSG 01:B0 (EA:52B0, 111 bytes) =====
+<SPEAKER>My wife and I came
+here to hunt for treasure.<WAIT><SPEAKER>But I was the only
+one who failed the test.<WAIT><SPEAKER>How embarrassing!
+
+===== MSG 01:B1 (EA:531F, 66 bytes) =====
+<SPEAKER>This is the island
+entrance exam. Would
+you like an explanation?
+
+===== MSG 01:B2 (EA:5361, 246 bytes) =====
+<SPEAKER>Many monsters still
+live on Deathland Island,
+and they attack people.<WAIT><SPEAKER>Anyone going deeper
+inland needs some fighting ability,
+or they could lose their life.<WAIT><SPEAKER>First-time visitors
+must take the exam
+here before entering.<WAIT><SPEAKER>Will you take the exam?
+
+===== MSG 01:B3 (EA:5457, 197 bytes) =====
+<SPEAKER>Then proceed through
+the door in the back.<WAIT><SPEAKER>At the far end of the
+course is the Deathland History
+Museum. Reach it and you pass.<WAIT><SPEAKER>Once you pass, the
+museum will issue your
+island Visa. Good luck!
+
+===== MSG 01:B4 (EA:551C, 130 bytes) =====
+<SPEAKER>Then proceed through
+the door in the back.<WAIT><SPEAKER>At the far end of the
+course is the Deathland History
+Museum. Reach it and you pass.
+
+===== MSG 01:B5 (EA:559E, 16 bytes) =====
+<SPEAKER>Oh. All right.
+
+===== MSG 01:B6 (EA:55AE, 68 bytes) =====
+<SPEAKER>Travel carefully.
+Never push yourself too
+far. Remember that much.
+
+===== MSG 01:B7 (EA:55F2, 88 bytes) =====
+<SPEAKER>If you can't clear that
+ditch with a B-button dash, you're
+going to have a rough time.
+
+===== MSG 01:B8 (EA:564A, 77 bytes) =====
+<SPEAKER>Hey! You passed the
+exam? Girls these days sure
+aren't what they look like!
+
+===== MSG 01:B9 (EA:5697, 75 bytes) =====
+<SPEAKER>Up ahead are the
+island's grasslands. Watch out.
+Monsters roam there too!
+
+===== MSG 01:BA (EA:56E2, 57 bytes) =====
+<SPEAKER>You? A woman?
+Think you can pass
+the exam? Bwahahahaha!
+
+===== MSG 01:BB (EA:571B, 57 bytes) =====
+<SPEAKER>When you
+want to lift something,
+think: A PUSH! A PUSH!
+
+===== MSG 01:BC (EA:5754, 75 bytes) =====
+<SPEAKER>Whew! Nice work, sis.<WAIT><SPEAKER>With skills like that,
+this exam will be a breeze!
+
+===== MSG 01:BD (EA:579F, 84 bytes) =====
+<SPEAKER>My hobby is hanging
+around the exam course and
+heckling people who are struggling.
+
+===== MSG 01:BE (EA:57F3, 80 bytes) =====
+<SPEAKER>If you've got a Visa,
+stop fooling around here and
+head for Rivertown already.
+
+===== MSG 01:BF (EA:5843, 141 bytes) =====
+<SPEAKER>Hey, miss. Do you charge
+up your spirit during battle?<WAIT><SPEAKER>Stand still and hold
+AAAAA! Your spirit builds up,
+letting you unleash a power hit!
+
+===== MSG 01:C0 (EA:58D0, 91 bytes) =====
+<SPEAKER>Whew. I barely
+made it this far.<WAIT><SPEAKER>Even a merchant needs
+some martial training, I suppose.
+
+===== MSG 01:C1 (EA:592B, 84 bytes) =====
+<SPEAKER>This island has lots of
+winding paths. A good sense
+of balance can save your life!
+
+===== MSG 01:C2 (EA:597F, 107 bytes) =====
+<SPEAKER>Good work, traveler.<WAIT><SPEAKER>The exam ends
+here. Get your island Visa
+at the museum below.<WAIT><SPEAKER>Have a good journey!
+
+===== MSG 01:C3 (EA:59EA, 76 bytes) =====
+<SPEAKER>Pop! Here is your
+island Visa. With this one
+card, you can leave the port!
+
+===== MSG 01:C4 (EA:5A36, 70 bytes) =====
+<SPEAKER>Oh dear, miss!
+Your inventory is full. Make
+some room and come back.
+
+===== MSG 01:C5 (EA:5A7C, 80 bytes) =====
+<SPEAKER>Gerohah! That means
+"hello" in this island language!
+Safe travels, young lady.
+
+===== MSG 01:C6 (EA:5ACC, 232 bytes) =====
+<SPEAKER>Impressive, isn't it?<WAIT><SPEAKER>If a Tomaton this
+huge attacked me, I'd be
+done for in a second!<WAIT><SPEAKER>What is it? The
+find of the century: a
+legendary giant Tomaton fossil!<WAIT><SPEAKER>An ancient Deathland
+mystery, now proven true.
+Ah, the romance of it!
+
+===== MSG 01:C7 (EA:5BB4, 67 bytes) =====
+<SPEAKER>No need to rush,
+young lady. First get your
+Visa at the entrance.
+
+===== MSG 01:C8 (EA:5BF7, 136 bytes) =====
+<SPEAKER>Ring-a-ling! Everyone,
+gather! Our marvelous moving
+picture is about to begin!<WAIT><SPEAKER>It tells the whole legend
+of Deathland. Want to watch?
+
+===== MSG 01:C9 (EA:5C7F, 82 bytes) =====
+<SPEAKER>Young lady, front-row
+seat! The very best in the
+house! Ring-a-ling! Here we go!
+
+===== MSG 01:CA (EA:5CD1, 82 bytes) =====
+<SPEAKER>A lady's 'no' means
+'yes'! Come on, sit down, sit
+down! Ring-a-ling! Here we go!
+
+===== MSG 01:CB (EA:5D23, 39 bytes) =====
+<SPEAKER>Come now, sit
+in the front. Sit, sit!
+
+===== MSG 01:CC (EA:5D4A, 66 bytes) =====
+<SPEAKER>Wheeze... gasp...
+At my age, I can only
+run one showing a day...
+
+===== MSG 01:CD (EA:5D8C, 164 bytes) =====
+<SPEAKER>Hey, sis! You made
+it! Look around. Every one of
+these people looks like trouble.<WAIT><SPEAKER>They must have smelled
+treasure on Deathland too.
+No doubt. They're our rivals!
+
+===== MSG 01:CE (EA:5E30, 83 bytes) =====
+<SPEAKER>Dammit, what a letdown!
+This island is nothing like
+what I was told. What a joke!
+
+===== MSG 01:CF (EA:5E83, 148 bytes) =====
+<SPEAKER>I'm a brilliant scientist.
+My dream is to invent something
+as great as King Baron did.<WAIT><SPEAKER>I came to this island to
+learn everything I can about him.
+
+===== MSG 01:D0 (EA:5F17, 75 bytes) =====
+<SPEAKER>King Baron was simply
+too great. I could never
+become someone like him...
+
+===== MSG 01:D1 (EA:5F62, 77 bytes) =====
+<SPEAKER>A giant Tomaton fossil
+was found. There must be
+more discoveries out there!
+
+===== MSG 01:D2 (EA:5FAF, 87 bytes) =====
+<SPEAKER>Hmm... Maybe I shouldn't
+go too deep into the island.
+Research is no use if I'm dead.
+
+===== MSG 01:D3 (EA:6006, 69 bytes) =====
+<SPEAKER>Hey! Hurry up and
+start the movie already!
+I ain't waiting forever!
+
+===== MSG 01:D4 (EA:604B, 87 bytes) =====
+<SPEAKER>Snore... snore... Huh? Is
+the showing over already? I
+got tired of waiting and slept!
+
+===== MSG 01:D5 (EA:60A2, 147 bytes) =====
+<SPEAKER>This island excites
+me! There must be ancient
+ruins somewhere. Heh heh heh.<WAIT><SPEAKER>I'll find them
+first, dig up piles of gold
+and silver, then... ohhh!
+
+===== MSG 01:D6 (EA:6135, 78 bytes) =====
+<SPEAKER>I don't want fossils.
+What I'm after is ancient
+treasure buried underground.
+
+===== MSG 01:D7 (EA:6183, 80 bytes) =====
+<SPEAKER>Hrumph, hrumph! I'll
+find something too, just you
+watch! Woo-ho-ho-ho! Hrumph!
+
+===== MSG 01:D8 (EA:61D3, 77 bytes) =====
+<SPEAKER>Hrumph... I can't
+do this. Maybe I'll just go
+sightseeing with the old man.
+
+===== MSG 01:D9 (EA:6220, 47 bytes) =====
+<CLEAR>There is a strange
+device fitted with a lens.
+
+===== MSG 01:DA (EA:624F, 54 bytes) =====
+<CLEAR>This is <INSERT_A>.<WAIT><CLEAR>It is terribly old
+and no longer useful.
+
+===== MSG 01:DB (EA:6285, 83 bytes) =====
+<CLEAR>This is <INSERT_A>.<WAIT><CLEAR>It seems to be a stone
+statue shaped like the
+legendary king's crest.
+
+===== MSG 01:DC (EA:62D8, 34 bytes) =====
+<CLEAR>A large cloth is stretched here.
+
+===== MSG 01:DD (EA:62FA, 202 bytes) =====
+<SPEAKER>A visitor to this
+abandoned museum? How unusual.<WAIT><SPEAKER>Until recently, this
+place was packed with
+tourists. Now no one is left.<WAIT><SPEAKER>Once I finish cleaning,
+I'll leave and never come
+back. The dream is over...
+
+===== MSG 01:DE (EA:63C4, 129 bytes) =====
+<SPEAKER>Why did you come to
+a place like this, young lady?<WAIT><SPEAKER>If you want a
+souvenir, take anything you
+like. It's all just old junk now.
+
+===== MSG 01:DF (EA:6445, 56 bytes) =====
+<SPEAKER>Fo-fo-fo-fo! I
+am an alien from Gem!<WAIT><SPEAKER>Here, take this!
+
+===== MSG 01:E0 (EA:647D, 12 bytes) =====
+<SPEAKER>Delicious.
+
+===== MSG 01:E1 (EA:6489, 30 bytes) =====
+<SPEAKER>That one is... questionable.
+
+===== MSG 01:E2 (EA:64A7, 11 bytes) =====
+<SPEAKER>All gone.
+
+===== MSG 01:E3 (EA:64B2, 57 bytes) =====
+<CLEAR><Healthfall / Deathland Port
+> Rivertown / Baron Castle
+
+===== MSG 01:E4 (EA:64EB, 74 bytes) =====
+<SPEAKER>This is Rivertown.
+It is the closest thing
+Deathland has to a real town.
+
+===== MSG 01:E5 (EA:6535, 150 bytes) =====
+<SPEAKER>What a mess lately!
+So many people are dying,
+we are running out of graves!<WAIT><SPEAKER>Most are outsiders,
+though. Bounty hunters,
+scholars, people like that.
+
+===== MSG 01:E6 (EA:65CB, 46 bytes) =====
+<SPEAKER>Oh, honey... Why
+did you have to die? Sob...
+
+===== MSG 01:E7 (EA:65F9, 113 bytes) =====
+<SPEAKER>Sniff... Dad said<WAIT><SPEAKER>this island was full of
+treasure just waiting to be taken.
+But it is not like that at all...
+
+===== MSG 01:E8 (EA:666A, 82 bytes) =====
+<SPEAKER>Since this year began,
+visitors suddenly poured in.
+Maybe someone advertised it?
+
+===== MSG 01:E9 (EA:66BC, 71 bytes) =====
+<SPEAKER>Hic! Whoo! What
+happens on a trip stays on
+the trip! I am going wild!
+
+===== MSG 01:EA (EA:6703, 81 bytes) =====
+<SPEAKER>Well, look at that! A
+young lady traveling alone? Maybe
+you ran away from home!
+
+===== MSG 01:EB (EA:6754, 39 bytes) =====
+<SPEAKER>You headed north
+to Baron Castle too?
+
+===== MSG 01:EC (EA:677B, 155 bytes) =====
+<SPEAKER>You are serious?
+They also call it Trick Castle.
+It is packed with traps.<WAIT><SPEAKER>No one knows who
+built it or when. But traps are
+said to be everywhere inside.
+
+===== MSG 01:ED (EA:6816, 78 bytes) =====
+<SPEAKER>Do not go there. Visit
+like a tourist and you will
+end up in the next world.
+
+===== MSG 01:EE (EA:6864, 68 bytes) =====
+<SPEAKER>I hear rumors of
+treasure and enormous
+monsters. Rumors, mind you.
+
+===== MSG 01:EF (EA:68A8, 177 bytes) =====
+<SPEAKER>I may look rough,
+but I have more brains
+than most of these fools.<WAIT><SPEAKER>My read is that
+this island is hiding
+one enormous secret!<WAIT><SPEAKER>Treasure? Fossils? I
+cannot say what it is yet.
+
+===== MSG 01:F0 (EA:6959, 170 bytes) =====
+<SPEAKER>Adults are so greedy!<WAIT><SPEAKER>The moment Sajik found
+that fossil, everyone suddenly
+started hunting for treasure.<WAIT><SPEAKER>Where did Sajik
+go, anyway? I just
+hope he is still alive...
+
+===== MSG 01:F1 (EA:6A03, 26 bytes) =====
+<CLEAR>Lady examined the grave.
+
+===== MSG 01:F2 (EA:6A1D, 47 bytes) =====
+<CLEAR>A brand-new grave. This
+year is carved on it.
+
+===== MSG 01:F3 (EA:6A4C, 48 bytes) =====
+<CLEAR>Someone seems to have
+cleaned up in a hurry...
+
+===== MSG 01:F4 (EA:6A7C, 205 bytes) =====
+<SPEAKER>This town's in an uproar!<WAIT><SPEAKER>Prisoners escaped from
+the northern mine and fled here.<WAIT><SPEAKER>They told everyone
+about a legendary monster.<WAIT><SPEAKER>The whole town
+panicked and evacuated!<WAIT><SPEAKER>What's happening
+to this island?
+
+===== MSG 01:F5 (EA:6B49, 233 bytes) =====
+<SPEAKER>Damn that monster! It
+lured the strongest people in
+the world here with treasure.<WAIT><SPEAKER>Then it trapped them one
+after another like canned food.<WAIT><SPEAKER>For the monster, that
+solves two problems at once.<WAIT><SPEAKER>What a rotten,
+scheming piece of work!
+
+===== MSG 01:F6 (EA:6C32, 69 bytes) =====
+<SPEAKER>If those prisoners
+were telling the truth,
+this island is finished.
+
+===== MSG 01:F7 (EA:6C77, 102 bytes) =====
+<SPEAKER>We evacuated the
+women and children for now.<WAIT><SPEAKER>The men who
+remain have to defend
+this island somehow.
+
+===== MSG 01:F8 (EA:6CDD, 138 bytes) =====
+<SPEAKER>I have never wanted
+to quit being a soldier
+more than I do right now.<WAIT><SPEAKER>Fighting gigantic
+monsters in a remote
+dump like this? Why me...?
+
+===== MSG 01:F9 (EA:6D67, 79 bytes) =====
+<SPEAKER>Young lady! A cocktail?
+May I recommend our house
+drink, the Deathland Punch?
+
+===== MSG 01:FA (EA:6DB6, 133 bytes) =====
+<SPEAKER>Hey! Listen! Hic!
+Yesterday I went to Baron
+Castle! I really went! Hic!<WAIT><SPEAKER>And then... hic... well... I
+got scared and ran away! Hic!
+
+===== MSG 01:FB (EA:6E3B, 73 bytes) =====
+<SPEAKER>Ha ha ha! What a
+story! You ran all the way
+back? This guy is a coward!
+
+===== MSG 01:FC (EA:6E84, 154 bytes) =====
+<SPEAKER>Not long ago, only
+archaeologists and such
+ever came to this island.<WAIT><SPEAKER>But since the fossil
+was found, all kinds of strange
+people have been flooding in.
+
+===== MSG 01:FD (EA:6F1E, 64 bytes) =====
+<SPEAKER>Oh-ho-ho! More
+tourists means this shop
+has doubled its sales!
+
+===== MSG 01:FE (EA:6F5E, 289 bytes) =====
+<SPEAKER>They say someone
+called the Collector
+gathers Shining Marbles.<WAIT><SPEAKER>Give him a marble
+and he supposedly rewards
+you with something wonderful.<WAIT><SPEAKER>If a Shining Marble
+is taking up room, use
+it like an ordinary item.<WAIT><SPEAKER>It will fly away and
+the Collector will hold it. That
+is how strange they are.
+
+===== MSG 01:FF (EA:707F, 162 bytes) =====
+<SPEAKER>This island
+is isolated now.<WAIT><SPEAKER>A ship comes only
+monthly, and every strong
+fighter who could help is gone.<WAIT><SPEAKER>Looks like they were
+all sealed in cans. We're stuck.
+
+===== MSG 02:00 (EA:7121, 85 bytes) =====
+<SPEAKER>I was born and
+raised on this island.<WAIT><SPEAKER>No matter what
+happens, I am not leaving it.
+
+===== MSG 02:01 (EA:7176, 195 bytes) =====
+<SPEAKER>An escaped
+prisoner said he met the
+Collector in Deathvegas.<WAIT><SPEAKER>I searched and found
+one marble, but I would never
+survive the trip to where he is.<WAIT><SPEAKER>Want to buy this
+marble from me for 100 Endol?
+
+===== MSG 02:02 (EA:7239, 72 bytes) =====
+<SPEAKER>I stayed here hoping
+to meet the Collector. Now
+I can finally move on.
+
+===== MSG 02:03 (EA:7281, 16 bytes) =====
+<SPEAKER>Oh. All right.
+
+===== MSG 02:04 (EA:7291, 42 bytes) =====
+<SPEAKER>No money? Ah,
+forget it. Take it anyway!
+
+===== MSG 02:05 (EA:72BB, 51 bytes) =====
+<SPEAKER>Your bags are full. Make
+some room and come back.
+
+===== MSG 02:06 (EA:72EE, 85 bytes) =====
+<SPEAKER>I have no attachment
+to this island anymore... Wait.
+There is no ship to escape on!
+
+===== MSG 02:07 (EA:7343, 54 bytes) =====
+<SPEAKER>Name is Bob. I sell
+island information for 50 Endol.
+
+===== MSG 02:08 (EA:7379, 353 bytes) =====
+<SPEAKER>Listen closely, sister!<WAIT><SPEAKER>More than half the north
+is covered by sheer cliffs and
+dense forest. Nobody knows it.<WAIT><SPEAKER>Because nobody knows,
+rumors spread about ancient
+riches, gold, jewels, you name it.<WAIT><SPEAKER>That is why a broker
+like me can make a living here!
+But I am getting off track.<WAIT><SPEAKER>Bottom line: head
+north to learn whether those
+rumors are true or not.
+
+===== MSG 02:09 (EA:74DA, 481 bytes) =====
+<SPEAKER>But here is the trouble,
+beautiful: how do you get there?<WAIT><SPEAKER>Farther north from here
+stands a place called Baron
+Castle. That castle is the problem.<WAIT><SPEAKER>Old books say the
+castle should lead to the
+north side of the island. But...<WAIT><SPEAKER>inside are mountains
+of traps, horrible mechanisms,
+and monsters everywhere.<WAIT><SPEAKER>People leave for it every
+day. Most come back terrified...<WAIT><SPEAKER>or die on the way.
+Even the gravestone shop
+is booming because of it!<WAIT><SPEAKER>So, beautiful? Want
+me to tell it all again?
+
+===== MSG 02:0A (EA:76BB, 58 bytes) =====
+<SPEAKER>All right. Here, a little
+gift to mark our acquaintance!
+
+===== MSG 02:0B (EA:76F5, 88 bytes) =====
+<SPEAKER>I will put up your grave!
+Call it part of the info fee.
+Special deal for a beauty! Ha!
+
+===== MSG 02:0C (EA:774D, 35 bytes) =====
+<SPEAKER>If you have
+no business, get out.
+
+===== MSG 02:0D (EA:7770, 75 bytes) =====
+<SPEAKER>What the hell? You
+do not have enough money!
+Do not mess with me, sister!
+
+===== MSG 02:0E (EA:77BB, 79 bytes) =====
+<SPEAKER>Castle or not, I do
+not care! No risk, no reward!
+All right! I am doing this!
+
+===== MSG 02:0F (EA:780A, 198 bytes) =====
+<SPEAKER>You are
+our only hope now!<WAIT><SPEAKER>Every strong fighter
+is either in the graveyard or
+trapped in one of those cans!<WAIT><SPEAKER>If it helps take this
+island back from the monsters,
+Bob will risk his life for intel!
+
+===== MSG 02:10 (EA:78D0, 146 bytes) =====
+<SPEAKER>Come to think of it, old
+Hebri, who ran the prisoners,
+was apparently a monster himself.<WAIT><SPEAKER>Deathvegas is in chaos.
+You should go see it yourself.
+
+===== MSG 02:11 (EA:7962, 80 bytes) =====
+<SPEAKER>Use that Monster Extract
+and you might be able to
+enter the monsters' hideout!
+
+===== MSG 02:12 (EA:79B2, 69 bytes) =====
+<SPEAKER>I will keep risking
+my neck for information.
+You keep fighting too!
+
+===== MSG 02:13 (EA:79F7, 18 bytes) =====
+<SPEAKER>Here. Take this!
+
+===== MSG 02:14 (EA:7A09, 60 bytes) =====
+<SPEAKER>Then I will equip it for
+you myself. Heh... heh heh heh...
+
+===== MSG 02:15 (EA:7A45, 41 bytes) =====
+<SPEAKER>Oops. Then let
+us do that another time.
+
+===== MSG 02:16 (EA:7A6E, 107 bytes) =====
+<SPEAKER>Baron Castle is cursed...
+They say it is home to demons.<WAIT><SPEAKER>King Baron's ghost
+must still haunt that place.
+
+===== MSG 02:17 (EA:7AD9, 43 bytes) =====
+<SPEAKER>Have you met Bob,
+the information broker?
+
+===== MSG 02:18 (EA:7B04, 60 bytes) =====
+<SPEAKER>I see. Let us
+both do our best. I am
+not ready to die yet.
+
+===== MSG 02:19 (EA:7B40, 93 bytes) =====
+<SPEAKER>He sells all kinds of
+information to bounty hunters like
+us. Apparently it is useful stuff.
+
+===== MSG 02:1A (EA:7B9D, 187 bytes) =====
+<SPEAKER>Do you know
+the difference between
+whips and boots?<WAIT><SPEAKER>A whip lets you
+attack from farther away.<WAIT><SPEAKER>Boots hit harder, though.<WAIT><SPEAKER>You cannot equip
+both a whip and boots
+at once. Remember that.
+
+===== MSG 02:1B (EA:7C58, 46 bytes) =====
+<SPEAKER>Baron Castle is
+just a little north of town.
+
+===== MSG 02:1C (EA:7C86, 81 bytes) =====
+<SPEAKER>Sigh... Oh, sorry.<WAIT><SPEAKER>Leave extra belongings or
+spare money with Meg's Storage...
+
+===== MSG 02:1D (EA:7CD7, 80 bytes) =====
+<SPEAKER>Working the shop helps.
+I keep thinking my husband
+might come home any moment.
+
+===== MSG 02:1E (EA:7D27, 128 bytes) =====
+<SPEAKER>My husband is alive.
+Until Sajik comes home,
+I have to stay strong!<WAIT><SPEAKER>Leave extra belongings or
+spare money with Meg's Storage!
+
+===== MSG 02:1F (EA:7DA7, 103 bytes) =====
+<SPEAKER>Meg is the wife
+of the archaeologist Sajik.<WAIT><SPEAKER>Poor woman
+has been dazed since
+her husband disappeared.
+
+===== MSG 02:20 (EA:7E0E, 64 bytes) =====
+<SPEAKER>Sajik is impossible!
+Making his wife worry
+this much over him!
+
+===== MSG 02:21 (EA:7E4E, 69 bytes) =====
+<SPEAKER>Meg and Sajik are
+on the first floor. Meg is
+doing much better now.
+
+===== MSG 02:22 (EA:7E93, 214 bytes) =====
+<SPEAKER>Lady! I am Bob's son.<WAIT><SPEAKER>I can store belongings
+you no longer need right here.<WAIT><SPEAKER>There is also
+an old armor warehouse
+on the floor below.<WAIT><SPEAKER>Grandpa is sorting
+it now. If he finds anything
+good, he will sell it cheap!
+
+===== MSG 02:23 (EA:7F69, 59 bytes) =====
+<SPEAKER>Leave extra belongings or
+spare money with Meg's Storage!
+
+===== MSG 02:24 (EA:7FA4, 166 bytes) =====
+<SPEAKER>The tower must hide a
+way to cross to Baron Rock.<WAIT><SPEAKER>We must stop
+that ancient machine
+from ever being revived...<WAIT><SPEAKER>Oh, Lady! Take this
+map. It should be of some help.
+
+===== MSG 02:25 (EA:804A, 43 bytes) =====
+<SPEAKER>Take this map. It
+should be of some help.
+
+===== MSG 02:26 (EA:8075, 41 bytes) =====
+<SPEAKER>Lady! Please,
+save this island somehow!
+
+===== MSG 02:27 (EA:809E, 67 bytes) =====
+<SPEAKER>Oh! Your bags
+are full. I will give it to
+you when you have room.
+
+===== MSG 02:28 (EA:80E1, 53 bytes) =====
+<SPEAKER>The tower must hide
+the secret route to Baron Rock!
+
+===== MSG 02:29 (EA:8116, 185 bytes) =====
+<SPEAKER>You crossed to Baron
+Rock? That is incredible!<WAIT><SPEAKER>Oh, I want to go
+too! My archaeologist blood is
+boiling! But if I went there...<WAIT><SPEAKER>I doubt being frozen
+solid would be the worst of it...
+
+===== MSG 02:2A (EA:81CF, 208 bytes) =====
+<SPEAKER>Old documents say
+King Baron built countless
+devices and mechanisms.<WAIT><SPEAKER>Be careful, Lady.
+My guess is Baron Rock
+is packed with mechanisms.<WAIT><SPEAKER>He probably built
+a maze full of them just
+before his own dwelling!
+
+===== MSG 02:2B (EA:829F, 124 bytes) =====
+<SPEAKER>That monster called J.B.
+will struggle with those traps too.<WAIT><SPEAKER>If you can use
+that chance to destroy
+the ancient machine...
+
+===== MSG 02:2C (EA:831B, 60 bytes) =====
+<SPEAKER>What?! The
+ancient machine has been
+revived? Oh no! Ugh...
+
+===== MSG 02:2D (EA:8357, 16 bytes) =====
+<CLEAR>Sajik fainted!
+
+===== MSG 02:2E (EA:8367, 23 bytes) =====
+<CLEAR>Sajik is unconscious.
+
+===== MSG 02:2F (EA:837E, 41 bytes) =====
+<SPEAKER>Please listen to
+what Sajik has to say!
+
+===== MSG 02:30 (EA:83A7, 60 bytes) =====
+<SPEAKER>That statue
+you are carrying looks
+connected to the tower.
+
+===== MSG 02:31 (EA:83E3, 100 bytes) =====
+<SPEAKER>So that statue was
+the key to entering the tower.<WAIT><SPEAKER>Those ancient people
+were very cautious indeed.
+
+===== MSG 02:32 (EA:8447, 270 bytes) =====
+<SPEAKER>You crossed to Baron
+Rock? Now that is a shock!<WAIT><SPEAKER>You crossed, but cannot
+continue because it is all
+sheer cliffs and rock faces?<WAIT><SPEAKER>It is called Baron Rock. I
+guess the cliffs must be brutal...<WAIT><SPEAKER>Wait! I remember a
+prisoner mentioning boots that
+could climb rocky ground.
+
+===== MSG 02:33 (EA:8555, 51 bytes) =====
+<SPEAKER>Dodohei in Deathvegas!
+I am sure Dodohei said it!
+
+===== MSG 02:34 (EA:8588, 159 bytes) =====
+<SPEAKER>No matter what
+trap or mechanism
+appears, keep your head!<WAIT><SPEAKER>I am sure Lord
+Ganubis will protect you!<WAIT><SPEAKER>What? You do not know
+Ganubis? Now that is unbelievable!
+
+===== MSG 02:35 (EA:8627, 140 bytes) =====
+<SPEAKER>Ganubis is said to rule
+over traps and mechanisms.<WAIT><SPEAKER>He has the face of a
+wolf and the body of a man.<WAIT><SPEAKER>King Baron surely
+worshiped him too!
+
+===== MSG 02:36 (EA:86B3, 57 bytes) =====
+<SPEAKER>Lady! Even Bob does not
+know anything about Baron Rock!
+
+===== MSG 02:37 (EA:86EC, 76 bytes) =====
+<SPEAKER>My husband told me
+everything. Thank you so very
+much. You saved his life.
+
+===== MSG 02:38 (EA:8738, 70 bytes) =====
+<SPEAKER>I am sorry. Once
+my husband starts brooding,
+he hears no one at all.
+
+===== MSG 02:39 (EA:877E, 154 bytes) =====
+<SPEAKER>I will never let
+Sajik out of my sight again!<WAIT><SPEAKER>I would love to say
+he will never leave Rivertown...<WAIT><SPEAKER>but I know this man.
+That is never going to happen.
+
+===== MSG 02:3A (EA:8818, 47 bytes) =====
+<SPEAKER>What? J.B. tricked
+him? What a vile creature!
+
+===== MSG 02:3B (EA:8847, 70 bytes) =====
+<SPEAKER>I am sorry. When
+my husband passes out, he
+takes forever to wake up.
+
+===== MSG 02:3C (EA:888D, 142 bytes) =====
+<SPEAKER>Whew! Sorting this
+place is harder than it looks!<WAIT><SPEAKER>I will keep at it
+until my back gives out,
+so you save this island!<WAIT><SPEAKER>Need anything today?
+
+===== MSG 02:3D (EA:891B, 100 bytes) =====
+<SPEAKER>That castle is insane!<WAIT><SPEAKER>I have traveled the
+whole world, but I have never
+seen a place that awful!
+
+===== MSG 02:3E (EA:897F, 124 bytes) =====
+<SPEAKER>I bought an
+admission ticket, but now
+I am too scared to enter.<WAIT><SPEAKER>Maybe I will just take a
+souvenir photo here and go home.
+
+===== MSG 02:3F (EA:89FB, 85 bytes) =====
+<SPEAKER>Did Sajik go through
+this castle to reach the north
+side too? That man has courage.
+
+===== MSG 02:40 (EA:8A50, 92 bytes) =====
+<SPEAKER>This is the Baron
+Castle gate. Admission
+is 50 Endol per person.<WAIT><SPEAKER>Would you like to enter?
+
+===== MSG 02:41 (EA:8AAC, 89 bytes) =====
+<SPEAKER>Here is your admission
+ticket! Buy it once and you can
+enter as many times as you like!
+
+===== MSG 02:42 (EA:8B05, 91 bytes) =====
+<SPEAKER>Once you are inside,
+try talking to the old man.<WAIT><SPEAKER>He might give
+you a tour of the castle!
+
+===== MSG 02:43 (EA:8B60, 76 bytes) =====
+<SPEAKER>Oh dear, young lady!
+Your bags are too full for
+me to hand you the ticket!
+
+===== MSG 02:44 (EA:8BAC, 47 bytes) =====
+<SPEAKER>No tricks, now! You
+do not have enough money.
+
+===== MSG 02:45 (EA:8BDB, 16 bytes) =====
+<SPEAKER>Oh. Very well.
+
+===== MSG 02:46 (EA:8BEB, 131 bytes) =====
+<SPEAKER>One account says
+there is a waterway far
+beneath Baron Castle.<WAIT><SPEAKER>It supposedly flows
+north all the way to
+the mine in Deathvalley.
+
+===== MSG 02:47 (EA:8C6E, 73 bytes) =====
+<SPEAKER>Mom will yell at me.
+I will buy something and
+pretend I found treasure.
+
+===== MSG 02:48 (EA:8CB7, 178 bytes) =====
+<SPEAKER>Sh-sh-shiver... I
+made it partway into the
+castle, and I-I-I saw it!<WAIT><SPEAKER>A legendary giant monster!
+I really saw it! It was alive!<WAIT><SPEAKER>Please believe me!
+It was terrifying! Shiver...
+
+===== MSG 02:49 (EA:8D69, 156 bytes) =====
+<SPEAKER>Some coward claims
+he saw a legendary giant
+monster inside the castle. Hah!<WAIT><SPEAKER>Now I am even more
+excited. I will catch the thing
+and sell it for a fortune!
+
+===== MSG 02:4A (EA:8E05, 70 bytes) =====
+<SPEAKER>Sure, sure! It is
+free during our promotion.<WAIT><SPEAKER>Want a souvenir photo?
+
+===== MSG 02:4B (EA:8E4B, 64 bytes) =====
+<SPEAKER>All right. Face
+forward and give me
+your best adventurer look!
+
+===== MSG 02:4C (EA:8E8B, 33 bytes) =====
+<SPEAKER>No? I think
+you should get one.
+
+===== MSG 02:4D (EA:8EAC, 98 bytes) =====
+<SPEAKER>We will mail the
+finished photo to your home.<WAIT><SPEAKER>Developing it takes
+an awfully long time, though!
+
+===== MSG 02:4E (EA:8F0E, 25 bytes) =====
+<SPEAKER>Here we go! Say cheese!
+
+===== MSG 02:4F (EA:8F27, 39 bytes) =====
+<SPEAKER>Buy some
+medicine! Medicine for sale!
+
+===== MSG 02:50 (EA:8F4E, 63 bytes) =====
+<SPEAKER>Hey, sister! What
+took you so long? Heh.
+I am going on ahead!
+
+===== MSG 02:51 (EA:8F8D, 36 bytes) =====
+<CLEAR>A heavy iron door is tightly shut.
+
+===== MSG 02:52 (EA:8FB1, 39 bytes) =====
+<CLEAR>HOT SPRING Please
+feel free to enter.
+
+===== MSG 02:53 (EA:8FD8, 95 bytes) =====
+<SPEAKER>Hey! Do not
+touch me there!<WAIT><SPEAKER>We are both
+women, but seriously,
+stop that! Ah<PAUSE_30>... ah<PAUSE_30>... aaah!
+
+===== MSG 02:54 (EA:9037, 51 bytes) =====
+<CLEAR>Her eyes look dreamy. She
+seems very comfortable.
+
+===== MSG 02:55 (EA:906A, 63 bytes) =====
+<SPEAKER>Hee hee hee!
+Well, well, young lady!
+Welcome to Baron Castle.
+
+===== MSG 02:56 (EA:90A9, 58 bytes) =====
+<SPEAKER>Now then, young lady, I
+will take your admission ticket!
+
+===== MSG 02:57 (EA:90E3, 94 bytes) =====
+<SPEAKER>Today you get a special
+service! I will show you around
+the castle. Climb into that vehicle!
+
+===== MSG 02:58 (EA:9141, 26 bytes) =====
+<SPEAKER>Climb into that vehicle!
+
+===== MSG 02:59 (EA:915B, 55 bytes) =====
+<SPEAKER>Hee hee hee! I shall now
+open the door to hell! Hyaa!
+
+===== MSG 02:5A (EA:9192, 63 bytes) =====
+<SPEAKER>Keh-heh-heh! Go
+on, or turn back. It
+is entirely your choice.
+
+===== MSG 02:5B (EA:91D1, 49 bytes) =====
+<SPEAKER>Snip, snip. Clip,
+clip. Snip, snip. Clip, clip.
+
+===== MSG 02:5C (EA:9202, 44 bytes) =====
+<SPEAKER>Bleh-bleh! Boo!
+Heh-heh! Abababa! Ukekeke!
+
+===== MSG 02:5D (EA:922E, 42 bytes) =====
+<SPEAKER>This is as far as
+you go... Hee hee hee!
+
+===== MSG 02:5E (EA:9258, 135 bytes) =====
+<SPEAKER>The road ahead
+splits in two. Take
+whichever path you like.<WAIT><SPEAKER>Both lead to the
+same place: the last dreadful
+secret of Baron Castle...
+
+===== MSG 02:5F (EA:92DF, 80 bytes) =====
+<CLEAR>A Baby Baron statue. There
+are holes in its eyes for
+something to be inserted.
+
+===== MSG 02:60 (EA:932F, 124 bytes) =====
+<CLEAR>There are lots of picture
+books that look like
+monsters would read.<WAIT><CLEAR>Only volume 4 of "Little
+Baron" seems to be missing.<LINE>
+
+===== MSG 02:61 (EA:93AB, 144 bytes) =====
+<SPEAKER>Umm...<WAIT><SPEAKER>"Once upon a
+time, there was a baby...
+<PAUSE_30> ...What was it again?<WAIT><SPEAKER>I memorized the
+story about little Bebikichi,
+but I already forgot it.
+
+===== MSG 02:62 (EA:943B, 54 bytes) =====
+<SPEAKER>Thanks for reading
+the story about little Bebikichi.
+
+===== MSG 02:63 (EA:9471, 105 bytes) =====
+<CLEAR>There is a torn page
+from a picture book.<WAIT><CLEAR>"Once upon a time,
+in a certain place..."<WAIT><CLEAR>is written on it.
+
+===== MSG 02:64 (EA:94DA, 107 bytes) =====
+<CLEAR>There is a torn page
+from a picture book.<WAIT><CLEAR>"There was a Baby
+Baron named Bebikichi..."<WAIT><CLEAR>is written on it.
+
+===== MSG 02:65 (EA:9545, 91 bytes) =====
+<CLEAR>There is a torn page
+from a picture book.<WAIT><CLEAR>"There was a Baby Baron..."<WAIT><CLEAR>is written on it.
+
+===== MSG 02:66 (EA:95A0, 97 bytes) =====
+<CLEAR>There is a torn page
+from a picture book.<WAIT><CLEAR>"Bebikichi was very hasty, so..."<WAIT><CLEAR>is written on it.
+
+===== MSG 02:67 (EA:9601, 82 bytes) =====
+<CLEAR>There is a torn page
+from a picture book.<WAIT><CLEAR>"Inside a cave..."<WAIT><CLEAR>is written on it.
+
+===== MSG 02:68 (EA:9653, 96 bytes) =====
+<CLEAR>There is a torn page
+from a picture book.<WAIT><CLEAR>"He mistook people for rocks..."<WAIT><CLEAR>is written on it.
+
+===== MSG 02:69 (EA:96B3, 91 bytes) =====
+<CLEAR>There is a torn page
+from a picture book.<WAIT><CLEAR>"And was often badly hurt."<WAIT><CLEAR>is written on it.
+
+===== MSG 02:6A (EA:970E, 101 bytes) =====
+<CLEAR>There is a torn page
+from a picture book.<WAIT><CLEAR>"So everyone, please
+be careful too."<WAIT><CLEAR>is written on it.
+
+===== MSG 02:6B (EA:9773, 98 bytes) =====
+<CLEAR>Rows of difficult,
+incomprehensible books... Hm?<WAIT><CLEAR>There is a switch behind
+the books. Press it?<LINE>
+
+===== MSG 02:6C (EA:97D5, 66 bytes) =====
+<CLEAR>There is a switch
+behind the books. It has
+already been pressed.
+
+===== MSG 02:6D (EA:9817, 56 bytes) =====
+<SPEAKER>I hate fireballs. My legs
+freeze up and I cannot move!
+
+===== MSG 02:6E (EA:984F, 63 bytes) =====
+<SPEAKER>I braced myself
+for so long my legs went
+numb. I cannot move!
+
+===== MSG 02:6F (EA:988E, 42 bytes) =====
+<CLEAR>There is a button on
+the wall. Press it?
+
+===== MSG 02:70 (EA:98B8, 21 bytes) =====
+<CLEAR>The flames stopped!
+
+===== MSG 02:71 (EA:98CD, 61 bytes) =====
+<CLEAR>There is a button on the wall.
+It has already been pressed.
+
+===== MSG 02:72 (EA:990A, 33 bytes) =====
+<CLEAR>"OUT OF ORDER" is written here.
+
+===== MSG 02:73 (EA:992B, 37 bytes) =====
+<CLEAR>You heard something
+in the hallway.
+
+===== MSG 02:74 (EA:9950, 100 bytes) =====
+<CLEAR>"Move the levers in order. Look
+closely, listen carefully, and use
+your head." ...is written here.
+
+===== MSG 02:75 (EA:99B4, 36 bytes) =====
+<CLEAR>Cox's soul lets
+out a mighty roar!
+
+===== MSG 02:76 (EA:99D8, 37 bytes) =====
+<SPEAKER>Um... Lady? May
+I offer my opinion?
+
+===== MSG 02:77 (EA:99FD, 26 bytes) =====
+<CLEAR>Listen to Cox's opinion?
+
+===== MSG 02:78 (EA:9A17, 130 bytes) =====
+<SPEAKER>There are, let me
+see... 720 different orders
+for moving six levers!<WAIT><SPEAKER>There may be
+a better way than
+trying every combination...
+
+===== MSG 02:79 (EA:9A99, 29 bytes) =====
+<CLEAR>Hear more of Cox's opinion?
+
+===== MSG 02:7A (EA:9AB6, 73 bytes) =====
+<SPEAKER>Let us examine the
+levers. I am sure there is
+some kind of clue here...
+
+===== MSG 02:7B (EA:9AFF, 58 bytes) =====
+<SPEAKER>Did you hear
+something go clunk in
+the hallway just now?
+
+===== MSG 02:7C (EA:9B39, 66 bytes) =====
+<SPEAKER>Heh heh heh,
+hey, babe! Torture feels
+great! Bzzzt! Ah-ha-ha-ha!
+
+===== MSG 02:7D (EA:9B7B, 74 bytes) =====
+<SPEAKER>Here is some advice!
+Stamina is everything! Keep
+your health topped off!
+
+===== MSG 02:7E (EA:9BC5, 21 bytes) =====
+<SPEAKER>Want some medicine?
+
+===== MSG 02:7F (EA:9BDA, 20 bytes) =====
+<SPEAKER>Here! Be grateful!
+
+===== MSG 02:80 (EA:9BEE, 53 bytes) =====
+<SPEAKER>Hey, you already have
+plenty! Greedy, are we, lady?
+
+===== MSG 02:81 (EA:9C23, 41 bytes) =====
+<SPEAKER>Enjoy acting tough
+while you can, lady!
+
+===== MSG 02:82 (EA:9C4C, 9 bytes) =====
+<SPEAKER>.......
+
+===== MSG 02:83 (EA:9C55, 84 bytes) =====
+<SPEAKER>Keh-heh! I am just a
+spectator. Watching humans suffer
+is so much fun I could die!
+
+===== MSG 02:84 (EA:9CA9, 28 bytes) =====
+<SPEAKER>Keh! You
+are not dead yet?
+
+===== MSG 02:85 (EA:9CC5, 35 bytes) =====
+<SPEAKER>Keh-heh-heh!
+Come on, walk! Walk!
+
+===== MSG 02:86 (EA:9CE8, 50 bytes) =====
+<SPEAKER>Keh! Still alive, huh?
+Hmph! Fine, that will do.
+
+===== MSG 02:87 (EA:9D1A, 69 bytes) =====
+<SPEAKER>I kept dropping
+bricks, and now my arms
+are huge! Muscles! Muscles!
+
+===== MSG 02:88 (EA:9D5F, 79 bytes) =====
+<CLEAR>The barrel is filled to the
+brim with purple-colored water.<WAIT><CLEAR>Drink the water?
+
+===== MSG 02:89 (EA:9DAE, 49 bytes) =====
+<CLEAR>Lady drinks the purple water.<WAIT><CLEAR>Drink some more?
+
+===== MSG 02:8A (EA:9DDF, 88 bytes) =====
+<CLEAR>Lady drinks the purple water.<WAIT><CLEAR>The barrel is empty now.
+It looks light enough to lift!
+
+===== MSG 02:8B (EA:9E37, 52 bytes) =====
+<CLEAR>Your feet feel unsteady.
+You cannot walk straight.
+
+===== MSG 02:8C (EA:9E6B, 45 bytes) =====
+<SPEAKER>Need any medicine?
+Tasty medicine for sale!
+
+===== MSG 02:8D (EA:9E98, 30 bytes) =====
+<SPEAKER><INSERT_A> costs
+<NUMBER>Y. Will you buy it?
+
+===== MSG 02:8E (EA:9EB6, 20 bytes) =====
+<SPEAKER>Who will carry it?
+
+===== MSG 02:8F (EA:9ECA, 40 bytes) =====
+<SPEAKER>There you are, <INSERT_C>.<WAIT><SPEAKER>Need anything else?
+
+===== MSG 02:90 (EA:9EF2, 51 bytes) =====
+<SPEAKER>I will put it
+in <INSERT_C>'s coffin.<WAIT><SPEAKER>Need anything else?
+
+===== MSG 02:91 (EA:9F25, 30 bytes) =====
+<SPEAKER>Oh, <INSERT_C>
+cannot carry any more.
+
+===== MSG 02:92 (EA:9F43, 26 bytes) =====
+<SPEAKER>Give it to someone else?
+
+===== MSG 02:93 (EA:9F5D, 16 bytes) =====
+<SPEAKER>Stop shopping?
+
+===== MSG 02:94 (EA:9F6D, 35 bytes) =====
+<SPEAKER>Oh, you do not
+have enough money.
+
+===== MSG 02:95 (EA:9F90, 125 bytes) =====
+<SPEAKER>B-be careful... snort...
+The legendary... snort... huge...
+m-monster... snort, snort...<WAIT><SPEAKER>Aah! How
+terrifying! Snort, snort!
+
+===== MSG 02:96 (EA:A00D, 71 bytes) =====
+<SPEAKER>Go home. There's
+no treasure in this castle.
+Worse... the monsters...
+
+===== MSG 02:97 (EA:A054, 62 bytes) =====
+<SPEAKER>Young lady, leave
+quickly. That monster
+may come back again.
+
+===== MSG 02:98 (EA:A092, 55 bytes) =====
+<CLEAR>It says nothing. Its brain
+seems to have rotted away.
+
+===== MSG 02:99 (EA:A0C9, 31 bytes) =====
+<CLEAR>"SHORTCUT BEWARE
+OF MONSTERS"
+
+===== MSG 02:9A (EA:A0E8, 17 bytes) =====
+<CLEAR>"DETOUR DANGER"
+
+===== MSG 02:9B (EA:A0F9, 115 bytes) =====
+<SPEAKER>Keh-heh-heh! Nobody
+has used this path lately.
+I was getting bored.<WAIT><SPEAKER>If you want to
+pass, try defeating me first!
+
+===== MSG 02:9C (EA:A16C, 80 bytes) =====
+<SPEAKER>Oh? You beat
+Bebisuke? You are strong.<WAIT><SPEAKER>But I will not
+lose! Keh-heh! Come on!
+
+===== MSG 02:9D (EA:A1BC, 96 bytes) =====
+<SPEAKER>K-keh-heh... You may pass.
+I-I could still fight, of course,
+but I will let you off this time!
+
+===== MSG 02:9E (EA:A21C, 110 bytes) =====
+<CLEAR>VEHICLE DEPOT AUTHORIZED
+PERSONNEL ONLY<WAIT><CLEAR>Vehicle tracks are
+currently unfinished due
+to expansion work. J.B.
+
+===== MSG 02:9F (EA:A28A, 48 bytes) =====
+<SPEAKER>Ugh... p-please...
+S-spare me some medicine...
+
+===== MSG 02:A0 (EA:A2BA, 43 bytes) =====
+<SPEAKER>Th-thank you... Thank you!<WAIT><SPEAKER>Gulp, gulp...
+
+===== MSG 02:A1 (EA:A2E5, 24 bytes) =====
+<CLEAR>Barbo recovered 24 LP.
+
+===== MSG 02:A2 (EA:A2FD, 111 bytes) =====
+<SPEAKER>Ugh... I feel a
+little better now. Whew...<WAIT><SPEAKER>All right, lady!
+Time to make up for lost
+time! Hyaa! Guts! Guts!
+
+===== MSG 02:A3 (EA:A36C, 82 bytes) =====
+<SPEAKER>Ugh... That is cold,
+lady... Cough! Cough! Ugh...<WAIT><SPEAKER>Damn it! I
+am not dying here!
+
+===== MSG 02:A4 (EA:A3BE, 133 bytes) =====
+<SPEAKER>What?! None at all?
+Talk about poor planning...
+Though I guess I cannot talk...<WAIT><SPEAKER>Cough! Cough! Ugh...
+Damn it! I am not dying here!
+
+===== MSG 02:A5 (EA:A443, 319 bytes) =====
+<SPEAKER>Oh! Ohhh! What is
+this?! Y-you are human! You
+escaped from the castle?<WAIT><SPEAKER>We are islanders, but
+the monsters captured us and
+force us to maintain this castle.<WAIT><SPEAKER>If anyone tries to escape,
+the monsters eat them... We
+have already lost many friends.<WAIT><SPEAKER>You probably saw
+it inside the castle too...<WAIT><SPEAKER>That
+enormous Baby Baron!
+
+===== MSG 02:A6 (EA:A582, 65 bytes) =====
+<SPEAKER>That thing must
+be the legendary monster
+resurrected from hell!
+
+===== MSG 02:A7 (EA:A5C3, 152 bytes) =====
+<SPEAKER>I am glad you are safe,
+young lady! You look strong, but
+do not push yourself too hard.<WAIT><SPEAKER>If you are hurt,
+you may stay at our
+house whenever you like!
+
+===== MSG 02:A8 (EA:A65B, 123 bytes) =====
+<SPEAKER>Snort, snort... We
+cannot offer you much.<WAIT><SPEAKER>But we can at least
+give you a place to sleep. Snort.<WAIT><SPEAKER>Would you like to stay?
+
+===== MSG 02:A9 (EA:A6D6, 49 bytes) =====
+<SPEAKER>Travel carefully, and
+do not get yourself hurt.
+
+===== MSG 02:AA (EA:A707, 261 bytes) =====
+<SPEAKER>The monsters remodeled
+Baron Castle to deceive humans.<WAIT><SPEAKER>They were also the
+ones who spread rumors of
+treasure around the world.<WAIT><SPEAKER>All of these
+schemes came from that
+monster, the Baby Baron.<WAIT><SPEAKER>They lure strong
+humans to the island, trap
+them here, and eat them.
+
+===== MSG 02:AB (EA:A80C, 71 bytes) =====
+<SPEAKER>Our son was blinded
+by the treasure too, and
+ended up trapped here...
+
+===== MSG 02:AC (EA:A853, 127 bytes) =====
+<SPEAKER>I know this is much to
+ask, but please avenge our son.<WAIT><SPEAKER>Will you defeat
+that enormous monster?
+U... <PAUSE_30> u... <PAUSE_30>uuugh...<PAUSE_30> My son!
+
+===== MSG 02:AD (EA:A8D2, 356 bytes) =====
+<SPEAKER>The Baby Barons made
+us sell goods at high prices
+for their spending money.<WAIT><SPEAKER>I overheard them.
+They're digging for something
+in the northern mine.<WAIT><SPEAKER>That monster
+Baby Baron is desperate
+to find something ancient.<WAIT><SPEAKER>What? How
+do you go north?<WAIT><SPEAKER>Only through the
+underground waterway... but
+that's far too dangerous.<WAIT><SPEAKER>Still, maybe you
+can do it. ...All right!
+
+===== MSG 02:AE (EA:AA36, 12 bytes) =====
+<SPEAKER>Take this!
+
+===== MSG 02:AF (EA:AA42, 56 bytes) =====
+<SPEAKER>The underground waterway
+is full of danger! Good luck!
+
+===== MSG 02:B0 (EA:AA7A, 66 bytes) =====
+<SPEAKER>Make some room
+in your baggage and come
+back. I will be waiting!
+
+===== MSG 02:B1 (EA:AABC, 89 bytes) =====
+<SPEAKER>Thanks to you, we have
+been freed from forced labor.<WAIT><SPEAKER>Now we can
+finally live in peace.
+
+===== MSG 02:B2 (EA:AB15, 104 bytes) =====
+<SPEAKER>Whoa! You startled me!
+You are human? What? You want
+to go through the waterway?<WAIT><SPEAKER>Whoa! That is crazy!
+
+===== MSG 02:B3 (EA:AB7D, 130 bytes) =====
+<SPEAKER>This waterway has
+all kinds of mechanisms
+that clean dirty water.<WAIT><SPEAKER>So I doubt a
+flesh-and-blood human
+could ever get through it.
+
+===== MSG 02:B4 (EA:ABFF, 30 bytes) =====
+<CLEAR>Clear water has pooled here.
+
+===== MSG 02:B5 (EA:AC1D, 45 bytes) =====
+<CLEAR>There is a control
+panel. Press the switch?
+
+===== MSG 02:B6 (EA:AC4A, 52 bytes) =====
+<CLEAR>"WATER PIPE CONNECTION
+CONFIRMED. PUMPING WATER."<LINE>
+
+===== MSG 02:B7 (EA:AC7E, 62 bytes) =====
+<CLEAR>"WATER CANNOT BE
+PUMPED. PIPES ARE NOT
+CONNECTED CORRECTLY."
+
+===== MSG 02:B8 (EA:ACBC, 47 bytes) =====
+<CLEAR>The control-panel switch
+will no longer move.
+
+===== MSG 02:B9 (EA:ACEB, 189 bytes) =====
+<SPEAKER>Heh heh! Strong,
+aren't I? Underwater, even
+heavy things are easy to lift.<WAIT><SPEAKER>But there's no air here,
+so your health keeps falling.<WAIT><SPEAKER>Air leaks from
+some walls. Breathe
+it when you find it.
+
+===== MSG 02:BA (EA:ADA8, 69 bytes) =====
+<SPEAKER>Paradise! This
+place is paradise! Now this
+is what I call paradise.
+
+===== MSG 02:BB (EA:ADED, 96 bytes) =====
+<SPEAKER>We are
+hardened criminals!<WAIT><SPEAKER>But unlike prison,
+they treat us well here.
+I could stay for life!
+
+===== MSG 02:BC (EA:AE4D, 181 bytes) =====
+<SPEAKER>They brought us here
+from a prison far, far away.<WAIT><SPEAKER>Those Baby Barons
+suddenly kidnapped us. Man...<WAIT><SPEAKER>Even a crook like me
+got so scared I saw my mother's
+face flash before my eyes.
+
+===== MSG 02:BD (EA:AF02, 79 bytes) =====
+<SPEAKER>You new here?<WAIT><SPEAKER>Newcomers have
+to greet old Hebri, the
+man who runs this town.
+
+===== MSG 02:BE (EA:AF51, 233 bytes) =====
+<SPEAKER>Hey! New here? Hic! For
+a criminal, this place is heaven!<WAIT><SPEAKER>Plenty of booze, and
+all the gambling you could
+want. If anything is missing...<WAIT><SPEAKER>It is bunny girls! Hic!<WAIT><SPEAKER>How about it, babe?
+Want to be our bunny
+girl? You would be a hit!
+
+===== MSG 02:BF (EA:B03A, 201 bytes) =====
+<SPEAKER>Listen up, rookie!<WAIT><SPEAKER>I don't know what you
+did, but if you're here, you
+were in some prison somewhere.<WAIT><SPEAKER>Lord J.B. rescued
+you. Never forget that.<WAIT><SPEAKER>We owe
+everything to Lord J.B.!<WAIT><SPEAKER>Long live Lord J.B.!
+
+===== MSG 02:C0 (EA:B103, 136 bytes) =====
+<SPEAKER>Ahh, my
+back is killing me.<WAIT><SPEAKER>We excavate nonstop from
+morning until night, after all.<WAIT><SPEAKER>What is Lord J.B. so
+desperate to find, anyway?
+
+===== MSG 02:C1 (EA:B18B, 39 bytes) =====
+<SPEAKER>GROAAR! GYAAH!
+I am going to eat you!
+
+===== MSG 02:C2 (EA:B1B2, 110 bytes) =====
+<SPEAKER>Heh heh!
+Scared you, huh?<WAIT><SPEAKER>We found Monster
+Extract in Hebri's house. It can
+alter the tissues of your body.
+
+===== MSG 02:C3 (EA:B220, 62 bytes) =====
+<SPEAKER>There should
+still be some inside the
+safe in Hebri's house.
+
+===== MSG 02:C4 (EA:B25E, 25 bytes) =====
+<SPEAKER>Oh, you already got it.
+
+===== MSG 02:C5 (EA:B277, 75 bytes) =====
+<SPEAKER>Use that stuff
+and you might be able to
+infiltrate the monsters' hideout!
+
+===== MSG 02:C6 (EA:B2C2, 142 bytes) =====
+<SPEAKER>Wah! I am sorry!
+I wanted Lil all to myself!<WAIT><SPEAKER>I will never do
+it again, so forgive me!<WAIT><SPEAKER>Anyway... Do you happen
+to have any Shining Marbles?
+
+===== MSG 02:C7 (EA:B350, 210 bytes) =====
+<SPEAKER>What? A newcomer? Lord
+J.B. never told me anything.<WAIT><SPEAKER>...I will confirm it
+later. For now, listen carefully!<WAIT><SPEAKER>Your job
+here is excavation!<WAIT><SPEAKER>Newcomers go to
+Deathvalley Mine first and
+work like demons! Got it?!
+
+===== MSG 02:C8 (EA:B422, 63 bytes) =====
+<SPEAKER>All right. Here
+is a cable-car ticket
+up to Deathvalley Mine!
+
+===== MSG 02:C9 (EA:B461, 32 bytes) =====
+<SPEAKER>If you
+understand, get moving!
+
+===== MSG 02:CA (EA:B481, 66 bytes) =====
+<SPEAKER>If you want the
+ticket, make room in your
+baggage and come back!
+
+===== MSG 02:CB (EA:B4C3, 132 bytes) =====
+<SPEAKER>This place is not like
+prison. The harder you work, the
+more you get to enjoy yourself.<WAIT><SPEAKER>Never forget to
+be grateful to Lord J.B.!
+
+===== MSG 02:CC (EA:B547, 25 bytes) =====
+<CLEAR>Lady examines the safe.
+
+===== MSG 02:CD (EA:B560, 43 bytes) =====
+<CLEAR>There is a safe here.
+It will not open...
+
+===== MSG 02:CE (EA:B58B, 136 bytes) =====
+<SPEAKER>I heard everything.
+If you'll fight J.B.,
+I'll supply weapons.<WAIT><SPEAKER>This mine has plenty.
+Whenever we dig one up,
+I'll put it in the shop.
+
+===== MSG 02:CF (EA:B613, 109 bytes) =====
+<SPEAKER>Whoa! The legendary
+Red High Heels! A kick from
+them brings amazing luck!<WAIT><SPEAKER>Lady, please!
+Kick me with them!
+
+===== MSG 02:D0 (EA:B680, 17 bytes) =====
+<SPEAKER>YEAH! I did it!
+
+===== MSG 02:D1 (EA:B691, 62 bytes) =====
+<SPEAKER>Come on, lady!
+Please! We are pals,
+right? Do not hold back!
+
+===== MSG 02:D2 (EA:B6CF, 90 bytes) =====
+<SPEAKER>OW! But that felt great!<WAIT><SPEAKER>Well, after a
+treat like that, I owe
+you something. Take this!
+
+===== MSG 02:D3 (EA:B729, 84 bytes) =====
+<SPEAKER>Whoa! Those are... Lady,
+come over here and let me get
+a good look at those shoes!
+
+===== MSG 02:D4 (EA:B77D, 274 bytes) =====
+<SPEAKER>Lady, thank you so much!<WAIT><SPEAKER>The other prisoners
+want J.B. stopped too, but
+we don't stand a chance.<WAIT><SPEAKER>We couldn't beat him
+even standing on our heads!<WAIT><SPEAKER>So please, Lady! Avenge
+our friends sealed in cans!<WAIT><SPEAKER>If you will, we'll
+dig up weapons like our
+lives depend on it! Please!
+
+===== MSG 02:D5 (EA:B88F, 177 bytes) =====
+<SPEAKER>Huh? Boots for
+climbing rocky ground?<WAIT><SPEAKER>We used them in
+Deathvalley Mine, but they
+are useless without gas.<WAIT><SPEAKER>If you still want
+them, go ahead. Heh heh...
+I am wearing them now.
+
+===== MSG 02:D6 (EA:B940, 45 bytes) =====
+<SPEAKER>They might smell
+a little, but here you go!
+
+===== MSG 02:D7 (EA:B96D, 33 bytes) =====
+<SPEAKER>Want to put
+them on right away?
+
+===== MSG 02:D8 (EA:B98E, 170 bytes) =====
+<SPEAKER>Equip the Rocket
+Boots and stand where gas
+is blowing out to refuel.<WAIT><SPEAKER>Then shout A
+and you can jump over
+small changes in height.<WAIT><SPEAKER>The gas runs
+out pretty fast, though!
+
+===== MSG 02:D9 (EA:BA38, 117 bytes) =====
+<SPEAKER>I may not look
+it, but my feet are small.
+They will only fit Lady.<WAIT><SPEAKER>Make some room in
+Lady's baggage and come back.
+
+===== MSG 02:DA (EA:BAAD, 36 bytes) =====
+<CLEAR>Dodohei equipped
+the Rocket Boots.
+
+===== MSG 02:DB (EA:BAD1, 263 bytes) =====
+<SPEAKER>That bastard Hebri
+was a monster in disguise!<WAIT><SPEAKER>He sent you to
+Deathvalley Mine, then
+immediately reported it to J.B.<WAIT><SPEAKER>He really fooled all of
+us. Oh, right. There is Monster
+Extract in the safe behind me.<WAIT><SPEAKER>Drink it, then infiltrate
+the monsters' home this time!
+
+===== MSG 02:DC (EA:BBD8, 72 bytes) =====
+<SPEAKER>I do not recognize
+you. You should go introduce
+yourself to old Hebri.
+
+===== MSG 02:DD (EA:BC20, 36 bytes) =====
+<SPEAKER>L-Lady! Please
+avenge our friends!
+
+===== MSG 02:DE (EA:BC44, 86 bytes) =====
+<SPEAKER>Hey, are you new here?
+With a cute face like that, what
+did you do to get locked up?
+
+===== MSG 02:DF (EA:BC9A, 65 bytes) =====
+<SPEAKER>If it helps smash
+that jumbo bastard, I
+will do anything I can!
+
+===== MSG 02:E0 (EA:BCDB, 188 bytes) =====
+<SPEAKER>Oh, Dodohei? ...
+Oh. Just a newcomer...<WAIT><SPEAKER>A friend of mine
+named Dodohei has not come
+back from the mine for days.<WAIT><SPEAKER>He is tough, so I
+figure he is just working
+nonstop and sleeping there.
+
+===== MSG 02:E1 (EA:BD97, 149 bytes) =====
+<SPEAKER>We brought our
+canned friends back to
+town and buried them.<WAIT><SPEAKER>Still, canning people like
+that... That jumbo baby bastard
+treats humans like garbage!
+
+===== MSG 02:E2 (EA:BE2C, 54 bytes) =====
+<SPEAKER>Oh, a newcomer? Come
+over to the corner of the room.
+
+===== MSG 02:E3 (EA:BE62, 114 bytes) =====
+<SPEAKER>I still dream
+about being canned.<WAIT><SPEAKER>I am afraid I will wet
+myself someday, so I always
+use the toilet before bed.
+
+===== MSG 02:E4 (EA:BED4, 78 bytes) =====
+<SPEAKER>I-I saw something
+horrible inside Deathvalley Mine.<WAIT><SPEAKER>O-our friends... Ugh...
+
+===== MSG 02:E5 (EA:BF22, 55 bytes) =====
+<SPEAKER>I-I cannot say it after
+all... I cannot trust anyone!
+
+===== MSG 02:E6 (EA:BF59, 138 bytes) =====
+<SPEAKER>Back on the
+outside, I ran a bar.<WAIT><SPEAKER>For you, miss...
+Hmm... A cocktail called a
+Loliful Punch would suit you.<WAIT><SPEAKER>It has nata-de-momo in it.
+
+===== MSG 02:E7 (EA:BFE3, 144 bytes) =====
+<SPEAKER>Keep this quiet, but I
+hate that jumbo Baby Baron.<WAIT><SPEAKER>Sure, they treat us
+pretty well, all things considered.<WAIT><SPEAKER>But I just
+cannot trust him. Hic.
+
+===== MSG 02:E8 (EA:C073, 37 bytes) =====
+<CLEAR>No response. It
+seems to be a doll.
+
+===== MSG 02:E9 (EA:C098, 40 bytes) =====
+<SPEAKER>That is Lil, the
+tavern's mascot doll.
+
+===== MSG 02:EA (EA:C0C0, 119 bytes) =====
+<SPEAKER>Before we go
+work in the mine, we
+always give Lil a kiss.<WAIT><SPEAKER>It is sort of a
+good-luck charm for a
+safe day on the job.
+
+===== MSG 02:EB (EA:C137, 177 bytes) =====
+<SPEAKER>Ahh! Booze after a day's
+work is the best! Glug, glug.<WAIT><SPEAKER>Oh, right. They said they
+found something down in the
+lower part of Deathvalley Mine.<WAIT><SPEAKER>I do not
+know the details. Glug.
+
+===== MSG 02:EC (EA:C1E8, 52 bytes) =====
+<SPEAKER>A bartender must stay
+calm no matter what happens!
+
+===== MSG 02:ED (EA:C21C, 119 bytes) =====
+<SPEAKER>See?! See?! I told you so!<WAIT><SPEAKER>That jumbo baby bastard!<WAIT><SPEAKER>I bet he plans to
+can up every human in
+the world and eat them!
+
+===== MSG 02:EE (EA:C293, 163 bytes) =====
+<SPEAKER>Damn it! In all the
+confusion, someone stole Lil!<WAIT><SPEAKER>J.B. makes me mad,
+but whoever stole Lil makes
+me a hundred times madder!<WAIT><SPEAKER>Give me back
+my Lil! Give her back!
+
+===== MSG 02:EF (EA:C336, 30 bytes) =====
+<SPEAKER>Whoa! That
+is my Lil! Yaaay!
+
+===== MSG 02:F0 (EA:C354, 38 bytes) =====
+<CLEAR>The man hugs Lil
+tightly, overjoyed.
+
+===== MSG 02:F1 (EA:C37A, 73 bytes) =====
+<SPEAKER>Thank you so much!
+I got this at the casino,
+but I want you to have it!
+
+===== MSG 02:F2 (EA:C3C3, 28 bytes) =====
+<SPEAKER>Want to
+try putting it on?
+
+===== MSG 02:F3 (EA:C3DF, 78 bytes) =====
+<SPEAKER>I will never let Lil go
+again! I will take her back
+to my room and hide her!
+
+===== MSG 02:F4 (EA:C42D, 148 bytes) =====
+<SPEAKER>Glug, glug... There
+is no way we can beat
+a monster that huge.<WAIT><SPEAKER>If I am going to be
+eaten anyway, I will drink all
+I want first! Glug, glug, glug!
+
+===== MSG 02:F5 (EA:C4C1, 148 bytes) =====
+<SPEAKER>Heh heh! Everything
+in this shop was excavated
+from Deathvalley Mine.<WAIT><SPEAKER>The monsters do not
+seem to want it, so we buy
+and sell it among ourselves.
+
+===== MSG 02:F6 (EA:C555, 83 bytes) =====
+<SPEAKER>Lady! We will dig up
+weapons as fast as we can.<WAIT><SPEAKER>Please, somehow,
+take down J.B.!
+
+===== MSG 02:F7 (EA:C5A8, 136 bytes) =====
+<SPEAKER>While looking for weapons,
+I found a round black ball.<WAIT><SPEAKER>Black stuff rubs off
+on your hands when you touch
+it, so I will sell it cheap.
+
+===== MSG 02:F8 (EA:C630, 33 bytes) =====
+<SPEAKER>Welcome! This
+is Gallery Kruna.
+
+===== MSG 02:F9 (EA:C651, 35 bytes) =====
+<SPEAKER>Welcome! This
+is Gallery Kruna 2.
+
+===== MSG 02:FA (EA:C674, 68 bytes) =====
+<SPEAKER>We do not have
+any stock yet... Heh heh.
+Better keep excavating...
+
+===== MSG 02:FB (EA:C6B8, 96 bytes) =====
+<SPEAKER>Welcome to the casino!<WAIT><SPEAKER>Only coins work here,
+so exchange your money
+for coins at the cashier.
+
+===== MSG 02:FC (EA:C718, 67 bytes) =====
+<SPEAKER>Save up enough
+coins and you can trade
+them for luxurious prizes!
+
+===== MSG 02:FD (EA:C75B, 65 bytes) =====
+<SPEAKER>Being here almost
+makes me forget how
+scary it is to be canned.
+
+===== MSG 02:FE (EA:C79C, 132 bytes) =====
+<SPEAKER>Some slot machines
+let you time your
+stops, and some do not.<WAIT><SPEAKER>The odds are the
+same either way, so just
+play whichever you prefer.
+
+===== MSG 02:FF (EA:C820, 129 bytes) =====
+<SPEAKER>Watch the spinning
+reels closely! Just watch
+and watch and watch!<WAIT><SPEAKER>Eventually, you will start
+seeing the pictures on the reels!
+
+===== MSG 03:00 (EA:C8A1, 100 bytes) =====
+<SPEAKER>My friends call
+me the Master because
+I am so good at slots!<WAIT><SPEAKER>But I am a little
+off my game today!
+
+===== MSG 03:01 (EA:C905, 48 bytes) =====
+<SPEAKER>Whoa! Here it comes!
+I am on a winning streak!
+
+===== MSG 03:02 (EA:C935, 105 bytes) =====
+<SPEAKER>Que sera, sera!
+Whatever will be, will be!<WAIT><SPEAKER>Even if monsters
+come charging in...<WAIT><SPEAKER>I will keep gambling!
+
+===== MSG 03:03 (EA:C99E, 55 bytes) =====
+<SPEAKER>Do you know Bob, the
+information broker in Rivertown?
+
+===== MSG 03:04 (EA:C9D5, 73 bytes) =====
+<SPEAKER>I see. So when either
+of us is stuck, we turn
+to Bob. He is dependable!
+
+===== MSG 03:05 (EA:CA1E, 109 bytes) =====
+<SPEAKER>They say, "When
+in trouble, ask Bob."<WAIT><SPEAKER>He gives us
+all kinds of advice.<WAIT><SPEAKER>You should
+meet him at least once.
+
+===== MSG 03:06 (EA:CA8B, 111 bytes) =====
+<SPEAKER>We change the
+prizes in the Capri Catcher
+from time to time.<WAIT><SPEAKER>Sometimes we put
+in something really luxurious!
+
+===== MSG 03:07 (EA:CAFA, 121 bytes) =====
+<SPEAKER>This is the Capri Catcher.<WAIT><SPEAKER>Use the machine's
+arm to grab a prize
+inside the case and...<WAIT><SPEAKER>If you catch
+it, it is yours!
+
+===== MSG 03:08 (EA:CB73, 43 bytes) =====
+<SPEAKER>Want an explanation
+of the Capri Catcher?
+
+===== MSG 03:09 (EA:CB9E, 164 bytes) =====
+<SPEAKER>Move the arm diagonally
+right with the green button first,
+then diagonally left with the red.<WAIT><SPEAKER>Release the button
+and the arm grabs whatever
+is directly below it.
+
+===== MSG 03:0A (EA:CC42, 40 bytes) =====
+<SPEAKER>Oh, you came
+back! Here is your prize!
+
+===== MSG 03:0B (EA:CC6A, 29 bytes) =====
+<SPEAKER>Your baggage is still full!
+
+===== MSG 03:0C (EA:CC87, 49 bytes) =====
+<CLEAR>The Capri Catcher costs
+2 coins per play. Play?
+
+===== MSG 03:0D (EA:CCB8, 66 bytes) =====
+<CLEAR>The Capri Catcher costs 2 coins
+per play, but you have no coins.
+
+===== MSG 03:0E (EA:CCFA, 71 bytes) =====
+<CLEAR>The Capri Catcher costs
+2 coins per play, but
+you do not have enough.
+
+===== MSG 03:0F (EA:CD41, 34 bytes) =====
+<CLEAR><INSERT_A> came
+out of the Capri Catcher!
+
+===== MSG 03:10 (EA:CD63, 65 bytes) =====
+<SPEAKER>Oh, little lady,
+you seem stuck. I will
+hold the prize for you.
+
+===== MSG 03:11 (EA:CDA4, 82 bytes) =====
+<SPEAKER>Make room in your
+baggage and come get it! Hurry,
+or I might keep it for myself!
+
+===== MSG 03:12 (EA:CDF6, 10 bytes) =====
+<CLEAR>Too bad!
+
+===== MSG 03:13 (EA:CE00, 13 bytes) =====
+<CLEAR>Play again?
+
+===== MSG 03:14 (EA:CE0D, 32 bytes) =====
+<CLEAR>There is a slot machine. Play?
+
+===== MSG 03:15 (EA:CE2D, 49 bytes) =====
+<CLEAR>There is a slot machine,
+but you have no coins.
+
+===== MSG 03:16 (EA:CE5E, 85 bytes) =====
+<SPEAKER>Why does everyone get
+so obsessed with these things?
+I just do not understand it...
+
+===== MSG 03:17 (EA:CEB3, 62 bytes) =====
+<SPEAKER>L-Lady! Please do not talk
+to me! This is a critical moment!
+
+===== MSG 03:18 (EA:CEF1, 134 bytes) =====
+<SPEAKER>The Deathvalley
+Mine pennant is stylish
+and extremely popular!<WAIT><SPEAKER>Though only old
+men and prisoners ever buy
+one. Need something, kid?
+
+===== MSG 03:19 (EA:CF77, 28 bytes) =====
+<CLEAR>A pennant is hanging here.
+
+===== MSG 03:1A (EA:CF93, 62 bytes) =====
+<SPEAKER>Your work is
+not finished yet! Get
+back to Deathvalley Mine!
+
+===== MSG 03:1B (EA:CFD1, 28 bytes) =====
+<SPEAKER>Oh, a
+newcomer! Work hard!
+
+===== MSG 03:1C (EA:CFED, 64 bytes) =====
+<SPEAKER>You do not have
+a ticket. Sorry, but I
+cannot let you through.
+
+===== MSG 03:1D (EA:D02D, 45 bytes) =====
+<SPEAKER>Work hard and you
+can earn a casino ticket!
+
+===== MSG 03:1E (EA:D05A, 65 bytes) =====
+<SPEAKER>Slack off and
+you will regret it! Get
+back to Deathvalley Mine!
+
+===== MSG 03:1F (EA:D09B, 62 bytes) =====
+<SPEAKER>You are new,
+right? Did you introduce
+yourself to old Hebri?
+
+===== MSG 03:20 (EA:D0D9, 61 bytes) =====
+<SPEAKER>Heh heh, good work. Stay
+safe out there today! Geh-heh-heh!
+
+===== MSG 03:21 (EA:D116, 133 bytes) =====
+<SPEAKER>I have been
+waiting, little girl!<WAIT><SPEAKER>How dare you
+beat my little brother in
+the underground waterway!<WAIT><SPEAKER>This is for
+my brother! GRAAH!
+
+===== MSG 03:22 (EA:D19B, 30 bytes) =====
+<SPEAKER>You must
+be the new workers.
+
+===== MSG 03:23 (EA:D1B9, 75 bytes) =====
+<SPEAKER>The wall over there
+explains how to drive a
+mine cart. Read it carefully!
+
+===== MSG 03:24 (EA:D204, 322 bytes) =====
+<CLEAR>NOTICE TO ALL WORKERS<WAIT><CLEAR>The mine cart accelerates
+automatically when you board it.<WAIT><CLEAR>Press the yellow B button
+to apply the brake.<WAIT><CLEAR>Holding the brake too
+long will overheat it,
+disabling it for a while.<WAIT><CLEAR>At a junction, press
+the D-pad toward the
+direction you want to go.<WAIT><CLEAR>Some tracks do not allow
+you to change direction.
+
+===== MSG 03:25 (EA:D346, 140 bytes) =====
+<SPEAKER>The monsters
+were gathering at the
+underground temple!<WAIT><SPEAKER>Sounds like they
+are about to throw
+some kind of huge party.<WAIT><SPEAKER>Maybe I will go too.
+
+===== MSG 03:26 (EA:D3D2, 194 bytes) =====
+<SPEAKER>North of Deathvalley
+Mine is a village where
+the monsters live.<WAIT><SPEAKER>Strangely, humans
+cannot enter their houses.<WAIT><SPEAKER>Maybe monster souls
+dwell in the doors themselves.<WAIT><SPEAKER>The door
+itself is the guard.
+
+===== MSG 03:27 (EA:D494, 85 bytes) =====
+<SPEAKER>This is the nap
+room. When you are
+tired, sleep is best!<WAIT><SPEAKER>Want to
+take a quick nap?
+
+===== MSG 03:28 (EA:D4E9, 17 bytes) =====
+<SPEAKER>Feeling rested?
+
+===== MSG 03:29 (EA:D4FA, 37 bytes) =====
+<SPEAKER>Going without
+sleep is bad for you.
+
+===== MSG 03:2A (EA:D51F, 93 bytes) =====
+<SPEAKER>Long time no see, lady!<WAIT><SPEAKER>It is me! Hah! If
+you cannot tell, you still
+need more experience!
+
+===== MSG 03:2B (EA:D57C, 510 bytes) =====
+<SPEAKER>That medicine you
+gave me saved my life.<WAIT><SPEAKER>After that I went to
+town, and found something!<WAIT><SPEAKER>A way into the sewer.<WAIT><SPEAKER>That huge Baby
+Baron who took your
+friend is bad news!<WAIT><SPEAKER>I posed as a prisoner
+to hunt treasure in this mine,
+and learned something ugly.<WAIT><SPEAKER>Making prisoners
+dig is one thing...<WAIT><SPEAKER>When they can't work,
+he seals them in cans! Cans!<WAIT><SPEAKER>What is he searching for?<WAIT><SPEAKER>Reviving an ancient device?<WAIT><SPEAKER>Damn! More huge,
+clever monsters like him
+would be a disaster!<WAIT><SPEAKER>Forget that for now.
+Rescue your friend first!
+
+===== MSG 03:2C (EA:D77A, 49 bytes) =====
+<SPEAKER>Consider this thanks
+for the medicine. Take it!
+
+===== MSG 03:2D (EA:D7AB, 30 bytes) =====
+<SPEAKER>Want me to
+equip it for you?
+
+===== MSG 03:2E (EA:D7C9, 60 bytes) =====
+<SPEAKER>Lady, you can smash that
+monster's whole scheme to pieces!
+
+===== MSG 03:2F (EA:D805, 61 bytes) =====
+<SPEAKER>That is inconvenient. Make
+room in your baggage and return.
+
+===== MSG 03:30 (EA:D842, 146 bytes) =====
+<SPEAKER>The boss here, Mogukichi,
+cares more about modifying
+mine carts than digging.<WAIT><SPEAKER>Right now he
+is building a terrifying
+cart that shoots fireballs!
+
+===== MSG 03:31 (EA:D8D4, 106 bytes) =====
+<CLEAR>Lady examines the stone tablet.
+Ancient writing is carved on it.<WAIT><CLEAR>But Lady cannot
+read ancient writing!<LINE>
+
+===== MSG 03:32 (EA:D93E, 26 bytes) =====
+<CLEAR>Yoshio reads it aloud!<LINE><LINE>
+
+===== MSG 03:33 (EA:D958, 39 bytes) =====
+<CLEAR>Yoshio's soul lets
+out a mighty roar!
+
+===== MSG 03:34 (EA:D97F, 45 bytes) =====
+<SPEAKER>Oooooh... Lady...
+Please, let me read it...
+
+===== MSG 03:35 (EA:D9AC, 418 bytes) =====
+<SPEAKER>Let me see... Hmm...
+The top of the tablet is
+broken. Very well. I will read it.<WAIT><SPEAKER>"...Thus, I have decided
+to seal the device away. If
+one should awaken it again...<WAIT><SPEAKER>offer a white ball to
+Ganubis, my faithful servant,
+and reveal my name. Then...<WAIT><SPEAKER>the device shall
+live once more. But if
+a black ball is offered...<WAIT><SPEAKER>the device shall
+never awaken again..."<WAIT><SPEAKER>...That is all. My lady, we
+should keep this tablet with us.
+
+===== MSG 03:36 (EA:DB4E, 35 bytes) =====
+<CLEAR>Lady tries to examine the tablet.
+
+===== MSG 03:37 (EA:DB71, 40 bytes) =====
+<CLEAR>Yoshio's soul lets
+out a mighty roar!<LINE>
+
+===== MSG 03:38 (EA:DB99, 35 bytes) =====
+<SPEAKER>Lady! First, let
+us check on Cox!
+
+===== MSG 03:39 (EA:DBBC, 61 bytes) =====
+<CLEAR>Lady checks Cox.<WAIT><CLEAR>He is faintly breathing.<WAIT><CLEAR>Lady helps Cox.
+
+===== MSG 03:3A (EA:DBF9, 25 bytes) =====
+<CLEAR>Cox joined the party.<LINE><LINE>
+
+===== MSG 03:3B (EA:DC12, 327 bytes) =====
+<SPEAKER>H-heyyy! Pant,
+pant... Y-you are humans?!<WAIT><SPEAKER>Whew! We are
+saved! W-we were tricked!<WAIT><SPEAKER>Sure, back in town
+we had all the booze
+and gambling we wanted...<WAIT><SPEAKER>But getting sealed in
+cans at the end? That is insane!<WAIT><SPEAKER>I-I overheard them talking.<WAIT><SPEAKER>Apparently they are
+building secret bases and all kinds
+of things beyond Deathvalley Mine.
+
+===== MSG 03:3C (EA:DD59, 107 bytes) =====
+<SPEAKER>If nobody stops
+them, this will get bad!
+Everyone will end up in cans!<WAIT><SPEAKER>Ugh... Lady,
+please do something!
+
+===== MSG 03:3D (EA:DDC4, 110 bytes) =====
+<CLEAR>There is a huge can here.<WAIT><CLEAR>J.B.-brand canned goods appear
+to contain no ingredients
+other than human beings.
+
+===== MSG 03:3E (EA:DE32, 129 bytes) =====
+<CLEAR>DANGER! FIREBALL MINE CART
+AUTHORIZED WORKERS ONLY<WAIT><CLEAR>Press the red button on
+the control panel to fire.
+Ammunition is unlimited.
+
+===== MSG 03:3F (EA:DEB3, 65 bytes) =====
+<CLEAR>You cannot board the mine cart
+while this red lamp is flashing.
+
+===== MSG 03:40 (EA:DEF4, 77 bytes) =====
+<SPEAKER>Gwaaah... I cannot
+believe the shock of the
+eruption made my legs give out!
+
+===== MSG 03:41 (EA:DF41, 72 bytes) =====
+<SPEAKER>You humans are done
+too! Your towns must be
+buried in lava by now! Ha!
+
+===== MSG 03:42 (EA:DF89, 34 bytes) =====
+<CLEAR>Lady tears the Spring off Ikkyu!
+
+===== MSG 03:43 (EA:DFAB, 88 bytes) =====
+<SPEAKER>Gwaaah! What are you
+doing?! You plan to use that to
+return to town! Ow! Stop! Please!
+
+===== MSG 03:44 (EA:E003, 88 bytes) =====
+<SPEAKER>Gwaaah! What are you
+doing? You meant to use that to
+return to town! Serves you right!
+
+===== MSG 03:45 (EA:E05B, 79 bytes) =====
+<SPEAKER>W-what?! Stop staring at
+me! I will give you something
+good, so just go away!
+
+===== MSG 03:46 (EA:E0AA, 77 bytes) =====
+<SPEAKER>The fact that I was
+so startled my legs gave
+out is a se<PAUSE_30>-cr<PAUSE_30>-et!<PAUSE_30> Got it?!
+
+===== MSG 03:47 (EA:E0F7, 46 bytes) =====
+<SPEAKER>What?! Make room
+in your baggage and return!
+
+===== MSG 03:48 (EA:E125, 173 bytes) =====
+<SPEAKER>This is Monster Village!<WAIT><SPEAKER>Grr... You are humans!
+You are not going any farther!<WAIT><SPEAKER>U<PAUSE_30>... u<PAUSE_30>... gwa<PAUSE_30>... ugh<PAUSE_30>...!<WAIT><SPEAKER>Of all times,
+my chronic Devil Disease
+is acting up! Gwaaah!
+
+===== MSG 03:49 (EA:E1D2, 22 bytes) =====
+<CLEAR>Primitive Dozy died.
+
+===== MSG 03:4A (EA:E1E8, 66 bytes) =====
+<SPEAKER>That was a big
+earthquake! Maybe Lord
+Gemco was shaking his leg?
+
+===== MSG 03:4B (EA:E22A, 123 bytes) =====
+<SPEAKER>Ohhh, Lord Gemco...
+Your crimson body, your
+round eyes, your lovely smile...<WAIT><SPEAKER>I adored you from
+the bottom of my heart...
+
+===== MSG 03:4C (EA:E2A5, 104 bytes) =====
+<CLEAR>There is a huge
+Baby Baron statue.<WAIT><CLEAR>"J.B., Demon King and successor
+to King Baron" is inscribed on it.
+
+===== MSG 03:4D (EA:E30D, 137 bytes) =====
+<CLEAR>There is a monster corpse.
+The lava must have killed
+it during the eruption.<WAIT><CLEAR>Monster Extract is splattered
+around the body. Take some?
+
+===== MSG 03:4E (EA:E396, 84 bytes) =====
+<SPEAKER>Whoa, what a disaster!
+That eruption was incredible.
+I thought I was going to die!
+
+===== MSG 03:4F (EA:E3EA, 32 bytes) =====
+<SPEAKER>Waaah! Waaah!
+Poor Lord Gemco!
+
+===== MSG 03:50 (EA:E40A, 226 bytes) =====
+<SPEAKER>See?! I warned everyone!<WAIT><SPEAKER>I predicted the volcano
+would erupt before long.<WAIT><SPEAKER>But Gemco ignored
+my prediction completely.<WAIT><SPEAKER>Of all places, he built
+his base inside the volcano...<WAIT><SPEAKER>After this, all I can
+say is: serves him right!
+
+===== MSG 03:51 (EA:E4EC, 201 bytes) =====
+<SPEAKER>What? Gemco is... I
+see. Well, that is delightful!<WAIT><SPEAKER>Excellent! That makes me
+the new boss of the volcano!<WAIT><SPEAKER>Then my first order
+is this: go to Snow Valley!<WAIT><SPEAKER>Find the ball there
+as quickly as possible!
+
+===== MSG 03:52 (EA:E5B5, 68 bytes) =====
+<SPEAKER>You restored the
+lava furnace, so the mine
+cart should work again!
+
+===== MSG 03:53 (EA:E5F9, 172 bytes) =====
+<SPEAKER>Disaster! The
+eruption seems to have
+wrecked the volcano base!<WAIT><SPEAKER>If the mine cart will
+not move, the lava furnace
+deep inside must be broken too!<WAIT><SPEAKER>When it rains, it pours!
+
+===== MSG 03:54 (EA:E6A5, 101 bytes) =====
+<SPEAKER>Snow Valley is a base
+for preserving food supplies.<WAIT><SPEAKER>So it is packed with
+canned and frozen humans.
+
+===== MSG 03:55 (EA:E70A, 131 bytes) =====
+<SPEAKER>We have lost
+contact with Lord Gemco!<WAIT><SPEAKER>There must have
+been a cave-in inside
+the base, trapping him!<WAIT><SPEAKER>This is a serious disaster!
+
+===== MSG 03:56 (EA:E78D, 64 bytes) =====
+<SPEAKER>I wonder if Lord
+Gemco passed on properly
+and made it to hell.
+
+===== MSG 03:57 (EA:E7CD, 98 bytes) =====
+<SPEAKER>This eruption
+puts Lord Gemco in a
+very dangerous position.<WAIT><SPEAKER>I doubt Lord
+J.B. will forgive him.
+
+===== MSG 03:58 (EA:E82F, 114 bytes) =====
+<SPEAKER>Everyone went to Snow
+Valley to search for the ball.<WAIT><SPEAKER>Honestly, Lord J.B. really
+works his monsters to the bone.
+
+===== MSG 03:59 (EA:E8A1, 173 bytes) =====
+<SPEAKER>Apparently humans
+have invaded our territory.<WAIT><SPEAKER>Lord J.B. came by
+and told us. He ordered
+us to catch them on sight!<WAIT><SPEAKER>He said whoever catches
+them gets lots of canned food!
+
+===== MSG 03:5A (EA:E94E, 141 bytes) =====
+<SPEAKER>Lord J.B. came
+by again just now!<WAIT><SPEAKER>Then Bebio reported
+the round ball in Snow Valley.<WAIT><SPEAKER>Lord J.B. went pale and
+rushed straight out of here!
+
+===== MSG 03:5B (EA:E9DB, 282 bytes) =====
+<SPEAKER>Come to think of
+it, Lord J.B. mentioned some
+kind of ball. Maybe this is it.<WAIT><SPEAKER>A friend of mine
+is stationed at the Snow
+Valley base to the east.<WAIT><SPEAKER>He said he found a
+round ball inside a wall there.<WAIT><SPEAKER>Maybe that is the one...
+Well, if I am wrong I will
+get yelled at, so never mind!
+
+===== MSG 03:5C (EA:EAF5, 208 bytes) =====
+<SPEAKER>Hm? Who are you?
+Everything is chaos right
+now, so come back later!<WAIT><SPEAKER>...Wait. Are you
+going to the volcano
+to rescue Lord Gemco?<WAIT><SPEAKER>You are?
+Excellent! Excellent!<WAIT><SPEAKER>We were just discussing
+whom we should send!
+
+===== MSG 03:5D (EA:EBC5, 191 bytes) =====
+<SPEAKER>Once we find the ball
+Lord J.B. is searching for, our
+time will finally come. Heh heh...<WAIT><SPEAKER>We can use the
+ancient device to be reborn
+with enormous bodies!<WAIT><SPEAKER>Then I will
+eat humans every day!
+
+===== MSG 03:5E (EA:EC84, 154 bytes) =====
+<SPEAKER>We still have invading
+humans to track down.<WAIT><SPEAKER>We must rescue
+Lord Gemco, and the lava
+furnace is broken too.<WAIT><SPEAKER>Natural disasters
+are nothing but trouble!
+
+===== MSG 03:5F (EA:ED1E, 193 bytes) =====
+<SPEAKER>Ah, you two!
+Well done! I ought to
+prepare some reward, but...<WAIT><SPEAKER>Could you head to
+Snow Valley right away as well?<WAIT><SPEAKER>Lord J.B. ordered
+us to find the ball there.<WAIT><SPEAKER>We need every
+hand we can get!
+
+===== MSG 03:60 (EA:EDDF, 198 bytes) =====
+<SPEAKER>Listen. The lava
+furnace is beyond the room
+where Lord Gemco is trapped.<WAIT><SPEAKER>The eruption must
+have shaken a bolt loose.<WAIT><SPEAKER>Put the bolt back in
+and the furnace should work
+again. I am counting on you!
+
+===== MSG 03:61 (EA:EEA5, 82 bytes) =====
+<SPEAKER>Good work! What?
+Lord Gemco is... I see...<WAIT><SPEAKER>There was
+nothing anyone could do...
+
+===== MSG 03:62 (EA:EEF7, 57 bytes) =====
+<SPEAKER>Perhaps even we monsters
+cannot defeat nature itself...
+
+===== MSG 03:63 (EA:EF30, 93 bytes) =====
+<SPEAKER>Well, well, well,
+well. How do you do?<WAIT><SPEAKER>Ari, ori, haberi,
+imasokari... How do you do again.
+
+===== MSG 03:64 (EA:EF8D, 92 bytes) =====
+<CLEAR>There is a fire-suppression
+valve. Moving the lever
+should release water.<WAIT><CLEAR>Move the lever?
+
+===== MSG 03:65 (EA:EFE9, 22 bytes) =====
+<CLEAR>You moved the lever.
+
+===== MSG 03:66 (EA:EFFF, 67 bytes) =====
+<CLEAR>There is a fire-suppression valve.
+It has already been activated.
+
+===== MSG 03:67 (EA:F042, 622 bytes) =====
+<SPEAKER>Y-you came to save
+me... But I... I am finished.<WAIT><SPEAKER>The heat from
+the eruption got me. I do
+not think I can be saved...<WAIT><SPEAKER>My vision is fading
+now. I cannot even see you...<WAIT><SPEAKER>Who are you? Tako-bo?<WAIT><SPEAKER>Cough, cough... But
+it is all right. I was never
+truly alive to begin with.<WAIT><SPEAKER>I was a fossil, until
+that jumbo Baby Baron...<WAIT><SPEAKER>put an evil soul
+inside me... Ugh... But...<WAIT><SPEAKER>there is one
+thing I must tell you.<WAIT><SPEAKER>He plans to restore
+the device and make
+your bodies enormous...<WAIT><SPEAKER>The device does
+make you stronger, but
+your body slowly decays...<WAIT><SPEAKER>Monsters should remain
+as nature made them... Ugh...<WAIT><SPEAKER>Do not... be<PAUSE_30>
+de<PAUSE_30>ceived<PAUSE_30> by him...
+
+===== MSG 03:68 (EA:F2B0, 23 bytes) =====
+<CLEAR>Gemco stops moving...
+
+===== MSG 03:69 (EA:F2C7, 33 bytes) =====
+<CLEAR>There is a huge Tomaton fossil.
+
+===== MSG 03:6A (EA:F2E8, 47 bytes) =====
+<CLEAR>SE: ROTTENBLOW CHURCH
+PRIEST TRAINING GROUNDS
+
+===== MSG 03:6B (EA:F317, 41 bytes) =====
+<SPEAKER>Aah! Help me!
+I will tell you anything!
+
+===== MSG 03:6C (EA:F340, 76 bytes) =====
+<SPEAKER>Lord J.B. dug a
+white ball out of this place.<WAIT><SPEAKER>He looked incredibly happy.
+
+===== MSG 03:6D (EA:F38C, 58 bytes) =====
+<CLEAR>There is a hole in the wall
+where something was dug out.
+
+===== MSG 03:6E (EA:F3C6, 100 bytes) =====
+<CLEAR>There is a lever. It
+will not move at all.<WAIT><CLEAR>With greater strength, you
+might be able to move it...
+
+===== MSG 03:6F (EA:F42A, 49 bytes) =====
+<CLEAR>There is a lever. It will
+not move when pulled.
+
+===== MSG 03:70 (EA:F45B, 172 bytes) =====
+<CLEAR>'J.B. HIGH-SPEED CANNER
+MARK ONE' is written here.<WAIT><CLEAR>The machine is badly damaged.
+Repairs cover it everywhere.<LINE><WAIT><CLEAR>It was used so much that
+it finally broke beyond repair.<LINE>
+
+===== MSG 03:71 (EA:F507, 17 bytes) =====
+<CLEAR>SE: RAMUS TOWER
+
+===== MSG 03:72 (EA:F518, 20 bytes) =====
+<CLEAR>SE: CAPE OF LAMENT
+
+===== MSG 03:73 (EA:F52C, 82 bytes) =====
+<SPEAKER>I am Mamiry the fairy!
+The password is KIMISOBA. And
+no, I do not mean egg soba!
+
+===== MSG 03:74 (EA:F57E, 263 bytes) =====
+<SPEAKER>This is the Cape of
+Lament, at the southernmost
+tip of Deathland Island.<WAIT><SPEAKER>Since ancient times,
+people have aimed for Baron
+Rock beyond this cape.<WAIT><SPEAKER>They wanted King Baron's
+device to expand their territories.<WAIT><SPEAKER>But the fierce winds off
+the sea kept humans away...
+
+===== MSG 03:75 (EA:F685, 73 bytes) =====
+<SPEAKER>I keep this shrine
+for souls ruined by ambition.
+Do you need something?
+
+===== MSG 03:76 (EA:F6CE, 100 bytes) =====
+<SPEAKER>This is Ramus Tower...<WAIT><SPEAKER>King Ramus built it
+200 years ago to obtain
+King Baron's ancient device...
+
+===== MSG 03:77 (EA:F732, 268 bytes) =====
+<SPEAKER>Ships cannot approach
+Baron Rock because of the
+fierce winds rising from the sea.<WAIT><SPEAKER>King Ramus built this
+tall tower to seek a route
+through the sky to Baron Rock.<WAIT><SPEAKER>He locked us scientists
+inside and forced us to
+research day after day...<WAIT><SPEAKER>Eventually, we died here...
+
+===== MSG 03:78 (EA:F83E, 142 bytes) =====
+<SPEAKER>King Ramus
+tried everything...<WAIT><SPEAKER>He turned to magic
+and sorcery, and even ordered
+us to build mechanical wings...<WAIT><SPEAKER>But nothing ever worked...
+
+===== MSG 03:79 (EA:F8CC, 111 bytes) =====
+<SPEAKER>O God, carry our
+wandering souls to our Lord.<WAIT><SPEAKER>Until King Ramus's wish is
+fulfilled, we cannot rest in peace.
+
+===== MSG 03:7A (EA:F93B, 73 bytes) =====
+<SPEAKER>Our king's wish was
+to fly through the sky all
+the way to Baron Rock...
+
+===== MSG 03:7B (EA:F984, 133 bytes) =====
+<SPEAKER>Once, a merchant
+brought us a carpet that
+could fly through the sky.<WAIT><SPEAKER>But its magic had already
+faded, so it could no longer fly...
+
+===== MSG 03:7C (EA:FA09, 144 bytes) =====
+<SPEAKER>This tower
+has fourteen floors.<WAIT><SPEAKER>When King Ramus reaches
+the top, takes to the sky,
+and crosses to Baron Rock...<WAIT><SPEAKER>we will
+finally be released.
+
+===== MSG 03:7D (EA:FA99, 115 bytes) =====
+<SPEAKER>Many things collected
+by King Ramus still
+remain inside this tower.<WAIT><SPEAKER>Could one of them
+be something that can fly?
+
+===== MSG 03:7E (EA:FB0C, 42 bytes) =====
+<CLEAR>There is a switch on
+the wall. Press it?
+
+===== MSG 03:7F (EA:FB36, 61 bytes) =====
+<CLEAR>There is a switch on the wall.
+It has already been pressed.
+
+===== MSG 03:80 (EA:FB73, 266 bytes) =====
+<SPEAKER>My name is Ramus...
+My wish is to soar through
+the sky and reach Baron Rock...<WAIT><SPEAKER>I waited two
+hundred years... but no
+one brought a way to fly.<WAIT><SPEAKER>I cannot rest,
+even in death! Please
+take me to Baron Rock!<WAIT><SPEAKER>Auuuugh! Gyaaah! Ba<PAUSE_30>-ron<PAUSE_30>
+Ro<PAUSE_30>-ck<PAUSE_30>!<PAUSE_30> Aaaah<PAUSE_30>!<PAUSE_30> Guuuh! GRAAAH!
+
+===== MSG 03:81 (EA:FC7D, 75 bytes) =====
+<CLEAR>There are ancient relics here.<WAIT><CLEAR>They look like old
+statues and furniture.
+
+===== MSG 03:82 (EA:FCC8, 78 bytes) =====
+<CLEAR>"THE PATH OF LIGHT IS
+GANUBIS'S PATH. THOSE WITHOUT
+THE MARK MAY NOT ENTER."
+
+===== MSG 03:83 (EA:FD16, 23 bytes) =====
+<CLEAR>The glass is cracked!
+
+===== MSG 03:84 (EA:FD2D, 41 bytes) =====
+<CLEAR>A stone tablet is
+embedded in the wall.
+
+===== MSG 03:85 (EA:FD56, 60 bytes) =====
+<CLEAR>Ancient writing covers the
+tablet. Yoshio reads it aloud.<LINE>
+
+===== MSG 03:86 (EA:FD92, 72 bytes) =====
+<CLEAR>Ancient writing covers the tablet.
+Yoshio's soul gives a mighty roar!<LINE>
+
+===== MSG 03:87 (EA:FDDA, 226 bytes) =====
+<SPEAKER>To the great successor
+who will one day come here...<WAIT><SPEAKER>I have finally
+been surrounded by the
+giant monsters I created.<WAIT><SPEAKER>If I am eaten by
+my own creations, my very
+name will be disgraced...<WAIT><SPEAKER>...The tablet
+is broken below here.
+
+===== MSG 03:88 (EA:FEBC, 129 bytes) =====
+<CLEAR>There is a pedestal for offering
+a ball. It bears the same
+ancient writing as the tablet.<WAIT><CLEAR>"OFFER THE BALL AND
+REVEAL MY NAME."
+
+===== MSG 03:89 (EA:FF3D, 39 bytes) =====
+<CLEAR>Yoshio's soul lets
+out a mighty roar!
+
+===== MSG 03:8A (EA:FF64, 50 bytes) =====
+<SPEAKER>Oooooh... Lady...
+Please listen to my opinion...
+
+===== MSG 03:8B (EA:FF96, 29 bytes) =====
+<CLEAR>Listen to Yoshio's opinion?
+
+===== MSG 03:8C (EA:FFB3, 67 bytes) =====
+<SPEAKER>It says to show
+someone's name somehow,
+then place the ball here.
+
+===== MSG 03:8D (E9:4000, 32 bytes) =====
+<CLEAR>Hear more of Yoshio's opinion?
+
+===== MSG 03:8E (E9:4020, 96 bytes) =====
+<SPEAKER>In this case, that someone
+must obviously be King Baron.<WAIT><SPEAKER>The question
+is how to display it...
+
+===== MSG 03:8F (E9:4080, 134 bytes) =====
+<SPEAKER>The floor pattern
+seems to use ancient
+characters as its motif.<WAIT><SPEAKER>Now then... Was King
+Baron written in ancient
+characters somewhere?
+
+===== MSG 03:90 (E9:4106, 108 bytes) =====
+<SPEAKER>There are
+six dragon statues.<WAIT><SPEAKER>King Baron is six
+symbols in the ancient script
+too. Coincidence, I wonder?
+
+===== MSG 03:91 (E9:4172, 180 bytes) =====
+<SPEAKER>The tablet said to
+reveal the name to Ganubis.<WAIT><SPEAKER>Those statues
+lined across the altar are
+the figures of Ganubis.<WAIT><SPEAKER>So I think the
+name must be arranged so
+the statues can read it.
+
+===== MSG 03:92 (E9:4226, 99 bytes) =====
+<CLEAR>Yoshio is exhausted from
+talking and breathing heavily.<LINE><WAIT><CLEAR>You should let him
+rest for a while...<LINE>
+
+===== MSG 03:93 (E9:4289, 68 bytes) =====
+<CLEAR>There is a pedestal for offering
+a ball. A White Ball rests on it.
+
+===== MSG 03:94 (E9:42CD, 477 bytes) =====
+<SPEAKER>Ah, young lady! Been a
+while. Thank you for before...<WAIT><SPEAKER>I'm the priest
+from Ramus Tower.<WAIT><SPEAKER>King Ramus
+fulfilled his dream, so the
+tower's curse freed me.<WAIT><SPEAKER>But I couldn't stop
+worrying about what awaited you.<WAIT><SPEAKER>So I asked King
+Ramus to bring me here
+before he went to heaven.<WAIT><SPEAKER>He was selfish, but
+after 200 years of serving
+him, I saw his good side too.<WAIT><SPEAKER>Now I can repay my
+debt to you. You'll let me, right?<WAIT><SPEAKER>Then it's settled.
+I look forward to helping
+you. Ahem... Now then...
+
+===== MSG 03:95 (E9:44AA, 67 bytes) =====
+<CLEAR>There is a dragon statue.<WAIT><CLEAR>The statue has
+nothing more to say...<LINE>
+
+===== MSG 03:96 (E9:44ED, 161 bytes) =====
+<SPEAKER>Hee hee hee...
+Finish the painting!<WAIT><SPEAKER>Once it is complete, King
+Baron will let you out of here.<WAIT><SPEAKER>Hee hee... Either finish the
+picture or rot here until you die!
+
+===== MSG 03:97 (E9:458E, 39 bytes) =====
+<CLEAR>There is a large
+unfinished painting.
+
+===== MSG 03:98 (E9:45B5, 34 bytes) =====
+<CLEAR>There is a painting of a candle.
+
+===== MSG 03:99 (E9:45D7, 33 bytes) =====
+<CLEAR>There is a painting of a chair.
+
+===== MSG 03:9A (E9:45F8, 50 bytes) =====
+<CLEAR>There is a painting of a
+road leading somewhere.
+
+===== MSG 03:9B (E9:462A, 29 bytes) =====
+<CLEAR>The treasure chest is open.
+
+===== MSG 03:9C (E9:4647, 31 bytes) =====
+<CLEAR>Lady found 500,000,000 Endol!
+
+===== MSG 03:9D (E9:4666, 38 bytes) =====
+<CLEAR>Lady obtained 4,000
+Shining Marbles!
+
+===== MSG 03:9E (E9:468C, 36 bytes) =====
+<CLEAR>Lady obtained the
+Massacre Teabag!
+
+===== MSG 03:9F (E9:46B0, 52 bytes) =====
+<CLEAR>You hear a rattling sound
+from behind this statue.
+
+===== MSG 03:A0 (E9:46E4, 65 bytes) =====
+<CLEAR>Light is leaking from
+behind the statue.<WAIT><CLEAR>It seems very bright.
+
+===== MSG 03:A1 (E9:4725, 49 bytes) =====
+<CLEAR>You can see a strange
+device behind the statue.
+
+===== MSG 03:A2 (E9:4756, 92 bytes) =====
+<CLEAR>There is a dust-covered painting.<WAIT><CLEAR>If you clean it, you should
+be able to see the picture.
+
+===== MSG 03:A3 (E9:47B2, 88 bytes) =====
+<CLEAR>A strange device is operating!
+It seems to be projecting
+something into the next room!
+
+===== MSG 03:A4 (E9:480A, 34 bytes) =====
+<CLEAR>The strange device is stopped...
+
+===== MSG 03:A5 (E9:482C, 46 bytes) =====
+<CLEAR>There is a switch in
+the darkness. Press it?
+
+===== MSG 03:A6 (E9:485A, 26 bytes) =====
+<CLEAR>Lady presses the switch!
+
+===== MSG 03:A7 (E9:4874, 54 bytes) =====
+<CLEAR>There is a switch here. It
+has already been pressed.
+
+===== MSG 03:A8 (E9:48AA, 72 bytes) =====
+<CLEAR>Lady feels around in
+the darkness, but there
+seems to be nothing here.
+
+===== MSG 03:A9 (E9:48F2, 328 bytes) =====
+<SPEAKER>Ah, young lady! You
+are safe. What a relief. I am
+a priest from Ramus Tower.<WAIT><SPEAKER>These sheer cliffs
+are impossible for an
+ordinary human to cross.<WAIT><SPEAKER>But as you can
+see, I am not human.<WAIT><SPEAKER>I found one open window
+and slipped inside through it.<WAIT><SPEAKER>It was a little frightening,
+but worrying about my life
+now would be pointless. Ha ha...
+
+===== MSG 03:AA (E9:4A3A, 159 bytes) =====
+<SPEAKER>This is the Hall of
+Ancient Legend, untouched by
+humans for thousands of years...<WAIT><SPEAKER>We have both come
+somewhere dangerous. Can this
+servant of God be of help?
+
+===== MSG 03:AB (E9:4AD9, 32 bytes) =====
+<CLEAR>NW: ANGEL ROCK
+SE: BARON TOWER
+
+===== MSG 03:AC (E9:4AF9, 74 bytes) =====
+<CLEAR>There is a large pane of
+glass. A running charge
+could break through it.
+
+===== MSG 03:AD (E9:4B43, 128 bytes) =====
+<CLEAR>There is a large pane of
+glass. A running charge
+could break through it.<WAIT><CLEAR>...But there is not enough
+room to build up a dash.<LINE>
+
+===== MSG 03:AE (E9:4BC3, 30 bytes) =====
+<CLEAR>"BAD FAIRY" is written here.
+
+===== MSG 03:AF (E9:4BE1, 148 bytes) =====
+<SPEAKER>Eeek! Help me! L-Lord
+J.B. locked me in here!<WAIT><SPEAKER>I attacked humans exactly
+like Lord J.B. ordered me to!<WAIT><SPEAKER>Why do I deserve
+something this horrible?!
+
+===== MSG 03:B0 (E9:4C75, 188 bytes) =====
+<SPEAKER>Eeek! Hey, Tomaton!
+You should not be in here!<WAIT><SPEAKER>See the empty cage
+a little to the right? One
+of your kind was in there.<WAIT><SPEAKER>Just now, some
+strange machine sucked it
+up and carried it away!
+
+===== MSG 03:B1 (E9:4D31, 31 bytes) =====
+<CLEAR>"BABY BARON" is written here.
+
+===== MSG 03:B2 (E9:4D50, 223 bytes) =====
+<SPEAKER>We were fools!<WAIT><SPEAKER>We trusted Lord J.B.,
+served him, and look at us now!<WAIT><SPEAKER>Once the ancient
+device worked, we became
+test subjects! Go ahead, laugh!<WAIT><SPEAKER>Where is it? I don't
+know. Somewhere in this
+tower leads there, apparently.
+
+===== MSG 03:B3 (E9:4E2F, 27 bytes) =====
+<CLEAR>"SNIPER" is written here.
+
+===== MSG 03:B4 (E9:4E4A, 158 bytes) =====
+<SPEAKER>This is
+horrible... Gasp, gasp...<WAIT><SPEAKER>Lord J.B. wanted to
+see how long water monsters
+could survive on land.<WAIT><SPEAKER>So he just threw me
+in here! Help me! Gasp, gasp!
+
+===== MSG 03:B5 (E9:4EE8, 33 bytes) =====
+<CLEAR>"JUMBO TOMATO" is written here.
+
+===== MSG 03:B6 (E9:4F09, 57 bytes) =====
+<SPEAKER>Gyaaah... Gyaaaah...
+Grrr... GYAAH! Gurgle... gurgle...
+
+===== MSG 03:B7 (E9:4F42, 88 bytes) =====
+<CLEAR>Its eyes are completely dead.
+It seems to have been forced
+to drink some kind of drug.
+
+===== MSG 03:B8 (E9:4F9A, 28 bytes) =====
+<CLEAR>"TOMATON" is written here.
+
+===== MSG 03:B9 (E9:4FB6, 32 bytes) =====
+<CLEAR>"GOLD TOMATO" is written here.
+
+===== MSG 03:BA (E9:4FD6, 51 bytes) =====
+<SPEAKER>I am the great King
+of Tomatons, Pomme de Roi II!
+
+===== MSG 03:BB (E9:5009, 85 bytes) =====
+<SPEAKER>I have been imprisoned
+here for far too long! I long to
+see the members of my clan!
+
+===== MSG 03:BC (E9:505E, 260 bytes) =====
+<SPEAKER>Some fell in battle. Others
+were used as test subjects...<WAIT><SPEAKER>Now we Gold
+Tomatoes are on the
+very brink of extinction!<WAIT><SPEAKER>With me reduced
+to this state, I must admit
+our future looks grim.<WAIT><SPEAKER>My one regret
+concerns this symbol of the
+royal line: the China Boots...
+
+===== MSG 03:BD (E9:5162, 63 bytes) =====
+<SPEAKER>Brave young Gold
+Tomato! Will you accept
+these boots from me?
+
+===== MSG 03:BE (E9:51A1, 29 bytes) =====
+<SPEAKER>Shall I equip
+them for you?
+
+===== MSG 03:BF (E9:51BE, 273 bytes) =====
+<SPEAKER>Long ago, Tomatons
+and humans lived as friends...<WAIT><SPEAKER>Hard to believe now...<WAIT><SPEAKER>But the China
+Boots prove their friendship
+in the age of legend!<WAIT><SPEAKER>As long as they survive,
+perhaps that age can return!<WAIT><SPEAKER>Don't worry about me.
+Go! Carry the China Boots
+to generations yet to come!
+
+===== MSG 03:C0 (E9:52CF, 54 bytes) =====
+<SPEAKER>Come back for it anytime.
+I will be waiting for you!
+
+===== MSG 03:C1 (E9:5305, 63 bytes) =====
+<CLEAR>The iron grate is shut. A hard
+body blow might break through.
+
+===== MSG 03:C2 (E9:5344, 85 bytes) =====
+<CLEAR>There is a monster specimen.<WAIT><CLEAR>It is impossible to tell
+whether it is alive or dead.
+
+===== MSG 03:C3 (E9:5399, 95 bytes) =====
+<CLEAR>There is a monster specimen.<WAIT><CLEAR>All of its blood seems drained
+out. Its whole body is dried up.
+
+===== MSG 03:C4 (E9:53F8, 23 bytes) =====
+<CLEAR>The monster twitched!
+
+===== MSG 03:C5 (E9:540F, 110 bytes) =====
+<SPEAKER>W-watch out for
+J.B.! He is hatred itself.<WAIT><SPEAKER>Monsters, humans...
+everything. J.B. hates
+every living thing...
+
+===== MSG 03:C6 (E9:547D, 84 bytes) =====
+<SPEAKER>My body may be finished,
+but my soul is immortal... I
+may still be of some help...
+
+===== MSG 03:C7 (E9:54D1, 24 bytes) =====
+<CLEAR>There is a small hole.
+
+===== MSG 03:C8 (E9:54E9, 44 bytes) =====
+<SPEAKER>Gghh... nghgh...
+Grrr... snore... gghhh...
+
+===== MSG 03:C9 (E9:5515, 25 bytes) =====
+<CLEAR>He is asleep even here.
+
+===== MSG 03:CA (E9:552E, 75 bytes) =====
+<CLEAR>It is prickly. The points
+are like needles. Some
+could easily injure you.
+
+===== MSG 03:CB (E9:5579, 155 bytes) =====
+<SPEAKER>Thank you for
+your patience. We will now
+begin our motion picture.<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>Your live narrator will
+be none other than yours
+truly, the museum director.<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 03:CC (E9:5614, 70 bytes) =====
+<SPEAKER>Deathland Museum
+proudly presents: The
+Legends of Ancient Deathland.
+
+===== MSG 03:CD (E9:565A, 88 bytes) =====
+<SPEAKER>Thousands upon thousands
+of years ago, only monsters
+lived upon the land of Deathland.
+
+===== MSG 03:CE (E9:56B2, 164 bytes) =====
+<SPEAKER>A sudden mutation? A
+divine envoy? There was born
+the devil's child: King Baron!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>The records say King
+Baron possessed intelligence
+far beyond that of humans.
+
+===== MSG 03:CF (E9:5756, 80 bytes) =====
+<SPEAKER>Traps, tricks, torture
+devices... He made one hellish
+invention after another!
+
+===== MSG 03:D0 (E9:57A6, 231 bytes) =====
+<SPEAKER>No monster could
+oppose him. King Baron ruled
+the island as absolute master!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>But genius and madness
+are only a hair apart!<LINE><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>His devilish
+inventions never stopped.<LINE><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>Again and again, he ran
+experiments on living monsters.
+
+===== MSG 03:D1 (E9:588D, 147 bytes) =====
+<SPEAKER>At last he made
+his tragic masterpiece: the
+Monster Enlarging Device!<PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>King Baron went
+mad with joy, turning the
+island's monsters into giants!
+
+===== MSG 03:D2 (E9:5920, 105 bytes) =====
+<SPEAKER>Soon the whole island
+was full of giant monsters!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>Powerful as they were,
+they soon ate each other.<LINE>
+
+===== MSG 03:D3 (E9:5989, 121 bytes) =====
+<SPEAKER>Giant monsters
+roamed for food and
+even targeted King Baron.<PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>King Baron was cornered
+by the monsters he created.<LINE><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 03:D4 (E9:5A02, 166 bytes) =====
+<SPEAKER>Was this fate as well?
+He leapt into his own device!
+What became of him then?<PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>No later record survives.
+Time marched on, leaving the
+ancient mystery only deeper.
+
+===== MSG 03:D5 (E9:5AA8, 164 bytes) =====
+<SPEAKER>Legends stir every
+age. Thousands came: travelers,
+kings, soldiers and lords.<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>They sought the ruins
+and died one after another.
+Thus came the name Deathland.
+
+===== MSG 03:D6 (E9:5B4C, 302 bytes) =====
+<SPEAKER>At last, persistence
+paid off: a monster fossil was
+found! Archaeology triumphs!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>The historic
+discoverer: archaeologist Sajik!<LINE><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>Ah, Sajik! Dear Sajik!
+The fossil was wonderful...<LINE><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>but he returned to the
+ruins and is still missing today.<LINE><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>Ah, such is life!
+Where are you, Sajik?<LINE><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 03:D7 (E9:5C7A, 50 bytes) =====
+<SPEAKER>Hee, hee, hee... There,
+there. Take a good look.
+
+===== MSG 03:D8 (E9:5CAC, 115 bytes) =====
+<SPEAKER>Huff... huff... huff...
+What kind of place is this?!
+Whoa! And I have an audience!<WAIT><SPEAKER>All right!
+Time to look cool!
+
+===== MSG 03:D9 (E9:5D1F, 21 bytes) =====
+<SPEAKER>Waaah! N-no! Waaah!
+
+===== MSG 03:DA (E9:5D34, 83 bytes) =====
+<SPEAKER>This is the guest room.
+Keh. You made it this far, so
+stay. Forever. Keh heh heh.
+
+===== MSG 03:DB (E9:5D87, 56 bytes) =====
+<SPEAKER>Every day is packed with
+fun around here. Hee hee hee!
+
+===== MSG 03:DC (E9:5DBF, 47 bytes) =====
+<SPEAKER>Hee hee hee... Come
+now. Listen very closely!
+
+===== MSG 03:DD (E9:5DEE, 50 bytes) =====
+<CLEAR>A voice is coming from
+the room in front of you.
+
+===== MSG 03:DE (E9:5E20, 38 bytes) =====
+<SPEAKER>Gyaaaah! Gyegh!
+Gwaaah! H-help meee!
+
+===== MSG 03:DF (E9:5E46, 27 bytes) =====
+<CLEAR>The voice falls silent...
+
+===== MSG 03:E0 (E9:5E61, 82 bytes) =====
+<CLEAR>Something rustles below...
+It sounds like something is
+moving around down there.
+
+===== MSG 03:E1 (E9:5EB3, 76 bytes) =====
+<SPEAKER>Hic... Whooo! I am
+the great... hic... me! That
+is who I am! Hic... blegh!
+
+===== MSG 03:E2 (E9:5EFF, 79 bytes) =====
+<SPEAKER>O successor, you have
+come! In King Baron's name,
+will you submit to my test?
+
+===== MSG 03:E3 (E9:5F4E, 115 bytes) =====
+<SPEAKER>Good. I like such
+obedience. Then answer me this.<WAIT><SPEAKER>Do you believe
+King Baron is the greatest
+being in this world?
+
+===== MSG 03:E4 (E9:5FC1, 33 bytes) =====
+<SPEAKER>Hmm. I
+appreciate your honesty.
+
+===== MSG 03:E5 (E9:5FE2, 133 bytes) =====
+<SPEAKER>Just do not make
+me angry! A successor must
+endure anything. Now then...<WAIT><SPEAKER>Would you be
+willing to give me every
+last coin you have?
+
+===== MSG 03:E6 (E9:6067, 60 bytes) =====
+<SPEAKER>Ho ho! That
+makes me happy. Then
+I will take it right now!
+
+===== MSG 03:E7 (E9:60A3, 20 bytes) =====
+<CLEAR>Lady gave him <NUMBER> Y.
+
+===== MSG 03:E8 (E9:60B7, 118 bytes) =====
+<SPEAKER>Do not get angry! You
+must not! A true successor
+must endure whatever comes.<WAIT><SPEAKER>So, are you
+annoyed with me right now?
+
+===== MSG 03:E9 (E9:612D, 93 bytes) =====
+<SPEAKER>Oh, excellent! That is the
+spirit of King Baron's successor!
+I will return half your money.
+
+===== MSG 03:EA (E9:618A, 138 bytes) =====
+<SPEAKER>Well? Feel my
+love? Hmm? You still
+look a little unhappy.<WAIT><SPEAKER>Then here
+is my final question.<WAIT><SPEAKER>Do you think you
+could defeat me in a fight?
+
+===== MSG 03:EB (E9:6214, 107 bytes) =====
+<SPEAKER>What?! With such a
+timid heart, you can never
+become King Baron's successor!<WAIT><SPEAKER>Someone
+like you gets this!
+
+===== MSG 03:EC (E9:627F, 76 bytes) =====
+<SPEAKER>I see. That answer
+will do... but I cannot
+recognize you as the successor!
+
+===== MSG 03:ED (E9:62CB, 62 bytes) =====
+<SPEAKER>With an attitude like that,
+you will never be the successor!
+
+===== MSG 03:EE (E9:6309, 62 bytes) =====
+<SPEAKER>Oh, excellent! That is the
+spirit of King Baron's successor!
+
+===== MSG 03:EF (E9:6347, 74 bytes) =====
+<SPEAKER>Ho! You have plenty
+of nerve. Then let me test
+your strength for myself!
+
+===== MSG 03:F0 (E9:6391, 55 bytes) =====
+<SPEAKER>Heh heh!
+Hey, lady, wanna play
+hide-and-seek with me?
+
+===== MSG 03:F1 (E9:63C8, 61 bytes) =====
+<SPEAKER>Heh heh! I am
+going to hide now. Come
+find me! Keh heh heh!
+
+===== MSG 03:F2 (E9:6405, 71 bytes) =====
+<SPEAKER>Heh heh! Then I
+will make you look for me
+whether you like it or not!
+
+===== MSG 03:F3 (E9:644C, 39 bytes) =====
+<CLEAR>Baby Baron stole
+all of Lady's money!
+
+===== MSG 03:F4 (E9:6473, 83 bytes) =====
+<SPEAKER>I was going to give you
+something good... What a shame.<WAIT><SPEAKER>Well? Changed your mind?
+
+===== MSG 03:F5 (E9:64C6, 77 bytes) =====
+<SPEAKER>Waaah! You found me!
+How did you know I was
+here? Heh heh. Here, take this!
+
+===== MSG 03:F6 (E9:6513, 26 bytes) =====
+<CLEAR>Lady got her money back.
+
+===== MSG 03:F7 (E9:652D, 71 bytes) =====
+<SPEAKER>Heh heh! Your
+baggage is full. Use something
+or throw something away.
+
+===== MSG 03:F8 (E9:6574, 50 bytes) =====
+<SPEAKER>Hey, lady, you are
+cute. Wanna be my girlfriend?
+
+===== MSG 03:F9 (E9:65A6, 180 bytes) =====
+<SPEAKER>Keh heh! Another greedy
+human walked right into our trap!<WAIT><SPEAKER>We monsters
+have always been pushed
+around by you humans!<WAIT><SPEAKER>Today we are
+paying you back in full.
+Better brace yourself!
+
+===== MSG 03:FA (E9:665A, 112 bytes) =====
+<SPEAKER>Keh heh! We will take
+our time and torment you good!<WAIT><SPEAKER>If you survive
+the torture, we will
+let you out of here.
+
+===== MSG 03:FB (E9:66CA, 52 bytes) =====
+<SPEAKER>Keh heh! We will hold
+on to your medicine for you.
+
+===== MSG 03:FC (E9:66FE, 40 bytes) =====
+<CLEAR>All of Lady's medicine
+was taken away.
+
+===== MSG 03:FD (E9:6726, 80 bytes) =====
+<SPEAKER>Two of these three chairs
+will give you a nasty shock.<WAIT><SPEAKER>Pick one and sit down!
+
+===== MSG 03:FE (E9:6776, 30 bytes) =====
+<SPEAKER>Move on to
+the next torture!
+
+===== MSG 03:FF (E9:6794, 16 bytes) =====
+<SPEAKER>You got lucky.
+
+===== MSG 04:00 (E9:67A4, 69 bytes) =====
+<SPEAKER>Fireballs will shoot
+from the walls! Run for
+your life! Here we go!
+
+===== MSG 04:01 (E9:67E9, 21 bytes) =====
+<SPEAKER>Wahahaha! Run! Run!
+
+===== MSG 04:02 (E9:67FE, 21 bytes) =====
+<SPEAKER>You did well, lady!
+
+===== MSG 04:03 (E9:6813, 58 bytes) =====
+<SPEAKER>Keh heh! Not bad at all.
+For now, I will give this back.
+
+===== MSG 04:04 (E9:684D, 29 bytes) =====
+<CLEAR>Lady got her medicine back.
+
+===== MSG 04:05 (E9:686A, 47 bytes) =====
+<SPEAKER>Keh heh! Not bad
+at all. Here is your reward.
+
+===== MSG 04:06 (E9:6899, 21 bytes) =====
+<SPEAKER>Oh. Then forget it.
+
+===== MSG 04:07 (E9:68AE, 111 bytes) =====
+<SPEAKER>Keh heh! But the
+torture is not over yet.<WAIT><SPEAKER>That was only a
+warm-up. The real fun starts
+now! Keh heh heh heh!
+
+===== MSG 04:08 (E9:691D, 87 bytes) =====
+<SPEAKER>I opened the iron grate
+ahead. Go into the next room!
+That's where it gets real. Keh!
+
+===== MSG 04:09 (E9:6974, 141 bytes) =====
+<SPEAKER>Keh heh! You actually
+survived. Not bad for a woman.
+You keep yourself in shape!<WAIT><SPEAKER>A well-trained human must
+taste especially good. Keh heh!
+
+===== MSG 04:0A (E9:6A01, 187 bytes) =====
+<SPEAKER>Well, well!
+A young lady. Heh.<WAIT><SPEAKER>There are three kinds of
+torture. First comes Hot-Plate Hell!<WAIT><SPEAKER>Parts of the iron
+floor turn red-hot. Do
+your best to keep moving!<WAIT><SPEAKER>All right, here we go!
+
+===== MSG 04:0B (E9:6ABC, 28 bytes) =====
+<SPEAKER>Whoa! We
+are not done yet!
+
+===== MSG 04:0C (E9:6AD8, 81 bytes) =====
+<SPEAKER>Heh heh! That hot-plate
+dance of yours was something.
+Now get to the next room!
+
+===== MSG 04:0D (E9:6B29, 214 bytes) =====
+<SPEAKER>Keh heh! This is
+the ancient and honored
+torture of Brick Hell!<WAIT><SPEAKER>We will drop a
+brick from above. Carry
+it and keep walking!<WAIT><SPEAKER>Two laps around this
+brick path. Keh heh! It is
+brutally heavy! ...All right, drop it!
+
+===== MSG 04:0E (E9:6BFF, 163 bytes) =====
+<SPEAKER>This is Bomb Hell. Lots
+of Dynamuds will fall from above.<WAIT><SPEAKER>Just running away will
+not work. You must throw five
+of them down below that ledge!<WAIT><SPEAKER>Here we go! Hyaa!
+
+===== MSG 04:0F (E9:6CA2, 46 bytes) =====
+<SPEAKER>Muahaha! Muha! Muha!
+Keep going! Keep going!
+
+===== MSG 04:10 (E9:6CD0, 61 bytes) =====
+<SPEAKER>Good work. That concludes
+all of the torture. You did well.
+
+===== MSG 04:11 (E9:6D0D, 87 bytes) =====
+<SPEAKER>Hey, old man! Shut your
+mouth. Keep talking out of turn
+and I will kill you. Keh heh!
+
+===== MSG 04:12 (E9:6D64, 24 bytes) =====
+<SPEAKER>Lord Jumbo Baby Baron!
+
+===== MSG 04:13 (E9:6D7C, 36 bytes) =====
+<SPEAKER>Idiot! I told
+you to call me J.B.!
+
+===== MSG 04:14 (E9:6DA0, 83 bytes) =====
+<SPEAKER>Y-yes, Lord J.B.!<PAUSE_30> A
+report from Deathvalley Mine!
+It seems they found something!
+
+===== MSG 04:15 (E9:6DF3, 26 bytes) =====
+<SPEAKER>What?! I see! Excellent!
+
+===== MSG 04:16 (E9:6E0D, 56 bytes) =====
+<SPEAKER>Life has been fun every
+day since Lord J.B. showed up.
+
+===== MSG 04:17 (E9:6E45, 100 bytes) =====
+<SPEAKER>Yeah, exactly.
+Lord J.B. is incredible.<WAIT><SPEAKER>Eating humans every single
+day... it sounds like a dream!
+
+===== MSG 04:18 (E9:6EA9, 72 bytes) =====
+<SPEAKER>We don't know yet.
+It won't work until the
+ancient device is restored.
+
+===== MSG 04:19 (E9:6EF1, 60 bytes) =====
+<SPEAKER>He said he would build a
+monster empire. Think it is true?
+
+===== MSG 04:1A (E9:6F2D, 105 bytes) =====
+<SPEAKER>I sure hope so.<WAIT><SPEAKER>Anyway, all that matters
+is those annoying humans never
+find out what we are planning.
+
+===== MSG 04:1B (E9:6F96, 62 bytes) =====
+<CLEAR>The emergency-bell
+switch has been pressed.<WAIT><CLEAR>Press it again?
+
+===== MSG 04:1C (E9:6FD4, 86 bytes) =====
+<CLEAR>The emergency alarm was
+canceled. But too much force
+was used, and the switch broke.
+
+===== MSG 04:1D (E9:702A, 38 bytes) =====
+<CLEAR>The emergency-bell
+switch is broken.
+
+===== MSG 04:1E (E9:7050, 31 bytes) =====
+<SPEAKER>Whoa! Who
+are you?! A human?!
+
+===== MSG 04:1F (E9:706F, 42 bytes) =====
+<CLEAR>The monster pressed
+the emergency alarm.
+
+===== MSG 04:20 (E9:7099, 137 bytes) =====
+<SPEAKER>A human, down
+here? You must have made
+it through Baron Castle.<WAIT><SPEAKER>I am Gustav,
+keeper of this underground
+waterway! Go straight to hell!
+
+===== MSG 04:21 (E9:7122, 495 bytes) =====
+<CLEAR>To the brave adventurer:<WAIT><CLEAR>My name is Sajik. I am an
+archaeologist researching the
+mysteries of ancient Deathland.<WAIT><CLEAR>Deep beneath the mountain
+called Deathvalley Mine, I
+finally discovered a fossil.<WAIT><CLEAR>It was the fossil of a
+giant Tomaton, once thought
+to be only a legend.<WAIT><CLEAR>Overjoyed, I carried it back to
+town, then returned to the mine.<WAIT><CLEAR>I believed there might be
+more fossils still waiting below...<WAIT><CLEAR>And at last I found what I
+believe to be King Baron's coffin...<WAIT><CLEAR>The letter is torn off here.
+
+===== MSG 04:22 (E9:7311, 304 bytes) =====
+<SPEAKER>Well, well, well! What
+a lively, curious young lady!<WAIT><SPEAKER>What could possibly
+bring you all the way
+up this mountain? Grrr...<WAIT><SPEAKER>Grrr... Curiosity
+can lead to death. I will
+teach you that firsthand!<WAIT><SPEAKER>I hate being interfered
+with more than anything. Grrr...<WAIT><SPEAKER>All right! Throw the
+little girl into the dungeon!
+
+===== MSG 04:23 (E9:7441, 45 bytes) =====
+<SPEAKER>Lord J.B. is in an
+awfully good mood today.
+
+===== MSG 04:24 (E9:746E, 87 bytes) =====
+<SPEAKER>Of course he is!<WAIT><SPEAKER>We finally excavated
+something needed to
+revive the ancient device.
+
+===== MSG 04:25 (E9:74C5, 63 bytes) =====
+<SPEAKER>Huh. By the
+way, what is this ancient
+device? Can you eat it?
+
+===== MSG 04:26 (E9:7504, 83 bytes) =====
+<SPEAKER>No, it's not canned
+food. I don't know what it is,
+but it's some kind of machine.
+
+===== MSG 04:27 (E9:7557, 24 bytes) =====
+<SPEAKER>What the heck is that?
+
+===== MSG 04:28 (E9:756F, 62 bytes) =====
+<SPEAKER>They say if we
+use it, we can grow
+huge just like Lord J.B.!
+
+===== MSG 04:29 (E9:75AD, 27 bytes) =====
+<SPEAKER>Wow! That
+sounds amazing!
+
+===== MSG 04:2A (E9:75C8, 16 bytes) =====
+<SPEAKER>Hold on tight!
+
+===== MSG 04:2B (E9:75D8, 26 bytes) =====
+<SPEAKER>All right! Looking good!
+
+===== MSG 04:2C (E9:75F2, 31 bytes) =====
+<SPEAKER>Whoa! When
+did you get here?!
+
+===== MSG 04:2D (E9:7611, 172 bytes) =====
+<SPEAKER>My fellow monsters!
+At last, the time of our
+rebirth draws near! Grrr...<WAIT><SPEAKER>Huge bodies and
+highly developed brains...<WAIT><SPEAKER>Once we have both, we
+can feast on humans every day!
+
+===== MSG 04:2E (E9:76BD, 10 bytes) =====
+<SPEAKER>Ooooooh!
+
+===== MSG 04:2F (E9:76C7, 79 bytes) =====
+<SPEAKER>Thanks to all of you,
+we finally found the coffin
+we have been searching for.
+
+===== MSG 04:30 (E9:7716, 56 bytes) =====
+<SPEAKER>So today, I have prepared
+a very special show for you!
+
+===== MSG 04:31 (E9:774E, 17 bytes) =====
+<SPEAKER>Oooooh! Oooooh!
+
+===== MSG 04:32 (E9:775F, 133 bytes) =====
+<SPEAKER>Now then, young human.<WAIT><SPEAKER>I grant you the honor
+of performing a simple task.<WAIT><SPEAKER>All you have to do is
+open this coffin. Go on! Open it!
+
+===== MSG 04:33 (E9:77E4, 48 bytes) =====
+<SPEAKER>You coward! Resist
+and you will only get hurt!
+
+===== MSG 04:34 (E9:7814, 157 bytes) =====
+<SPEAKER>Oops! I only meant
+to scare you a little.
+I am just too strong!<WAIT><SPEAKER>Hmm... this is a problem.
+If something dangerous comes out,
+I do not want to be near it...
+
+===== MSG 04:35 (E9:78B1, 17 bytes) =====
+<SPEAKER>I will open it!
+
+===== MSG 04:36 (E9:78C2, 53 bytes) =====
+<SPEAKER>Huh? Mogukichi will?
+Grrr... What if it is a mimic?
+
+===== MSG 04:37 (E9:78F7, 54 bytes) =====
+<SPEAKER>Heh heh! I can open it
+from way over here! Watch me!
+
+===== MSG 04:38 (E9:792D, 27 bytes) =====
+<SPEAKER>Whoa! Mogukichi! Amazing!
+
+===== MSG 04:39 (E9:7948, 49 bytes) =====
+<SPEAKER>All that research was
+not for nothing! Heh heh!
+
+===== MSG 04:3A (E9:7979, 54 bytes) =====
+<SPEAKER>Looks like there are
+no traps on the coffin. Grrr...
+
+===== MSG 04:3B (E9:79AF, 72 bytes) =====
+<SPEAKER>Grrr... Whoa! What
+the hell?! When did... Grrr...
+I let my guard down!
+
+===== MSG 04:3C (E9:79F7, 75 bytes) =====
+<SPEAKER>Mogukichi, I leave this
+to you! I have something
+else I must go find now.
+
+===== MSG 04:3D (E9:7A42, 15 bytes) =====
+<SPEAKER>Okay. Got it.
+
+===== MSG 04:3E (E9:7A51, 151 bytes) =====
+<CLEAR>Yoshio added pronunciation
+guides in his own handwriting.<WAIT><CLEAR>"...Thus, I have decided to
+seal the device away... If one
+should seek to awaken it again,
+
+===== MSG 04:3F (E9:7AE8, 198 bytes) =====
+<CLEAR>"offer a white ball to
+Ganubis, my faithful servant,
+and reveal my name. Then...<WAIT><CLEAR>"the device shall live
+once more... However, if
+a black ball is offered,<WAIT><CLEAR>"the device shall
+never awaken again..."
+
+===== MSG 04:40 (E9:7BAE, 76 bytes) =====
+<CLEAR>The rumbling and shaking
+have stopped. The lava
+furnace seems to be fixed.
+
+===== MSG 04:41 (E9:7BFA, 361 bytes) =====
+<SPEAKER>M-my lady! You are safe!<WAIT><SPEAKER>Do you know
+how worried I was
+about you?! Honestly!<WAIT><SPEAKER>And while I was panicking
+about putting out the fire, I
+forgot nearly all my magic!<WAIT><SPEAKER>I chased you all
+the way to this island, and
+look what became of me...<WAIT><SPEAKER>Never mind that, my
+lady! We must find Cox!<WAIT><SPEAKER>He was taken somewhere
+inside this mine just moments
+ago. Come! We must hurry!
+
+===== MSG 04:42 (E9:7D63, 28 bytes) =====
+<CLEAR>Yoshio joined the party.<LINE><LINE>
+
+===== MSG 04:43 (E9:7D7F, 121 bytes) =====
+<CLEAR>There is a crack in
+the wall. Yoshio must
+have struggled hard here.<WAIT><CLEAR>A powerful impact might
+break through the wall...<LINE>
+
+===== MSG 04:44 (E9:7DF8, 33 bytes) =====
+<SPEAKER>Ugh... uhh...<WAIT><SPEAKER>W-where am I...?
+
+===== MSG 04:45 (E9:7E19, 337 bytes) =====
+<SPEAKER>Y-you saved
+me, did you not...?<WAIT><SPEAKER>I am deeply grateful... I
+hardly know how to thank you.<WAIT><SPEAKER>My name is Sajik. I am
+an archaeologist who studied the
+ancient legends of this island.<WAIT><SPEAKER>What? You already know
+of me? How could that be?<WAIT><SPEAKER>...I see. So many victims...?<WAIT><SPEAKER>This is all my fault!
+I never should have dug that
+thing out of the ground!
+
+===== MSG 04:46 (E9:7F6A, 604 bytes) =====
+<SPEAKER>After I unearthed the
+fossil at Deathvalley, I went
+deeper and discovered a coffin!<WAIT><SPEAKER>It was enormous, cold
+as ice, and glowing a pale blue.<WAIT><SPEAKER>Ancient writing
+on the coffin spelled
+the name King Baron.<WAIT><SPEAKER>The moment I opened
+it, something huge and purple
+inside opened its eyes...<WAIT><SPEAKER>I remember
+nothing after that. When
+I awoke, you were here.<WAIT><SPEAKER>Ah! I cannot stay here! I
+must see Meg, my beloved wife!<WAIT><SPEAKER>Please visit my
+home later. It is the
+two-story house in Rivertown.<WAIT><SPEAKER>I will organize what
+I know and find some
+way to save this island!<WAIT><SPEAKER>Oh, I rushed through
+that story. Would you
+like me to tell it again?
+
+===== MSG 04:47 (E9:81C6, 47 bytes) =====
+<SPEAKER>I see. Then please
+excuse me. Yaaahoo! Meeeg!
+
+===== MSG 04:48 (E9:81F5, 81 bytes) =====
+<CLEAR>The sign says "REFRIGERATED."<WAIT><CLEAR>The door is sealed shut
+to keep the food fresh.<LINE>
+
+===== MSG 04:49 (E9:8246, 68 bytes) =====
+<CLEAR>A human figure is visible in the
+ice. It looks very cool in there.
+
+===== MSG 04:4A (E9:828A, 224 bytes) =====
+<SPEAKER>Lady! I've been waiting!<WAIT><SPEAKER>I compared Bob's
+information with what I know.
+I think I understand now.<WAIT><SPEAKER>The monster in the coffin
+I found was not King Baron.<WAIT><SPEAKER>I think J.B. entered
+King Baron's coffin for
+some unknown reason...
+
+===== MSG 04:4B (E9:836A, 27 bytes) =====
+<SPEAKER>...That is my conclusion.
+
+===== MSG 04:4C (E9:8385, 142 bytes) =====
+<SPEAKER>Escaped prisoners say
+J.B. is restoring King Baron's
+Monster Enlarging Device...<WAIT><SPEAKER>the so-called
+ancient device. He's
+desperate to revive it.
+
+===== MSG 04:4D (E9:8413, 157 bytes) =====
+<SPEAKER>That is further
+proof J.B. is not King Baron.<WAIT><SPEAKER>Then where is
+King Baron's ancient
+device actually located?<WAIT><SPEAKER>I believe the answer
+may be hidden in this map!
+
+===== MSG 04:4E (E9:84B0, 85 bytes) =====
+<SPEAKER>I excavated this as well.
+It seems to be a map made
+by an archaeologist long ago...
+
+===== MSG 04:4F (E9:8505, 186 bytes) =====
+<SPEAKER>This shows a huge rock
+island apart from the main
+island. It was called Baron Rock.<WAIT><SPEAKER>The notes say King
+Baron used it as his base.<WAIT><SPEAKER>But they also say nobody
+ever managed to reach it...
+
+===== MSG 04:50 (E9:85BF, 155 bytes) =====
+<SPEAKER>The people of that
+age apparently built this
+tower by order of their king.<WAIT><SPEAKER>They must have built
+it overlooking Baron Rock
+and conducted research here...
+
+===== MSG 04:51 (E9:865A, 72 bytes) =====
+<SPEAKER>Huh? What is this
+mark on the tower? I have
+seen it... Ah! I remember!
+
+===== MSG 04:52 (E9:86A2, 49 bytes) =====
+<SPEAKER>It looks exactly like
+the statue in the museum!
+
+===== MSG 04:53 (E9:86D3, 71 bytes) =====
+<SPEAKER>Hmm... What connection
+could that statue have
+with this tower? Hmm...
+
+===== MSG 04:54 (E9:871A, 287 bytes) =====
+<SPEAKER>Ugh! That is the
+flying carpet a merchant
+brought here long ago!<WAIT><SPEAKER>...But it was useless.
+Hmph! A carpet without
+a soul cannot fly now...<WAIT><SPEAKER>................<WAIT><SPEAKER>Of course! If I myself
+became the soul of that carpet...!<WAIT><SPEAKER>O almighty God!<PAUSE_30> Grant
+the wish I have carried
+for two hundred years!<PAUSE_30>
+
+===== MSG 04:55 (E9:8839, 34 bytes) =====
+<SPEAKER>Come! Fly with
+me to Baron Rock!
+
+===== MSG 04:56 (E9:885B, 38 bytes) =====
+<SPEAKER>Climb aboard me
+from there! Come on!
+
+===== MSG 04:57 (E9:8881, 39 bytes) =====
+<SPEAKER>Wait! One of
+your companions is dead!
+
+===== MSG 04:58 (E9:88A8, 118 bytes) =====
+<SPEAKER>Hmm! Three
+riders are a little heavy!<WAIT><SPEAKER>Before heading straight
+to Baron Rock, let us survey
+the island from the air.
+
+===== MSG 04:59 (E9:891E, 83 bytes) =====
+<SPEAKER>The wind rising from
+the sea is too strong to fly
+any farther. We will land here!
+
+===== MSG 04:5A (E9:8971, 241 bytes) =====
+<SPEAKER>Baron Rock is full of
+mysteries. King Baron tested
+every sort of contraption there...<WAIT><SPEAKER>At last I can vanish
+from this world in peace...<WAIT><SPEAKER>My servants in the
+tower may finally rest as well...<WAIT><SPEAKER>Thank you, young
+lady. Please be very careful...
+
+===== MSG 04:5B (E9:8A62, 117 bytes) =====
+<SPEAKER>My lady, there
+is no way we can climb
+this cliff as we are!<WAIT><SPEAKER>Let us return to town
+and ask the islanders for ideas.
+
+===== MSG 04:5C (E9:8AD7, 316 bytes) =====
+<CLEAR>KING BARON Ancient
+name: KING BARON<WAIT><CLEAR>A priest who served
+an ancient king.<WAIT><CLEAR>Tradition says he was born
+of a demon and a human.<WAIT><CLEAR>Though a priest, he performed
+experiments on living monsters
+and was exiled to this island.<WAIT><CLEAR>He is said to have built a
+device that enlarged monsters, but
+this has never been confirmed...
+
+===== MSG 04:5D (E9:8C13, 27 bytes) =====
+<SPEAKER>Hey! Someone
+is up there!
+
+===== MSG 04:5E (E9:8C2E, 71 bytes) =====
+<SPEAKER>Humans! Humans!
+They must be the intruders
+Lord J.B. warned us about!
+
+===== MSG 04:5F (E9:8C75, 59 bytes) =====
+<SPEAKER>All right! Let
+us beat them and get
+praised by Lord J.B.!
+
+===== MSG 04:60 (E9:8CB0, 39 bytes) =====
+<SPEAKER>I will go first!
+Everybody, watch me!
+
+===== MSG 04:61 (E9:8CD7, 33 bytes) =====
+<SPEAKER>Damn you!
+You killed my friend!
+
+===== MSG 04:62 (E9:8CF8, 74 bytes) =====
+<SPEAKER>Whoa! They are only
+humans, but they are crazy
+strong! No choice... Run!
+
+===== MSG 04:63 (E9:8D42, 86 bytes) =====
+<SPEAKER>No one
+interferes with Lord J.B.!<WAIT><SPEAKER>I will smash your
+frozen bodies into tiny pieces!
+
+===== MSG 04:64 (E9:8D98, 25 bytes) =====
+<CLEAR>Lady's HP was restored.
+
+===== MSG 04:65 (E9:8DB1, 30 bytes) =====
+<CLEAR>The party's HP was restored.
+
+===== MSG 04:66 (E9:8DCF, 32 bytes) =====
+<CLEAR>Flames will not come out here.
+
+===== MSG 04:67 (E9:8DEF, 18 bytes) =====
+<CLEAR>The gas ran out.
+
+===== MSG 04:68 (E9:8E01, 42 bytes) =====
+<CLEAR>The Rocket Boots
+were refilled with gas.
+
+===== MSG 04:69 (E9:8E2B, 43 bytes) =====
+<CLEAR>Gas is blasting from
+a hole at your feet.
+
+===== MSG 04:6A (E9:8E56, 73 bytes) =====
+<SPEAKER>I cannot entrust my
+master's great legacy to a fool!<WAIT><SPEAKER>Leave this place!
+
+===== MSG 04:6B (E9:8E9F, 227 bytes) =====
+<SPEAKER>My master King
+Baron's name, and that
+shining White Ball...<WAIT><SPEAKER>They are truly the
+proof of King Baron's successor!<WAIT><SPEAKER>I have confirmed
+it with my own eyes!<WAIT><SPEAKER>As King Baron
+commanded, I will reactivate
+the Monster Enlarging Device!
+
+===== MSG 04:6C (E9:8F82, 54 bytes) =====
+<SPEAKER>Clap, clap, clap! Grrr...
+Nicely solved, young lady!
+
+===== MSG 04:6D (E9:8FB8, 636 bytes) =====
+<SPEAKER>I could never solve
+the puzzle in this room...<WAIT><SPEAKER>But giving up here
+would make my thousands of
+years of sleep meaningless...<WAIT><SPEAKER>Then I had an idea!<WAIT><SPEAKER>I would make the pesky
+girl buzzing around me like a
+fly solve the puzzle instead!<WAIT><SPEAKER>Grrr... You really
+are clever, young lady.<WAIT><SPEAKER>But Lord J.B. is still
+one step smarter than you!<WAIT><SPEAKER>That precious Black
+Ball you were carrying...<WAIT><SPEAKER>was a White Ball I
+painted black! I threw the real
+Black Ball away a long time ago!<WAIT><SPEAKER>Grrr, gehahaha!
+King Baron's device has
+finally been restored!<WAIT><SPEAKER>You can rot to death
+right here on Baron Rock!<WAIT><SPEAKER>Be grateful I will
+not bother killing you
+myself! Gehahaha! Grrr!
+
+===== MSG 04:6E (E9:9234, 297 bytes) =====
+<SPEAKER>Huh?<PAUSE_30> This is...?
+My husband's! ............ Sajik!<WAIT><SPEAKER>Thank you for bringing
+this all the way to me.<WAIT><SPEAKER>My husband must still
+be alive! Lady, please! Find
+him! Please find my husband!<WAIT><SPEAKER>I know it is
+a terrible thing to ask
+of you... Ah! I know!<WAIT><SPEAKER>Please take this. It is
+only a small token of thanks.
+
+===== MSG 04:6F (E9:935D, 30 bytes) =====
+<SPEAKER>Would you
+like to try it on?
+
+===== MSG 04:70 (E9:937B, 27 bytes) =====
+<SPEAKER>Oh my! It fits perfectly!
+
+===== MSG 04:71 (E9:9396, 37 bytes) =====
+<SPEAKER>Hyaa!<PAUSE_30> Take
+that!<PAUSE_30> Huff...<PAUSE_30> huff...
+
+===== MSG 04:72 (E9:93BB, 134 bytes) =====
+<SPEAKER>I am a priest in training.<WAIT><SPEAKER>But staying deep
+in the mountains can
+get a little stressful.<WAIT><SPEAKER>So I work it off
+by exercising like this.
+
+===== MSG 04:73 (E9:9441, 145 bytes) =====
+<SPEAKER>Want to try it
+too? Punch this pillar of
+ice with a mighty hyaa!<WAIT><SPEAKER>If you can shatter
+this ice, you might even be
+able to smash a giant boulder!
+
+===== MSG 04:74 (E9:94D2, 121 bytes) =====
+<SPEAKER>Huh? Did you just
+see something like a knife?<WAIT><SPEAKER>No? If I am seeing
+things, I still have a long
+way to go in my training.
+
+===== MSG 04:75 (E9:954B, 71 bytes) =====
+<SPEAKER>After training up
+a sweat, I soak in that
+hot spring. Want to try it?
+
+===== MSG 04:76 (E9:9592, 90 bytes) =====
+<SPEAKER>Grrr, grrr, grrr...
+Hello. We meet often,
+do we not? Grrr...<WAIT><SPEAKER>Hellooo!
+Can you hear me?!
+
+===== MSG 04:77 (E9:95EC, 144 bytes) =====
+<SPEAKER>Whoa, whoa,
+whoa! No, no. I must not
+use too much strength!<WAIT><SPEAKER>Grrr, grrr, grrr...
+Well then, goodbye.<WAIT><SPEAKER>We will meet again
+in hell. Geh heh heh.
+
+===== MSG 04:78 (E9:967C, 214 bytes) =====
+<SPEAKER>Oh, young lady!
+Here's a tip to take
+with you to hell! Grrr!<WAIT><SPEAKER>The last room of
+these ruins has the mechanism
+that starts the ancient device.<WAIT><SPEAKER>Grrr... but that won't
+matter to people about to die!<WAIT><SPEAKER>How rude of me!
+
+===== MSG 04:79 (E9:9752, 113 bytes) =====
+<CLEAR>Lady fitted her stone tablet
+beneath the one on the wall.<WAIT><CLEAR>The two tablets joined
+perfectly into a single slab!
+
+===== MSG 04:7A (E9:97C3, 349 bytes) =====
+<CLEAR>Ancient writing covers the tablet.
+Yoshio added pronunciation guides.<WAIT><CLEAR>"To my great successor
+who shall come one day:<WAIT><CLEAR>"At last I have been surrounded
+by the giant monsters.<WAIT><CLEAR>"If the creatures I made eat
+me here, the name King
+Baron itself would be disgraced.<WAIT><CLEAR>"Therefore, I have decided
+to seal the device away... If
+one should awaken it again...
+
+===== MSG 04:7B (E9:9920, 360 bytes) =====
+<SPEAKER>My successor, you have
+done well to come this far!<WAIT><SPEAKER>But the trials ahead
+will not be as easy as
+those you have faced before...<WAIT><SPEAKER>Without a mind greater
+than mine, the ancient device
+will instead take control of you!<WAIT><SPEAKER>Solve the mystery
+of my manor and triumph
+over your own self.<WAIT><SPEAKER>Only then will the path
+to the ancient device open!<WAIT><SPEAKER>I wish you good fortune...
+
+===== MSG 04:7C (E9:9A88, 165 bytes) =====
+<SPEAKER>Now, look within yourself.<WAIT><SPEAKER>Hatred, anger,
+resentment... The heart within
+is your greatest enemy.<WAIT><SPEAKER>If you would
+approach the divine, first
+conquer your own self...
+
+===== MSG 04:7D (E9:9B2D, 78 bytes) =====
+<CLEAR>There is a large mirror.<WAIT><CLEAR>Strangely, your reflections
+do not appear in it...
+
+===== MSG 04:7E (E9:9B7B, 38 bytes) =====
+<CLEAR>The party's bodies
+have become tiny!
+
+===== MSG 04:7F (E9:9BA1, 98 bytes) =====
+<SPEAKER>Bwah! Bwoof! Fools!
+Defying Lord J.B. is a
+thousand years too soon!<WAIT><SPEAKER>I will crush you underfoot!
+
+===== MSG 04:80 (E9:9C03, 124 bytes) =====
+<SPEAKER>Lord J.B. said you
+were a tough little girl, but
+that was nothing special.<WAIT><SPEAKER>Well then... I think
+I will take a little nap.
+
+===== MSG 04:81 (E9:9C7F, 39 bytes) =====
+<CLEAR>Yoshio's soul lets
+out a mighty roar!
+
+===== MSG 04:82 (E9:9CA6, 218 bytes) =====
+<SPEAKER>Whew, my lady!
+That was a very close call!<WAIT><SPEAKER>If not for this gap
+in the floor, we would have
+been flattened! What a relief!<WAIT><SPEAKER>But this is
+hardly the time to relax.<WAIT><SPEAKER>We must find some way
+to return to our normal size...
+
+===== MSG 04:83 (E9:9D80, 612 bytes) =====
+<SPEAKER>Grr-hohoho! Grrrr...<WAIT><SPEAKER>I must admire your
+persistence. You simply
+refuse to give up. Grrr.<WAIT><SPEAKER>What exactly have I
+done to deserve this? Grrr?<WAIT><SPEAKER>I have not
+done anything yet!<WAIT><SPEAKER>Are monsters forbidden
+from building an empire?<WAIT><SPEAKER>Humans build
+countries, do they not?!<WAIT><SPEAKER>Heh, grr-grr! I suppose
+that is too difficult a subject
+for a young lady like you!<WAIT><SPEAKER>Still, I like you,
+young lady. I really do. Grrr!<WAIT><SPEAKER>So I will tell you
+something! The ancient device
+lies deep inside this tower!<WAIT><SPEAKER>That ancient device
+will become the foundation
+of our monster empire!<WAIT><SPEAKER>Grrr-grr...
+gwa-gub-grr! Geh-go-gyeee!
+Grr-gahaha! Gehihihihihiii!
+
+===== MSG 04:84 (E9:9FE4, 196 bytes) =====
+<SPEAKER>So you finally made
+it this far. Then feast your
+eyes on the ancient device!<WAIT><SPEAKER>And now I will make
+you suffer exactly as I did!<WAIT><SPEAKER>Grrrrrrrr! I will
+throw all three of you
+into the device together!
+
+===== MSG 04:85 (E9:A0A8, 71 bytes) =====
+<SPEAKER>Agh...<PAUSE_30> aghghgh...<PAUSE_60> That day...<PAUSE_30>
+I was<PAUSE_30> walking through the forest...
+
+===== MSG 04:86 (E9:A0EF, 48 bytes) =====
+<CLEAR>Thousands of years ago,
+on Deathland Island...
+
+===== MSG 04:87 (E9:A11F, 50 bytes) =====
+<SPEAKER>La, la, la... Maybe I
+will go scare some humans.
+
+===== MSG 04:88 (E9:A151, 70 bytes) =====
+<SPEAKER>Gwahahaha! This
+time I will experiment on a
+Baby Baron! Hee hee hee!
+
+===== MSG 04:89 (E9:A197, 45 bytes) =====
+<SPEAKER>Waaah! What is
+this?! What is this?! Waaah!
+
+===== MSG 04:8A (E9:A1C4, 20 bytes) =====
+<SPEAKER>Waaah!<PAUSE_30> S<PAUSE_30> -sto<PAUSE_30>p!
+
+===== MSG 04:8B (E9:A1D8, 88 bytes) =====
+<SPEAKER>The most fascinating
+part is seeing what an intelligent
+Baby Baron becomes... hee hee.
+
+===== MSG 04:8C (E9:A230, 66 bytes) =====
+<SPEAKER>U<PAUSE_30>gh<PAUSE_30>... my head...<PAUSE_30> My head
+hurts...<PAUSE_30> My body feels so heavy...
+
+===== MSG 04:8D (E9:A272, 113 bytes) =====
+<SPEAKER>Hee hee hee! It
+worked! He can still speak!<WAIT><SPEAKER>His brain is
+completely unaffected! It
+worked! It worked! Hee hee!
+
+===== MSG 04:8E (E9:A2E3, 103 bytes) =====
+<SPEAKER>J.B.! Where is J.B.?<WAIT><SPEAKER>More! More! Make more
+monsters gigantic! Bring me
+every one you can catch! Hee!
+
+===== MSG 04:8F (E9:A34A, 329 bytes) =====
+<SPEAKER>Of all monsters
+enlarged by the device,
+only I kept my intelligence.<WAIT><SPEAKER>So King Baron
+worked me like a slave...<WAIT><SPEAKER>I caught monsters
+island-wide and threw them in
+the device as King Baron howled.<WAIT><SPEAKER>Strange for a demon
+like me to say this, but...<WAIT><SPEAKER>King Baron truly
+became a demon that day...<WAIT><SPEAKER>Look at me! Look
+what became of my body!
+
+===== MSG 04:90 (E9:A493, 194 bytes) =====
+<SPEAKER>That devilish
+invention destroyed my body.<WAIT><SPEAKER>You want to become huge
+too, do you not? Geh-heh-heh!<WAIT><SPEAKER>Share my suffering, and
+let us go to hell together!<WAIT><SPEAKER>But first, I have
+one last gift for you!
+
+===== MSG 04:91 (E9:A555, 59 bytes) =====
+<SPEAKER>You have admirable nerve.
+You really do not need to save?
+
+===== MSG 04:92 (E9:A590, 16 bytes) =====
+<SPEAKER>Are you ready?
+
+===== MSG 04:93 (E9:A5A0, 50 bytes) =====
+<SPEAKER>Then I will throw you
+into the device right now!
+
+===== MSG 04:94 (E9:A5D2, 291 bytes) =====
+<SPEAKER>U<PAUSE_30>gh<PAUSE_30>... g<PAUSE_30>eh<PAUSE_30> ... agh...<WAIT><SPEAKER>When the whole island
+filled with giant monsters, I ran
+away as fast as I could... agh...<WAIT><SPEAKER>I climbed into the
+hibernation coffin he had built and
+waited for the ages to pass...<WAIT><SPEAKER>Agh... and after all
+that, I still die here like a
+fool? Heh<PAUSE_30>... hehehehe...<PAUSE_30> blegh!
+
+===== MSG 04:95 (E9:A6F5, 157 bytes) =====
+<SPEAKER>Gwoooo!<PAUSE_30> Gubogyaa!<PAUSE_30>
+My body is burning!<PAUSE_30> Gwoooo!
+My head is splitting!<PAUSE_30> Gwoooo!<WAIT><SPEAKER>Where is J.B.?! The
+monsters are attacking! Drive
+them awaaay! Gubagubooo!
+
+===== MSG 04:96 (E9:A792, 117 bytes) =====
+<SPEAKER>Grr, grr,
+gehahaha! You fools... You
+escaped with your lives.<WAIT><SPEAKER>And yet you came all
+the way back just to be killed!
+
+===== MSG 04:97 (E9:A807, 36 bytes) =====
+<CLEAR>Cox's soul lets
+out a mighty roar!
+
+===== MSG 04:98 (E9:A82B, 272 bytes) =====
+<SPEAKER>Um... my lady...
+Should we really leave
+the ancient device intact?<WAIT><SPEAKER>For thousands of years it
+twisted the fates of humans and
+monsters and took countless lives...<WAIT><SPEAKER>J.B. called it
+a devilish invention.<WAIT><SPEAKER>So this horror can
+never happen again, perhaps
+we should destroy it.
+
+===== MSG 04:99 (E9:A93B, 42 bytes) =====
+Yoshio's soul lets
+out a mighty roar!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:9A (E9:A965, 136 bytes) =====
+<SPEAKER>In a way, he was
+killed by the device he created
+himself... .........<PAUSE_60> How tragic...<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>...Come, my lady.
+Let us return to town!<LINE><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:9B (E9:A9ED, 145 bytes) =====
+<CLEAR>A towering machine stands here.<LINE><WAIT><CLEAR>This is King Baron's
+Monster Enlarging Device...<LINE><WAIT><CLEAR>A faint, heartbeat-like sound
+can be heard from within...<LINE>
+
+===== MSG 04:9C (E9:AA7E, 82 bytes) =====
+<SPEAKER>Grr, grr, gehahaha! So
+you came back, humans! Let
+us continue where we left off!
+
+===== MSG 04:9D (E9:AAD0, 201 bytes) =====
+<SPEAKER>Lady! Thank
+you so much!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>Thanks to you, the island
+may finally regain its old vitality!<LINE><PAUSE_60><PAUSE_60><PAUSE_60>And Lady, I must say!<PAUSE_60><PAUSE_60><SPEAKER>Turning the island's
+ruins into an amusement
+park... what a brilliant idea!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:9E (E9:AB99, 97 bytes) =====
+<SPEAKER>So we came up with a
+new name to replace Deathland!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>There! Look
+up! Up there! Up, up!<LINE><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:9F (E9:ABFA, 112 bytes) =====
+<SPEAKER>In honor of Lady, I
+named it Wild Lady Land!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>Huh?! There is a statue
+of J.B.! Who put that up there?!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:A0 (E9:AC6A, 62 bytes) =====
+<SPEAKER>My lady... You put that
+J.B. statue there, did you not?<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:A1 (E9:ACA8, 49 bytes) =====
+<SPEAKER>Come on! He deserves
+to see some fireworks!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:A2 (E9:ACD9, 7 bytes) =====
+<SPEAKER>Hyaa!
+
+===== MSG 04:A3 (E9:ACE0, 77 bytes) =====
+<SPEAKER>Umm... let me see...
+Five plus seven, minus
+one... ...Eleven! Heh heh!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:A4 (E9:AD2D, 145 bytes) =====
+<SPEAKER>Hmm! Correct!
+Still, my lady, you are
+unusually serious today...<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>You are plotting
+some mischief again, are
+you not? Heh heh! Confess!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:A5 (E9:ADBE, 157 bytes) =====
+<SPEAKER>Still as suspicious as
+ever, you old geezer! Hmph!
+I'm not plotting anything!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>Quit your babbling
+and get ready for your
+next lesson. Hurry it up!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:A6 (E9:AE5B, 92 bytes) =====
+<SPEAKER>No, no, no, no. I don't
+believe you! Hmmm... You didn't
+put bombs in this room again?<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:A7 (E9:AEB7, 75 bytes) =====
+<SPEAKER>Huff... huff... whew!
+It seems I was mistaken.
+Ahh... what a relief!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:A8 (E9:AF02, 146 bytes) =====
+<SPEAKER>What is so relieving
+about that? As if I would
+pull the same trick twice!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>Are we studying
+or not? Which is it,
+you big-faced old man?!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:A9 (E9:AF94, 85 bytes) =====
+<SPEAKER>Mwrrrgh...! N-no. If I
+lose my temper now, I will
+play right into her hands...<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:AA (E9:AFE9, 59 bytes) =====
+<SPEAKER>Ho ho... Very well. Then
+how about... this one here?<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:AB (E9:B024, 181 bytes) =====
+<SPEAKER>This one! Right here! The
+Mysterious Legends of Deathland!
+Perfect for you, my lady!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>It is somewhat difficult,
+but your father will be delighted
+if you learn to read it!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:AC (E9:B0D9, 85 bytes) =====
+<SPEAKER>Hmm, this looks
+interesting. I'm going to read,
+so leave me alone for a while.<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:AD (E9:B12E, 128 bytes) =====
+<SPEAKER>Wonderful! My lady!
+At last you have awakened to
+the joys of learning! Hee hee!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>Of course! Read
+as long as you like!<LINE><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:AE (E9:B1AE, 121 bytes) =====
+<SPEAKER>Whoa... Monster Enlarging
+Device? Sounds amazing.<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>But it's all ancient writing!
+I can't read it! So annoying!<LINE><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:AF (E9:B227, 69 bytes) =====
+<SPEAKER>Lord Yoshio really
+is suspicious. No wonder
+his wife ran away.<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B0 (E9:B26C, 105 bytes) =====
+<SPEAKER>What?! Do not
+suddenly start talking nonsense!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>What about you?! I
+hear you dress like a woman!<LINE><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B1 (E9:B2D5, 42 bytes) =====
+<SPEAKER>Waaah! You got
+me! Kiss, kiss, kiss!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B2 (E9:B2FF, 135 bytes) =====
+<SPEAKER>Will you shut up?!
+Stop peeking in from outside
+and yelling your heads off!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>Do you people actually
+want me to study or not?<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B3 (E9:B386, 94 bytes) =====
+<SPEAKER>We're going to Deathland
+Island! Ahh, I'm itching for
+action! I can't wait to run wild!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B4 (E9:B3E4, 50 bytes) =====
+<SPEAKER>I cannot mess
+up today! ........ All right!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B5 (E9:B416, 94 bytes) =====
+<SPEAKER>Gehahaha! Too easy,
+my lady. This Yoshio sees right
+through everything you're planning!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B6 (E9:B474, 147 bytes) =====
+<SPEAKER>Grr! You knew what I
+would do and waited here for
+me? You really are the worst!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>I am getting out of here
+someday, you bald old geezer!<LINE><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B7 (E9:B507, 45 bytes) =====
+<SPEAKER>My lady, please!
+Just behave yourself!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B8 (E9:B534, 34 bytes) =====
+<SPEAKER>Ow! You
+are in on this too!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B9 (E9:B556, 96 bytes) =====
+<SPEAKER>Geh-ho-ho-ho! No
+matter what you try,
+you cannot escape us!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><SPEAKER>Please give up, my lady.<LINE><LINE><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:BA (E9:B5B6, 59 bytes) =====
+<SPEAKER>Yoshio, you slipped up!
+That door over there is open!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:BB (E9:B5F1, 26 bytes) =====
+<SPEAKER>It cannot be helped.<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:BC (E9:B60B, 34 bytes) =====
+<SPEAKER>Like that
+could ever hit me!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:BD (E9:B62D, 27 bytes) =====
+<SPEAKER>W-what?! T-take this!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:BE (E9:B648, 43 bytes) =====
+<SPEAKER>L-Lord Yoshio!
+Stop! There is a fire!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:BF (E9:B673, 16 bytes) =====
+<SPEAKER>M-my lady!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:C0 (E9:B683, 45 bytes) =====
+<SPEAKER>Fix the house
+before I get back, okay?<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:C1 (E9:B6B0, 47 bytes) =====
+<CLEAR>Lady found Monster
+Extract inside the beaker.
+
+===== MSG 04:C2 (E9:B6DF, 54 bytes) =====
+<CLEAR>There is Monster Extract
+inside the beaker. Take it?
+
+===== MSG 04:C3 (E9:B715, 117 bytes) =====
+<SPEAKER>Hello! Deathland
+Teleshopping Service here!
+Thanks for your business!<WAIT><SPEAKER>We deliver useful
+items anywhere, instantly!
+
+===== LOOKUP STRINGS =====
+
+--- BYTE 000 (entity/name) ---
+Lady
+
+--- BYTE 001 (entity/name) ---
+Cox
+
+--- BYTE 002 (entity/name) ---
+Yoshio
+
+--- BYTE 003 (entity/name) ---
+Mogukichi
+
+--- BYTE 004 (entity/name) ---
+Barbo
+
+--- BYTE 005 (entity/name) ---
+Bob
+
+--- BYTE 006 (entity/name) ---
+Bob Jr.
+
+--- BYTE 007 (entity/name) ---
+Grandpa Bob
+
+--- BYTE 008 (entity/name) ---
+Sajik
+
+--- BYTE 009 (entity/name) ---
+Meg
+
+--- BYTE 010 (entity/name) ---
+Ramus
+
+--- BYTE 011 (entity/name) ---
+Capri
+
+--- BYTE 012 (entity/name) ---
+Collector
+
+--- BYTE 013 (entity/name) ---
+Old Man's Voice
+
+--- BYTE 014 (entity/name) ---
+Crowd
+
+--- BYTE 015 (entity/name) ---
+Crowd
+
+--- BYTE 016 (entity/name) ---
+Bebisuke
+
+--- BYTE 017 (entity/name) ---
+Bebihei
+
+--- BYTE 018 (entity/name) ---
+Bebita
+
+--- BYTE 019 (entity/name) ---
+Bebio
+
+--- BYTE 020 (entity/name) ---
+J.B.
+
+--- BYTE 021 (entity/name) ---
+Hebri
+
+--- BYTE 022 (entity/name) ---
+Dodohei
+
+--- BYTE 023 (entity/name) ---
+Gemuko
+
+--- BYTE 024 (entity/name) ---
+Minnie
+
+--- BYTE 025 (entity/name) ---
+Demorin
+
+--- BYTE 026 (entity/name) ---
+Yukibo
+
+--- BYTE 027 (entity/name) ---
+Ganubis
+
+--- BYTE 028 (entity/name) ---
+*
+
+--- BYTE 029 (entity/name) ---
+*
+
+--- BYTE 030 (entity/name) ---
+*
+
+--- BYTE 031 (entity/name) ---
+King Baron
+
+--- BYTE 032 (entity/name) ---
+*
+
+--- BYTE 033 (entity/name) ---
+Inobu
+
+--- BYTE 034 (entity/name) ---
+Baby
+
+--- BYTE 035 (entity/name) ---
+Mami
+
+--- BYTE 036 (entity/name) ---
+Yasu
+
+--- BYTE 037 (entity/name) ---
+Rika
+
+--- BYTE 038 (entity/name) ---
+Gem
+
+--- BYTE 039 (entity/name) ---
+*
+
+--- BYTE 040 (entity/name) ---
+Tomaton
+
+--- BYTE 041 (entity/name) ---
+Green Papa
+
+--- BYTE 042 (entity/name) ---
+Bad Fairy
+
+--- BYTE 043 (entity/name) ---
+Rotten Tomaton
+
+--- BYTE 044 (entity/name) ---
+P-Hammer
+
+--- BYTE 045 (entity/name) ---
+Giant Mimi
+
+--- BYTE 046 (entity/name) ---
+Poison Monjiro
+
+--- BYTE 047 (entity/name) ---
+Midora
+
+--- BYTE 048 (entity/name) ---
+Mokun
+
+--- BYTE 049 (entity/name) ---
+Bowa Drone
+
+--- BYTE 050 (entity/name) ---
+Devil Puppy
+
+--- BYTE 051 (entity/name) ---
+Heal-kun
+
+--- BYTE 052 (entity/name) ---
+Crazy Boomerang
+
+--- BYTE 053 (entity/name) ---
+Leehausen
+
+--- BYTE 054 (entity/name) ---
+Drowsy Midora
+
+--- BYTE 055 (entity/name) ---
+Terror Warrior
+
+--- BYTE 056 (entity/name) ---
+Belly-Out
+
+--- BYTE 057 (entity/name) ---
+Hell Uncle
+
+--- BYTE 058 (entity/name) ---
+White Mummy
+
+--- BYTE 059 (entity/name) ---
+Gold Tomaton
+
+--- BYTE 060 (entity/name) ---
+Shock-kun
+
+--- BYTE 061 (entity/name) ---
+Pirarucu
+
+--- BYTE 062 (entity/name) ---
+King Manta
+
+--- BYTE 063 (entity/name) ---
+Octo Guard
+
+--- BYTE 064 (entity/name) ---
+Puppet Boy
+
+--- BYTE 065 (entity/name) ---
+Nameteru Tobon
+
+--- BYTE 066 (entity/name) ---
+Lord Shura
+
+--- BYTE 067 (entity/name) ---
+Myamyan
+
+--- BYTE 068 (entity/name) ---
+Mega Heal-kun
+
+--- BYTE 069 (entity/name) ---
+Kurioi
+
+--- BYTE 070 (entity/name) ---
+Jumbo Tomaton
+
+--- BYTE 071 (entity/name) ---
+Electric Boomerang
+
+--- BYTE 072 (entity/name) ---
+Morgue Man
+
+--- BYTE 073 (entity/name) ---
+Ikkyu
+
+--- BYTE 074 (entity/name) ---
+Donkachi
+
+--- BYTE 075 (entity/name) ---
+Banedetom
+
+--- BYTE 076 (entity/name) ---
+Heat Spider
+
+--- BYTE 077 (entity/name) ---
+Mimic
+
+--- BYTE 078 (entity/name) ---
+Fire
+
+--- BYTE 079 (entity/name) ---
+Burning Geezer
+
+--- BYTE 080 (entity/name) ---
+Sad Will-o-Wisp
+
+--- BYTE 081 (entity/name) ---
+Arctic Spider
+
+--- BYTE 082 (entity/name) ---
+Coldeath
+
+--- BYTE 083 (entity/name) ---
+Sniper
+
+--- BYTE 084 (entity/name) ---
+Red Lightning
+
+--- BYTE 085 (entity/name) ---
+Tentacles
+
+--- BYTE 086 (entity/name) ---
+Ice Magician
+
+--- BYTE 087 (entity/name) ---
+Body
+
+--- BYTE 088 (entity/name) ---
+Ice Mash
+
+--- BYTE 089 (entity/name) ---
+Sands
+
+--- BYTE 090 (entity/name) ---
+Baby Baron
+
+--- BYTE 091 (entity/name) ---
+Muscle Man
+
+--- BYTE 092 (entity/name) ---
+Magic Cat
+
+--- BYTE 093 (entity/name) ---
+Magikarl
+
+--- BYTE 094 (entity/name) ---
+Super Heal
+
+--- BYTE 095 (entity/name) ---
+Power Midora
+
+--- BYTE 096 (entity/name) ---
+Poison Vomit Master
+
+--- BYTE 097 (entity/name) ---
+Robo Soldier
+
+--- BYTE 098 (entity/name) ---
+Devil's Knight
+
+--- BYTE 099 (entity/name) ---
+Reihariman
+
+--- BYTE 100 (entity/name) ---
+Black Dragon
+
+--- BYTE 101 (entity/name) ---
+Dynamud
+
+--- BYTE 102 (entity/name) ---
+Death Box
+
+--- BYTE 103 (entity/name) ---
+Underworld Guard
+
+--- BYTE 104 (entity/name) ---
+Ninja Knight
+
+--- BYTE 105 (entity/name) ---
+Baby Devil
+
+--- BYTE 106 (entity/name) ---
+Bloody Knight
+
+--- BYTE 107 (entity/name) ---
+Rotten Diamond
+
+--- BYTE 108 (entity/name) ---
+Skull
+
+--- BYTE 109 (entity/name) ---
+Bloodsucking Blade
+
+--- BYTE 110 (entity/name) ---
+Revival Might
+
+--- BYTE 111 (entity/name) ---
+Healing Jumbo Tomaton
+
+--- BYTE 112 (entity/name) ---
+Magic Arm
+
+--- BYTE 113 (entity/name) ---
+Demon Doll
+
+--- BYTE 114 (entity/name) ---
+Change
+
+--- BYTE 115 (entity/name) ---
+Work Devil
+
+--- BYTE 116 (entity/name) ---
+Ripper Jack
+
+--- BYTE 117 (entity/name) ---
+Tough Guy
+
+--- BYTE 118 (entity/name) ---
+Paranofree
+
+--- BYTE 119 (entity/name) ---
+Wing Dragon
+
+--- BYTE 120 (entity/name) ---
+Suspicious Haniwa
+
+--- BYTE 121 (entity/name) ---
+Nara Souvenir
+
+--- BYTE 122 (entity/name) ---
+Haniwa Star
+
+--- BYTE 123 (entity/name) ---
+Clock
+
+--- BYTE 124 (entity/name) ---
+Candlestick
+
+--- BYTE 125 (entity/name) ---
+Baby Baron
+
+--- BYTE 126 (entity/name) ---
+Primitive Dozy
+
+--- BYTE 127 (entity/name) ---
+Gustav
+
+--- BYTE 128 (entity/name) ---
+Gedo
+
+--- BYTE 129 (entity/name) ---
+Demorin
+
+--- BYTE 130 (entity/name) ---
+Minnie
+
+--- BYTE 131 (entity/name) ---
+Yukibo
+
+--- BYTE 132 (entity/name) ---
+J.B.'s Pet
+
+--- BYTE 133 (entity/name) ---
+Fake Lady
+
+--- BYTE 134 (entity/name) ---
+Fake Cox
+
+--- BYTE 135 (entity/name) ---
+Fake Yoshio
+
+--- BYTE 136 (entity/name) ---
+J.B.
+
+--- BYTE 137 (entity/name) ---
+Jabby
+
+--- BYTE 138 (entity/name) ---
+Sewer Octopus
+
+--- BYTE 139 (entity/name) ---
+King Baron
+
+--- BYTE 140 (entity/name) ---
+Muscle Head
+
+--- BYTE 141 (entity/name) ---
+Dragon Head
+
+--- BYTE 142 (entity/name) ---
+Nose Bubble
+
+--- BYTE 143 (entity/name) ---
+<EMPTY>
+
+--- BYTE 144 (entity/name) ---
+A
+
+--- BYTE 145 (entity/name) ---
+I
+
+--- BYTE 146 (entity/name) ---
+U
+
+--- BYTE 147 (entity/name) ---
+Rock Crush
+
+--- BYTE 148 (entity/name) ---
+Stinger
+
+--- BYTE 149 (entity/name) ---
+Spin Heel Kick
+
+--- BYTE 150 (entity/name) ---
+Shadow Fang
+
+--- BYTE 151 (entity/name) ---
+Somersault
+
+--- BYTE 152 (entity/name) ---
+Rat Trap
+
+--- BYTE 153 (entity/name) ---
+Lady Special
+
+--- BYTE 154 (entity/name) ---
+Brandish
+
+--- BYTE 155 (entity/name) ---
+Lady's Party
+
+--- BYTE 156 (entity/name) ---
+<EMPTY>
+
+--- BYTE 157 (entity/name) ---
+Bowa
+
+--- BYTE 158 (entity/name) ---
+Bowawa
+
+--- BYTE 159 (entity/name) ---
+Zuga
+
+--- BYTE 160 (entity/name) ---
+Zugagan
+
+--- BYTE 161 (entity/name) ---
+Bika
+
+--- BYTE 162 (entity/name) ---
+Bikadeka
+
+--- BYTE 163 (entity/name) ---
+Kordo
+
+--- BYTE 164 (entity/name) ---
+So Kordo
+
+--- BYTE 165 (entity/name) ---
+Icy
+
+--- BYTE 166 (entity/name) ---
+Shini
+
+--- BYTE 167 (entity/name) ---
+Shinene
+
+--- BYTE 168 (entity/name) ---
+Down
+
+--- BYTE 169 (entity/name) ---
+So Down
+
+--- BYTE 170 (entity/name) ---
+Damarin
+
+--- BYTE 171 (entity/name) ---
+Chu
+
+--- BYTE 172 (entity/name) ---
+Double Up
+
+--- BYTE 173 (entity/name) ---
+<EMPTY>
+
+--- BYTE 174 (entity/name) ---
+Up
+
+--- BYTE 175 (entity/name) ---
+So Up
+
+--- BYTE 176 (entity/name) ---
+Maboroshi
+
+--- BYTE 177 (entity/name) ---
+Chaji
+
+--- BYTE 178 (entity/name) ---
+Charge
+
+--- BYTE 179 (entity/name) ---
+Full Charge
+
+--- BYTE 180 (entity/name) ---
+All Charge
+
+--- BYTE 181 (entity/name) ---
+Full Restore
+
+--- BYTE 182 (entity/name) ---
+Channel
+
+--- BYTE 183 (entity/name) ---
+Rinnel
+
+--- BYTE 184 (entity/name) ---
+Chuwa
+
+--- BYTE 185 (entity/name) ---
+Zap
+
+--- BYTE 186 (entity/name) ---
+Tenso
+
+--- BYTE 187 (entity/name) ---
+Zakonai
+
+--- BYTE 188 (entity/name) ---
+Rubber Boots
+
+--- BYTE 189 (entity/name) ---
+Sleepy
+
+--- BYTE 190 (entity/name) ---
+Deep Sleep
+
+--- BYTE 191 (entity/name) ---
+Jibaku
+
+--- BYTE 192 (entity/name) ---
+Bakujiba
+
+--- BYTE 193 (entity/name) ---
+Bowa
+
+--- BYTE 194 (entity/name) ---
+Bowawa
+
+--- BYTE 195 (entity/name) ---
+Zuga
+
+--- BYTE 196 (entity/name) ---
+Zugagan
+
+--- BYTE 197 (entity/name) ---
+Icy
+
+--- BYTE 198 (entity/name) ---
+Bikadeka
+
+--- BYTE 199 (entity/name) ---
+<EMPTY>
+
+--- BYTE 200 (entity/name) ---
+<EMPTY>
+
+--- BYTE 201 (entity/name) ---
+<EMPTY>
+
+--- BYTE 202 (entity/name) ---
+<EMPTY>
+
+--- BYTE 203 (entity/name) ---
+<EMPTY>
+
+--- BYTE 204 (entity/name) ---
+<EMPTY>
+
+--- BYTE 205 (entity/name) ---
+<EMPTY>
+
+--- BYTE 206 (entity/name) ---
+<EMPTY>
+
+--- BYTE 207 (entity/name) ---
+<EMPTY>
+
+--- BYTE 208 (entity/name) ---
+<EMPTY>
+
+--- BYTE 209 (entity/name) ---
+<EMPTY>
+
+--- BYTE 210 (entity/name) ---
+<EMPTY>
+
+--- BYTE 211 (entity/name) ---
+<EMPTY>
+
+--- BYTE 212 (entity/name) ---
+Zuga
+
+--- BYTE 213 (entity/name) ---
+Zugagan
+
+--- BYTE 214 (entity/name) ---
+<EMPTY>
+
+--- BYTE 215 (entity/name) ---
+<EMPTY>
+
+--- BYTE 216 (entity/name) ---
+<EMPTY>
+
+--- BYTE 217 (entity/name) ---
+<EMPTY>
+
+--- BYTE 218 (entity/name) ---
+<EMPTY>
+
+--- BYTE 219 (entity/name) ---
+Change
+
+--- BYTE 220 (entity/name) ---
+<EMPTY>
+
+--- BYTE 221 (entity/name) ---
+<EMPTY>
+
+--- BYTE 222 (entity/name) ---
+<EMPTY>
+
+--- BYTE 223 (entity/name) ---
+<EMPTY>
+
+--- BYTE 224 (entity/name) ---
+<EMPTY>
+
+--- BYTE 225 (entity/name) ---
+<EMPTY>
+
+--- BYTE 226 (item/name) ---
+Shovel
+
+--- BYTE 227 (item/name) ---
+Club
+
+--- BYTE 228 (item/name) ---
+Kitchen Knife
+
+--- BYTE 229 (item/name) ---
+Guard Staff
+
+--- BYTE 230 (item/name) ---
+Heavy Knife
+
+--- BYTE 231 (item/name) ---
+Cobra Shovel
+
+--- BYTE 232 (item/name) ---
+Needle
+
+--- BYTE 233 (item/name) ---
+Bowa Shovel
+
+--- BYTE 234 (item/name) ---
+Shane Boots
+
+--- BYTE 235 (item/name) ---
+King's Knife
+
+--- BYTE 236 (item/name) ---
+Power Rod
+
+--- BYTE 237 (item/name) ---
+Red High Heels
+
+--- BYTE 238 (item/name) ---
+Seal Shovel
+
+--- BYTE 239 (item/name) ---
+Glass Slippers
+
+--- BYTE 240 (item/name) ---
+Two-Clutch
+
+--- BYTE 241 (item/name) ---
+Holy Knife
+
+--- BYTE 242 (item/name) ---
+Undead Knife
+
+--- BYTE 243 (item/name) ---
+Fire Boots
+
+--- BYTE 244 (item/name) ---
+Sunrise Shovel
+
+--- BYTE 245 (item/name) ---
+No. 19
+
+--- BYTE 246 (item/name) ---
+Golden Sword
+
+--- BYTE 247 (item/name) ---
+Reno Boots
+
+--- BYTE 248 (item/name) ---
+Power Boots
+
+--- BYTE 249 (item/name) ---
+Hell Boots
+
+--- BYTE 250 (item/name) ---
+Boots
+
+--- BYTE 251 (item/name) ---
+Lullaby Boots
+
+--- BYTE 252 (item/name) ---
+Ice Knife
+
+--- BYTE 253 (item/name) ---
+Whip
+
+--- BYTE 254 (item/name) ---
+Reno Whip
+
+--- BYTE 255 (item/name) ---
+Rose Whip
+
+--- BYTE 256 (item/name) ---
+Inobu's Key
+
+--- BYTE 257 (item/name) ---
+Marble Key
+
+--- BYTE 258 (item/name) ---
+Baron's Broom
+
+--- BYTE 259 (item/name) ---
+Baron's Paints
+
+--- BYTE 260 (item/name) ---
+Invisible Key
+
+--- BYTE 261 (item/name) ---
+Explorer's Journal
+
+--- BYTE 262 (item/name) ---
+Ganubis Key
+
+--- BYTE 263 (item/name) ---
+Iron Shoes
+
+--- BYTE 264 (item/name) ---
+Lil-chan
+
+--- BYTE 265 (item/name) ---
+Ganubis Mark
+
+--- BYTE 266 (item/name) ---
+King Doll
+
+--- BYTE 267 (item/name) ---
+Rocket Boots
+
+--- BYTE 268 (item/name) ---
+Clothes
+
+--- BYTE 269 (item/name) ---
+Dress Clothes
+
+--- BYTE 270 (item/name) ---
+Training Gi
+
+--- BYTE 271 (item/name) ---
+Leather Suit
+
+--- BYTE 272 (item/name) ---
+Leather Dress
+
+--- BYTE 273 (item/name) ---
+Chain Mail
+
+--- BYTE 274 (item/name) ---
+Body Coat
+
+--- BYTE 275 (item/name) ---
+Alloy Suit
+
+--- BYTE 276 (item/name) ---
+Modern Suit
+
+--- BYTE 277 (item/name) ---
+King's Armor
+
+--- BYTE 278 (item/name) ---
+Classic Coat
+
+--- BYTE 279 (item/name) ---
+Mystic Garb
+
+--- BYTE 280 (item/name) ---
+Heaven Coat
+
+--- BYTE 281 (item/name) ---
+Bodycon Dress
+
+--- BYTE 282 (item/name) ---
+Firefighter Suit
+
+--- BYTE 283 (item/name) ---
+Athena Suit
+
+--- BYTE 284 (item/name) ---
+Gold Coat
+
+--- BYTE 285 (item/name) ---
+Devil Coat
+
+--- BYTE 286 (item/name) ---
+China Dress
+
+--- BYTE 287 (item/name) ---
+China Boots
+
+--- BYTE 288 (item/name) ---
+Pennant
+
+--- BYTE 289 (item/name) ---
+Stone Shield
+
+--- BYTE 290 (item/name) ---
+Metal Shield
+
+--- BYTE 291 (item/name) ---
+King's Shield
+
+--- BYTE 292 (item/name) ---
+Mystic Shield
+
+--- BYTE 293 (item/name) ---
+Pure Gold Shield
+
+--- BYTE 294 (item/name) ---
+Holy Shield
+
+--- BYTE 295 (item/name) ---
+China Pad
+
+--- BYTE 296 (item/name) ---
+Shell Gauntlet
+
+--- BYTE 297 (item/name) ---
+<EMPTY>
+
+--- BYTE 298 (item/name) ---
+<EMPTY>
+
+--- BYTE 299 (item/name) ---
+Cloth Cap
+
+--- BYTE 300 (item/name) ---
+Chef's Hat
+
+--- BYTE 301 (item/name) ---
+Pina Hat
+
+--- BYTE 302 (item/name) ---
+Ten-Gallon Hat
+
+--- BYTE 303 (item/name) ---
+Lady Watch
+
+--- BYTE 304 (item/name) ---
+Helmet
+
+--- BYTE 305 (item/name) ---
+Gold Hat
+
+--- BYTE 306 (item/name) ---
+Baby Mask
+
+--- BYTE 307 (item/name) ---
+China Hat
+
+--- BYTE 308 (item/name) ---
+Shianel Ribbon
+
+--- BYTE 309 (item/name) ---
+Versachi Shovel
+
+--- BYTE 310 (item/name) ---
+Medicine
+
+--- BYTE 311 (item/name) ---
+Antidote
+
+--- BYTE 312 (item/name) ---
+Para-Cure
+
+--- BYTE 313 (item/name) ---
+Ward Charm
+
+--- BYTE 314 (item/name) ---
+Spring
+
+--- BYTE 315 (item/name) ---
+Demon Meat
+
+--- BYTE 316 (item/name) ---
+Magic Water
+
+--- BYTE 317 (item/name) ---
+Teleshop
+
+--- BYTE 318 (item/name) ---
+Gem Snack
+
+--- BYTE 319 (item/name) ---
+Power Charge
+
+--- BYTE 320 (item/name) ---
+Casino Coin
+
+--- BYTE 321 (item/name) ---
+Shining Marble
+
+--- BYTE 322 (item/name) ---
+Power Calcium
+
+--- BYTE 323 (item/name) ---
+Charging Gum
+
+--- BYTE 324 (item/name) ---
+Chocolatum
+
+--- BYTE 325 (item/name) ---
+Magic Candy
+
+--- BYTE 326 (item/name) ---
+Live Again
+
+--- BYTE 327 (item/name) ---
+Holy Water
+
+--- BYTE 328 (item/name) ---
+Louis Whip
+
+--- BYTE 329 (item/name) ---
+Barrier Whip
+
+--- BYTE 330 (item/name) ---
+Snow Whip
+
+--- BYTE 331 (item/name) ---
+Visa
+
+--- BYTE 332 (item/name) ---
+Black Key
+
+--- BYTE 333 (item/name) ---
+Waterway Key
+
+--- BYTE 334 (item/name) ---
+Admission Ticket
+
+--- BYTE 335 (item/name) ---
+Cable Ticket
+
+--- BYTE 336 (item/name) ---
+Baron-kun 4
+
+--- BYTE 337 (item/name) ---
+Pruning Shears
+
+--- BYTE 338 (item/name) ---
+Blue Key
+
+--- BYTE 339 (item/name) ---
+Red Key
+
+--- BYTE 340 (item/name) ---
+Baron's Eye
+
+--- BYTE 341 (item/name) ---
+Sajik's Letter
+
+--- BYTE 342 (item/name) ---
+Stone Tablet
+
+--- BYTE 343 (item/name) ---
+Monster Extract
+
+--- BYTE 344 (item/name) ---
+Ancient Book
+
+--- BYTE 345 (item/name) ---
+White Ball
+
+--- BYTE 346 (item/name) ---
+Black Ball
+
+--- BYTE 347 (item/name) ---
+Ramus Statue
+
+--- BYTE 348 (item/name) ---
+Old Map
+
+--- BYTE 349 (item/name) ---
+Old Carpet
+
+--- BYTE 350 (item/name) ---
+Magic Carpet
+
+--- BYTE 351 (item/name) ---
+Ice Key
+
+--- WORD 000 (dynamic phrase) ---
+Miss
+
+--- WORD 001 (dynamic phrase) ---
+Mister
+
+--- WORD 002 (dynamic phrase) ---
+Old-timer
+
+--- WORD 003 (dynamic phrase) ---
+Missy
+
+--- WORD 004 (dynamic phrase) ---
+Handsome
+
+--- WORD 005 (dynamic phrase) ---
+Old man
+

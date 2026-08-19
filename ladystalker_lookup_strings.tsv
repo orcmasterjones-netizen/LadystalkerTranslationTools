@@ -1,0 +1,359 @@
+table	index	category	prefix_rom_offset	data_rom_offset	stored_bytes	raw_symbols	text
+byte	0	entity/name	0x0D8091	0x0D8092	6	6B 84 54 75	レディ
+byte	1	entity/name	0x0D8097	0x0D8098	6	4B 70 49 4E	コックス
+byte	2	entity/name	0x0D809D	0x0D809E	5	67 4D 46	ヨシオ
+byte	3	entity/name	0x0D80A2	0x0D80A3	7	64 84 49 16 20	モグきち
+byte	4	entity/name	0x0D80A9	0x0D80AA	7	84 5B 78 84 5F	バーボ
+byte	5	entity/name	0x0D80B0	0x0D80B1	6	84 5F 84 5D	ボブ
+byte	6	entity/name	0x0D80B6	0x0D80B7	7	19 84 5F 84 5D	こボブ
+byte	7	entity/name	0x0D80BD	0x0D80BE	10	84 1B 84 1B 84 5F 84 5D	じじボブ
+byte	8	entity/name	0x0D80C7	0x0D80C8	6	4C 84 4D 49	サジク
+byte	9	entity/name	0x0D80CD	0x0D80CE	5	63 84 49	メグ
+byte	10	entity/name	0x0D80D2	0x0D80D3	5	68 62 4E	ラムス
+byte	11	entity/name	0x0D80D7	0x0D80D8	6	47 83 5D 69	カプリ
+byte	12	entity/name	0x0D80DD	0x0D80DE	6	4B 6B 49 51	コレクタ
+byte	13	entity/name	0x0D80E3	0x0D80E4	10	84 1B 84 1B 11 28 19 13	じじいのこえ
+byte	14	entity/name	0x0D80ED	0x0D80EE	8	84 17 3D 1B 40 12	ぐんしゅう
+byte	15	entity/name	0x0D80F5	0x0D80F6	8	84 17 3D 1B 40 12	ぐんしゅう
+byte	16	entity/name	0x0D80FD	0x0D80FE	8	84 5E 84 5C 1C 18	ベビすけ
+byte	17	entity/name	0x0D8105	0x0D8106	8	84 5E 84 5C 2C 11	ベビへい
+byte	18	entity/name	0x0D810D	0x0D810E	7	84 5E 84 5C 1F	ベビた
+byte	19	entity/name	0x0D8114	0x0D8115	7	84 5E 84 5C 46	ベビオ
+byte	20	entity/name	0x0D811B	0x0D811C	9	84 4D 76 43 84 5C 78	ジェイビー
+byte	21	entity/name	0x0D8124	0x0D8125	6	5E 84 5D 69	ヘブリ
+byte	22	entity/name	0x0D812A	0x0D812B	8	84 55 84 55 5E 43	ドドヘイ
+byte	23	entity/name	0x0D8132	0x0D8133	6	84 4A 62 4B	ゲムコ
+byte	24	entity/name	0x0D8138	0x0D8139	5	61 57 78	ミニー
+byte	25	entity/name	0x0D813D	0x0D813E	7	84 54 64 69 6F	デモリン
+byte	26	entity/name	0x0D8144	0x0D8145	7	34 16 84 2D 12	ゆきぼう
+byte	27	entity/name	0x0D814B	0x0D814C	8	84 47 58 84 5C 4E	ガヌビス
+byte	28	entity/name	0x0D8153	0x0D8154	3	89	※
+byte	29	entity/name	0x0D8156	0x0D8157	3	89	※
+byte	30	entity/name	0x0D8159	0x0D815A	3	89	※
+byte	31	entity/name	0x0D815C	0x0D815D	10	48 6F 84 49 84 5B 6C 6F	キングバロン
+byte	32	entity/name	0x0D8166	0x0D8167	3	89	※
+byte	33	entity/name	0x0D8169	0x0D816A	6	43 5A 84 5D	イノブ
+byte	34	entity/name	0x0D816F	0x0D8170	7	84 5E 84 5C 78	ベビー
+byte	35	entity/name	0x0D8176	0x0D8177	4	2E 2F	まみ
+byte	36	entity/name	0x0D817A	0x0D817B	4	65 4E	ヤス
+byte	37	entity/name	0x0D817E	0x0D817F	4	69 47	リカ
+byte	38	entity/name	0x0D8182	0x0D8183	5	84 4A 62	ゲム
+byte	39	entity/name	0x0D8187	0x0D8188	3	89	※
+byte	40	entity/name	0x0D818A	0x0D818B	6	55 60 55 6F	トマトン
+byte	41	entity/name	0x0D8190	0x0D8191	11	84 49 69 78 6F 83 5B 83 5B	グリーンパパ
+byte	42	entity/name	0x0D819B	0x0D819C	10	3B 38 11 5D 76 42 69 78	わるいフェアリー
+byte	43	entity/name	0x0D81A5	0x0D81A6	9	17 1A 39 55 60 55 6F	くされトマトン
+byte	44	entity/name	0x0D81AE	0x0D81AF	8	83 5C 78 5B 6F 60	ピーハンマ
+byte	45	entity/name	0x0D81B6	0x0D81B7	10	16 41 84 1F 11 61 61 78	きょだいミミー
+byte	46	entity/name	0x0D81C0	0x0D81C1	11	84 23 17 32 3D 84 1B 3A 12	どくもんじろう
+byte	47	entity/name	0x0D81CB	0x0D81CC	6	61 84 55 68	ミドラ
+byte	48	entity/name	0x0D81D1	0x0D81D2	5	64 49 6F	モクン
+byte	49	entity/name	0x0D81D6	0x0D81D7	10	84 5F 6D 84 55 6C 78 6F	ボワドローン
+byte	50	entity/name	0x0D81E0	0x0D81E1	10	10 17 2E 83 5B 83 5C 78	あくまパピー
+byte	51	entity/name	0x0D81EA	0x0D81EB	8	15 11 2B 17 17 3D	かいふくくん
+byte	52	entity/name	0x0D81F2	0x0D81F3	11	11 15 39 84 5D 78 63 68 6F	いかれブーメラン
+byte	53	entity/name	0x0D81FD	0x0D81FE	10	69 78 5B 44 6F 84 4F 6F	リーハウンゼン
+byte	54	entity/name	0x0D8207	0x0D8208	9	1C 11 2E 61 84 55 68	すいまミドラ
+byte	55	entity/name	0x0D8210	0x0D8211	9	16 41 12 2B 1D 3D 1B	きょうふせんし
+byte	56	entity/name	0x0D8219	0x0D821A	7	29 36 84 1F 1B	はらだし
+byte	57	entity/name	0x0D8220	0x0D8221	12	84 1B 84 19 17 14 84 1B 1A 3D	じごくおじさん
+byte	58	entity/name	0x0D822C	0x0D822D	8	1B 3A 11 61 43 68	しろいミイラ
+byte	59	entity/name	0x0D8234	0x0D8235	11	84 4B 78 6A 84 55 55 60 55	ゴールドトマト
+byte	60	entity/name	0x0D823F	0x0D8240	9	15 3D 84 22 3D 17 3D	かんでんくん
+byte	61	entity/name	0x0D8248	0x0D8249	7	83 5C 68 6A 49	ピラルク
+byte	62	entity/name	0x0D824F	0x0D8250	9	48 6F 84 49 60 6F 51	キングマンタ
+byte	63	entity/name	0x0D8258	0x0D8259	9	1F 19 84 29 3D 25 3D	たこばんにん
+byte	64	entity/name	0x0D8261	0x0D8262	10	10 33 21 37 84 5F 78 43	あやつりボーイ
+byte	65	entity/name	0x0D826B	0x0D826C	10	56 63 54 6A 55 84 5F 6F	ナメテルトボン
+byte	66	entity/name	0x0D8275	0x0D8276	7	1B 40 36 1A 2E	しゅらさま
+byte	67	entity/name	0x0D827C	0x0D827D	7	61 71 61 71 6F	ミャミャン
+byte	68	entity/name	0x0D8283	0x0D8284	11	84 1F 11 15 11 2B 17 17 3D	だいかいふくくん
+byte	69	entity/name	0x0D828E	0x0D828F	6	49 69 46 43	クリオイ
+byte	70	entity/name	0x0D8294	0x0D8295	11	84 4D 71 6F 84 5F 55 60 55	ジャンボトマト
+byte	71	entity/name	0x0D829F	0x0D82A0	12	84 22 3D 16 84 5D 78 63 68 6F	でんきブーメラン
+byte	72	entity/name	0x0D82AB	0x0D82AC	9	64 6A 84 49 28 2A 23	モルグのひと
+byte	73	entity/name	0x0D82B4	0x0D82B5	7	43 70 48 72 44	イッキュウ
+byte	74	entity/name	0x0D82BB	0x0D82BC	8	84 55 6F 47 52 78	ドンカチー
+byte	75	entity/name	0x0D82C3	0x0D82C4	9	84 5B 59 84 54 55 62	バネデトム
+byte	76	entity/name	0x0D82CC	0x0D82CD	10	84 22 3D 27 21 84 17 32	でんねつぐも
+byte	77	entity/name	0x0D82D6	0x0D82D7	10	84 2A 3E 17 37 84 29 19	びっくりばこ
+byte	78	entity/name	0x0D82E0	0x0D82E1	6	5D 74 43 42	ファイア
+byte	79	entity/name	0x0D82E6	0x0D82E7	12	2A 84 1F 38 2E 84 1B 84 1B 11	ひだるまじじい
+byte	80	entity/name	0x0D82F2	0x0D82F3	11	15 24 1B 11 2A 23 84 1F 2E	かなしいひとだま
+byte	81	entity/name	0x0D82FD	0x0D82FE	10	2D 3E 16 41 17 84 17 32	ほっきょくぐも
+byte	82	entity/name	0x0D8307	0x0D8308	8	4B 78 6A 84 54 4E	コールデス
+byte	83	entity/name	0x0D830F	0x0D8310	8	4E 56 43 83 5B 78	スナイパー
+byte	84	entity/name	0x0D8317	0x0D8318	9	42 47 43 56 84 4E 60	アカイナズマ
+byte	85	entity/name	0x0D8320	0x0D8321	8	54 6F 51 49 6A 4E	テンタクルス
+byte	86	entity/name	0x0D8328	0x0D8329	11	42 43 4E 60 84 4D 4D 71 6F	アイスマジシャン
+byte	87	entity/name	0x0D8333	0x0D8334	7	84 5F 84 54 75	ボディ
+byte	88	entity/name	0x0D833A	0x0D833B	9	42 43 4E 60 70 4D 72	アイスマッシュ
+byte	89	entity/name	0x0D8343	0x0D8344	6	4C 6F 84 4E	サンズ
+byte	90	entity/name	0x0D8349	0x0D834A	11	84 5E 84 5C 78 84 5B 6C 6F	ベビーバロン
+byte	91	entity/name	0x0D8354	0x0D8355	9	30 16 30 16 14 23 19	むきむきおとこ
+byte	92	entity/name	0x0D835D	0x0D835E	11	60 84 4D 70 49 48 71 70 55	マジックキャット
+byte	93	entity/name	0x0D8368	0x0D8369	8	60 84 4D 47 78 6A	マジカール
+byte	94	entity/name	0x0D8370	0x0D8371	10	4E 84 4B 43 47 43 5D 49	スゴイカイフク
+byte	95	entity/name	0x0D837A	0x0D837B	10	83 5B 6D 78 61 84 55 68	パワーミドラ
+byte	96	entity/name	0x0D8384	0x0D8385	11	84 23 17 84 4A 6C 60 4E 51	どくゲロマスタ
+byte	97	entity/name	0x0D838F	0x0D8390	11	6C 84 5F 50 6A 84 4D 71 78	ロボソルジャー
+byte	98	entity/name	0x0D839A	0x0D839B	12	84 54 84 5C 6A 84 4E 56 43 55	デビルズナイト
+byte	99	entity/name	0x0D83A6	0x0D83A7	9	6B 43 5B 69 78 60 6F	レイハリーマン
+byte	100	entity/name	0x0D83AF	0x0D83B0	13	84 5D 68 70 49 84 55 68 84 4B 6F	ブラックドラゴン
+byte	101	entity/name	0x0D83BC	0x0D83BD	10	84 51 43 56 60 70 84 55	ダイナマッド
+byte	102	entity/name	0x0D83C6	0x0D83C7	6	1B 28 29 19	しのはこ
+byte	103	entity/name	0x0D83CC	0x0D83CD	10	35 2F 28 84 29 3D 25 3D	よみのばんにん
+byte	104	entity/name	0x0D83D6	0x0D83D7	10	57 6F 84 4D 71 56 43 55	ニンジャナイト
+byte	105	entity/name	0x0D83E0	0x0D83E1	12	84 5E 84 5C 78 84 54 84 5C 6A	ベビーデビル
+byte	106	entity/name	0x0D83EC	0x0D83ED	11	84 5D 68 84 54 75 56 43 55	ブラディナイト
+byte	107	entity/name	0x0D83F7	0x0D83F8	9	17 1A 39 84 51 43 65	くされダイヤ
+byte	108	entity/name	0x0D8400	0x0D8401	6	4E 47 78 6A	スカール
+byte	109	entity/name	0x0D8406	0x0D8407	10	20 3C 1C 12 33 11 84 29	ちをすうやいば
+byte	110	entity/name	0x0D8410	0x0D8411	9	2B 3E 15 21 60 43 55	ふっかつマイト
+byte	111	entity/name	0x0D8419	0x0D841A	12	15 11 2B 17 84 22 15 55 60 55	かいふくでかトマト
+byte	112	entity/name	0x0D8425	0x0D8426	10	60 84 4D 70 49 42 78 62	マジックアーム
+byte	113	entity/name	0x0D842F	0x0D8430	9	2E 25 3D 84 16 41 12	まにんぎょう
+byte	114	entity/name	0x0D8438	0x0D8439	7	52 76 6F 84 4D	チェンジ
+byte	115	entity/name	0x0D843F	0x0D8440	10	14 1B 84 19 23 10 17 2E	おしごとあくま
+byte	116	entity/name	0x0D8449	0x0D844A	11	16 37 1A 16 84 4D 71 70 49	きりさきジャック
+byte	117	entity/name	0x0D8454	0x0D8455	8	15 1F 11 14 23 19	かたいおとこ
+byte	118	entity/name	0x0D845C	0x0D845D	9	83 5B 68 5A 5D 69 78	パラノフリー
+byte	119	entity/name	0x0D8465	0x0D8466	13	44 43 6F 84 49 84 55 68 84 4B 6F	ウイングドラゴン
+byte	120	entity/name	0x0D8472	0x0D8473	9	10 33 1B 11 29 25 3B	あやしいはにわ
+byte	121	entity/name	0x0D847B	0x0D847C	11	56 68 4E 78 84 5E 57 78 6A	ナラスーベニール
+byte	122	entity/name	0x0D8486	0x0D8487	8	5B 57 6D 4E 51 78	ハニワスター
+byte	123	entity/name	0x0D848E	0x0D848F	5	23 18 11	とけい
+byte	124	entity/name	0x0D8493	0x0D8494	8	1B 41 17 84 1F 11	しょくだい
+byte	125	entity/name	0x0D849B	0x0D849C	11	84 5E 84 5C 78 84 5B 6C 6F	ベビーバロン
+byte	126	entity/name	0x0D84A6	0x0D84A7	11	84 18 3D 1B 84 55 84 4D 78	げんしドジー
+byte	127	entity/name	0x0D84B1	0x0D84B2	7	84 4A 4E 51 5D	ゲスタフ
+byte	128	entity/name	0x0D84B8	0x0D84B9	7	84 4A 84 55 78	ゲドー
+byte	129	entity/name	0x0D84BF	0x0D84C0	7	84 54 64 69 6F	デモリン
+byte	130	entity/name	0x0D84C6	0x0D84C7	5	61 57 78	ミニー
+byte	131	entity/name	0x0D84CB	0x0D84CC	7	34 16 84 2D 12	ゆきぼう
+byte	132	entity/name	0x0D84D2	0x0D84D3	13	84 4D 76 43 84 5C 78 83 5E 70 55	ジェイビーペット
+byte	133	entity/name	0x0D84DF	0x0D84E0	8	25 1D 6B 84 54 75	にせレディ
+byte	134	entity/name	0x0D84E7	0x0D84E8	8	25 1D 4B 70 49 4E	にせコックス
+byte	135	entity/name	0x0D84EF	0x0D84F0	7	25 1D 67 4D 46	にせヨシオ
+byte	136	entity/name	0x0D84F6	0x0D84F7	9	84 4D 76 43 84 5C 78	ジェイビー
+byte	137	entity/name	0x0D84FF	0x0D8500	8	84 4D 71 84 5C 78	ジャビー
+byte	138	entity/name	0x0D8507	0x0D8508	10	1C 11 84 23 12 84 1F 19	すいどうだこ
+byte	139	entity/name	0x0D8511	0x0D8512	10	48 6F 84 49 84 5B 6C 6F	キングバロン
+byte	140	entity/name	0x0D851B	0x0D851C	10	30 16 30 16 5E 70 84 55	むきむきヘッド
+byte	141	entity/name	0x0D8525	0x0D8526	12	84 55 68 84 4B 6F 5E 70 84 55	ドラゴンヘッド
+byte	142	entity/name	0x0D8531	0x0D8532	9	29 24 20 41 12 20 3D	はなちょうちん
+byte	143	entity/name	0x0D853A	0x0D853B	2		
+byte	144	entity/name	0x0D853C	0x0D853D	3	10	あ
+byte	145	entity/name	0x0D853F	0x0D8540	3	11	い
+byte	146	entity/name	0x0D8542	0x0D8543	3	12	う
+byte	147	entity/name	0x0D8545	0x0D8546	10	6C 70 49 49 68 70 4D 72	ロッククラッシュ
+byte	148	entity/name	0x0D854F	0x0D8550	9	4E 54 75 6F 84 47 78	スティンガー
+byte	149	entity/name	0x0D8558	0x0D8559	12	4E 83 5C 6F 5C 78 6A 48 70 49	スピンヒールキック
+byte	150	entity/name	0x0D8564	0x0D8565	12	4D 71 84 55 44 5D 74 6F 84 49	シャドウファング
+byte	151	entity/name	0x0D8570	0x0D8571	8	4C 60 78 50 6A 55	サマーソルト
+byte	152	entity/name	0x0D8578	0x0D8579	10	68 70 55 55 68 70 83 5D	ラットトラップ
+byte	153	entity/name	0x0D8582	0x0D8583	12	6B 84 54 75 4E 83 5E 4D 71 6A	レディスペシャル
+byte	154	entity/name	0x0D858E	0x0D858F	12	84 5D 68 6F 84 54 75 70 4D 72	ブランディッシュ
+byte	155	entity/name	0x0D859A	0x0D859B	8	6B 84 54 75 1F 20	レディたち
+byte	156	entity/name	0x0D85A2	0x0D85A3	2		
+byte	157	entity/name	0x0D85A4	0x0D85A5	5	84 5F 6D	ボワ
+byte	158	entity/name	0x0D85A9	0x0D85AA	6	84 5F 6D 6D	ボワワ
+byte	159	entity/name	0x0D85AF	0x0D85B0	6	84 4E 84 47	ズガ
+byte	160	entity/name	0x0D85B5	0x0D85B6	9	84 4E 84 47 84 47 6F	ズガガン
+byte	161	entity/name	0x0D85BE	0x0D85BF	5	84 5C 47	ビカ
+byte	162	entity/name	0x0D85C3	0x0D85C4	9	84 5C 47 84 54 47 78	ビカデカー
+byte	163	entity/name	0x0D85CC	0x0D85CD	6	4B 6A 84 55	コルド
+byte	164	entity/name	0x0D85D2	0x0D85D3	8	50 78 4B 6A 84 55	ソーコルド
+byte	165	entity/name	0x0D85DA	0x0D85DB	6	42 43 4D 78	アイシー
+byte	166	entity/name	0x0D85E0	0x0D85E1	4	4D 57	シニ
+byte	167	entity/name	0x0D85E4	0x0D85E5	5	4D 59 59	シネネ
+byte	168	entity/name	0x0D85E9	0x0D85EA	6	84 51 44 6F	ダウン
+byte	169	entity/name	0x0D85EF	0x0D85F0	7	50 84 51 44 6F	ソダウン
+byte	170	entity/name	0x0D85F6	0x0D85F7	8	84 51 60 69 78 6F	ダマリーン
+byte	171	entity/name	0x0D85FE	0x0D85FF	5	52 72 78	チュー
+byte	172	entity/name	0x0D8603	0x0D8604	10	84 51 84 5D 68 70 83 5D	ダブラップ
+byte	173	entity/name	0x0D860D	0x0D860E	2		
+byte	174	entity/name	0x0D860F	0x0D8610	6	42 70 83 5D	アップ
+byte	175	entity/name	0x0D8615	0x0D8616	7	50 42 70 83 5D	ソアップ
+byte	176	entity/name	0x0D861C	0x0D861D	7	60 84 5F 6C 4D	マボロシ
+byte	177	entity/name	0x0D8623	0x0D8624	6	52 71 84 4D	チャジ
+byte	178	entity/name	0x0D8629	0x0D862A	7	52 71 78 84 4D	チャージ
+byte	179	entity/name	0x0D8630	0x0D8631	6	5D 6A 52 71	フルチャ
+byte	180	entity/name	0x0D8636	0x0D8637	8	61 56 52 71 84 4D	ミナチャジ
+byte	181	entity/name	0x0D863E	0x0D863F	8	61 56 60 6F 51 6F	ミナマンタン
+byte	182	entity/name	0x0D8646	0x0D8647	6	52 71 59 6A	チャネル
+byte	183	entity/name	0x0D864C	0x0D864D	6	69 6F 59 6A	リンネル
+byte	184	entity/name	0x0D8652	0x0D8653	6	52 72 44 6D	チュウワ
+byte	185	entity/name	0x0D8658	0x0D8659	7	84 4C 70 83 5D	ザップ
+byte	186	entity/name	0x0D865F	0x0D8660	6	54 6F 50 78	テンソー
+byte	187	entity/name	0x0D8665	0x0D8666	7	84 4C 4B 56 43	ザコナイ
+byte	188	entity/name	0x0D866C	0x0D866D	8	84 4B 62 84 49 53	ゴムグツ
+byte	189	entity/name	0x0D8674	0x0D8675	6	59 62 59 62	ネムネム
+byte	190	entity/name	0x0D867A	0x0D867B	9	59 62 84 49 78 84 49	ネムグーグ
+byte	191	entity/name	0x0D8683	0x0D8684	8	84 4D 84 5B 70 49	ジバック
+byte	192	entity/name	0x0D868B	0x0D868C	9	84 5B 49 84 4D 84 5B	バクジバ
+byte	193	entity/name	0x0D8694	0x0D8695	5	84 5F 6D	ボワ
+byte	194	entity/name	0x0D8699	0x0D869A	6	84 5F 6D 6D	ボワワ
+byte	195	entity/name	0x0D869F	0x0D86A0	6	84 4E 84 47	ズガ
+byte	196	entity/name	0x0D86A5	0x0D86A6	9	84 4E 84 47 84 47 6F	ズガガン
+byte	197	entity/name	0x0D86AE	0x0D86AF	6	42 43 4D 78	アイシー
+byte	198	entity/name	0x0D86B4	0x0D86B5	9	84 5C 47 84 54 47 78	ビカデカー
+byte	199	entity/name	0x0D86BD	0x0D86BE	2		
+byte	200	entity/name	0x0D86BF	0x0D86C0	2		
+byte	201	entity/name	0x0D86C1	0x0D86C2	2		
+byte	202	entity/name	0x0D86C3	0x0D86C4	2		
+byte	203	entity/name	0x0D86C5	0x0D86C6	2		
+byte	204	entity/name	0x0D86C7	0x0D86C8	2		
+byte	205	entity/name	0x0D86C9	0x0D86CA	2		
+byte	206	entity/name	0x0D86CB	0x0D86CC	2		
+byte	207	entity/name	0x0D86CD	0x0D86CE	2		
+byte	208	entity/name	0x0D86CF	0x0D86D0	2		
+byte	209	entity/name	0x0D86D1	0x0D86D2	2		
+byte	210	entity/name	0x0D86D3	0x0D86D4	2		
+byte	211	entity/name	0x0D86D5	0x0D86D6	2		
+byte	212	entity/name	0x0D86D7	0x0D86D8	6	84 4E 84 47	ズガ
+byte	213	entity/name	0x0D86DD	0x0D86DE	9	84 4E 84 47 84 47 6F	ズガガン
+byte	214	entity/name	0x0D86E6	0x0D86E7	2		
+byte	215	entity/name	0x0D86E8	0x0D86E9	2		
+byte	216	entity/name	0x0D86EA	0x0D86EB	2		
+byte	217	entity/name	0x0D86EC	0x0D86ED	2		
+byte	218	entity/name	0x0D86EE	0x0D86EF	2		
+byte	219	entity/name	0x0D86F0	0x0D86F1	7	52 76 6F 84 4D	チェンジ
+byte	220	entity/name	0x0D86F7	0x0D86F8	2		
+byte	221	entity/name	0x0D86F9	0x0D86FA	2		
+byte	222	entity/name	0x0D86FB	0x0D86FC	2		
+byte	223	entity/name	0x0D86FD	0x0D86FE	2		
+byte	224	entity/name	0x0D86FF	0x0D8700	2		
+byte	225	entity/name	0x0D8701	0x0D8702	2		
+byte	226	item/name	0x0D8703	0x0D8704	7	4E 4B 70 83 5D	スコップ
+byte	227	item/name	0x0D870A	0x0D870B	7	19 3D 84 2D 12	こんぼう
+byte	228	item/name	0x0D8711	0x0D8712	8	48 52 6F 56 43 5D	キチンナイフ
+byte	229	item/name	0x0D8719	0x0D871A	9	84 19 1B 3D 84 2D 12	ごしんぼう
+byte	230	item/name	0x0D8722	0x0D8723	9	5E 84 5C 78 56 43 5D	ヘビーナイフ
+byte	231	item/name	0x0D872B	0x0D872C	11	4B 84 5D 68 4E 4B 70 83 5D	コブラスコップ
+byte	232	item/name	0x0D8736	0x0D8737	7	57 78 84 55 6A	ニードル
+byte	233	item/name	0x0D873D	0x0D873E	10	84 5F 6D 4E 4B 70 83 5D	ボワスコップ
+byte	234	item/name	0x0D8747	0x0D8748	9	4D 71 59 84 5D 78 53	シャネブーツ
+byte	235	item/name	0x0D8750	0x0D8751	8	14 12 28 56 43 5D	おうのナイフ
+byte	236	item/name	0x0D8758	0x0D8759	12	83 5B 6D 78 84 55 6C 70 84 55	パワードロッド
+byte	237	item/name	0x0D8764	0x0D8765	10	10 15 11 5B 43 5C 78 6A	あかいハイヒール
+byte	238	item/name	0x0D876E	0x0D876F	11	2B 12 11 3D 4E 4B 70 83 5D	ふういんスコップ
+byte	239	item/name	0x0D8779	0x0D877A	9	84 47 68 4E 28 17 21	ガラスのくつ
+byte	240	item/name	0x0D8782	0x0D8783	8	53 78 49 68 70 52	ツークラッチ
+byte	241	item/name	0x0D878A	0x0D878B	9	5F 78 69 78 56 43 5D	ホーリーナイフ
+byte	242	item/name	0x0D8793	0x0D8794	12	42 6F 84 54 70 84 55 56 43 5D	アンデッドナイフ
+byte	243	item/name	0x0D879F	0x0D87A0	10	5D 74 43 42 84 5D 78 53	ファイアブーツ
+byte	244	item/name	0x0D87A9	0x0D87AA	12	2A 28 84 22 38 4E 4B 70 83 5D	ひのでるスコップ
+byte	245	item/name	0x0D87B5	0x0D87B6	7	03 0B 84 29 3D	19ばん
+byte	246	item/name	0x0D87BC	0x0D87BD	13	84 4B 78 6A 84 54 6F 50 78 84 55	ゴールデンソード
+byte	247	item/name	0x0D87C9	0x0D87CA	8	6B 5A 84 5D 78 53	レノブーツ
+byte	248	item/name	0x0D87D1	0x0D87D2	10	83 5B 6D 78 84 5D 78 53	パワーブーツ
+byte	249	item/name	0x0D87DB	0x0D87DC	8	5E 6A 84 5D 78 53	ヘルブーツ
+byte	250	item/name	0x0D87E3	0x0D87E4	6	84 5D 78 53	ブーツ
+byte	251	item/name	0x0D87E9	0x0D87EA	11	68 68 84 5B 43 84 5D 78 53	ララバイブーツ
+byte	252	item/name	0x0D87F4	0x0D87F5	8	42 43 4E 56 43 5D	アイスナイフ
+byte	253	item/name	0x0D87FC	0x0D87FD	7	44 75 70 83 5D	ウィップ
+byte	254	item/name	0x0D8803	0x0D8804	9	6B 5A 44 75 70 83 5D	レノウィップ
+byte	255	item/name	0x0D880C	0x0D880D	11	6C 78 84 4E 44 75 70 83 5D	ローズウィップ
+byte	256	item/name	0x0D8817	0x0D8818	10	43 5A 84 5D 28 15 84 16	イノブのかぎ
+byte	257	item/name	0x0D8821	0x0D8822	12	84 1F 11 37 1D 16 28 15 84 16	だいりせきのかぎ
+byte	258	item/name	0x0D882D	0x0D882E	10	84 5B 6C 6F 28 2D 12 16	バロンのほうき
+byte	259	item/name	0x0D8837	0x0D8838	11	84 5B 6C 6F 28 13 28 84 17	バロンのえのぐ
+byte	260	item/name	0x0D8842	0x0D8843	10	23 12 31 11 24 15 84 16	とうめいなかぎ
+byte	261	item/name	0x0D884C	0x0D884D	9	1F 3D 18 3D 25 3E 16	たんけんにっき
+byte	262	item/name	0x0D8855	0x0D8856	12	84 47 58 84 5C 4E 28 15 84 16	ガヌビスのかぎ
+byte	263	item/name	0x0D8861	0x0D8862	7	22 21 28 17 21	てつのくつ
+byte	264	item/name	0x0D8868	0x0D8869	7	69 6A 20 3F 3D	リルちゃん
+byte	265	item/name	0x0D886F	0x0D8870	12	84 47 58 84 5C 4E 28 1B 38 1B	ガヌビスのしるし
+byte	266	item/name	0x0D887B	0x0D887C	12	48 6F 84 49 25 3D 84 16 41 12	キングにんぎょう
+byte	267	item/name	0x0D8887	0x0D8888	9	6C 4A 70 55 84 17 21	ロケットぐつ
+byte	268	item/name	0x0D8890	0x0D8891	7	14 35 12 2B 17	おようふく
+byte	269	item/name	0x0D8897	0x0D8898	9	35 1E 11 16 28 2B 17	よそいきのふく
+byte	270	item/name	0x0D88A0	0x0D88A1	7	18 11 19 84 16	けいこぎ
+byte	271	item/name	0x0D88A7	0x0D88A8	9	6B 84 4C 78 4E 78 53	レザースーツ
+byte	272	item/name	0x0D88B0	0x0D88B1	10	6B 84 4C 78 84 55 6B 4E	レザードレス
+byte	273	item/name	0x0D88BA	0x0D88BB	9	52 76 43 6F 63 43 6A	チェインメイル
+byte	274	item/name	0x0D88C3	0x0D88C4	10	84 5F 84 54 75 4B 78 55	ボディコート
+byte	275	item/name	0x0D88CD	0x0D88CE	10	84 19 12 16 3D 28 2B 17	ごうきんのふく
+byte	276	item/name	0x0D88D7	0x0D88D8	9	1A 11 1B 3D 28 2B 17	さいしんのふく
+byte	277	item/name	0x0D88E0	0x0D88E1	8	14 12 28 35 3A 11	おうのよろい
+byte	278	item/name	0x0D88E8	0x0D88E9	11	22 11 84 29 3D 28 4B 78 55	ていばんのコート
+byte	279	item/name	0x0D88F3	0x0D88F4	9	1B 3D 83 2A 28 2B 17	しんぴのふく
+byte	280	item/name	0x0D88FC	0x0D88FD	9	5E 84 5D 6F 4B 78 55	ヘブンコート
+byte	281	item/name	0x0D8905	0x0D8906	12	84 5F 84 54 75 4B 6F 4D 71 4E	ボディコンシャス
+byte	282	item/name	0x0D8911	0x0D8912	8	2A 18 1B 28 2B 17	ひけしのふく
+byte	283	item/name	0x0D8919	0x0D891A	8	42 54 56 4E 78 53	アテナスーツ
+byte	284	item/name	0x0D8921	0x0D8922	11	84 4B 78 6A 84 55 4B 78 55	ゴールドコート
+byte	285	item/name	0x0D892C	0x0D892D	10	84 54 84 5C 6A 4B 78 55	デビルコート
+byte	286	item/name	0x0D8936	0x0D8937	10	52 71 43 56 84 55 6B 4E	チャイナドレス
+byte	287	item/name	0x0D8940	0x0D8941	10	52 71 43 56 84 5D 78 53	チャイナブーツ
+byte	288	item/name	0x0D894A	0x0D894B	7	83 5E 56 6F 55	ペナント
+byte	289	item/name	0x0D8951	0x0D8952	7	11 1B 28 1F 22	いしのたて
+byte	290	item/name	0x0D8958	0x0D8959	9	16 3D 84 1E 17 1F 22	きんぞくたて
+byte	291	item/name	0x0D8961	0x0D8962	7	14 12 28 1F 22	おうのたて
+byte	292	item/name	0x0D8968	0x0D8969	9	1B 3D 83 2A 28 1F 22	しんぴのたて
+byte	293	item/name	0x0D8971	0x0D8972	11	84 1B 40 3D 16 3D 28 1F 22	じゅんきんのたて
+byte	294	item/name	0x0D897C	0x0D897D	8	1D 11 24 38 1F 22	せいなるたて
+byte	295	item/name	0x0D8984	0x0D8985	11	52 71 43 56 83 5B 70 84 55	チャイナパッド
+byte	296	item/name	0x0D898F	0x0D8990	8	19 12 36 28 19 22	こうらのこて
+byte	297	item/name	0x0D8997	0x0D8998	2		
+byte	298	item/name	0x0D8999	0x0D899A	2		
+byte	299	item/name	0x0D899B	0x0D899C	9	16 39 28 84 2D 12 1B	きれのぼうし
+byte	300	item/name	0x0D89A4	0x0D89A5	8	4B 70 49 84 2D 12	コックぼう
+byte	301	item/name	0x0D89AC	0x0D89AD	9	83 5C 56 84 2D 12 1B	ピナぼうし
+byte	302	item/name	0x0D89B5	0x0D89B6	11	54 6F 84 47 6C 6F 5B 70 55	テンガロンハット
+byte	303	item/name	0x0D89C0	0x0D89C1	10	6B 84 54 75 44 77 70 52	レディウォッチ
+byte	304	item/name	0x0D89CA	0x0D89CB	7	5E 6A 63 70 55	ヘルメット
+byte	305	item/name	0x0D89D1	0x0D89D2	11	84 4B 78 6A 84 55 5B 70 55	ゴールドハット
+byte	306	item/name	0x0D89DC	0x0D89DD	10	84 5E 84 5C 78 60 4E 49	ベビーマスク
+byte	307	item/name	0x0D89E6	0x0D89E7	10	52 71 43 56 84 2D 12 1B	チャイナぼうし
+byte	308	item/name	0x0D89F0	0x0D89F1	10	4D 42 59 6A 69 84 5F 6F	シアネルリボン
+byte	309	item/name	0x0D89FA	0x0D89FB	12	84 5E 6A 4C 52 4E 4B 70 83 5D	ベルサチスコップ
+byte	310	item/name	0x0D8A06	0x0D8A07	6	14 17 1C 37	おくすり
+byte	311	item/name	0x0D8A0C	0x0D8A0D	9	84 23 17 20 40 12 3B	どくちゅうわ
+byte	312	item/name	0x0D8A15	0x0D8A16	6	60 5C 5A 6F	マヒノン
+byte	313	item/name	0x0D8A1B	0x0D8A1C	6	14 2B 84 1F	おふだ
+byte	314	item/name	0x0D8A21	0x0D8A22	9	4E 83 5D 69 6F 84 49	スプリング
+byte	315	item/name	0x0D8A2A	0x0D8A2B	8	2E 15 11 28 25 17	まかいのにく
+byte	316	item/name	0x0D8A32	0x0D8A33	11	60 84 4D 70 49 44 77 78 51	マジックウォータ
+byte	317	item/name	0x0D8A3D	0x0D8A3E	9	54 6B 4D 73 70 83 5D	テレショップ
+byte	318	item/name	0x0D8A46	0x0D8A47	8	84 4A 62 14 15 1B	ゲムおかし
+byte	319	item/name	0x0D8A4E	0x0D8A4F	11	83 5B 6D 78 52 71 78 84 4D	パワーチャージ
+byte	320	item/name	0x0D8A59	0x0D8A5A	10	47 84 4D 5A 28 4B 43 6F	カジノのコイン
+byte	321	item/name	0x0D8A63	0x0D8A64	11	2A 15 38 84 5C 78 84 51 60	ひかるビーダマ
+byte	322	item/name	0x0D8A6E	0x0D8A6F	8	52 47 6A 4D 44 62	チカルシウム
+byte	323	item/name	0x0D8A76	0x0D8A77	11	52 71 78 84 4D 6F 84 47 62	チャージンガム
+byte	324	item/name	0x0D8A81	0x0D8A82	9	52 73 4B 6B 78 51 62	チョコレータム
+byte	325	item/name	0x0D8A8A	0x0D8A8B	11	60 84 4D 48 71 6F 84 54 78	マジキャンデー
+byte	326	item/name	0x0D8A95	0x0D8A96	11	68 43 84 5D 42 84 4A 43 6F	ライブアゲイン
+byte	327	item/name	0x0D8AA0	0x0D8AA1	10	4F 6F 55 44 77 78 51 78	セントウォーター
+byte	328	item/name	0x0D8AAA	0x0D8AAB	10	6A 43 4E 44 75 70 83 5D	ルイスウィップ
+byte	329	item/name	0x0D8AB4	0x0D8AB5	11	84 5B 69 42 44 75 70 83 5D	バリアウィップ
+byte	330	item/name	0x0D8ABF	0x0D8AC0	10	4E 5A 44 44 75 70 83 5D	スノウウィップ
+byte	331	item/name	0x0D8AC9	0x0D8ACA	6	84 5C 84 4C	ビザ
+byte	332	item/name	0x0D8ACF	0x0D8AD0	8	17 3A 11 15 84 16	くろいかぎ
+byte	333	item/name	0x0D8AD7	0x0D8AD8	11	1C 11 84 23 12 28 15 84 16	すいどうのかぎ
+byte	334	item/name	0x0D8AE2	0x0D8AE3	11	25 40 12 84 1B 41 12 18 3D	にゅうじょうけん
+byte	335	item/name	0x0D8AED	0x0D8AEE	12	4A 78 84 5D 6A 28 16 3E 83 2B	ケーブルのきっぷ
+byte	336	item/name	0x0D8AF9	0x0D8AFA	9	84 5B 6C 6F 17 3D 06	バロンくん4
+byte	337	item/name	0x0D8B02	0x0D8B03	9	12 13 16 84 29 1A 2F	うえきばさみ
+byte	338	item/name	0x0D8B0B	0x0D8B0C	8	10 14 11 15 84 16	あおいかぎ
+byte	339	item/name	0x0D8B13	0x0D8B14	8	10 15 11 15 84 16	あかいかぎ
+byte	340	item/name	0x0D8B1B	0x0D8B1C	8	84 5B 6C 6F 28 31	バロンのめ
+byte	341	item/name	0x0D8B23	0x0D8B24	11	4C 84 4D 49 28 22 84 15 2F	サジクのてがみ
+byte	342	item/name	0x0D8B2E	0x0D8B2F	7	1D 16 84 29 3D	せきばん
+byte	343	item/name	0x0D8B35	0x0D8B36	8	2E 32 28 45 48 4E	まものエキス
+byte	344	item/name	0x0D8B3D	0x0D8B3E	9	19 84 1F 11 28 2D 3D	こだいのほん
+byte	345	item/name	0x0D8B46	0x0D8B47	10	5F 6D 43 55 84 5F 78 6A	ホワイトボール
+byte	346	item/name	0x0D8B50	0x0D8B51	11	84 5D 68 70 49 84 5F 78 6A	ブラックボール
+byte	347	item/name	0x0D8B5B	0x0D8B5C	9	68 62 4E 28 84 1E 12	ラムスのぞう
+byte	348	item/name	0x0D8B64	0x0D8B65	8	2B 38 11 20 84 1C	ふるいちず
+byte	349	item/name	0x0D8B6C	0x0D8B6D	11	2B 38 11 84 1B 40 12 1F 3D	ふるいじゅうたん
+byte	350	item/name	0x0D8B77	0x0D8B78	11	2E 2D 12 84 1B 40 12 1F 3D	まほうじゅうたん
+byte	351	item/name	0x0D8B82	0x0D8B83	9	19 14 37 28 15 84 16	こおりのかぎ
+word	0	dynamic phrase	0x0D91CA	0x0D91CB	11	0014 00D8 001A 003D 01C0	お嬢さん
+word	1	dynamic phrase	0x0D91D5	0x0D91D6	13	0014 0057 0043 001A 003D 01C0	おニイさん
+word	2	dynamic phrase	0x0D91E2	0x0D91E3	15	0014 0084 001B 0011 001A 003D 01C0	おじいさん
+word	3	dynamic phrase	0x0D91F1	0x0D91F2	13	0014 00D8 0020 003F 003D 01C0	お嬢ちゃん
+word	4	dynamic phrase	0x0D91FE	0x0D91FF	7	019E 0190 01C0	色男
+word	5	dynamic phrase	0x0D9205	0x0D9206	13	0084 001B 0011 001A 003D 01C0	じいさん

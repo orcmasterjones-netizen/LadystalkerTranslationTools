@@ -1,0 +1,359 @@
+table	index	category	japanese	machine_english_reference	professional_translation	translator_notes	english_raw_codes
+byte	0	entity/name	レディ	Lady			0C 42 45 5A
+byte	1	entity/name	コックス	Cox			28 50 59
+byte	2	entity/name	ヨシオ	Yoshio			0F 50 54 49 4A 50
+byte	3	entity/name	モグきち	Mogukichi			31 50 48 56 4C 4A 44 49 4A
+byte	4	entity/name	バーボ	Barbo			27 42 53 43 50
+byte	5	entity/name	ボブ	Bob			27 50 43
+byte	6	entity/name	こボブ	Bob Jr.			27 50 43 01 2F 53 1D
+byte	7	entity/name	じじボブ	Grandpa Bob			2C 53 42 4F 45 51 42 01 27 50 43
+byte	8	entity/name	サジク	Sajik			0D 42 4B 4A 4C
+byte	9	entity/name	メグ	Meg			31 46 48
+byte	10	entity/name	ラムス	Ramus			35 42 4E 56 54
+byte	11	entity/name	カプリ	Capri			28 42 51 53 4A
+byte	12	entity/name	コレクタ	Collector			28 50 4D 4D 46 44 55 50 53
+byte	13	entity/name	じじいのこえ	Old Man's Voice			33 4D 45 01 31 42 4F 16 54 01 38 50 4A 44 46
+byte	14	entity/name	ぐんしゅう	Crowd			28 53 50 58 45
+byte	15	entity/name	ぐんしゅう	Crowd			28 53 50 58 45
+byte	16	entity/name	ベビすけ	Bebisuke			27 46 43 4A 54 56 4C 46
+byte	17	entity/name	ベビへい	Bebihei			27 46 43 4A 49 46 4A
+byte	18	entity/name	ベビた	Bebita			27 46 43 4A 55 42
+byte	19	entity/name	ベビオ	Bebio			27 46 43 4A 50
+byte	20	entity/name	ジェイビー	J.B.			2F 1D 27 1D
+byte	21	entity/name	ヘブリ	Hebri			2D 46 43 53 4A
+byte	22	entity/name	ドドヘイ	Dodohei			29 50 45 50 49 46 4A
+byte	23	entity/name	ゲムコ	Gemuko			2C 46 4E 56 4C 50
+byte	24	entity/name	ミニー	Minnie			31 4A 4F 4F 4A 46
+byte	25	entity/name	デモリン	Demorin			29 46 4E 50 53 4A 4F
+byte	26	entity/name	ゆきぼう	Yukibo			0F 56 4C 4A 43 50
+byte	27	entity/name	ガヌビス	Ganubis			2C 42 4F 56 43 4A 54
+byte	28	entity/name	※	*			19
+byte	29	entity/name	※	*			19
+byte	30	entity/name	※	*			19
+byte	31	entity/name	キングバロン	King Baron			30 4A 4F 48 01 27 42 53 50 4F
+byte	32	entity/name	※	*			19
+byte	33	entity/name	イノブ	Inobu			2E 4F 50 43 56
+byte	34	entity/name	ベビー	Baby			27 42 43 5A
+byte	35	entity/name	まみ	Mami			31 42 4E 4A
+byte	36	entity/name	ヤス	Yasu			0F 42 54 56
+byte	37	entity/name	リカ	Rika			35 4A 4C 42
+byte	38	entity/name	ゲム	Gem			2C 46 4E
+byte	39	entity/name	※	*			19
+byte	40	entity/name	トマトン	Tomaton			36 50 4E 42 55 50 4F
+byte	41	entity/name	グリーンパパ	Green Papa			2C 53 46 46 4F 01 0E 42 51 42
+byte	42	entity/name	わるいフェアリー	Bad Fairy			27 42 45 01 2B 42 4A 53 5A
+byte	43	entity/name	くされトマトン	Rotten Tomaton			35 50 55 55 46 4F 01 36 50 4E 42 55 50 4F
+byte	44	entity/name	ピーハンマ	P-Hammer			0E 1C 2D 42 4E 4E 46 53
+byte	45	entity/name	きょだいミミー	Giant Mimi			2C 4A 42 4F 55 01 31 4A 4E 4A
+byte	46	entity/name	どくもんじろう	Poison Monjiro			0E 50 4A 54 50 4F 01 31 50 4F 4B 4A 53 50
+byte	47	entity/name	ミドラ	Midora			31 4A 45 50 53 42
+byte	48	entity/name	モクン	Mokun			31 50 4C 56 4F
+byte	49	entity/name	ボワドローン	Bowa Drone			27 50 58 42 01 29 53 50 4F 46
+byte	50	entity/name	あくまパピー	Devil Puppy			29 46 57 4A 4D 01 0E 56 51 51 5A
+byte	51	entity/name	かいふくくん	Heal-kun			2D 46 42 4D 1C 4C 56 4F
+byte	52	entity/name	いかれブーメラン	Crazy Boomerang			28 53 42 5B 5A 01 27 50 50 4E 46 53 42 4F 48
+byte	53	entity/name	リーハウンゼン	Leehausen			0C 46 46 49 42 56 54 46 4F
+byte	54	entity/name	すいまミドラ	Drowsy Midora			29 53 50 58 54 5A 01 31 4A 45 50 53 42
+byte	55	entity/name	きょうふせんし	Terror Warrior			36 46 53 53 50 53 01 39 42 53 53 4A 50 53
+byte	56	entity/name	はらだし	Belly-Out			27 46 4D 4D 5A 1C 33 56 55
+byte	57	entity/name	じごくおじさん	Hell Uncle			2D 46 4D 4D 01 37 4F 44 4D 46
+byte	58	entity/name	しろいミイラ	White Mummy			39 49 4A 55 46 01 31 56 4E 4E 5A
+byte	59	entity/name	ゴールドトマト	Gold Tomaton			2C 50 4D 45 01 36 50 4E 42 55 50 4F
+byte	60	entity/name	かんでんくん	Shock-kun			0D 49 50 44 4C 1C 4C 56 4F
+byte	61	entity/name	ピラルク	Pirarucu			0E 4A 53 42 53 56 44 56
+byte	62	entity/name	キングマンタ	King Manta			30 4A 4F 48 01 31 42 4F 55 42
+byte	63	entity/name	たこばんにん	Octo Guard			33 44 55 50 01 2C 56 42 53 45
+byte	64	entity/name	あやつりボーイ	Puppet Boy			0E 56 51 51 46 55 01 27 50 5A
+byte	65	entity/name	ナメテルトボン	Nameteru Tobon			32 42 4E 46 55 46 53 56 01 36 50 43 50 4F
+byte	66	entity/name	しゅらさま	Lord Shura			0C 50 53 45 01 0D 49 56 53 42
+byte	67	entity/name	ミャミャン	Myamyan			31 5A 42 4E 5A 42 4F
+byte	68	entity/name	だいかいふくくん	Mega Heal-kun			31 46 48 42 01 2D 46 42 4D 1C 4C 56 4F
+byte	69	entity/name	クリオイ	Kurioi			30 56 53 4A 50 4A
+byte	70	entity/name	ジャンボトマト	Jumbo Tomaton			2F 56 4E 43 50 01 36 50 4E 42 55 50 4F
+byte	71	entity/name	でんきブーメラン	Electric Boomerang			2A 4D 46 44 55 53 4A 44 01 27 50 50 4E 46 53 42 4F 48
+byte	72	entity/name	モルグのひと	Morgue Man			31 50 53 48 56 46 01 31 42 4F
+byte	73	entity/name	イッキュウ	Ikkyu			2E 4C 4C 5A 56
+byte	74	entity/name	ドンカチー	Donkachi			29 50 4F 4C 42 44 49 4A
+byte	75	entity/name	バネデトム	Banedetom			27 42 4F 46 45 46 55 50 4E
+byte	76	entity/name	でんねつぐも	Heat Spider			2D 46 42 55 01 0D 51 4A 45 46 53
+byte	77	entity/name	びっくりばこ	Mimic			31 4A 4E 4A 44
+byte	78	entity/name	ファイア	Fire			2B 4A 53 46
+byte	79	entity/name	ひだるまじじい	Burning Geezer			27 56 53 4F 4A 4F 48 01 2C 46 46 5B 46 53
+byte	80	entity/name	かなしいひとだま	Sad Will-o-Wisp			0D 42 45 01 39 4A 4D 4D 1C 50 1C 39 4A 54 51
+byte	81	entity/name	ほっきょくぐも	Arctic Spider			26 53 44 55 4A 44 01 0D 51 4A 45 46 53
+byte	82	entity/name	コールデス	Coldeath			28 50 4D 45 46 42 55 49
+byte	83	entity/name	スナイパー	Sniper			0D 4F 4A 51 46 53
+byte	84	entity/name	アカイナズマ	Red Lightning			35 46 45 01 0C 4A 48 49 55 4F 4A 4F 48
+byte	85	entity/name	テンタクルス	Tentacles			36 46 4F 55 42 44 4D 46 54
+byte	86	entity/name	アイスマジシャン	Ice Magician			2E 44 46 01 31 42 48 4A 44 4A 42 4F
+byte	87	entity/name	ボディ	Body			27 50 45 5A
+byte	88	entity/name	アイスマッシュ	Ice Mash			2E 44 46 01 31 42 54 49
+byte	89	entity/name	サンズ	Sands			0D 42 4F 45 54
+byte	90	entity/name	ベビーバロン	Baby Baron			27 42 43 5A 01 27 42 53 50 4F
+byte	91	entity/name	むきむきおとこ	Muscle Man			31 56 54 44 4D 46 01 31 42 4F
+byte	92	entity/name	マジックキャット	Magic Cat			31 42 48 4A 44 01 28 42 55
+byte	93	entity/name	マジカール	Magikarl			31 42 48 4A 4C 42 53 4D
+byte	94	entity/name	スゴイカイフク	Super Heal			0D 56 51 46 53 01 2D 46 42 4D
+byte	95	entity/name	パワーミドラ	Power Midora			0E 50 58 46 53 01 31 4A 45 50 53 42
+byte	96	entity/name	どくゲロマスタ	Poison Vomit Master			0E 50 4A 54 50 4F 01 38 50 4E 4A 55 01 31 42 54 55 46 53
+byte	97	entity/name	ロボソルジャー	Robo Soldier			35 50 43 50 01 0D 50 4D 45 4A 46 53
+byte	98	entity/name	デビルズナイト	Devil's Knight			29 46 57 4A 4D 16 54 01 30 4F 4A 48 49 55
+byte	99	entity/name	レイハリーマン	Reihariman			35 46 4A 49 42 53 4A 4E 42 4F
+byte	100	entity/name	ブラックドラゴン	Black Dragon			27 4D 42 44 4C 01 29 53 42 48 50 4F
+byte	101	entity/name	ダイナマッド	Dynamud			29 5A 4F 42 4E 56 45
+byte	102	entity/name	しのはこ	Death Box			29 46 42 55 49 01 27 50 59
+byte	103	entity/name	よみのばんにん	Underworld Guard			37 4F 45 46 53 58 50 53 4D 45 01 2C 56 42 53 45
+byte	104	entity/name	ニンジャナイト	Ninja Knight			32 4A 4F 4B 42 01 30 4F 4A 48 49 55
+byte	105	entity/name	ベビーデビル	Baby Devil			27 42 43 5A 01 29 46 57 4A 4D
+byte	106	entity/name	ブラディナイト	Bloody Knight			27 4D 50 50 45 5A 01 30 4F 4A 48 49 55
+byte	107	entity/name	くされダイヤ	Rotten Diamond			35 50 55 55 46 4F 01 29 4A 42 4E 50 4F 45
+byte	108	entity/name	スカール	Skull			0D 4C 56 4D 4D
+byte	109	entity/name	ちをすうやいば	Bloodsucking Blade			27 4D 50 50 45 54 56 44 4C 4A 4F 48 01 27 4D 42 45 46
+byte	110	entity/name	ふっかつマイト	Revival Might			35 46 57 4A 57 42 4D 01 31 4A 48 49 55
+byte	111	entity/name	かいふくでかトマト	Healing Jumbo Tomaton			2D 46 42 4D 4A 4F 48 01 2F 56 4E 43 50 01 36 50 4E 42 55 50 4F
+byte	112	entity/name	マジックアーム	Magic Arm			31 42 48 4A 44 01 26 53 4E
+byte	113	entity/name	まにんぎょう	Demon Doll			29 46 4E 50 4F 01 29 50 4D 4D
+byte	114	entity/name	チェンジ	Change			28 49 42 4F 48 46
+byte	115	entity/name	おしごとあくま	Work Devil			39 50 53 4C 01 29 46 57 4A 4D
+byte	116	entity/name	きりさきジャック	Ripper Jack			35 4A 51 51 46 53 01 2F 42 44 4C
+byte	117	entity/name	かたいおとこ	Tough Guy			36 50 56 48 49 01 2C 56 5A
+byte	118	entity/name	パラノフリー	Paranofree			0E 42 53 42 4F 50 47 53 46 46
+byte	119	entity/name	ウイングドラゴン	Wing Dragon			39 4A 4F 48 01 29 53 42 48 50 4F
+byte	120	entity/name	あやしいはにわ	Suspicious Haniwa			0D 56 54 51 4A 44 4A 50 56 54 01 2D 42 4F 4A 58 42
+byte	121	entity/name	ナラスーベニール	Nara Souvenir			32 42 53 42 01 0D 50 56 57 46 4F 4A 53
+byte	122	entity/name	ハニワスター	Haniwa Star			2D 42 4F 4A 58 42 01 0D 55 42 53
+byte	123	entity/name	とけい	Clock			28 4D 50 44 4C
+byte	124	entity/name	しょくだい	Candlestick			28 42 4F 45 4D 46 54 55 4A 44 4C
+byte	125	entity/name	ベビーバロン	Baby Baron			27 42 43 5A 01 27 42 53 50 4F
+byte	126	entity/name	げんしドジー	Primitive Dozy			0E 53 4A 4E 4A 55 4A 57 46 01 29 50 5B 5A
+byte	127	entity/name	ゲスタフ	Gustav			2C 56 54 55 42 57
+byte	128	entity/name	ゲドー	Gedo			2C 46 45 50
+byte	129	entity/name	デモリン	Demorin			29 46 4E 50 53 4A 4F
+byte	130	entity/name	ミニー	Minnie			31 4A 4F 4F 4A 46
+byte	131	entity/name	ゆきぼう	Yukibo			0F 56 4C 4A 43 50
+byte	132	entity/name	ジェイビーペット	J.B.'s Pet			2F 1D 27 1D 16 54 01 0E 46 55
+byte	133	entity/name	にせレディ	Fake Lady			2B 42 4C 46 01 0C 42 45 5A
+byte	134	entity/name	にせコックス	Fake Cox			2B 42 4C 46 01 28 50 59
+byte	135	entity/name	にせヨシオ	Fake Yoshio			2B 42 4C 46 01 0F 50 54 49 4A 50
+byte	136	entity/name	ジェイビー	J.B.			2F 1D 27 1D
+byte	137	entity/name	ジャビー	Jabby			2F 42 43 43 5A
+byte	138	entity/name	すいどうだこ	Sewer Octopus			0D 46 58 46 53 01 33 44 55 50 51 56 54
+byte	139	entity/name	キングバロン	King Baron			30 4A 4F 48 01 27 42 53 50 4F
+byte	140	entity/name	むきむきヘッド	Muscle Head			31 56 54 44 4D 46 01 2D 46 42 45
+byte	141	entity/name	ドラゴンヘッド	Dragon Head			29 53 42 48 50 4F 01 2D 46 42 45
+byte	142	entity/name	はなちょうちん	Nose Bubble			32 50 54 46 01 27 56 43 43 4D 46
+byte	143	entity/name					
+byte	144	entity/name	あ	A			26
+byte	145	entity/name	い	I			2E
+byte	146	entity/name	う	U			37
+byte	147	entity/name	ロッククラッシュ	Rock Crush			35 50 44 4C 01 28 53 56 54 49
+byte	148	entity/name	スティンガー	Stinger			0D 55 4A 4F 48 46 53
+byte	149	entity/name	スピンヒールキック	Spin Heel Kick			0D 51 4A 4F 01 2D 46 46 4D 01 30 4A 44 4C
+byte	150	entity/name	シャドウファング	Shadow Fang			0D 49 42 45 50 58 01 2B 42 4F 48
+byte	151	entity/name	サマーソルト	Somersault			0D 50 4E 46 53 54 42 56 4D 55
+byte	152	entity/name	ラットトラップ	Rat Trap			35 42 55 01 36 53 42 51
+byte	153	entity/name	レディスペシャル	Lady Special			0C 42 45 5A 01 0D 51 46 44 4A 42 4D
+byte	154	entity/name	ブランディッシュ	Brandish			27 53 42 4F 45 4A 54 49
+byte	155	entity/name	レディたち	Lady's Party			0C 42 45 5A 16 54 01 0E 42 53 55 5A
+byte	156	entity/name					
+byte	157	entity/name	ボワ	Bowa			27 50 58 42
+byte	158	entity/name	ボワワ	Bowawa			27 50 58 42 58 42
+byte	159	entity/name	ズガ	Zuga			3B 56 48 42
+byte	160	entity/name	ズガガン	Zugagan			3B 56 48 42 48 42 4F
+byte	161	entity/name	ビカ	Bika			27 4A 4C 42
+byte	162	entity/name	ビカデカー	Bikadeka			27 4A 4C 42 45 46 4C 42
+byte	163	entity/name	コルド	Kordo			30 50 53 45 50
+byte	164	entity/name	ソーコルド	So Kordo			0D 50 01 30 50 53 45 50
+byte	165	entity/name	アイシー	Icy			2E 44 5A
+byte	166	entity/name	シニ	Shini			0D 49 4A 4F 4A
+byte	167	entity/name	シネネ	Shinene			0D 49 4A 4F 46 4F 46
+byte	168	entity/name	ダウン	Down			29 50 58 4F
+byte	169	entity/name	ソダウン	So Down			0D 50 01 29 50 58 4F
+byte	170	entity/name	ダマリーン	Damarin			29 42 4E 42 53 4A 4F
+byte	171	entity/name	チュー	Chu			28 49 56
+byte	172	entity/name	ダブラップ	Double Up			29 50 56 43 4D 46 01 37 51
+byte	173	entity/name					
+byte	174	entity/name	アップ	Up			37 51
+byte	175	entity/name	ソアップ	So Up			0D 50 01 37 51
+byte	176	entity/name	マボロシ	Maboroshi			31 42 43 50 53 50 54 49 4A
+byte	177	entity/name	チャジ	Chaji			28 49 42 4B 4A
+byte	178	entity/name	チャージ	Charge			28 49 42 53 48 46
+byte	179	entity/name	フルチャ	Full Charge			2B 56 4D 4D 01 28 49 42 53 48 46
+byte	180	entity/name	ミナチャジ	All Charge			26 4D 4D 01 28 49 42 53 48 46
+byte	181	entity/name	ミナマンタン	Full Restore			2B 56 4D 4D 01 35 46 54 55 50 53 46
+byte	182	entity/name	チャネル	Channel			28 49 42 4F 4F 46 4D
+byte	183	entity/name	リンネル	Rinnel			35 4A 4F 4F 46 4D
+byte	184	entity/name	チュウワ	Chuwa			28 49 56 58 42
+byte	185	entity/name	ザップ	Zap			3B 42 51
+byte	186	entity/name	テンソー	Tenso			36 46 4F 54 50
+byte	187	entity/name	ザコナイ	Zakonai			3B 42 4C 50 4F 42 4A
+byte	188	entity/name	ゴムグツ	Rubber Boots			35 56 43 43 46 53 01 27 50 50 55 54
+byte	189	entity/name	ネムネム	Sleepy			0D 4D 46 46 51 5A
+byte	190	entity/name	ネムグーグ	Deep Sleep			29 46 46 51 01 0D 4D 46 46 51
+byte	191	entity/name	ジバック	Jibaku			2F 4A 43 42 4C 56
+byte	192	entity/name	バクジバ	Bakujiba			27 42 4C 56 4B 4A 43 42
+byte	193	entity/name	ボワ	Bowa			27 50 58 42
+byte	194	entity/name	ボワワ	Bowawa			27 50 58 42 58 42
+byte	195	entity/name	ズガ	Zuga			3B 56 48 42
+byte	196	entity/name	ズガガン	Zugagan			3B 56 48 42 48 42 4F
+byte	197	entity/name	アイシー	Icy			2E 44 5A
+byte	198	entity/name	ビカデカー	Bikadeka			27 4A 4C 42 45 46 4C 42
+byte	199	entity/name					
+byte	200	entity/name					
+byte	201	entity/name					
+byte	202	entity/name					
+byte	203	entity/name					
+byte	204	entity/name					
+byte	205	entity/name					
+byte	206	entity/name					
+byte	207	entity/name					
+byte	208	entity/name					
+byte	209	entity/name					
+byte	210	entity/name					
+byte	211	entity/name					
+byte	212	entity/name	ズガ	Zuga			3B 56 48 42
+byte	213	entity/name	ズガガン	Zugagan			3B 56 48 42 48 42 4F
+byte	214	entity/name					
+byte	215	entity/name					
+byte	216	entity/name					
+byte	217	entity/name					
+byte	218	entity/name					
+byte	219	entity/name	チェンジ	Change			28 49 42 4F 48 46
+byte	220	entity/name					
+byte	221	entity/name					
+byte	222	entity/name					
+byte	223	entity/name					
+byte	224	entity/name					
+byte	225	entity/name					
+byte	226	item/name	スコップ	Shovel			0D 49 50 57 46 4D
+byte	227	item/name	こんぼう	Club			28 4D 56 43
+byte	228	item/name	キチンナイフ	Kitchen Knife			30 4A 55 44 49 46 4F 01 30 4F 4A 47 46
+byte	229	item/name	ごしんぼう	Guard Staff			2C 56 42 53 45 01 0D 55 42 47 47
+byte	230	item/name	ヘビーナイフ	Heavy Knife			2D 46 42 57 5A 01 30 4F 4A 47 46
+byte	231	item/name	コブラスコップ	Cobra Shovel			28 50 43 53 42 01 0D 49 50 57 46 4D
+byte	232	item/name	ニードル	Needle			32 46 46 45 4D 46
+byte	233	item/name	ボワスコップ	Bowa Shovel			27 50 58 42 01 0D 49 50 57 46 4D
+byte	234	item/name	シャネブーツ	Shane Boots			0D 49 42 4F 46 01 27 50 50 55 54
+byte	235	item/name	おうのナイフ	King's Knife			30 4A 4F 48 16 54 01 30 4F 4A 47 46
+byte	236	item/name	パワードロッド	Power Rod			0E 50 58 46 53 01 35 50 45
+byte	237	item/name	あかいハイヒール	Red High Heels			35 46 45 01 2D 4A 48 49 01 2D 46 46 4D 54
+byte	238	item/name	ふういんスコップ	Seal Shovel			0D 46 42 4D 01 0D 49 50 57 46 4D
+byte	239	item/name	ガラスのくつ	Glass Slippers			2C 4D 42 54 54 01 0D 4D 4A 51 51 46 53 54
+byte	240	item/name	ツークラッチ	Two-Clutch			36 58 50 1C 28 4D 56 55 44 49
+byte	241	item/name	ホーリーナイフ	Holy Knife			2D 50 4D 5A 01 30 4F 4A 47 46
+byte	242	item/name	アンデッドナイフ	Undead Knife			37 4F 45 46 42 45 01 30 4F 4A 47 46
+byte	243	item/name	ファイアブーツ	Fire Boots			2B 4A 53 46 01 27 50 50 55 54
+byte	244	item/name	ひのでるスコップ	Sunrise Shovel			0D 56 4F 53 4A 54 46 01 0D 49 50 57 46 4D
+byte	245	item/name	19ばん	No. 19			32 50 1D 01 03 0B
+byte	246	item/name	ゴールデンソード	Golden Sword			2C 50 4D 45 46 4F 01 0D 58 50 53 45
+byte	247	item/name	レノブーツ	Reno Boots			35 46 4F 50 01 27 50 50 55 54
+byte	248	item/name	パワーブーツ	Power Boots			0E 50 58 46 53 01 27 50 50 55 54
+byte	249	item/name	ヘルブーツ	Hell Boots			2D 46 4D 4D 01 27 50 50 55 54
+byte	250	item/name	ブーツ	Boots			27 50 50 55 54
+byte	251	item/name	ララバイブーツ	Lullaby Boots			0C 56 4D 4D 42 43 5A 01 27 50 50 55 54
+byte	252	item/name	アイスナイフ	Ice Knife			2E 44 46 01 30 4F 4A 47 46
+byte	253	item/name	ウィップ	Whip			39 49 4A 51
+byte	254	item/name	レノウィップ	Reno Whip			35 46 4F 50 01 39 49 4A 51
+byte	255	item/name	ローズウィップ	Rose Whip			35 50 54 46 01 39 49 4A 51
+byte	256	item/name	イノブのかぎ	Inobu's Key			2E 4F 50 43 56 16 54 01 30 46 5A
+byte	257	item/name	だいりせきのかぎ	Marble Key			31 42 53 43 4D 46 01 30 46 5A
+byte	258	item/name	バロンのほうき	Baron's Broom			27 42 53 50 4F 16 54 01 27 53 50 50 4E
+byte	259	item/name	バロンのえのぐ	Baron's Paints			27 42 53 50 4F 16 54 01 0E 42 4A 4F 55 54
+byte	260	item/name	とうめいなかぎ	Invisible Key			2E 4F 57 4A 54 4A 43 4D 46 01 30 46 5A
+byte	261	item/name	たんけんにっき	Explorer's Journal			2A 59 51 4D 50 53 46 53 16 54 01 2F 50 56 53 4F 42 4D
+byte	262	item/name	ガヌビスのかぎ	Ganubis Key			2C 42 4F 56 43 4A 54 01 30 46 5A
+byte	263	item/name	てつのくつ	Iron Shoes			2E 53 50 4F 01 0D 49 50 46 54
+byte	264	item/name	リルちゃん	Lil-chan			0C 4A 4D 1C 44 49 42 4F
+byte	265	item/name	ガヌビスのしるし	Ganubis Mark			2C 42 4F 56 43 4A 54 01 31 42 53 4C
+byte	266	item/name	キングにんぎょう	King Doll			30 4A 4F 48 01 29 50 4D 4D
+byte	267	item/name	ロケットぐつ	Rocket Boots			35 50 44 4C 46 55 01 27 50 50 55 54
+byte	268	item/name	おようふく	Clothes			28 4D 50 55 49 46 54
+byte	269	item/name	よそいきのふく	Dress Clothes			29 53 46 54 54 01 28 4D 50 55 49 46 54
+byte	270	item/name	けいこぎ	Training Gi			36 53 42 4A 4F 4A 4F 48 01 2C 4A
+byte	271	item/name	レザースーツ	Leather Suit			0C 46 42 55 49 46 53 01 0D 56 4A 55
+byte	272	item/name	レザードレス	Leather Dress			0C 46 42 55 49 46 53 01 29 53 46 54 54
+byte	273	item/name	チェインメイル	Chain Mail			28 49 42 4A 4F 01 31 42 4A 4D
+byte	274	item/name	ボディコート	Body Coat			27 50 45 5A 01 28 50 42 55
+byte	275	item/name	ごうきんのふく	Alloy Suit			26 4D 4D 50 5A 01 0D 56 4A 55
+byte	276	item/name	さいしんのふく	Modern Suit			31 50 45 46 53 4F 01 0D 56 4A 55
+byte	277	item/name	おうのよろい	King's Armor			30 4A 4F 48 16 54 01 26 53 4E 50 53
+byte	278	item/name	ていばんのコート	Classic Coat			28 4D 42 54 54 4A 44 01 28 50 42 55
+byte	279	item/name	しんぴのふく	Mystic Garb			31 5A 54 55 4A 44 01 2C 42 53 43
+byte	280	item/name	ヘブンコート	Heaven Coat			2D 46 42 57 46 4F 01 28 50 42 55
+byte	281	item/name	ボディコンシャス	Bodycon Dress			27 50 45 5A 44 50 4F 01 29 53 46 54 54
+byte	282	item/name	ひけしのふく	Firefighter Suit			2B 4A 53 46 47 4A 48 49 55 46 53 01 0D 56 4A 55
+byte	283	item/name	アテナスーツ	Athena Suit			26 55 49 46 4F 42 01 0D 56 4A 55
+byte	284	item/name	ゴールドコート	Gold Coat			2C 50 4D 45 01 28 50 42 55
+byte	285	item/name	デビルコート	Devil Coat			29 46 57 4A 4D 01 28 50 42 55
+byte	286	item/name	チャイナドレス	China Dress			28 49 4A 4F 42 01 29 53 46 54 54
+byte	287	item/name	チャイナブーツ	China Boots			28 49 4A 4F 42 01 27 50 50 55 54
+byte	288	item/name	ペナント	Pennant			0E 46 4F 4F 42 4F 55
+byte	289	item/name	いしのたて	Stone Shield			0D 55 50 4F 46 01 0D 49 4A 46 4D 45
+byte	290	item/name	きんぞくたて	Metal Shield			31 46 55 42 4D 01 0D 49 4A 46 4D 45
+byte	291	item/name	おうのたて	King's Shield			30 4A 4F 48 16 54 01 0D 49 4A 46 4D 45
+byte	292	item/name	しんぴのたて	Mystic Shield			31 5A 54 55 4A 44 01 0D 49 4A 46 4D 45
+byte	293	item/name	じゅんきんのたて	Pure Gold Shield			0E 56 53 46 01 2C 50 4D 45 01 0D 49 4A 46 4D 45
+byte	294	item/name	せいなるたて	Holy Shield			2D 50 4D 5A 01 0D 49 4A 46 4D 45
+byte	295	item/name	チャイナパッド	China Pad			28 49 4A 4F 42 01 0E 42 45
+byte	296	item/name	こうらのこて	Shell Gauntlet			0D 49 46 4D 4D 01 2C 42 56 4F 55 4D 46 55
+byte	297	item/name					
+byte	298	item/name					
+byte	299	item/name	きれのぼうし	Cloth Cap			28 4D 50 55 49 01 28 42 51
+byte	300	item/name	コックぼう	Chef's Hat			28 49 46 47 16 54 01 2D 42 55
+byte	301	item/name	ピナぼうし	Pina Hat			0E 4A 4F 42 01 2D 42 55
+byte	302	item/name	テンガロンハット	Ten-Gallon Hat			36 46 4F 1C 2C 42 4D 4D 50 4F 01 2D 42 55
+byte	303	item/name	レディウォッチ	Lady Watch			0C 42 45 5A 01 39 42 55 44 49
+byte	304	item/name	ヘルメット	Helmet			2D 46 4D 4E 46 55
+byte	305	item/name	ゴールドハット	Gold Hat			2C 50 4D 45 01 2D 42 55
+byte	306	item/name	ベビーマスク	Baby Mask			27 42 43 5A 01 31 42 54 4C
+byte	307	item/name	チャイナぼうし	China Hat			28 49 4A 4F 42 01 2D 42 55
+byte	308	item/name	シアネルリボン	Shianel Ribbon			0D 49 4A 42 4F 46 4D 01 35 4A 43 43 50 4F
+byte	309	item/name	ベルサチスコップ	Versachi Shovel			38 46 53 54 42 44 49 4A 01 0D 49 50 57 46 4D
+byte	310	item/name	おくすり	Medicine			31 46 45 4A 44 4A 4F 46
+byte	311	item/name	どくちゅうわ	Antidote			26 4F 55 4A 45 50 55 46
+byte	312	item/name	マヒノン	Para-Cure			0E 42 53 42 1C 28 56 53 46
+byte	313	item/name	おふだ	Ward Charm			39 42 53 45 01 28 49 42 53 4E
+byte	314	item/name	スプリング	Spring			0D 51 53 4A 4F 48
+byte	315	item/name	まかいのにく	Demon Meat			29 46 4E 50 4F 01 31 46 42 55
+byte	316	item/name	マジックウォータ	Magic Water			31 42 48 4A 44 01 39 42 55 46 53
+byte	317	item/name	テレショップ	Teleshop			36 46 4D 46 54 49 50 51
+byte	318	item/name	ゲムおかし	Gem Snack			2C 46 4E 01 0D 4F 42 44 4C
+byte	319	item/name	パワーチャージ	Power Charge			0E 50 58 46 53 01 28 49 42 53 48 46
+byte	320	item/name	カジノのコイン	Casino Coin			28 42 54 4A 4F 50 01 28 50 4A 4F
+byte	321	item/name	ひかるビーダマ	Shining Marble			0D 49 4A 4F 4A 4F 48 01 31 42 53 43 4D 46
+byte	322	item/name	チカルシウム	Power Calcium			0E 50 58 46 53 01 28 42 4D 44 4A 56 4E
+byte	323	item/name	チャージンガム	Charging Gum			28 49 42 53 48 4A 4F 48 01 2C 56 4E
+byte	324	item/name	チョコレータム	Chocolatum			28 49 50 44 50 4D 42 55 56 4E
+byte	325	item/name	マジキャンデー	Magic Candy			31 42 48 4A 44 01 28 42 4F 45 5A
+byte	326	item/name	ライブアゲイン	Live Again			0C 4A 57 46 01 26 48 42 4A 4F
+byte	327	item/name	セントウォーター	Holy Water			2D 50 4D 5A 01 39 42 55 46 53
+byte	328	item/name	ルイスウィップ	Louis Whip			0C 50 56 4A 54 01 39 49 4A 51
+byte	329	item/name	バリアウィップ	Barrier Whip			27 42 53 53 4A 46 53 01 39 49 4A 51
+byte	330	item/name	スノウウィップ	Snow Whip			0D 4F 50 58 01 39 49 4A 51
+byte	331	item/name	ビザ	Visa			38 4A 54 42
+byte	332	item/name	くろいかぎ	Black Key			27 4D 42 44 4C 01 30 46 5A
+byte	333	item/name	すいどうのかぎ	Waterway Key			39 42 55 46 53 58 42 5A 01 30 46 5A
+byte	334	item/name	にゅうじょうけん	Admission Ticket			26 45 4E 4A 54 54 4A 50 4F 01 36 4A 44 4C 46 55
+byte	335	item/name	ケーブルのきっぷ	Cable Ticket			28 42 43 4D 46 01 36 4A 44 4C 46 55
+byte	336	item/name	バロンくん4	Baron-kun 4			27 42 53 50 4F 1C 4C 56 4F 01 06
+byte	337	item/name	うえきばさみ	Pruning Shears			0E 53 56 4F 4A 4F 48 01 0D 49 46 42 53 54
+byte	338	item/name	あおいかぎ	Blue Key			27 4D 56 46 01 30 46 5A
+byte	339	item/name	あかいかぎ	Red Key			35 46 45 01 30 46 5A
+byte	340	item/name	バロンのめ	Baron's Eye			27 42 53 50 4F 16 54 01 2A 5A 46
+byte	341	item/name	サジクのてがみ	Sajik's Letter			0D 42 4B 4A 4C 16 54 01 0C 46 55 55 46 53
+byte	342	item/name	せきばん	Stone Tablet			0D 55 50 4F 46 01 36 42 43 4D 46 55
+byte	343	item/name	まものエキス	Monster Extract			31 50 4F 54 55 46 53 01 2A 59 55 53 42 44 55
+byte	344	item/name	こだいのほん	Ancient Book			26 4F 44 4A 46 4F 55 01 27 50 50 4C
+byte	345	item/name	ホワイトボール	White Ball			39 49 4A 55 46 01 27 42 4D 4D
+byte	346	item/name	ブラックボール	Black Ball			27 4D 42 44 4C 01 27 42 4D 4D
+byte	347	item/name	ラムスのぞう	Ramus Statue			35 42 4E 56 54 01 0D 55 42 55 56 46
+byte	348	item/name	ふるいちず	Old Map			33 4D 45 01 31 42 51
+byte	349	item/name	ふるいじゅうたん	Old Carpet			33 4D 45 01 28 42 53 51 46 55
+byte	350	item/name	まほうじゅうたん	Magic Carpet			31 42 48 4A 44 01 28 42 53 51 46 55
+byte	351	item/name	こおりのかぎ	Ice Key			2E 44 46 01 30 46 5A
+word	0	dynamic phrase	お嬢さん	Miss			031 04A 054 054 1C0
+word	1	dynamic phrase	おニイさん	Mister			031 04A 054 055 046 053 1C0
+word	2	dynamic phrase	おじいさん	Old-timer			033 04D 045 01C 055 04A 04E 046 053 1C0
+word	3	dynamic phrase	お嬢ちゃん	Missy			031 04A 054 054 05A 1C0
+word	4	dynamic phrase	色男	Handsome			02D 042 04F 045 054 050 04E 046 1C0
+word	5	dynamic phrase	じいさん	Old man			033 04D 045 001 04E 042 04F 1C0

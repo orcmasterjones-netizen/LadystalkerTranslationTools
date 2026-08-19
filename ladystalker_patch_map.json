@@ -1,0 +1,39 @@
+{
+  "patched_rom_sha256": "3a698798b844e248cd3cf612941d18d1837bc6af1805df18b6eff609bc97e3cf",
+  "message_count": 1220,
+  "pointer_table": {
+    "file_offset": "0x281000",
+    "cpu_address": "E8:1000",
+    "entries": 1235
+  },
+  "fallback_pointer_entries": {
+    "count": 15,
+    "ids": "04:C4-04:D2",
+    "value": "FF:FFFF"
+  },
+  "message_storage": [
+    {
+      "cpu_range": "EA:0CF8-EA:FFF6",
+      "messages": 909,
+      "bytes": 62206
+    },
+    {
+      "cpu_range": "E9:4000-E9:B78A",
+      "messages": 311,
+      "bytes": 30602
+    }
+  ],
+  "message_bytes_total": 92808,
+  "byte_lookup": {
+    "cpu_range": "F5:0000-F5:0E44",
+    "records": 352
+  },
+  "word_lookup": {
+    "cpu_range": "F6:0000-F6:0060",
+    "records": 6
+  },
+  "dialogue_font_base": {
+    "file_offset": "0x290000",
+    "cpu_address": "E9:0000"
+  }
+}

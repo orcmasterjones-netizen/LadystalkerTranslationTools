@@ -1,0 +1,7416 @@
+Lady Stalker - Kako kara no Chousen (Japan)
+Complete engine text dump (UTF-8)
+ROM SHA-256: d0275f6fdc38f26b53b017bdd7fe26e13b9871a93671c76f48800e4f733b2385
+Messages: 1220
+Dynamic lookup strings: 358
+
+===== MSG 00:00 (ID 0x0000, ROM 0x022292, 8 bytes) =====
+その 方向には 何もない<WAIT_INPUT>
+
+===== MSG 00:01 (ID 0x0001, ROM 0x02229B, 11 bytes) =====
+レディは たからばこをあけてみた
+
+===== MSG 00:02 (ID 0x0002, ROM 0x0222A7, 4 bytes) =====
+<INSERT_A>を 見つけた
+
+===== MSG 00:03 (ID 0x0003, ROM 0x0222AC, 8 bytes) =====
+はこの中は からだった<WAIT_INPUT>
+
+===== MSG 00:04 (ID 0x0004, ROM 0x0222B5, 11 bytes) =====
+しかし にもつが いっぱいだった<WAIT_INPUT>
+
+===== MSG 00:05 (ID 0x0005, ROM 0x0222C1, 5 bytes) =====
+<INSERT_B>は <INSERT_A>を使った<PAUSE_30>
+
+===== MSG 00:06 (ID 0x0006, ROM 0x0222C7, 7 bytes) =====
+<INSERT_B>は <INSERT_B>をとなえた<PAUSE_30>
+
+===== MSG 00:07 (ID 0x0007, ROM 0x0222CF, 11 bytes) =====
+しかし 何ごともおこらない<WAIT_INPUT>
+
+===== MSG 00:08 (ID 0x0008, ROM 0x0222DB, 6 bytes) =====
+<INSERT_B>の LPが<NUMBER>回復した<WAIT_INPUT>
+
+===== MSG 00:09 (ID 0x0009, ROM 0x0222E2, 6 bytes) =====
+<INSERT_B>の SPが<NUMBER>回復した<WAIT_INPUT>
+
+===== MSG 00:0A (ID 0x000A, ROM 0x0222E9, 10 bytes) =====
+ザコナイの効果が なくなった<WAIT_INPUT>
+
+===== MSG 00:0B (ID 0x000B, ROM 0x0222F4, 9 bytes) =====
+おふだの効果が なくなった<WAIT_INPUT>
+
+===== MSG 00:0C (ID 0x000C, ROM 0x0222FE, 7 bytes) =====
+<INSERT_B>が よみがえった<WAIT_INPUT>
+
+===== MSG 00:0D (ID 0x000D, ROM 0x022306, 8 bytes) =====
+<INSERT_B>は よみがえらなかった<WAIT_INPUT>
+
+===== MSG 00:0E (ID 0x000E, ROM 0x02230F, 7 bytes) =====
+<INSERT_B>の ちからが <NUMBER>ふえた<WAIT_INPUT>
+
+===== MSG 00:0F (ID 0x000F, ROM 0x022317, 9 bytes) =====
+<INSERT_B>の きびんさが <NUMBER>ふえた<WAIT_INPUT>
+
+===== MSG 00:10 (ID 0x0010, ROM 0x022321, 8 bytes) =====
+<INSERT_B>の LPの最大値が <NUMBER>ふえた<WAIT_INPUT>
+
+===== MSG 00:11 (ID 0x0011, ROM 0x02232A, 8 bytes) =====
+<INSERT_B>の SPの最大値が <NUMBER>ふえた<WAIT_INPUT>
+
+===== MSG 00:12 (ID 0x0012, ROM 0x022333, 4 bytes) =====
+<INSERT_B>は <INSERT_A>を使った<WAIT_INPUT>
+
+===== MSG 00:13 (ID 0x0013, ROM 0x022338, 6 bytes) =====
+<INSERT_B>は <INSERT_B>をかけた<WAIT_INPUT>
+
+===== MSG 00:14 (ID 0x0014, ROM 0x02233F, 2 bytes) =====
+<NOP><WAIT>
+
+===== MSG 00:15 (ID 0x0015, ROM 0x022342, 2 bytes) =====
+<NOP><WAIT_INPUT>
+
+===== MSG 00:16 (ID 0x0016, ROM 0x022345, 5 bytes) =====
+<INSERT_B>は <INSERT_B>をかけた
+
+===== MSG 00:17 (ID 0x0017, ROM 0x02234B, 6 bytes) =====
+<INSERT_B>の LPが<NUMBER>回復した
+
+===== MSG 00:18 (ID 0x0018, ROM 0x022352, 10 bytes) =====
+たからばこは <INSERT_B>だった!<WAIT_INPUT>
+
+===== MSG 00:19 (ID 0x0019, ROM 0x02235D, 6 bytes) =====
+SPが たりない<WAIT_INPUT>
+
+===== MSG 00:1A (ID 0x001A, ROM 0x022364, 8 bytes) =====
+その 方向には おけない<WAIT_INPUT>
+
+===== MSG 00:1B (ID 0x001B, ROM 0x02236D, 7 bytes) =====
+<INSERT_B>は <INSERT_A>を
+<INSERT_B>にわたした<WAIT_INPUT>
+
+===== MSG 00:1C (ID 0x001C, ROM 0x022375, 10 bytes) =====
+<INSERT_B>は
+気がかわったので やめた<WAIT_INPUT>
+
+===== MSG 00:1D (ID 0x001D, ROM 0x022380, 5 bytes) =====
+<INSERT_B>は
+<INSERT_A>を すてた<WAIT_INPUT>
+
+===== MSG 00:1E (ID 0x001E, ROM 0x022386, 5 bytes) =====
+<INSERT_B>は <INSERT_A>を 読んだ<WAIT>
+
+===== MSG 00:1F (ID 0x001F, ROM 0x02238C, 8 bytes) =====
+レディは <NUMBER>エンドルを
+手に入れた
+
+===== MSG 00:20 (ID 0x0020, ROM 0x022395, 8 bytes) =====
+<INSERT_B>の 毒が
+ちゅうわされた<WAIT_INPUT>
+
+===== MSG 00:21 (ID 0x0021, ROM 0x02239E, 4 bytes) =====
+<INSERT_B>は <INSERT_A>を使った
+
+===== MSG 00:22 (ID 0x0022, ROM 0x0223A3, 2 bytes) =====
+<NOP><PAUSE_30>
+
+===== MSG 00:23 (ID 0x0023, ROM 0x0223A6, 11 bytes) =====
+探険日記の <NUMBER>巻を
+けしても いいですか?
+
+===== MSG 00:24 (ID 0x0024, ROM 0x0223B2, 11 bytes) =====
+探険日記の <NUMBER>巻が
+きえてしまいました
+
+===== MSG 00:25 (ID 0x0025, ROM 0x0223BE, 16 bytes) =====
+何ごとも なかったように
+しずまりかえっている<WAIT_INPUT>
+
+===== MSG 00:26 (ID 0x0026, ROM 0x0223CF, 5 bytes) =====
+<INSERT_A>は くだけた<WAIT_INPUT>
+
+===== MSG 00:27 (ID 0x0027, ROM 0x0223D5, 9 bytes) =====
+死人は 道具を 使えません<WAIT_INPUT>
+
+===== MSG 00:28 (ID 0x0028, ROM 0x0223DF, 16 bytes) =====
+レディは <INSERT_A>を
+<INSERT_B>の にもつから
+<INSERT_B>のにもつにうつした<WAIT_INPUT>
+
+===== MSG 00:29 (ID 0x0029, ROM 0x0223F0, 6 bytes) =====
+<INSERT_A>は すてられない<WAIT_INPUT>
+
+===== MSG 00:2A (ID 0x002A, ROM 0x0223F7, 5 bytes) =====
+<INSERT_A>を すてますか?
+
+===== MSG 00:2B (ID 0x002B, ROM 0x0223FD, 13 bytes) =====
+レディは
+<INSERT_B>のにもつから
+<INSERT_A>を取り出して すてた<WAIT_INPUT>
+
+===== MSG 00:2C (ID 0x002C, ROM 0x02240B, 10 bytes) =====
+<INSERT_B>は
+<INSERT_B>のにもつから
+<INSERT_A>を取り出した<WAIT_INPUT>
+
+===== MSG 00:2D (ID 0x002D, ROM 0x022416, 9 bytes) =====
+<INSERT_B>は
+<INSERT_B>のにもつに
+<INSERT_A>を入れた<WAIT_INPUT>
+
+===== MSG 00:2E (ID 0x002E, ROM 0x022420, 11 bytes) =====
+レディは ひとりでさくせんをねった<WAIT_INPUT>
+
+===== MSG 00:2F (ID 0x002F, ROM 0x02242C, 10 bytes) =====
+ルーラできる できる できる
+
+===== MSG 00:30 (ID 0x0030, ROM 0x022437, 11 bytes) =====
+ルーラできない できない できない
+
+===== MSG 00:31 (ID 0x0031, ROM 0x022443, 10 bytes) =====
+リレミトできる できる できる<WAIT_INPUT>
+
+===== MSG 00:32 (ID 0x0032, ROM 0x02244E, 11 bytes) =====
+リレミトできない できない できない<WAIT_INPUT>
+
+===== MSG 00:33 (ID 0x0033, ROM 0x02245A, 8 bytes) =====
+呪いで 魔術が 使えない<WAIT_INPUT>
+
+===== MSG 00:34 (ID 0x0034, ROM 0x022463, 6 bytes) =====
+<INSERT_B>は
+呪われてしまった!
+
+===== MSG 00:35 (ID 0x0035, ROM 0x02246A, 11 bytes) =====
+<INSERT_A>は
+呪いで 体から はなれない<WAIT_INPUT>
+
+===== MSG 00:36 (ID 0x0036, ROM 0x022476, 16 bytes) =====
+レディは <INSERT_B>の にもつから
+<INSERT_A>を とりだすのを
+やめた<WAIT_INPUT>
+
+===== MSG 00:37 (ID 0x0037, ROM 0x022487, 5 bytes) =====
+<INSERT_B>は <INSERT_A>を見た<PAUSE_30>
+
+===== MSG 00:38 (ID 0x0038, ROM 0x02248D, 24 bytes) =====
+まかいのにくを まくと
+えたいのしれない ものが
+どこからか よってきた<WAIT_INPUT>
+
+===== MSG 00:39 (ID 0x0039, ROM 0x0224A6, 3 bytes) =====
+<NUMBER>時間
+
+===== MSG 00:3A (ID 0x003A, ROM 0x0224AA, 2 bytes) =====
+<NOP><NUMBER>分
+
+===== MSG 00:3B (ID 0x003B, ROM 0x0224AD, 6 bytes) =====
+<NOP><NUMBER>びょうです<WAIT_INPUT>
+
+===== MSG 00:3C (ID 0x003C, ROM 0x0224B4, 9 bytes) =====
+あなたのプレイ時間は
+
+===== MSG 00:3D (ID 0x003D, ROM 0x0224BE, 5 bytes) =====
+いいかおり<WAIT_INPUT>
+
+===== MSG 00:3E (ID 0x003E, ROM 0x0224C4, 15 bytes) =====
+「なんじ この レバーを 行かせ
+と 書いてある<WAIT>
+
+===== MSG 00:3F (ID 0x003F, ROM 0x0224D4, 11 bytes) =====
+「このレバーですよ
+と 書いてある<WAIT>
+
+===== MSG 00:40 (ID 0x0040, ROM 0x0224E0, 7 bytes) =====
+レバーを 行かしますか?
+
+===== MSG 00:41 (ID 0x0041, ROM 0x0224E8, 10 bytes) =====
+「使用 ふのう
+と 書いてある<WAIT_INPUT>
+
+===== MSG 00:42 (ID 0x0042, ROM 0x0224F3, 11 bytes) =====
+「きけん 行かすな
+と 書いてある<WAIT>
+
+===== MSG 00:43 (ID 0x0043, ROM 0x0224FF, 7 bytes) =====
+<INSERT_B>は<NUMBER>のダメージ
+
+===== MSG 00:44 (ID 0x0044, ROM 0x022507, 13 bytes) =====
+<INSERT_B>は まぐれで だいダメージをあたえた
+
+===== MSG 00:45 (ID 0x0045, ROM 0x022515, 14 bytes) =====
+<INSERT_B>は ゆだんたいてき だいダメージをうけた
+
+===== MSG 00:46 (ID 0x0046, ROM 0x022524, 7 bytes) =====
+<INSERT_B>は たすけをよんだ
+
+===== MSG 00:47 (ID 0x0047, ROM 0x02252C, 6 bytes) =====
+<INSERT_B>は たいきゃくした
+
+===== MSG 00:48 (ID 0x0048, ROM 0x022533, 5 bytes) =====
+<INSERT_B>は <INSERT_A>を つかった
+
+===== MSG 00:49 (ID 0x0049, ROM 0x022539, 5 bytes) =====
+<INSERT_B>は <INSERT_B>を かけた
+
+===== MSG 00:4A (ID 0x004A, ROM 0x02253F, 13 bytes) =====
+しかし SPぶそくで となえられない
+
+===== MSG 00:4B (ID 0x004B, ROM 0x02254D, 5 bytes) =====
+<INSERT_B>は おちてしまった
+
+===== MSG 00:4C (ID 0x004C, ROM 0x022553, 6 bytes) =====
+<INSERT_B>は たいきゃくした<WAIT>
+
+===== MSG 00:4D (ID 0x004D, ROM 0x02255A, 6 bytes) =====
+<INSERT_B>が おそってきた
+
+===== MSG 00:4E (ID 0x004E, ROM 0x022561, 10 bytes) =====
+にげられない ざんねんです<WAIT>
+
+===== MSG 00:4F (ID 0x004F, ROM 0x02256C, 8 bytes) =====
+<INSERT_B>は きあいをいれている
+
+===== MSG 00:50 (ID 0x0050, ROM 0x022575, 17 bytes) =====
+しかし くちがひらかず まじゅつはつかえない
+
+===== MSG 00:51 (ID 0x0051, ROM 0x022587, 14 bytes) =====
+しかし のろいで まじゅつがつかえない
+
+===== MSG 00:52 (ID 0x0052, ROM 0x022596, 9 bytes) =====
+しかし なにもおこらない
+
+===== MSG 00:53 (ID 0x0053, ROM 0x0225A0, 12 bytes) =====
+しかし まじゅつは いまは つかえない
+
+===== MSG 00:54 (ID 0x0054, ROM 0x0225AD, 10 bytes) =====
+<INSERT_A>は あとかたもなく ちった
+
+===== MSG 00:55 (ID 0x0055, ROM 0x0225B8, 9 bytes) =====
+<INSERT_B>は まわりが なにも みえない
+
+===== MSG 00:56 (ID 0x0056, ROM 0x0225C2, 8 bytes) =====
+<INSERT_B>は しっぽをふっている
+
+===== MSG 00:57 (ID 0x0057, ROM 0x0225CB, 5 bytes) =====
+<INSERT_B>は とっしんした
+
+===== MSG 00:58 (ID 0x0058, ROM 0x0225D1, 8 bytes) =====
+<INSERT_B>は でんげきを はっした
+
+===== MSG 00:59 (ID 0x0059, ROM 0x0225DA, 10 bytes) =====
+<INSERT_B>の でんげきは あたらなかった
+
+===== MSG 00:5A (ID 0x005A, ROM 0x0225E5, 6 bytes) =====
+<INSERT_B>は ぶんしんした
+
+===== MSG 00:5B (ID 0x005B, ROM 0x0225EC, 6 bytes) =====
+<INSERT_B>は ぼーっとしている
+
+===== MSG 00:5C (ID 0x005C, ROM 0x0225F3, 4 bytes) =====
+<INSERT_B>は おどった
+
+===== MSG 00:5D (ID 0x005D, ROM 0x0225F8, 10 bytes) =====
+<INSERT_B>は ウォークライをさけんだ
+
+===== MSG 00:5E (ID 0x005E, ROM 0x022603, 7 bytes) =====
+<INSERT_B>は こうげきをよけた
+
+===== MSG 00:5F (ID 0x005F, ROM 0x02260B, 7 bytes) =====
+<INSERT_B>が SPを すいとった
+
+===== MSG 00:60 (ID 0x0060, ROM 0x022613, 7 bytes) =====
+<INSERT_B>は オロオロとしている
+
+===== MSG 00:61 (ID 0x0061, ROM 0x02261B, 13 bytes) =====
+ひさん だれも たすけにこなかった
+
+===== MSG 00:62 (ID 0x0062, ROM 0x022629, 13 bytes) =====
+<INSERT_B>に ぐさっとささって だいダメージ
+
+===== MSG 00:63 (ID 0x0063, ROM 0x022637, 14 bytes) =====
+ぜんぜんにてない ものまねしっぱい
+
+===== MSG 00:64 (ID 0x0064, ROM 0x022646, 6 bytes) =====
+<INSERT_B>は じばくした
+
+===== MSG 00:65 (ID 0x0065, ROM 0x02264D, 11 bytes) =====
+<INSERT_A>を みた ファイト とかいてある
+
+===== MSG 00:66 (ID 0x0066, ROM 0x022659, 16 bytes) =====
+エラー
+オーティー<NUMBER>のてきはたたかえません
+
+===== MSG 00:67 (ID 0x0067, ROM 0x02266A, 6 bytes) =====
+<INSERT_B>は どくをうけた
+
+===== MSG 00:68 (ID 0x0068, ROM 0x022671, 6 bytes) =====
+<INSERT_B>は しびれてしまった
+
+===== MSG 00:69 (ID 0x0069, ROM 0x022678, 6 bytes) =====
+<INSERT_B>は ねむらされた
+
+===== MSG 00:6A (ID 0x006A, ROM 0x02267F, 5 bytes) =====
+<INSERT_B>は めざめた
+
+===== MSG 00:6B (ID 0x006B, ROM 0x022685, 7 bytes) =====
+<INSERT_B>は しびれがとれた
+
+===== MSG 00:6C (ID 0x006C, ROM 0x02268D, 11 bytes) =====
+<INSERT_B>は こうげきりょくがアップした
+
+===== MSG 00:6D (ID 0x006D, ROM 0x022699, 8 bytes) =====
+化け物たちを かたづけた
+
+===== MSG 00:6E (ID 0x006E, ROM 0x0226A2, 11 bytes) =====
+おのおの
+経験値 <NUMBER>を もらった<WAIT_INPUT>
+
+===== MSG 00:6F (ID 0x006F, ROM 0x0226AE, 6 bytes) =====
+<NUMBER>エンドルを ひろった<WAIT_INPUT>
+
+===== MSG 00:70 (ID 0x0070, ROM 0x0226B5, 9 bytes) =====
+<INSERT_B>は レベル<NUMBER>にアップ<WAIT>
+
+===== MSG 00:71 (ID 0x0071, ROM 0x0226BF, 7 bytes) =====
+LPの最大値が <NUMBER>ふえた<WAIT>
+
+===== MSG 00:72 (ID 0x0072, ROM 0x0226C7, 5 bytes) =====
+<INSERT_B>の魔術を覚えた<WAIT>
+
+===== MSG 00:73 (ID 0x0073, ROM 0x0226CD, 13 bytes) =====
+ひっさつわざ
+<INSERT_B>を思いついた<WAIT>
+
+===== MSG 00:74 (ID 0x0074, ROM 0x0226DB, 18 bytes) =====
+しかし <INSERT_B>は
+これ以上 にもつを持てない
+にもつをすてますか?
+
+===== MSG 00:75 (ID 0x0075, ROM 0x0226EE, 9 bytes) =====
+どのにもつを すてますか?
+
+===== MSG 00:76 (ID 0x0076, ROM 0x0226F8, 7 bytes) =====
+<INSERT_B>は
+<INSERT_A>を とらなかった<WAIT_INPUT>
+
+===== MSG 00:77 (ID 0x0077, ROM 0x022700, 8 bytes) =====
+<INSERT_B>は <INSERT_A>をすてて
+<INSERT_A>を とった<WAIT_INPUT>
+
+===== MSG 00:78 (ID 0x0078, ROM 0x022709, 7 bytes) =====
+<INSERT_B>は
+<INSERT_A>を かくとくした<WAIT>
+
+===== MSG 00:79 (ID 0x0079, ROM 0x022711, 7 bytes) =====
+SPの最大値が <NUMBER>ふえた
+
+===== MSG 00:7A (ID 0x007A, ROM 0x022719, 5 bytes) =====
+力が <NUMBER>ふえた<WAIT>
+
+===== MSG 00:7B (ID 0x007B, ROM 0x02271F, 7 bytes) =====
+スタミナが <NUMBER>ふえた<WAIT>
+
+===== MSG 00:7C (ID 0x007C, ROM 0x022727, 8 bytes) =====
+きびんさが <NUMBER>ふえた<WAIT>
+
+===== MSG 00:7D (ID 0x007D, ROM 0x022730, 6 bytes) =====
+知せいが <NUMBER>ふえた<WAIT>
+
+===== MSG 00:7E (ID 0x007E, ROM 0x022737, 6 bytes) =====
+ラックが <NUMBER>ふえた<WAIT>
+
+===== MSG 00:7F (ID 0x007F, ROM 0x02273E, 6 bytes) =====
+<INSERT_B>を かたづけた
+
+===== MSG 00:80 (ID 0x0080, ROM 0x022745, 9 bytes) =====
+レディは
+経験値 <NUMBER>を もらった<WAIT_INPUT>
+
+===== MSG 00:81 (ID 0x0081, ROM 0x02274F, 9 bytes) =====
+<INSERT_A>が じめんに おちている<WAIT_INPUT>
+
+===== MSG 00:82 (ID 0x0082, ROM 0x022759, 9 bytes) =====
+<INSERT_B>の <INSERT_A>を
+ぜんぶ すてますか?
+
+===== MSG 00:83 (ID 0x0083, ROM 0x022763, 6 bytes) =====
+<INSERT_B>の <INSERT_A>を
+すてますか?
+
+===== MSG 00:84 (ID 0x0084, ROM 0x02276A, 5 bytes) =====
+<INSERT_A>を とりませんね?
+
+===== MSG 00:85 (ID 0x0085, ROM 0x022770, 7 bytes) =====
+化け物は にげていった
+
+===== MSG 00:86 (ID 0x0086, ROM 0x022778, 7 bytes) =====
+<INSERT_B>の魔術を思い出した<WAIT>
+
+===== MSG 00:87 (ID 0x0087, ROM 0x022780, 10 bytes) =====
+<INSERT_A>は
+くだけて なくなってしまった<WAIT_INPUT>
+
+===== MSG 00:88 (ID 0x0088, ROM 0x02278B, 2 bytes) =====
+<NOP><WAIT>
+
+===== MSG 00:89 (ID 0x0089, ROM 0x02278E, 2 bytes) =====
+<NOP><WAIT_INPUT>
+
+===== MSG 00:8A (ID 0x008A, ROM 0x022791, 10 bytes) =====
+レディ「・・・・・・・・・・・・<PAUSE_30>
+・・・・・・・・・・<PAUSE_30>
+
+===== MSG 00:8B (ID 0x008B, ROM 0x02279C, 4 bytes) =====
+<NOP>行くわ!<PAUSE_60>
+
+===== MSG 00:8C (ID 0x008C, ROM 0x0227A1, 2 bytes) =====
+<CLEAR>
+!
+
+===== MSG 00:8D (ID 0x008D, ROM 0x0227A4, 7 bytes) =====
+<CLEAR>
+<INSERT_B>は
+<INSERT_A>を うけとった
+
+===== MSG 00:8E (ID 0x008E, ROM 0x0227AC, 7 bytes) =====
+<CLEAR>
+<INSERT_B>は
+<INSERT_A>を 手に入れた
+
+===== MSG 00:8F (ID 0x008F, ROM 0x0227B4, 9 bytes) =====
+<CLEAR>
+<INSERT_B>は
+<INSERT_A>を うけとろうとした
+
+===== MSG 00:90 (ID 0x0090, ROM 0x0227BE, 14 bytes) =====
+<CLEAR>
+しかし にもつがいっぱいで
+持てなかった
+
+===== MSG 00:91 (ID 0x0091, ROM 0x0227CD, 9 bytes) =====
+<CLEAR>
+<INSERT_B>は
+<INSERT_A>を ひろおうとした
+
+===== MSG 00:92 (ID 0x0092, ROM 0x0227D7, 6 bytes) =====
+<CLEAR>
+<INSERT_B>は
+<INSERT_A>を みつけた
+
+===== MSG 00:93 (ID 0x0093, ROM 0x0227DE, 9 bytes) =====
+<CLEAR>
+<INSERT_B>は
+<NUMBER>エンドルを うけとった
+
+===== MSG 00:94 (ID 0x0094, ROM 0x0227E8, 8 bytes) =====
+<CLEAR>
+<INSERT_B>は
+<NUMBER>エンドルを 手に入れた
+
+===== MSG 00:95 (ID 0x0095, ROM 0x0227F1, 13 bytes) =====
+<CLEAR>
+<INSERT_B>は <NUMBER>枚の
+カジノのコインを うけとった
+
+===== MSG 00:96 (ID 0x0096, ROM 0x0227FF, 8 bytes) =====
+<CLEAR>
+<INSERT_B>は <INSERT_A>を
+装備させてもらった
+
+===== MSG 00:97 (ID 0x0097, ROM 0x022808, 7 bytes) =====
+<CLEAR>
+<INSERT_B>は
+呪われてしまった!
+
+===== MSG 00:98 (ID 0x0098, ROM 0x022810, 25 bytes) =====
+<CLEAR>
+<INSERT_B>は <INSERT_A>を
+装備させてもらおうとした
+<WAIT>
+<CLEAR>
+しかし <INSERT_A>が
+呪いで 体から はなれない
+
+===== MSG 00:99 (ID 0x0099, ROM 0x02282A, 4 bytes) =====
+<CLEAR>
+ハーイ
+
+===== MSG 00:9A (ID 0x009A, ROM 0x02282F, 10 bytes) =====
+<CLEAR>
+レディは つぼを のぞきこんだ
+
+===== MSG 00:9B (ID 0x009B, ROM 0x02283A, 9 bytes) =====
+<CLEAR>
+しかし 何も 見つからなかった
+
+===== MSG 00:9C (ID 0x009C, ROM 0x022844, 9 bytes) =====
+<CLEAR>
+レディは タンスを しらべた
+
+===== MSG 00:9D (ID 0x009D, ROM 0x02284E, 9 bytes) =====
+<CLEAR>
+レディは たるを しらべた
+
+===== MSG 00:9E (ID 0x009E, ROM 0x022858, 10 bytes) =====
+<CLEAR>
+レディは 本だなを しらべた
+
+===== MSG 00:9F (ID 0x009F, ROM 0x022863, 5 bytes) =====
+<CLEAR>
+本の山だ・・・
+
+===== MSG 00:A0 (ID 0x00A0, ROM 0x022869, 8 bytes) =====
+<CLEAR>
+レディは たなを しらべた
+
+===== MSG 00:A1 (ID 0x00A1, ROM 0x022872, 9 bytes) =====
+<CLEAR>
+レディは はこを しらべた
+
+===== MSG 00:A2 (ID 0x00A2, ROM 0x02287C, 14 bytes) =====
+<CLEAR>
+何も こたえない
+かんぜんに 死んでいるようだ
+
+===== MSG 00:A3 (ID 0x00A3, ROM 0x02288B, 7 bytes) =====
+<CLEAR>
+鉱山を掘る 道具がある
+
+===== MSG 00:A4 (ID 0x00A4, ROM 0x022893, 13 bytes) =====
+<CLEAR>
+よごれた ほこりの かたまりのようだ
+
+===== MSG 00:A5 (ID 0x00A5, ROM 0x0228A1, 19 bytes) =====
+<CLEAR>
+くさいにおいのする
+ものすごく 古い チーズがある
+
+===== MSG 00:A6 (ID 0x00A6, ROM 0x0228B5, 26 bytes) =====
+<CLEAR>
+ひからびて カリカリに なっている<WAIT>
+<CLEAR>
+力を くわえると
+こなごなに なりそうだ
+
+===== MSG 00:A7 (ID 0x00A7, ROM 0x0228D0, 9 bytes) =====
+<CLEAR>
+ひかるビーダマを みつけた!
+
+===== MSG 00:A8 (ID 0x00A8, ROM 0x0228DA, 13 bytes) =====
+<CLEAR>
+ひかるビーダマを
+コレクタに おくりますか?
+
+===== MSG 00:A9 (ID 0x00A9, ROM 0x0228E8, 12 bytes) =====
+<CLEAR>
+ひかるビーダマを
+コレクタに おくった
+
+===== MSG 00:AA (ID 0x00AA, ROM 0x0228F5, 11 bytes) =====
+<CLEAR>
+カジノのコインを
+カジノに おくった
+
+===== MSG 00:AB (ID 0x00AB, ROM 0x022901, 4 bytes) =====
+<CLEAR>
+これは <INSERT_A>
+
+===== MSG 00:AC (ID 0x00AC, ROM 0x022906, 9 bytes) =====
+<CLEAR>
+レディ が
+装備できる 武器です
+
+===== MSG 00:AD (ID 0x00AD, ROM 0x022910, 10 bytes) =====
+<CLEAR>
+コックス が
+装備できる 武器です
+
+===== MSG 00:AE (ID 0x00AE, ROM 0x02291B, 11 bytes) =====
+<CLEAR>
+レディ コックス が
+装備できる 武器です
+
+===== MSG 00:AF (ID 0x00AF, ROM 0x022927, 9 bytes) =====
+<CLEAR>
+ヨシオ が
+装備できる 武器です
+
+===== MSG 00:B0 (ID 0x00B0, ROM 0x022931, 11 bytes) =====
+<CLEAR>
+レディ ヨシオ が
+装備できる 武器です
+
+===== MSG 00:B1 (ID 0x00B1, ROM 0x02293D, 11 bytes) =====
+<CLEAR>
+コックス ヨシオ が
+装備できる 武器です
+
+===== MSG 00:B2 (ID 0x00B2, ROM 0x022949, 13 bytes) =====
+<CLEAR>
+レディ コックス ヨシオ が
+装備できる 武器です
+
+===== MSG 00:B3 (ID 0x00B3, ROM 0x022957, 9 bytes) =====
+<CLEAR>
+レディ が
+装備できる 防具です
+
+===== MSG 00:B4 (ID 0x00B4, ROM 0x022961, 9 bytes) =====
+<CLEAR>
+コックス が
+装備できる 防具です
+
+===== MSG 00:B5 (ID 0x00B5, ROM 0x02296B, 11 bytes) =====
+<CLEAR>
+レディ コックス が
+装備できる 防具です
+
+===== MSG 00:B6 (ID 0x00B6, ROM 0x022977, 9 bytes) =====
+<CLEAR>
+ヨシオ が
+装備できる 防具です
+
+===== MSG 00:B7 (ID 0x00B7, ROM 0x022981, 11 bytes) =====
+<CLEAR>
+レディ ヨシオ が
+装備できる 防具です
+
+===== MSG 00:B8 (ID 0x00B8, ROM 0x02298D, 11 bytes) =====
+<CLEAR>
+コックス ヨシオ が
+装備できる 防具です
+
+===== MSG 00:B9 (ID 0x00B9, ROM 0x022999, 13 bytes) =====
+<CLEAR>
+レディ コックス ヨシオ が
+装備できる 防具です
+
+===== MSG 00:BA (ID 0x00BA, ROM 0x0229A7, 23 bytes) =====
+<CLEAR>
+こいつがあれば
+ちょっとのケガなら
+すぐに ぜんかい べんりだよ
+
+===== MSG 00:BB (ID 0x00BB, ROM 0x0229BF, 22 bytes) =====
+<CLEAR>
+こわーい 毒も もうあんしん
+もしものために おひとつどうぞ
+
+===== MSG 00:BC (ID 0x00BC, ROM 0x0229D6, 21 bytes) =====
+<CLEAR>
+体がマヒしたそのときに
+マヒノンあれば 気分リフレッシュ!
+
+===== MSG 00:BD (ID 0x00BD, ROM 0x0229EC, 33 bytes) =====
+<CLEAR>
+ザコなんぞ 見たくないという
+お強いあなたに 大ニュース
+おふだ使って ザコちゃん ばいばーい
+
+===== MSG 00:BE (ID 0x00BE, ROM 0x022A0E, 52 bytes) =====
+<CLEAR>
+あの町に もどりたい
+でも めんどくさい というあなた<WAIT>
+<CLEAR>
+おまかせください
+スプリング使って ジャンプ ジャンプ
+なお 空の見える場所で お使いください
+
+===== MSG 00:BF (ID 0x00BF, ROM 0x022A43, 22 bytes) =====
+<CLEAR>
+この本は
+デスランドのひみつ まんさいの
+買って そんなしの 歴史書です
+
+===== MSG 00:C0 (ID 0x00C0, ROM 0x022A5A, 44 bytes) =====
+<CLEAR>
+デスランド名物 キングにんぎょうは
+化け物が きらいな
+ピンクピリチオンはいごうの<WAIT>
+<CLEAR>
+化け物からにげられる
+かっきてきな 商品です
+
+===== MSG 00:C1 (ID 0x00C1, ROM 0x022A87, 11 bytes) =====
+<CLEAR>
+とくに 変わったところは
+ないようです
+
+===== MSG 00:C2 (ID 0x00C2, ROM 0x022A93, 10 bytes) =====
+<CLEAR>
+1回使ったら
+なくなってしまいます
+
+===== MSG 00:C3 (ID 0x00C3, ROM 0x022A9E, 8 bytes) =====
+<CLEAR>
+何回使っても
+なくなりません
+
+===== MSG 00:C4 (ID 0x00C4, ROM 0x022AA7, 8 bytes) =====
+<CLEAR>
+あかい とびらがある
+
+===== MSG 00:C5 (ID 0x00C5, ROM 0x022AB0, 12 bytes) =====
+<CLEAR>
+とびらには カギが かかっている
+
+===== MSG 00:C6 (ID 0x00C6, ROM 0x022ABD, 8 bytes) =====
+<CLEAR>
+あおい とびらがある
+
+===== MSG 00:C7 (ID 0x00C7, ROM 0x022AC6, 7 bytes) =====
+<CLEAR>
+地下水道の とびらがある
+
+===== MSG 00:C8 (ID 0x00C8, ROM 0x022ACE, 18 bytes) =====
+<CLEAR>
+熱で まっかになった とびらがある<WAIT>
+<CLEAR>
+熱くて さわれない
+
+===== MSG 00:C9 (ID 0x00C9, ROM 0x022AE1, 8 bytes) =====
+<CLEAR>
+こおりの とびらがある
+
+===== MSG 00:CA (ID 0x00CA, ROM 0x022AEA, 17 bytes) =====
+<CLEAR>
+ガヌビスの像が レリーフされた
+石の とびらがある
+
+===== MSG 00:CB (ID 0x00CB, ROM 0x022AFC, 7 bytes) =====
+<CLEAR>
+黒い とびらがある
+
+===== MSG 00:CC (ID 0x00CC, ROM 0x022B04, 25 bytes) =====
+<CLEAR>
+すきとおった とびらが あるようだ<WAIT>
+<CLEAR>
+とびらには カギが かかっているようだ
+
+===== MSG 00:CD (ID 0x00CD, ROM 0x022B1E, 7 bytes) =====
+<CLEAR>
+大理石の とびらがある
+
+===== MSG 00:CE (ID 0x00CE, ROM 0x022B26, 18 bytes) =====
+<CLEAR>
+イノブの像が レリーフされた
+石の とびらがある
+
+===== MSG 00:CF (ID 0x00CF, ROM 0x022B39, 5 bytes) =====
+<CLEAR>
+とびらがある
+
+===== MSG 00:D0 (ID 0x00D0, ROM 0x022B3F, 15 bytes) =====
+<CLEAR>
+とびらがある<WAIT>
+<CLEAR>
+こちらからは あけられないようだ
+
+===== MSG 00:D1 (ID 0x00D1, ROM 0x022B4F, 46 bytes) =====
+<CLEAR>
+魔物が えがかれた とびらがある
+魔物は こちらを にらんでいる<WAIT>
+<CLEAR>
+まるで 人間は ここを通さないぞ
+と いわんばかりだ<WAIT>
+<CLEAR>
+とびらは ひらかない
+
+===== MSG 00:D2 (ID 0x00D2, ROM 0x022B7E, 11 bytes) =====
+<CLEAR>
+魔物が えがかれた とびらがある
+
+===== MSG 00:D3 (ID 0x00D3, ROM 0x022B8A, 36 bytes) =====
+<CLEAR>
+いけがきが かりこまれている
+いけがきの中に トンネルが見える<WAIT>
+<CLEAR>
+もうすこし かりこめば
+中に 入れそうだ・・・
+
+===== MSG 00:D4 (ID 0x00D4, ROM 0x022BAF, 34 bytes) =====
+<CLEAR>
+巨大な 一枚岩が
+塔の入り口を ふさいでいる<WAIT>
+<CLEAR>
+岩の とびらには
+伝説の王の もんしょうが
+うきぼりに されている
+
+===== MSG 00:D5 (ID 0x00D5, ROM 0x022BD2, 44 bytes) =====
+<CLEAR>
+とびらは ひらかない<WAIT>
+<CLEAR>
+あしもとの ゆかが
+おもさに はんのうして
+自行で とびらが ひらくらしい<WAIT>
+<CLEAR>
+大きくならないと ここは
+通れないようだ
+
+===== MSG 00:D6 (ID 0x00D6, ROM 0x022BFF, 11 bytes) =====
+<SPEAKER>「ここは 武器屋だぜ!
+何の 用だい?
+
+===== MSG 00:D7 (ID 0x00D7, ROM 0x022C0B, 11 bytes) =====
+<SPEAKER>「ここは 防具屋だぜ!
+何の 用だい?
+
+===== MSG 00:D8 (ID 0x00D8, ROM 0x022C17, 23 bytes) =====
+<SPEAKER>「うちは一発道具屋だ
+どれも 使いすてだけど
+あると ちょうほうするぜ
+
+===== MSG 00:D9 (ID 0x00D9, ROM 0x022C2F, 20 bytes) =====
+<SPEAKER>「ハイハイハイ
+ここは おみやげ屋さん
+ご用は なんですかい?
+
+===== MSG 00:DA (ID 0x00DA, ROM 0x022C44, 9 bytes) =====
+<SPEAKER>「ほかにも 何か
+用が あるか?
+
+===== MSG 00:DB (ID 0x00DB, ROM 0x022C4E, 5 bytes) =====
+<SPEAKER>「またどうぞ!
+
+===== MSG 00:DC (ID 0x00DC, ROM 0x022C54, 5 bytes) =====
+<SPEAKER>「どれがいい?
+
+===== MSG 00:DD (ID 0x00DD, ROM 0x022C5A, 4 bytes) =====
+<SPEAKER>「<INSERT_A>だね
+
+===== MSG 00:DE (ID 0x00DE, ROM 0x022C5F, 17 bytes) =====
+<SPEAKER>「これは 戦いのとき
+道具として 使っても
+効力が あるぜ!
+
+===== MSG 00:DF (ID 0x00DF, ROM 0x022C71, 7 bytes) =====
+<SPEAKER>「<NUMBER>エンドルだが
+買うか?
+
+===== MSG 00:E0 (ID 0x00E0, ROM 0x022C79, 7 bytes) =====
+<SPEAKER>「誰が 持つんだね?
+
+===== MSG 00:E1 (ID 0x00E1, ROM 0x022C81, 8 bytes) =====
+<SPEAKER>「いますぐ 装備してみるか?
+
+===== MSG 00:E2 (ID 0x00E2, ROM 0x022C8A, 15 bytes) =====
+<SPEAKER>「買ったら すぐ装備しないと
+わすれちまうからな!
+
+===== MSG 00:E3 (ID 0x00E3, ROM 0x022C9A, 5 bytes) =====
+<SPEAKER>「ほらよ! <INSERT_D>!
+
+===== MSG 00:E4 (ID 0x00E4, ROM 0x022CA0, 14 bytes) =====
+<SPEAKER>「じゃあ <INSERT_D>の
+ひつぎの中に いれておくからな
+
+===== MSG 00:E5 (ID 0x00E5, ROM 0x022CAF, 9 bytes) =====
+<SPEAKER>「ほかに なにか
+買ってくれるか?
+
+===== MSG 00:E6 (ID 0x00E6, ROM 0x022CB9, 8 bytes) =====
+<SPEAKER>「なんだ もういいのか・・・
+
+===== MSG 00:E7 (ID 0x00E7, ROM 0x022CC2, 13 bytes) =====
+<SPEAKER>「<INSERT_D>は これを
+装備できないが
+それでも いいか?
+
+===== MSG 00:E8 (ID 0x00E8, ROM 0x022CD0, 14 bytes) =====
+<SPEAKER>「ん? <INSERT_D>は
+もう これを 持てないようだぞ?
+
+===== MSG 00:E9 (ID 0x00E9, ROM 0x022CDF, 7 bytes) =====
+<SPEAKER>「ほかの人が 持つか?
+
+===== MSG 00:EA (ID 0x00EA, ROM 0x022CE7, 16 bytes) =====
+<SPEAKER>「だけど これを買うには
+ゼニが たりねえようだな
+
+===== MSG 00:EB (ID 0x00EB, ROM 0x022CF8, 15 bytes) =====
+<SPEAKER>「ん? みんな
+もう これを 持てないようだぞ?
+
+===== MSG 00:EC (ID 0x00EC, ROM 0x022D08, 10 bytes) =====
+<SPEAKER>「誰の どのにもつを
+売るんだね?
+
+===== MSG 00:ED (ID 0x00ED, ROM 0x022D13, 9 bytes) =====
+<SPEAKER>「どのにもつを 売るんだね?
+
+===== MSG 00:EE (ID 0x00EE, ROM 0x022D1D, 16 bytes) =====
+<SPEAKER>「<INSERT_A>かあ・・・<WAIT><SPEAKER>「それ <NUMBER>エンドルで
+引き取るが どうだ?
+
+===== MSG 00:EF (ID 0x00EF, ROM 0x022D2E, 7 bytes) =====
+<SPEAKER>「まいど サンキュー!
+
+===== MSG 00:F0 (ID 0x00F0, ROM 0x022D36, 8 bytes) =====
+<SPEAKER>「ほかの物を 売ってくれるか?
+
+===== MSG 00:F1 (ID 0x00F1, ROM 0x022D3F, 12 bytes) =====
+<SPEAKER>「ん? 誰も
+何も 持っていないようだぞ
+
+===== MSG 00:F2 (ID 0x00F2, ROM 0x022D4C, 10 bytes) =====
+<SPEAKER>「ん?
+何も 持っていないようだぞ
+
+===== MSG 00:F3 (ID 0x00F3, ROM 0x022D57, 29 bytes) =====
+<SPEAKER>「むむむ・・・ これは!
+ちょっと 引き受けられんね!<WAIT><SPEAKER>「売るのはやめて 持ってたほうが
+いいと思うぞ
+
+===== MSG 00:F4 (ID 0x00F4, ROM 0x022D75, 35 bytes) =====
+<SPEAKER>「うおりゃあ とりゃー!
+だめだあ とれない
+どうやら とりつかれてるな<WAIT><SPEAKER>「教会で おはらいをしてから
+また来いよ
+
+===== MSG 00:F5 (ID 0x00F5, ROM 0x022D99, 21 bytes) =====
+<SPEAKER>「言険の宿に ようこそ!<WAIT><SPEAKER>「いっぱく <NUMBER>エンドルですが
+ご宿泊なさいますか?
+
+===== MSG 00:F6 (ID 0x00F6, ROM 0x022DAF, 15 bytes) =====
+<SPEAKER>「それでは ごゆるりと
+おくつろぎください
+
+===== MSG 00:F7 (ID 0x00F7, ROM 0x022DBF, 20 bytes) =====
+<SPEAKER>「おめざめでございますか
+きょうも いい日でありますように!
+
+===== MSG 00:F8 (ID 0x00F8, ROM 0x022DD4, 10 bytes) =====
+<SPEAKER>「でも
+お金がたりないようですね・・・
+
+===== MSG 00:F9 (ID 0x00F9, ROM 0x022DDF, 20 bytes) =====
+<SPEAKER>「ありがとうございました
+またの ごりようを
+おまちしております
+
+===== MSG 00:FA (ID 0x00FA, ROM 0x022DF4, 31 bytes) =====
+<SPEAKER>「シャトー・ド・ゲロゲロに
+ようこそ・・・<WAIT><SPEAKER>「ひとばん <NUMBER>エンドルですが
+お泊りに なりますかな?
+
+===== MSG 00:FB (ID 0x00FB, ROM 0x022E14, 26 bytes) =====
+<SPEAKER>「では あさまで ごゆっくり
+ながく サイコな よるを
+おすごしください・・・
+
+===== MSG 00:FC (ID 0x00FC, ROM 0x022E2F, 8 bytes) =====
+<SPEAKER>「おはようございます・・・
+
+===== MSG 00:FD (ID 0x00FD, ROM 0x022E38, 12 bytes) =====
+<SPEAKER>「おや・・・
+お金がないとは これいかに・・・
+
+===== MSG 00:FE (ID 0x00FE, ROM 0x022E45, 8 bytes) =====
+<SPEAKER>「それでは さようなら・・・
+
+===== MSG 00:FF (ID 0x00FF, ROM 0x022E4E, 23 bytes) =====
+<SPEAKER>「しんじる 気持ち あれば
+みな すくわれます
+教会が お役にたてますかな
+
+===== MSG 01:00 (ID 0x0100, ROM 0x022E66, 14 bytes) =====
+<SPEAKER>「ほかには 何か
+お役にたてることは ありますか
+
+===== MSG 01:01 (ID 0x0101, ROM 0x022E75, 22 bytes) =====
+<SPEAKER>「神よ!
+この まよえる 旅びとを
+おおいなる 愛で つつみたまえ!
+
+===== MSG 01:02 (ID 0x0102, ROM 0x022E8C, 30 bytes) =====
+<SPEAKER>「おかえりなさい
+<INSERT_B>さん<WAIT><SPEAKER>「神よ!
+この まよえる 旅びとを
+おおいなる 愛で つつみたまえ!
+
+===== MSG 01:03 (ID 0x0103, ROM 0x022EAB, 25 bytes) =====
+<SPEAKER>「では 言険の お話を
+聞かせてくだされ<WAIT><SPEAKER>「この探険日記に
+書きこんで おきますが
+よいかな?
+
+===== MSG 01:04 (ID 0x0104, ROM 0x022EC5, 12 bytes) =====
+<SPEAKER>「だい何巻の 探険日記に
+書きこみましょうか?
+
+===== MSG 01:05 (ID 0x0105, ROM 0x022ED2, 10 bytes) =====
+<SPEAKER>「しっかり 書きこみましたよ!
+
+===== MSG 01:06 (ID 0x0106, ROM 0x022EDD, 14 bytes) =====
+<SPEAKER>「書きこまないと?
+わかりました ぎょいに!
+
+===== MSG 01:07 (ID 0x0107, ROM 0x022EEC, 11 bytes) =====
+<SPEAKER>「もっと 探険を
+たのしまれたいですか?
+
+===== MSG 01:08 (ID 0x0108, ROM 0x022EF8, 36 bytes) =====
+<SPEAKER>「ええ? 書きこまずに
+探険を おやめになる?<WAIT><SPEAKER>「今までの お話が なくなって
+ひとつ前に もどっても
+かまわんのですか?
+
+===== MSG 01:09 (ID 0x0109, ROM 0x022F1D, 20 bytes) =====
+<SPEAKER>「ゆっくりと
+おやすみ くだされ
+シーユー アゲーン!
+
+===== MSG 01:0A (ID 0x010A, ROM 0x022F32, 8 bytes) =====
+<SPEAKER>「わたしが 思いますに
+
+===== MSG 01:0B (ID 0x010B, ROM 0x022F3B, 18 bytes) =====
+<SPEAKER>「<INSERT_B>さんは
+あと <NUMBER>の経験で
+つぎのレベルに なるでしょう
+
+===== MSG 01:0C (ID 0x010C, ROM 0x022F4E, 13 bytes) =====
+<SPEAKER>「<INSERT_B>さん
+もう バリバリに 強いですぜ!
+
+===== MSG 01:0D (ID 0x010D, ROM 0x022F5C, 13 bytes) =====
+<SPEAKER>「誰を あの世から
+よびもどすのですか?
+
+===== MSG 01:0E (ID 0x010E, ROM 0x022F6A, 16 bytes) =====
+<SPEAKER>「よびもどしの ひようは
+<NUMBER>エンドルです
+いいですか?
+
+===== MSG 01:0F (ID 0x010F, ROM 0x022F7B, 23 bytes) =====
+<SPEAKER>「メラメラメラ!
+チャネリーン!<WAIT><SPEAKER>「<INSERT_B>さん
+この世に いますぐ
+もどりたまえ!
+
+===== MSG 01:10 (ID 0x0110, ROM 0x022F93, 6 bytes) =====
+<CLEAR>
+<INSERT_B>は もどって来た!
+
+===== MSG 01:11 (ID 0x0111, ROM 0x022F9A, 11 bytes) =====
+<SPEAKER>「むむむ <INSERT_B>さんは
+死んどらんですぞ!
+
+===== MSG 01:12 (ID 0x0112, ROM 0x022FA6, 8 bytes) =====
+<SPEAKER>「あらら やめるのですか!
+
+===== MSG 01:13 (ID 0x0113, ROM 0x022FAF, 24 bytes) =====
+<SPEAKER>「たしょうの ひようは
+教会といえども かかります
+でも むり強いは しません・・・
+
+===== MSG 01:14 (ID 0x0114, ROM 0x022FC8, 9 bytes) =====
+<SPEAKER>「むむ! お金が たりないですよ
+
+===== MSG 01:15 (ID 0x0115, ROM 0x022FD2, 10 bytes) =====
+<SPEAKER>「誰の 毒を
+ちゅうわするのですか?
+
+===== MSG 01:16 (ID 0x0116, ROM 0x022FDD, 15 bytes) =====
+<SPEAKER>「では くすり代として
+<NUMBER>エンドルを
+おねがいします
+
+===== MSG 01:17 (ID 0x0117, ROM 0x022FED, 18 bytes) =====
+<SPEAKER>「サンアルカーリー!
+<INSERT_B>の 体の
+毒を ちゅうわされりー!
+
+===== MSG 01:18 (ID 0x0118, ROM 0x023000, 14 bytes) =====
+<SPEAKER>「むむ <INSERT_B>さんは
+毒に むしばまれていませんよ
+
+===== MSG 01:19 (ID 0x0119, ROM 0x02300F, 10 bytes) =====
+<SPEAKER>「誰を おはらいするのじゃい?
+
+===== MSG 01:1A (ID 0x011A, ROM 0x02301A, 14 bytes) =====
+<SPEAKER>「では じっぴとして
+<NUMBER>エンドルを
+もらいますぞ
+
+===== MSG 01:1B (ID 0x011B, ROM 0x023029, 23 bytes) =====
+<SPEAKER>「ナーム! ナーム! ナン!
+<INSERT_B>に とりつき 呪いを
+けちらしたまえ!
+
+===== MSG 01:1C (ID 0x011C, ROM 0x023041, 13 bytes) =====
+<SPEAKER>「むむ <INSERT_B>さんは
+呪われては いないようですぞ
+
+===== MSG 01:1D (ID 0x011D, ROM 0x02304F, 28 bytes) =====
+<SPEAKER>「神を しんじるのと おなじくらい
+けんこうは たいせつなことです
+何か こまっていませんか?
+
+===== MSG 01:1E (ID 0x011E, ROM 0x02306C, 10 bytes) =====
+<SPEAKER>「ほかにも 何か
+こまっていませんか?
+
+===== MSG 01:1F (ID 0x011F, ROM 0x023077, 25 bytes) =====
+<SPEAKER>「体の けんこうと おなじくらい
+神を しんじることは
+たいせつなことですよ
+
+===== MSG 01:20 (ID 0x0120, ROM 0x023091, 28 bytes) =====
+<SPEAKER>「おかえりなさい
+<INSERT_B>さん<WAIT><SPEAKER>「きょうも いちにち
+けんこうにね!
+ハヴァナイスデイ!
+
+===== MSG 01:21 (ID 0x0121, ROM 0x0230AE, 31 bytes) =====
+<SPEAKER>「では 言険の お話を
+聞かせてください<WAIT><SPEAKER>「よろしかったら この探険日記に
+書きこんでおきましょう
+いいですよね?
+
+===== MSG 01:22 (ID 0x0122, ROM 0x0230CE, 6 bytes) =====
+<SPEAKER>「これで いいですね
+
+===== MSG 01:23 (ID 0x0123, ROM 0x0230D5, 13 bytes) =====
+<SPEAKER>「書くのは やめますか?
+それも いいですね
+
+===== MSG 01:24 (ID 0x0124, ROM 0x0230E3, 33 bytes) =====
+<SPEAKER>「まあ 探険日記を 書かずに
+お休みですか?<WAIT><SPEAKER>「今までの お話が なくなって
+ひとつ前に もどりますが
+いいですか?
+
+===== MSG 01:25 (ID 0x0125, ROM 0x023105, 18 bytes) =====
+<SPEAKER>「休息も けんこうには
+たいせつなことです
+グッナイ・・・
+
+===== MSG 01:26 (ID 0x0126, ROM 0x023118, 10 bytes) =====
+<SPEAKER>「でも <INSERT_B>さんは
+おたっしゃですよ
+
+===== MSG 01:27 (ID 0x0127, ROM 0x023123, 8 bytes) =====
+<SPEAKER>「いまは やめておきますか
+
+===== MSG 01:28 (ID 0x0128, ROM 0x02312C, 11 bytes) =====
+<SPEAKER>「まあ お金が
+たりないようですわね
+
+===== MSG 01:29 (ID 0x0129, ROM 0x023138, 14 bytes) =====
+<SPEAKER>「でも <INSERT_B>さんは
+毒に むしばまれていませんよ
+
+===== MSG 01:2A (ID 0x012A, ROM 0x023147, 8 bytes) =====
+<SPEAKER>「誰を おはらいしましょうか?
+
+===== MSG 01:2B (ID 0x012B, ROM 0x023150, 17 bytes) =====
+<SPEAKER>「では じっぴとして
+<NUMBER>エンドルを
+いただきたいのですが
+
+===== MSG 01:2C (ID 0x012C, ROM 0x023162, 11 bytes) =====
+<SPEAKER>「でも <INSERT_B>さんは
+呪われては いませんよ
+
+===== MSG 01:2D (ID 0x012D, ROM 0x02316E, 27 bytes) =====
+<SPEAKER>「ここは 神に見すてられた
+あわれな魔物どもが
+すくいをもとめて おとずれる所だ
+
+===== MSG 01:2E (ID 0x012E, ROM 0x02318A, 8 bytes) =====
+<SPEAKER>「ほかに ねがいは あるか?
+
+===== MSG 01:2F (ID 0x012F, ROM 0x023193, 26 bytes) =====
+<SPEAKER>「おお神よ! この みじめな
+できそこないの 魔物どもにも
+なさけを かけてやってくれ!
+
+===== MSG 01:30 (ID 0x0130, ROM 0x0231AE, 23 bytes) =====
+<SPEAKER>「よく もどって来た
+あさましい 魔物ども!
+メイフォース ビーウィズュー!
+
+===== MSG 01:31 (ID 0x0131, ROM 0x0231C6, 27 bytes) =====
+<SPEAKER>「では これまでの 悪行を
+こくはく するんだな<WAIT><SPEAKER>「そして この探険日記に
+書きこんでも いいのか?
+
+===== MSG 01:32 (ID 0x0132, ROM 0x0231E2, 15 bytes) =====
+<SPEAKER>「どの探険日記に書きこもうか・・・
+どれがいいと思う?
+
+===== MSG 01:33 (ID 0x0133, ROM 0x0231F2, 7 bytes) =====
+<SPEAKER>「たしかに 書きこんだ!
+
+===== MSG 01:34 (ID 0x0134, ROM 0x0231FA, 3 bytes) =====
+<SPEAKER>「そうか
+
+===== MSG 01:35 (ID 0x0135, ROM 0x0231FE, 9 bytes) =====
+<SPEAKER>「まだ 探険を
+したりないのか?
+
+===== MSG 01:36 (ID 0x0136, ROM 0x023208, 25 bytes) =====
+<SPEAKER>「書きこまずに 休むのか?
+お前の言険が ひとつ前まで
+もどっても いいんだな?
+
+===== MSG 01:37 (ID 0x0137, ROM 0x023222, 33 bytes) =====
+<SPEAKER>「おお神よ! こいつらにも やすらかな
+ひとときを あたえてやってくれ!
+メイピース ビーウィズュー・・・
+
+===== MSG 01:38 (ID 0x0138, ROM 0x023244, 13 bytes) =====
+<SPEAKER>「ふーむ・・・
+わがはいの 見たところだな
+
+===== MSG 01:39 (ID 0x0139, ROM 0x023252, 16 bytes) =====
+<SPEAKER>「<INSERT_B>は
+あと <NUMBER>の経験で
+つぎのレベルに なると思う
+
+===== MSG 01:3A (ID 0x013A, ROM 0x023263, 13 bytes) =====
+<SPEAKER>「<INSERT_B>は もう
+じゅうぶん 強いんじゃないか
+
+===== MSG 01:3B (ID 0x013B, ROM 0x023271, 8 bytes) =====
+<SPEAKER>「誰を 生きかえらせるんだ?
+
+===== MSG 01:3C (ID 0x013C, ROM 0x02327A, 21 bytes) =====
+<SPEAKER>「ものは そうだんだが・・・
+教会に <NUMBER>エンドルの寄付を
+それが 感謝と いうものだ
+
+===== MSG 01:3D (ID 0x013D, ROM 0x023290, 6 bytes) =====
+<CLEAR>
+<INSERT_B>は よみがえった!
+
+===== MSG 01:3E (ID 0x013E, ROM 0x023297, 13 bytes) =====
+<SPEAKER>「なんだ まだ 生きてるぞ!
+おどかすな!
+
+===== MSG 01:3F (ID 0x013F, ROM 0x0232A5, 5 bytes) =====
+<SPEAKER>「え やめるの
+
+===== MSG 01:40 (ID 0x0140, ROM 0x0232AB, 14 bytes) =====
+<SPEAKER>「そして これが
+げんじつと いうものさ・・・
+
+===== MSG 01:41 (ID 0x0141, ROM 0x0232BA, 16 bytes) =====
+<SPEAKER>「あら 金が たりないのか・・・
+そりゃ まいったねえ・・・
+
+===== MSG 01:42 (ID 0x0142, ROM 0x0232CB, 18 bytes) =====
+<SPEAKER>「誰だ 魔物のくせに
+毒にやられる ドジなやろうは?
+
+===== MSG 01:43 (ID 0x0143, ROM 0x0232DE, 24 bytes) =====
+<SPEAKER>「じごくのさたも なんとやら
+教会に <NUMBER>エンドルの寄付を
+それが 感謝と いうものだ
+
+===== MSG 01:44 (ID 0x0144, ROM 0x0232F7, 15 bytes) =====
+<SPEAKER>「うそつけ! そいつ
+ぴんぴんしてるぞ!
+
+===== MSG 01:45 (ID 0x0145, ROM 0x023307, 33 bytes) =====
+<SPEAKER>「だめだね<WAIT><SPEAKER>「わがはいは 呪いをとくのが
+ぜんぜん にがてなんだ<WAIT><SPEAKER>「かけるほうは
+とくいなんだけどね
+
+===== MSG 01:46 (ID 0x0146, ROM 0x023329, 10 bytes) =====
+<CLEAR>
+探険日記が あります
+書きこみますか?
+
+===== MSG 01:47 (ID 0x0147, ROM 0x023334, 9 bytes) =====
+<CLEAR>
+どの探険日記に書きこみますか?
+
+===== MSG 01:48 (ID 0x0148, ROM 0x02333E, 5 bytes) =====
+<CLEAR>
+書きこみました
+
+===== MSG 01:49 (ID 0x0149, ROM 0x023344, 7 bytes) =====
+<CLEAR>
+探険を つづけますか?
+
+===== MSG 01:4A (ID 0x014A, ROM 0x02334C, 25 bytes) =====
+<CLEAR>
+書きこまずに おわると お話が
+ひとつ前まで もどってしまいます
+よろしいですか?
+
+===== MSG 01:4B (ID 0x014B, ROM 0x023366, 5 bytes) =====
+<CLEAR>
+ではまた
+
+===== MSG 01:4C (ID 0x014C, ROM 0x02336C, 8 bytes) =====
+<SPEAKER>「サンキュー ベリマッチ!
+
+===== MSG 01:4D (ID 0x014D, ROM 0x023375, 8 bytes) =====
+<SPEAKER>「ほかには 用は ないですか?
+
+===== MSG 01:4E (ID 0x014E, ROM 0x02337E, 9 bytes) =====
+<SPEAKER>「どのにもつを
+しまいましょう?
+
+===== MSG 01:4F (ID 0x014F, ROM 0x023388, 10 bytes) =====
+<SPEAKER>「では キチンと
+しまっておきます
+
+===== MSG 01:50 (ID 0x0150, ROM 0x023393, 9 bytes) =====
+<SPEAKER>「ほかに 何か
+しまいましょうか?
+
+===== MSG 01:51 (ID 0x0151, ROM 0x02339D, 11 bytes) =====
+<SPEAKER>「でも 誰も
+にもつを 持ってないですよ
+
+===== MSG 01:52 (ID 0x0152, ROM 0x0233A9, 14 bytes) =====
+<SPEAKER>「でも 何ひとつ
+にもつを 持ってないようですが
+
+===== MSG 01:53 (ID 0x0153, ROM 0x0233B8, 21 bytes) =====
+<SPEAKER>「<INSERT_A>の そうこが
+ただいま いっぱいでして
+これ以上 お入れできません
+
+===== MSG 01:54 (ID 0x0154, ROM 0x0233CE, 34 bytes) =====
+<SPEAKER>「では キチンと
+しまって・・・あれっ?<WAIT><SPEAKER>「これ 呪われてますね・・・
+教会で おはらいしてから
+また 来てくださいね
+
+===== MSG 01:55 (ID 0x0155, ROM 0x0233F1, 17 bytes) =====
+<SPEAKER>「1000エンドル単位で
+お預かりします
+いくら お預かりしましょう?
+
+===== MSG 01:56 (ID 0x0156, ROM 0x023403, 15 bytes) =====
+<SPEAKER>「<NUMBER>エンドルですね?
+では キッチリと お預かりします
+
+===== MSG 01:57 (ID 0x0157, ROM 0x023413, 25 bytes) =====
+<SPEAKER>「<NUMBER>エンドルですか?<WAIT><SPEAKER>「いいにくいのですが
+お客様は そんなに
+お持ちでは ないようですが・・・
+
+===== MSG 01:58 (ID 0x0158, ROM 0x02342D, 7 bytes) =====
+<SPEAKER>「どれを 返しましょうか?
+
+===== MSG 01:59 (ID 0x0159, ROM 0x023435, 7 bytes) =====
+<SPEAKER>「誰が 持っていきます?
+
+===== MSG 01:5A (ID 0x015A, ROM 0x02343D, 8 bytes) =====
+<SPEAKER>「ここで 装備していきますか?
+
+===== MSG 01:5B (ID 0x015B, ROM 0x023446, 11 bytes) =====
+<SPEAKER>「なかなか さまになりますよ
+きっと
+
+===== MSG 01:5C (ID 0x015C, ROM 0x023452, 5 bytes) =====
+<SPEAKER>「はい どうぞ!
+
+===== MSG 01:5D (ID 0x015D, ROM 0x023458, 12 bytes) =====
+<SPEAKER>「では <INSERT_C>の
+ひつぎに いれておきますよ
+
+===== MSG 01:5E (ID 0x015E, ROM 0x023465, 8 bytes) =====
+<SPEAKER>「ほかの物も
+返しましょうか?
+
+===== MSG 01:5F (ID 0x015F, ROM 0x02346E, 14 bytes) =====
+<SPEAKER>「<INSERT_C>は これを
+装備できませんけど
+かまいませんか?
+
+===== MSG 01:60 (ID 0x0160, ROM 0x02347D, 9 bytes) =====
+<SPEAKER>「誰か ほかの人が 持ちますか?
+
+===== MSG 01:61 (ID 0x0161, ROM 0x023487, 11 bytes) =====
+<SPEAKER>「<INSERT_C>は それ以上
+物を 持てないようですよ
+
+===== MSG 01:62 (ID 0x0162, ROM 0x023493, 5 bytes) =====
+<SPEAKER>「やめるのですね
+
+===== MSG 01:63 (ID 0x0163, ROM 0x023499, 8 bytes) =====
+<SPEAKER>「ほかの物を
+返しましょうか?
+
+===== MSG 01:64 (ID 0x0164, ROM 0x0234A2, 13 bytes) =====
+<SPEAKER>「みなさん それ以上
+物を 持てないようですよ
+
+===== MSG 01:65 (ID 0x0165, ROM 0x0234B0, 11 bytes) =====
+<SPEAKER>「あれ あなたのにもつは
+ありませんよ
+
+===== MSG 01:66 (ID 0x0166, ROM 0x0234BC, 19 bytes) =====
+<SPEAKER>「げんざい <NUMBER>エンドル
+お預かりしています
+いくら お返ししましょう?
+
+===== MSG 01:67 (ID 0x0167, ROM 0x0234D0, 14 bytes) =====
+<SPEAKER>「<NUMBER>エンドルですね?<WAIT><SPEAKER>「わかりました
+では どうぞ
+
+===== MSG 01:68 (ID 0x0168, ROM 0x0234DF, 17 bytes) =====
+<SPEAKER>「えっ? お金?
+1エンドルも
+お預かりしていませんけど・・・
+
+===== MSG 01:69 (ID 0x0169, ROM 0x0234F1, 17 bytes) =====
+<SPEAKER>「<NUMBER>エンドルですか?<WAIT><SPEAKER>「そんなに たくさん
+お預かりしていませんが
+
+===== MSG 01:6A (ID 0x016A, ROM 0x023503, 19 bytes) =====
+<SPEAKER>「<NUMBER>エンドルですか?<WAIT><SPEAKER>「そんなに たくさん
+お持ちになれないようですが
+
+===== MSG 01:6B (ID 0x016B, ROM 0x023517, 20 bytes) =====
+<CLEAR>
+「ポスト
+と かいてある<WAIT>
+<CLEAR>
+とつぜん ポストが 話しかけてきた!
+
+===== MSG 01:6C (ID 0x016C, ROM 0x02352C, 28 bytes) =====
+<SPEAKER>「ぼくは ポストです<WAIT><SPEAKER>「お金と にもつを
+そうこに おくります
+さて どちらの ご用でしょう?
+
+===== MSG 01:6D (ID 0x016D, ROM 0x023549, 17 bytes) =====
+<SPEAKER>「カジノで あそぶなら
+ここで コインを買っとくらい
+
+===== MSG 01:6E (ID 0x016E, ROM 0x02355B, 18 bytes) =====
+<SPEAKER>「おや コインを持ってなさるね?
+こちらで お預りしやしょう
+
+===== MSG 01:6F (ID 0x016F, ROM 0x02356E, 13 bytes) =====
+<SPEAKER>「お嬢ちゃんからは コインを
+<NUMBER>枚 預かってやすね
+
+===== MSG 01:70 (ID 0x0170, ROM 0x02357C, 14 bytes) =====
+<SPEAKER>「お嬢ちゃんからは コインを
+1枚も 預かってやせんね
+
+===== MSG 01:71 (ID 0x0171, ROM 0x02358B, 25 bytes) =====
+<SPEAKER>「コインは 1枚 20エンドルだから
+<NUMBER>枚まで 買えるけど
+何枚 買ってくれなさる?
+
+===== MSG 01:72 (ID 0x0172, ROM 0x0235A5, 4 bytes) =====
+<SPEAKER>「<NUMBER>枚だね
+
+===== MSG 01:73 (ID 0x0173, ROM 0x0235AA, 12 bytes) =====
+<SPEAKER>「<NUMBER>エンドルに
+なりやすよ! いいですかい?
+
+===== MSG 01:74 (ID 0x0174, ROM 0x0235B7, 14 bytes) =====
+<SPEAKER>「どうも ありがとう!
+たのしんでっとくらい!
+
+===== MSG 01:75 (ID 0x0175, ROM 0x0235C6, 25 bytes) =====
+<SPEAKER>「コインは 1枚 20エンドルだから
+ざんねんだけど お嬢ちゃんには
+売ってあげられないねえ
+
+===== MSG 01:76 (ID 0x0176, ROM 0x0235E0, 17 bytes) =====
+<SPEAKER>「おこづかいが あまったら
+また来とくらい! 待ってるよ!
+
+===== MSG 01:77 (ID 0x0177, ROM 0x0235F2, 17 bytes) =====
+<SPEAKER>「<NUMBER>エンドルに
+なりますよ・・・
+あれ お金が たりねえようだね
+
+===== MSG 01:78 (ID 0x0178, ROM 0x023604, 12 bytes) =====
+<SPEAKER>「ここは コインを
+品物にかえる 交換所だよ
+
+===== MSG 01:79 (ID 0x0179, ROM 0x023611, 15 bytes) =====
+<SPEAKER>「おや コインを持ってるのかい?
+それも お預りしますね
+
+===== MSG 01:7A (ID 0x017A, ROM 0x023621, 18 bytes) =====
+<SPEAKER>「<INSERT_C>からは コインを
+<NUMBER>枚 預かってるね
+品物と 交換するかい?
+
+===== MSG 01:7B (ID 0x017B, ROM 0x023634, 5 bytes) =====
+<SPEAKER>「じゃ またな!
+
+===== MSG 01:7C (ID 0x017C, ROM 0x02363A, 26 bytes) =====
+<SPEAKER>「<INSERT_C>は コインを・・・・
+あ 一枚もねえのかい<WAIT><SPEAKER>「コインを ためて
+また来てくれよ! 待ってるぜ!
+
+===== MSG 01:7D (ID 0x017D, ROM 0x023655, 6 bytes) =====
+<SPEAKER>「どれと 交換したい?
+
+===== MSG 01:7E (ID 0x017E, ROM 0x02365C, 4 bytes) =====
+<SPEAKER>「<INSERT_A>だね?
+
+===== MSG 01:7F (ID 0x017F, ROM 0x023661, 6 bytes) =====
+<SPEAKER>「誰に わたそうか?
+
+===== MSG 01:80 (ID 0x0180, ROM 0x023668, 8 bytes) =====
+<SPEAKER>「さっそく 装備するかい?
+
+===== MSG 01:81 (ID 0x0181, ROM 0x023671, 4 bytes) =====
+<SPEAKER>「よしきた!
+
+===== MSG 01:82 (ID 0x0182, ROM 0x023676, 4 bytes) =====
+<SPEAKER>「ほい <INSERT_C>!
+
+===== MSG 01:83 (ID 0x0183, ROM 0x02367B, 15 bytes) =====
+<SPEAKER>「ほい <INSERT_C>
+ひつぎの中に いれといて
+やるからな
+
+===== MSG 01:84 (ID 0x0184, ROM 0x02368B, 8 bytes) =====
+<SPEAKER>「ほかの品物を 交換するかい?
+
+===== MSG 01:85 (ID 0x0185, ROM 0x023694, 20 bytes) =====
+<SPEAKER>「じゃ コインの残りは 預かっとこう
+また来てくれよ! 待ってるからね!
+
+===== MSG 01:86 (ID 0x0186, ROM 0x0236A9, 15 bytes) =====
+<SPEAKER>「<INSERT_C>は
+これを装備できないけど
+それでも いいのかい?
+
+===== MSG 01:87 (ID 0x0187, ROM 0x0236B9, 14 bytes) =====
+<SPEAKER>「でも <INSERT_C>は
+もう これは
+持てないみたいだぜ
+
+===== MSG 01:88 (ID 0x0188, ROM 0x0236C8, 8 bytes) =====
+<SPEAKER>「ほかの人に わたそうか?
+
+===== MSG 01:89 (ID 0x0189, ROM 0x0236D1, 15 bytes) =====
+<SPEAKER>「<INSERT_A>と 交換するには
+コインが たりないみたいだな
+
+===== MSG 01:8A (ID 0x018A, ROM 0x0236E1, 15 bytes) =====
+<SPEAKER>「でも みなさん
+もう これは
+持てないみたいだぜ
+
+===== MSG 01:8B (ID 0x018B, ROM 0x0236F1, 14 bytes) =====
+<SPEAKER>「おれは 世界中の
+ひかるビーダマを あつめてるんだ
+
+===== MSG 01:8C (ID 0x018C, ROM 0x023700, 17 bytes) =====
+<SPEAKER>「おっ ビーダマを
+持ってるじゃないか!
+それ おれが もらった!
+
+===== MSG 01:8D (ID 0x018D, ROM 0x023712, 20 bytes) =====
+<SPEAKER>「<INSERT_D>からは <NUMBER>コの
+ビーダマを もらってるけど
+何かと 交換しようか?
+
+===== MSG 01:8E (ID 0x018E, ROM 0x023727, 7 bytes) =====
+<SPEAKER>「また 来ておくれよ!
+
+===== MSG 01:8F (ID 0x018F, ROM 0x02372F, 26 bytes) =====
+<SPEAKER>「ビーダマと交換に あちこちで
+集めた すてきなアイテムを
+プレゼントするよ!
+
+===== MSG 01:90 (ID 0x0190, ROM 0x02374A, 9 bytes) =====
+<SPEAKER>「さっそく 装備してみるかい?
+
+===== MSG 01:91 (ID 0x0191, ROM 0x023754, 10 bytes) =====
+<SPEAKER>「はい これ!
+だいじにしてよ!
+
+===== MSG 01:92 (ID 0x0192, ROM 0x02375F, 16 bytes) =====
+<SPEAKER>「はい これ・・・
+<INSERT_C>の かんおけに
+いれとくね
+
+===== MSG 01:93 (ID 0x0193, ROM 0x023770, 9 bytes) =====
+<SPEAKER>「ほかに ほしい物は あるかい?
+
+===== MSG 01:94 (ID 0x0194, ROM 0x02377A, 22 bytes) =====
+<SPEAKER>「うーん・・・ もっと
+ビーダマを あつめなくちゃ
+それは あげられないなー
+
+===== MSG 01:95 (ID 0x0195, ROM 0x023791, 25 bytes) =====
+<SPEAKER>「入島ビザを 見せてください
+ビザがないと ここから先は
+行くことが できません
+
+===== MSG 01:96 (ID 0x0196, ROM 0x0237AB, 7 bytes) =====
+<CLEAR>
+<INSERT_B>は <INSERT_A>を
+てわたした
+
+===== MSG 01:97 (ID 0x0197, ROM 0x0237B3, 32 bytes) =====
+<SPEAKER>「はい お嬢さん
+たしかに ビザを
+はいけん しました<WAIT><SPEAKER>「もう とうろく したから
+いつでも ここは 通れるよ
+
+===== MSG 01:98 (ID 0x0198, ROM 0x0237D4, 40 bytes) =====
+<SPEAKER>「北に あるけば やがて
+リバータウンの 町につくけど<WAIT><SPEAKER>「けっこう 遠いから
+教会で おいのりを してから
+でかけた方が いいよ
+
+===== MSG 01:99 (ID 0x0199, ROM 0x0237FD, 13 bytes) =====
+<SPEAKER>「伝説と神秘の島
+デスランド島へ ようこそ!
+
+===== MSG 01:9A (ID 0x019A, ROM 0x02380B, 46 bytes) =====
+<SPEAKER>「人のうわさって けっこう
+いいかげんなのよねえ!<WAIT><SPEAKER>「この島には 財宝なんて ないのに
+みんな 目の色 かえちゃってさ
+けっきょく よくばりなのよねえ
+
+===== MSG 01:9B (ID 0x019B, ROM 0x02383A, 58 bytes) =====
+<SPEAKER>「くそっ まいっちゃったよ!<WAIT><SPEAKER>「島を探険しようと 気がるに来たけど
+武芸のたしなみが ないから
+入島ビザを もらえなかったよ<WAIT><SPEAKER>「もうちょっと 刻の けいこを
+まじめに やっとけば よかったなー!
+
+===== MSG 01:9C (ID 0x019C, ROM 0x023875, 22 bytes) =====
+<SPEAKER>「え? 入島ビザを もらっただと?
+おんなのくせに すごいやつだな
+
+===== MSG 01:9D (ID 0x019D, ROM 0x02388C, 29 bytes) =====
+<SPEAKER>「わしは 伝説の 物知りじいさんじゃ
+どうじゃ デスランド島にまつわる
+伝説の話を 聞きたいかの?
+
+===== MSG 01:9E (ID 0x019E, ROM 0x0238AA, 112 bytes) =====
+<SPEAKER>「この デスランド島に はるか苦
+キングバロンという 魔物が
+おったのじゃ・・・<WAIT><SPEAKER>「キングバロンは まあ いわば
+天才でな さまざまな研究を
+熱心に やっておったらしい<WAIT><SPEAKER>「わなや仕掛けは もちろんのこと
+魔物どもの生体実験までも
+やっておったそうなのじゃ<WAIT><SPEAKER>「そのキングバロンが 研究のすえ
+とうとう とんでもないものを
+発明してしもうたのじゃ!<WAIT><SPEAKER>「・・・どうじゃ 娘さん?
+この話の続きを 聞きたいかの?
+
+===== MSG 01:9F (ID 0x019F, ROM 0x02391B, 50 bytes) =====
+<SPEAKER>「ふおっふおっふおっ 娘さん!
+ざんねんじゃが 話の続きは
+博物館で 聞いてくだされ<WAIT><SPEAKER>「博物館には もっと くわしく
+ていねいに 伝説の話を
+してくれる人が いますからのう
+
+===== MSG 01:A0 (ID 0x01A0, ROM 0x02394E, 21 bytes) =====
+<SPEAKER>「ふおーふおーふおーそうかいのう
+じゃったら ええわい ええわい
+
+===== MSG 01:A1 (ID 0x01A1, ROM 0x023964, 9 bytes) =====
+<SPEAKER>「あ そう じゃあ ええわい
+
+===== MSG 01:A2 (ID 0x01A2, ROM 0x02396E, 28 bytes) =====
+<SPEAKER>「ふおっふおっふおっ 博物館じゃよ
+博物館に行きなされ ふおっふおっ
+ふが ふおっふおっふおー
+
+===== MSG 01:A3 (ID 0x01A3, ROM 0x02398B, 43 bytes) =====
+<SPEAKER>「どうじゃった? 伝説の話は?
+じつに ミステリアスじゃろう?<WAIT><SPEAKER>「何千年も むかしに そんな
+すごいやつが いたなんて
+そうぞうを ぜっするのう!
+
+===== MSG 01:A4 (ID 0x01A4, ROM 0x0239B7, 52 bytes) =====
+<SPEAKER>「この島の伝説が 世界中に
+ひろまって いろんなやつが
+つぎから つぎへと 来るんだよ<WAIT><SPEAKER>「学昔とか 賞金かせぎとかね
+まあ 島としては 観光客が
+多い方が もうかるけどね
+
+===== MSG 01:A5 (ID 0x01A5, ROM 0x0239EC, 44 bytes) =====
+<SPEAKER>「じつにきょうみぶかい!<WAIT><SPEAKER>「わしも かがくしゃとして
+ながねん やっておるけれども<WAIT><SPEAKER>「この島の伝説ほど わしの情熱を
+かきたてるものは ないわい
+
+===== MSG 01:A6 (ID 0x01A6, ROM 0x023A19, 27 bytes) =====
+<SPEAKER>「おねーちゃん かわいいねー
+その かちきな ひとみは
+ぼくを ぞくぞく させるぜ
+
+===== MSG 01:A7 (ID 0x01A7, ROM 0x023A35, 48 bytes) =====
+<SPEAKER>「キングにんぎょうは
+この島に 古くからつたわる
+みんげいひんなんだ<WAIT><SPEAKER>「モンスターにであったら
+キングにんぎょうを えいやっと
+さしだすと にげていくんだよ
+
+===== MSG 01:A8 (ID 0x01A8, ROM 0x023A66, 28 bytes) =====
+<SPEAKER>「うおー やっと ついたかーっ!
+すーはー すーはー
+うーん 異国の においじゃのー
+
+===== MSG 01:A9 (ID 0x01A9, ROM 0x023A83, 18 bytes) =====
+<SPEAKER>「ん? あんたも 財宝さがしに
+この島に やって来たくちかい?
+
+===== MSG 01:AA (ID 0x01AA, ROM 0x023A96, 32 bytes) =====
+<SPEAKER>「やっぱりそうかー! くーっ!
+んーっ うかうかしてられんなー
+いそがねば いそがねば
+
+===== MSG 01:AB (ID 0x01AB, ROM 0x023AB7, 87 bytes) =====
+<SPEAKER>「え? ちがう? ふーむ 何?
+歴史の べんきょうに 来ただと?
+くはー はははは なるほど!<WAIT><SPEAKER>「たしかに このデスランドほど
+きょうみぶかい場所は ないからな
+まあ せいぜい べんきょうせいや<WAIT><SPEAKER>「それじゃあ おれも いっちょ
+べんきょうしに 行くかな!
+くははは じゃあな ねーちゃん!
+
+===== MSG 01:AC (ID 0x01AC, ROM 0x023B0F, 35 bytes) =====
+<SPEAKER>「もう 誰も おらんよ
+おんな こどもは ふねで
+ひなんしてしまったし<WAIT><SPEAKER>「観光客は みな
+われさきにと かえっていったよ
+
+===== MSG 01:AD (ID 0x01AD, ROM 0x023B33, 25 bytes) =====
+<SPEAKER>「魔物に 島を のっとられたら
+おれは るろうの 民だ!
+デスランド難民だよ とほほ
+
+===== MSG 01:AE (ID 0x01AE, ROM 0x023B4D, 16 bytes) =====
+<SPEAKER>「おくすりは たっぷり
+買っとかないと くろうするよ
+
+===== MSG 01:AF (ID 0x01AF, ROM 0x023B5E, 24 bytes) =====
+<SPEAKER>「みやげは 何に しようかなあ
+古代の本 でも 買って
+べんきょう しようかな
+
+===== MSG 01:B0 (ID 0x01B0, ROM 0x023B77, 42 bytes) =====
+<SPEAKER>「わしは ばあさんと いっしょに
+宝さがしに きたんじゃ<WAIT><SPEAKER>「じゃがのう わしだけ 審査に
+おちて しもうたんじゃ<WAIT><SPEAKER>「わしは はずかしいわい!
+
+===== MSG 01:B1 (ID 0x01B1, ROM 0x023BA2, 14 bytes) =====
+<SPEAKER>「ここは 入島審査場です
+説明を お聞きになりますか?
+
+===== MSG 01:B2 (ID 0x01B2, ROM 0x023BB1, 84 bytes) =====
+<SPEAKER>「デスランド島には いまも まだ
+ひとを おそう モンスターが
+かなり たくさん いるのです<WAIT><SPEAKER>「ですから 島の内部へ 行くには
+あるていどの 武芸の能力がないと
+命を おとしてしまいます<WAIT><SPEAKER>「はじめて この島へ 来たかたは
+まず この入島審査場にて
+審査を 受けていただくのです<WAIT><SPEAKER>「審査を お受けになりますか?
+
+===== MSG 01:B3 (ID 0x01B3, ROM 0x023C06, 66 bytes) =====
+<SPEAKER>「それでは おくの とびらから
+お進みくださいませ<WAIT><SPEAKER>「審査場の いちばん おくに
+デスランド歴史博物館が あります
+そこまで 行ければ ごうかくです<WAIT><SPEAKER>「ごうかくすれば 博物館で
+入島ビザが 発行されます
+それでは グッド ラック!
+
+===== MSG 01:B4 (ID 0x01B4, ROM 0x023C49, 39 bytes) =====
+<SPEAKER>「それでは おくの とびらから
+お進みくださいませ<WAIT><SPEAKER>「審査場の いちばん おくに
+デスランド歴史博物館が あります
+そこまで 行ければ ごうかくです
+
+===== MSG 01:B5 (ID 0x01B5, ROM 0x023C71, 5 bytes) =====
+<SPEAKER>「あ そうですか
+
+===== MSG 01:B6 (ID 0x01B6, ROM 0x023C77, 25 bytes) =====
+<SPEAKER>「気をつけて 旅してください
+むりは きんもつです
+それだけは わすれずにね
+
+===== MSG 01:B7 (ID 0x01B7, ROM 0x023C91, 30 bytes) =====
+<SPEAKER>「そのさきの みぞぐらいなら
+Bボタンダッシュで らくに
+こえられねえと くろうするぜ
+
+===== MSG 01:B8 (ID 0x01B8, ROM 0x023CB0, 26 bytes) =====
+<SPEAKER>「へえ! 審査に うかったのかい?
+ちかごろの おんなのこは
+みかけに よらんねえ!
+
+===== MSG 01:B9 (ID 0x01B9, ROM 0x023CCB, 26 bytes) =====
+<SPEAKER>「この先から ちょっとのあいだ
+島の そうげんに でるぞ
+モンスターも でてくるからな!
+
+===== MSG 01:BA (ID 0x01BA, ROM 0x023CE6, 17 bytes) =====
+<SPEAKER>「おんなの あんたが
+審査に うかるかな
+ブァハハハハハ
+
+===== MSG 01:BB (ID 0x01BB, ROM 0x023CF8, 22 bytes) =====
+<SPEAKER>「物を 持つときは
+Aプッシュ! Aプッシュ! と
+ねんじると いいよ
+
+===== MSG 01:BC (ID 0x01BC, ROM 0x023D0F, 33 bytes) =====
+<SPEAKER>「ひゅー ひゅー! ねえちゃん
+なかなか やるなー<WAIT><SPEAKER>「そんだけの うでがありゃあ
+審査なんて への かっぱよ!
+
+===== MSG 01:BD (ID 0x01BD, ROM 0x023D31, 25 bytes) =====
+<SPEAKER>「おれは こうやって 審査場で
+くろう している やつらを
+ひやかすのが しゅみなんだ
+
+===== MSG 01:BE (ID 0x01BE, ROM 0x023D4B, 25 bytes) =====
+<SPEAKER>「ビザを持ってるなら そんな所で
+あそんでないで リバータウンへ
+行ったらどうだ?
+
+===== MSG 01:BF (ID 0x01BF, ROM 0x023D65, 48 bytes) =====
+<SPEAKER>「ときに おねえさん
+戦いの時に 気あいを ためてる?<WAIT><SPEAKER>「たちどまって Aーーっと
+力を入れていると 気あいがたまって
+パワフルな いちげきが 出せるぜ!
+
+===== MSG 01:C0 (ID 0x01C0, ROM 0x023D96, 35 bytes) =====
+<SPEAKER>「いやいや やっとの おもいで
+ここまで たどりつきましたよ<WAIT><SPEAKER>「商人と いえども 武芸は
+やっとかなきゃあ いけませんな
+
+===== MSG 01:C1 (ID 0x01C1, ROM 0x023DBA, 27 bytes) =====
+<SPEAKER>「この島は くねくねの道が たくさん
+あるんですよ バランス感覚が
+命に かかわるんです!
+
+===== MSG 01:C2 (ID 0x01C2, ROM 0x023DD6, 39 bytes) =====
+<SPEAKER>「おつかれさまです 旅のかた<WAIT><SPEAKER>「審査は ここで おわりです
+この 下の 博物館で
+入島ビザを もらって下さい<WAIT><SPEAKER>「それでは よい旅を!
+
+===== MSG 01:C3 (ID 0x01C3, ROM 0x023DFE, 26 bytes) =====
+<SPEAKER>「ポン! はい 入島ビザだよ
+これが 1枚あれば
+みなとの 外に 出られるよ!
+
+===== MSG 01:C4 (ID 0x01C4, ROM 0x023E19, 24 bytes) =====
+<SPEAKER>「ありゃりゃ お嬢さん!
+もちものが いっぱいですよ
+へらして また来てくださいよ
+
+===== MSG 01:C5 (ID 0x01C5, ROM 0x023E32, 26 bytes) =====
+<SPEAKER>「ゲロハー! この島の ことばで
+こんにちは! っていみさ!
+よい旅をな お嬢さんよ
+
+===== MSG 01:C6 (ID 0x01C6, ROM 0x023E4D, 83 bytes) =====
+<SPEAKER>「どうだ すごいだろう?<WAIT><SPEAKER>「こんな でかい トマトンが
+おそってきたら わしなんぞ
+いちころだろうな きっと!<WAIT><SPEAKER>「えっ? こいつは 何かって?
+これこそ 世紀の 大発見
+伝説の巨大トマトンの 化石さ<WAIT><SPEAKER>「古代デスランドの 大いなる謎
+いま 伝説から 真実へ
+うーん! ロマンだなあ・・・
+
+===== MSG 01:C7 (ID 0x01C7, ROM 0x023EA1, 23 bytes) =====
+<SPEAKER>「お嬢さん あわてなさんな
+まずは 入り口で ビザを
+もらって きなはれ
+
+===== MSG 01:C8 (ID 0x01C8, ROM 0x023EB9, 50 bytes) =====
+<SPEAKER>「じりりりりーん! さあさあ
+まもなく 神秘と 謎にあふれた
+活行写真の はじまり はじまりー<WAIT><SPEAKER>「デスランド伝説の すべてがわかる
+活行写真じゃよ 見ていくかい?
+
+===== MSG 01:C9 (ID 0x01C9, ROM 0x023EEC, 31 bytes) =====
+<SPEAKER>「お嬢さんには いちばん前の
+とくとうせきに ごあんなーい!
+じりりりりんと さあ はじまりぃー
+
+===== MSG 01:CA (ID 0x01CA, ROM 0x023F0C, 31 bytes) =====
+<SPEAKER>「おなごの いいえは はいのうちー
+さあ すわった すわった!
+じりりりりんと さあ はじまりぃー
+
+===== MSG 01:CB (ID 0x01CB, ROM 0x023F2C, 16 bytes) =====
+<SPEAKER>「ほれほれ いちばんまえに
+すわった すわった
+
+===== MSG 01:CC (ID 0x01CC, ROM 0x023F3D, 27 bytes) =====
+<SPEAKER>「ぜい ぜい はあ はあ
+としのせいで じょうえいは
+一日 一回が げんどじゃ・・・
+
+===== MSG 01:CD (ID 0x01CD, ROM 0x023F59, 58 bytes) =====
+<SPEAKER>「おう ねえちゃん! 来たな!
+まわりを 見なよ! ひとくせも
+ふたくせも ありそうな やつばかりよ<WAIT><SPEAKER>「連中も このデスランドに
+宝のにおいを かぎつけたに
+ちげえねえ! ライバルだぜ
+
+===== MSG 01:CE (ID 0x01CE, ROM 0x023F94, 31 bytes) =====
+<SPEAKER>「かーっ! まいったぜ まったく
+おれの 聞いてた この島の話と
+ぜんぜんちがうぜ とほほだな!
+
+===== MSG 01:CF (ID 0x01CF, ROM 0x023FB4, 44 bytes) =====
+<SPEAKER>「わたしは 天才かがくしゃ
+キングバロンのように いだいな
+発明をするのが ゆめなのです<WAIT><SPEAKER>「かれのことを すこしでも
+学ぶために この島に
+来たのです
+
+===== MSG 01:D0 (ID 0x01D0, ROM 0x023FE1, 24 bytes) =====
+<SPEAKER>「キングバロンは あまりに
+いだいすぎて かれのようには
+とても なれないなあ・・・
+
+===== MSG 01:D1 (ID 0x01D1, ROM 0x023FFA, 23 bytes) =====
+<SPEAKER>「巨大トマトンの 化石が
+みつかったいじょう ほかにも
+何か あるに ちがいないわい
+
+===== MSG 01:D2 (ID 0x01D2, ROM 0x024012, 27 bytes) =====
+<SPEAKER>「うーむ わしは あまり 島の
+奥に 行くのは やめておこうかの
+命あっての 研究じゃからな
+
+===== MSG 01:D3 (ID 0x01D3, ROM 0x02402E, 26 bytes) =====
+<SPEAKER>「おら おらー! はやく
+活行写真を はじめろー
+おれは まてねえぞ おらおらー
+
+===== MSG 01:D4 (ID 0x01D4, ROM 0x024049, 29 bytes) =====
+<SPEAKER>「くかー くかー ん?
+じょうえいは もう おわったか
+まちくたびれて ねちまったぜ!
+
+===== MSG 01:D5 (ID 0x01D5, ROM 0x024067, 59 bytes) =====
+<SPEAKER>「わくわくさせるぜ この島はよー
+古代の いせきが どっかにあるに
+ちがいねえぜ へっ へっ へっ<WAIT><SPEAKER>「おれさまが さがしあてて
+金銀 ざっくざっくで
+あれして これして うーん
+
+===== MSG 01:D6 (ID 0x01D6, ROM 0x0240A3, 24 bytes) =====
+<SPEAKER>「化石なんて いらねえんだよ
+おれっちが いただくものは
+古代の うもれた 宝さ
+
+===== MSG 01:D7 (ID 0x01D7, ROM 0x0240BC, 29 bytes) =====
+<SPEAKER>「ふがふが ふがふが わしも
+きっと なんか 見つけるぞい
+うほほ うほほほ ふがふがー
+
+===== MSG 01:D8 (ID 0x01D8, ROM 0x0240DA, 23 bytes) =====
+<SPEAKER>「ふがふが わしには ムリじゃ
+じいさんと いっしょに
+観光でも するかのう
+
+===== MSG 01:D9 (ID 0x01D9, ROM 0x0240F2, 14 bytes) =====
+<CLEAR>
+レンズがついた
+きみょうな 道具がある
+
+===== MSG 01:DA (ID 0x01DA, ROM 0x024101, 17 bytes) =====
+<CLEAR>
+これは <INSERT_A><WAIT>
+<CLEAR>
+ひどく古くて
+もう 役にたたないようだ
+
+===== MSG 01:DB (ID 0x01DB, ROM 0x024113, 18 bytes) =====
+<CLEAR>
+これは <INSERT_A><WAIT>
+<CLEAR>
+伝説の王の もんしょうを
+かたどった 石像のようだ
+
+===== MSG 01:DC (ID 0x01DC, ROM 0x024126, 8 bytes) =====
+<CLEAR>
+大きな ぬのが はってある
+
+===== MSG 01:DD (ID 0x01DD, ROM 0x02412F, 73 bytes) =====
+<SPEAKER>「おお 見すてられた博物館に
+お客さまとは めずらしい<WAIT><SPEAKER>「つい この間までは ここも
+観光客で にぎわっていたが
+いまは もう 誰もおらんよ<WAIT><SPEAKER>「わしも そうじがすんだら ここを
+出るよ そして 二度ともどって来ん
+ゆめは おわったのだ・・・
+
+===== MSG 01:DE (ID 0x01DE, ROM 0x024179, 41 bytes) =====
+<SPEAKER>「お嬢さんは どうして
+こんな所に 来たのかね?<WAIT><SPEAKER>「思い出の品が ほしくば
+何でも 持っていきなされ
+みんな 古いだけの がらくたじゃよ
+
+===== MSG 01:DF (ID 0x01DF, ROM 0x0241A3, 22 bytes) =====
+<SPEAKER>「フォフォフォフォー
+わたしは ゲムせいじん でーす<WAIT><SPEAKER>「これ あげまーす!
+
+===== MSG 01:E0 (ID 0x01E0, ROM 0x0241BA, 4 bytes) =====
+<SPEAKER>「おいしいよ
+
+===== MSG 01:E1 (ID 0x01E1, ROM 0x0241BF, 7 bytes) =====
+<SPEAKER>「それは ちょっとアレだね
+
+===== MSG 01:E2 (ID 0x01E2, ROM 0x0241C7, 4 bytes) =====
+<SPEAKER>「もうないよ
+
+===== MSG 01:E3 (ID 0x01E3, ROM 0x0241CC, 22 bytes) =====
+<CLEAR>
+↖ けんこうのたき デスランドのみなと
+↗ リバータウン バロン城
+
+===== MSG 01:E4 (ID 0x01E4, ROM 0x0241E3, 21 bytes) =====
+<SPEAKER>「ここは リバータウンの町
+デスランドで いちばん
+町らしい 町よ
+
+===== MSG 01:E5 (ID 0x01E5, ROM 0x0241F9, 57 bytes) =====
+<SPEAKER>「うおー さいきんは なんだか
+死人が多くて 大変だぜ!
+墓が たりないよ まったく!<WAIT><SPEAKER>「もっとも ほとんど 外から来た
+賞金かせぎとか 学昔さんとか
+そんな連中ばっかりだけどな
+
+===== MSG 01:E6 (ID 0x01E6, ROM 0x024233, 17 bytes) =====
+<SPEAKER>「ひいー あなたー なんで
+死んじゃったのよー ううう
+
+===== MSG 01:E7 (ID 0x01E7, ROM 0x024245, 39 bytes) =====
+<SPEAKER>「ぐすん ぐすん パパはね<WAIT><SPEAKER>「この島に 宝がいっぱいあって
+とりほうだいだって いってたのに
+ぜんぜん そうじゃないよー うー
+
+===== MSG 01:E8 (ID 0x01E8, ROM 0x02426D, 26 bytes) =====
+<SPEAKER>「ことしに なってから きゅうに
+島に来る人が ふえたんだよ
+せんでんでも したのかなあ
+
+===== MSG 01:E9 (ID 0x01E9, ROM 0x024288, 30 bytes) =====
+<SPEAKER>「ういー ひっく うりゃりゃー
+旅の はじは かきすて ってか!
+おれは やったるぞー ういー
+
+===== MSG 01:EA (ID 0x01EA, ROM 0x0242A7, 24 bytes) =====
+<SPEAKER>「おっ! 一人旅の お嬢様とは
+めずらしい! 意外と
+家出娘だったりして ぐはは
+
+===== MSG 01:EB (ID 0x01EB, ROM 0x0242C0, 13 bytes) =====
+<SPEAKER>「あんたも 北の バロン城に
+行くつもりかい?
+
+===== MSG 01:EC (ID 0x01EC, ROM 0x0242CE, 49 bytes) =====
+<SPEAKER>「げええっ 本気かね?
+あそこは またの名を からくり城と
+よばれておってな<WAIT><SPEAKER>「いつ 誰が作ったかは
+不明じゃが わなが
+いたるところに あるらしいぞい
+
+===== MSG 01:ED (ID 0x01ED, ROM 0x024300, 26 bytes) =====
+<SPEAKER>「行かんほうが ええよ あそこは
+観光気分で 行くと
+まちがいなく あの世いきじゃ
+
+===== MSG 01:EE (ID 0x01EE, ROM 0x02431B, 36 bytes) =====
+<SPEAKER>「ちかごろ 宝のうわさも よくきくが
+どでかい化け物の うわさもきくなあ
+あくまで うわさだけどな
+
+===== MSG 01:EF (ID 0x01EF, ROM 0x024340, 63 bytes) =====
+<SPEAKER>「おれは 見ての通りの
+あらくれだけど おつむのできは
+そこらへんの やつとはちがうぜ<WAIT><SPEAKER>「おれさまの 読みでは この島には
+とんでもねえ ひみつがあるぜ!<WAIT><SPEAKER>「まっ それが お宝か 化石か
+なんだかは わからんけどよ
+
+===== MSG 01:F0 (ID 0x01F0, ROM 0x024380, 69 bytes) =====
+<SPEAKER>「おとなの人って ほんと よくばり!<WAIT><SPEAKER>「だって サジクさんが 化石を
+発見したとたん みんな きゅうに
+宝さがしを はじめるんだもん<WAIT><SPEAKER>「あーあ サジクさんは いったい
+どこに いっちゃったのかなあ
+生きていれば いいけど ぐすっ
+
+===== MSG 01:F1 (ID 0x01F1, ROM 0x0243C6, 8 bytes) =====
+<CLEAR>
+レディは お墓を しらべた
+
+===== MSG 01:F2 (ID 0x01F2, ROM 0x0243CF, 19 bytes) =====
+<CLEAR>
+まあたらしい お墓がある
+今年の 日付が きざまれている
+
+===== MSG 01:F3 (ID 0x01F3, ROM 0x0243E3, 14 bytes) =====
+<CLEAR>
+誰かが いそいで そうじを
+していったようだ・・・
+
+===== MSG 01:F4 (ID 0x01F4, ROM 0x0243F2, 75 bytes) =====
+<SPEAKER>「この町も えらいさわぎだよ!<WAIT><SPEAKER>「北の 鉱山とやらで
+はたらかされてた 囚人が
+おおぜい にげて来てよー<WAIT><SPEAKER>「伝説の ばけもんの
+はなしを したもんだから<WAIT><SPEAKER>「町の みんなは あわてて
+ひなんしちまったよ!<WAIT><SPEAKER>「いったい この島は
+どうなっちまうんだ?
+
+===== MSG 01:F5 (ID 0x01F5, ROM 0x02443E, 69 bytes) =====
+<SPEAKER>「くっそー 化け物のやつ
+世界中の 強いやつを
+宝で おびきよせて<WAIT><SPEAKER>「つぎから つぎへと
+かんづめに していたなんて
+うーむ・・・・・<WAIT><SPEAKER>「化け物に してみれば
+いっせき にちょうだな<WAIT><SPEAKER>「なんという わるぢえの
+はたらくやつ!
+
+===== MSG 01:F6 (ID 0x01F6, ROM 0x024484, 19 bytes) =====
+<SPEAKER>「囚人どもの はなしが
+ほんとうなら この島は
+もう おわりだな
+
+===== MSG 01:F7 (ID 0x01F7, ROM 0x024498, 33 bytes) =====
+<SPEAKER>「おんな こどもは
+とりあえず ひなんさせたよ<WAIT><SPEAKER>「わしら 男どもで
+なんとか この島を
+まもらんといかん
+
+===== MSG 01:F8 (ID 0x01F8, ROM 0x0244BA, 52 bytes) =====
+<SPEAKER>「ぼくは いまほど 兵土という
+しごとを やめたいと
+おもったことは ないですよ<WAIT><SPEAKER>「こんな へんぴな ところで
+ばかでかい モンスターあいてに
+たたかうなんて とほほ
+
+===== MSG 01:F9 (ID 0x01F9, ROM 0x0244EF, 25 bytes) =====
+<SPEAKER>「お嬢さん! カクテルなぞ
+いかがかな おすすめは
+デスランドパンチですな!
+
+===== MSG 01:FA (ID 0x01FA, ROM 0x024509, 54 bytes) =====
+<SPEAKER>「おう おう おう おれはよー!
+きのう バロン城によー ういー
+行ってきちまったのよー ういー<WAIT><SPEAKER>「それでよー ひっく あのよー
+ひっく こ こわくてよー
+にげてきちまったのよー ういー
+
+===== MSG 01:FB (ID 0x01FB, ROM 0x024540, 30 bytes) =====
+<SPEAKER>「だはははははは けっさくだぜ!
+にげかえって来ただと がはは
+この男 こしぬけだぜ!
+
+===== MSG 01:FC (ID 0x01FC, ROM 0x02455F, 45 bytes) =====
+<SPEAKER>「ちょっと前までは いわゆる
+考古学昔くらいしか この島に
+やって来んかったじゃ<WAIT><SPEAKER>「じゃが 化石が みつかっていらい
+わけのわからん連中が
+ぎょうさん 来よる
+
+===== MSG 01:FD (ID 0x01FD, ROM 0x02458D, 24 bytes) =====
+<SPEAKER>「おほほほ 島に 観光客が
+ふえて この店の うりあげも
+ばいぞうしましたわ
+
+===== MSG 01:FE (ID 0x01FE, ROM 0x0245A6, 105 bytes) =====
+<SPEAKER>「どこかに コレクタとかいう
+やつがいて ひかるビーダマを
+集めているそうなんだ<WAIT><SPEAKER>「コレクタに ビーダマをやると
+おれいに すんばらしい
+プレゼントを くれるんだそうだ<WAIT><SPEAKER>「ひかるビーダマを 見つけたら
+じゃまになるようなら 道具として
+使うといいよ<WAIT><SPEAKER>「すると ビーダマは とんでいって
+コレクタのところで 預かってもらえる
+そういう ふしぎな ビーダマなんだ
+
+===== MSG 01:FF (ID 0x01FF, ROM 0x024610, 66 bytes) =====
+<SPEAKER>「いやはや もう この島は
+こりつじょうたい ですよ<WAIT><SPEAKER>「船は つきに 一度しか
+こないし たすけてくれそうな
+うでっぷしの 強い人は<WAIT><SPEAKER>「みんな すでに かんづめに
+されちゃった みたいだし
+おてあげって やつですかい
+
+===== MSG 02:00 (ID 0x0200, ROM 0x024653, 28 bytes) =====
+<SPEAKER>「わしは この島で
+生まれ そだったんじゃ<WAIT><SPEAKER>「だから 何が おきようとも
+この島を はなれんぞい
+
+===== MSG 02:01 (ID 0x0201, ROM 0x024670, 66 bytes) =====
+<SPEAKER>「にげて来た 囚人が
+デスベガスで コレクタに
+会ったっていうんだ<WAIT><SPEAKER>「あれから おれもさがして
+一コ みつけたけど あんなとこ
+生きて たどりつけないや<WAIT><SPEAKER>「よかったら あんたたち このビーダマ
+100エンドルで かわないか?
+
+===== MSG 02:02 (ID 0x0202, ROM 0x0246B3, 23 bytes) =====
+<SPEAKER>「コレクタに あおうと
+この島で ねばってたけど
+これで せいせいしたよ
+
+===== MSG 02:03 (ID 0x0203, ROM 0x0246CB, 5 bytes) =====
+<SPEAKER>「え そうかい
+
+===== MSG 02:04 (ID 0x0204, ROM 0x0246D1, 15 bytes) =====
+<SPEAKER>「なんだ お金が ないのかい
+まあいいや 持ってけ!
+
+===== MSG 02:05 (ID 0x0205, ROM 0x0246E1, 16 bytes) =====
+<SPEAKER>「おっと それじゃ
+にもつを せいりして
+また来てくれよ
+
+===== MSG 02:06 (ID 0x0206, ROM 0x0246F2, 29 bytes) =====
+<SPEAKER>「げー この島に みれんは
+なくなったけど よくかんがえたら
+船がないから にげられないじゃん!
+
+===== MSG 02:07 (ID 0x0207, ROM 0x024710, 16 bytes) =====
+<SPEAKER>「おれは 情報屋のボブだ
+50Yで 島の情報を売るぜ
+
+===== MSG 02:08 (ID 0x0208, ROM 0x024721, 124 bytes) =====
+<SPEAKER>「よく ききな ねーちゃん!<WAIT><SPEAKER>「この島はな 北側はんぶん以上が
+ぜっぺきと 樹海に おおわれていて
+どうなってるか 解んねえんだ!<WAIT><SPEAKER>「解んねえもんだから いろいろと
+やれ古代の宝だ 金銀 宝石だの
+うわさが たつってわけよ!<WAIT><SPEAKER>「ま おかげで おれみてえな
+情報屋が 商売として なりたつって
+わけだな! おっと 話がそれたな<WAIT><SPEAKER>「とにかくだ! 島の 北側に
+行かなきゃ うわさが ほんとか
+どうか わからんってわけよ
+
+===== MSG 02:09 (ID 0x0209, ROM 0x02479E, 189 bytes) =====
+<SPEAKER>「だがな べっぴんさんよ!
+どっから 行けば いいのか?
+これが また やっかいなんだ<WAIT><SPEAKER>「ここから さらに 北に行くと
+バロン城っていう 城があるんだ
+ところが ここが くせものなんだな<WAIT><SPEAKER>「古い 書物によるとだな
+バロン城から 島の北側にぬける
+はずなんだが ところがどっこい<WAIT><SPEAKER>「城の中は じごくのような わなや
+仕掛けが やまのように あるんだな
+おまけに モンスターも うようよ!<WAIT><SPEAKER>「まいにち いろんな やつらが
+でかけて行くけど ほとんどが
+こしぬかして かえってくるか・・・<WAIT><SPEAKER>「とちゅうで あの世へ行くか
+どっちかだな おかげで 墓石屋まで
+はんじょう してるって 話だぜ!<WAIT><SPEAKER>「どうだい べっぴんさんよ!
+もういちど 話そうか?
+
+===== MSG 02:0A (ID 0x020A, ROM 0x02485C, 19 bytes) =====
+<SPEAKER>「よし じゃ おちかづきのしるしに
+いいものを やろう!
+
+===== MSG 02:0B (ID 0x020B, ROM 0x024870, 27 bytes) =====
+<SPEAKER>「ま 墓は 立ててやるぜ!
+情報料に こみに してやるよ!
+べっぴんさんだからな ぐはは!
+
+===== MSG 02:0C (ID 0x020C, ROM 0x02488C, 9 bytes) =====
+<SPEAKER>「ようの ないやつは 帰ってくれ
+
+===== MSG 02:0D (ID 0x020D, ROM 0x024896, 19 bytes) =====
+<SPEAKER>「なんでえ! 金が たりねーぞ!
+なめんなよ! ねーちゃん!
+
+===== MSG 02:0E (ID 0x020E, ROM 0x0248AA, 35 bytes) =====
+<SPEAKER>「どんな城だろうが かんけいねえ!
+こけつに 入らずんば こじを えず
+おーし! やったるぜい おーし!
+
+===== MSG 02:0F (ID 0x020F, ROM 0x0248CE, 57 bytes) =====
+<SPEAKER>「もう あんたらしかいねえ!<WAIT><SPEAKER>「うでっぷしの 強いやつは
+みんな 墓場か かんづめの中に
+はいっちまったよ!<WAIT><SPEAKER>「この島を 化け物から
+とりもどす ためなら このボブ
+命がけで 情報を あつめるぜ!
+
+===== MSG 02:10 (ID 0x0210, ROM 0x024908, 49 bytes) =====
+<SPEAKER>「そういえば 囚人を しきっていた
+ヘブリって じいさんが
+じつは モンスターだったらしいぜ<WAIT><SPEAKER>「デスベガスは おおさわぎだよ
+あんたも 行ってみれば
+どうですかい?
+
+===== MSG 02:11 (ID 0x0211, ROM 0x02493A, 22 bytes) =====
+<SPEAKER>「その まものエキスを 使えば
+モンスターの かくれがにも
+寝入できるかもな!
+
+===== MSG 02:12 (ID 0x0212, ROM 0x024951, 22 bytes) =====
+<SPEAKER>「こんごも 命がけで
+情報を あつめるから
+あんたも がんばってくれよな!
+
+===== MSG 02:13 (ID 0x0213, ROM 0x024968, 9 bytes) =====
+<SPEAKER>「では これを うけとってくれよ!
+
+===== MSG 02:14 (ID 0x0214, ROM 0x024972, 18 bytes) =====
+<SPEAKER>「それじゃ おれが
+装備させてやるぜ
+むひ むひ むひひひ・・・
+
+===== MSG 02:15 (ID 0x0215, ROM 0x024985, 12 bytes) =====
+<SPEAKER>「おっと じゃあ
+このつぎに しようか
+
+===== MSG 02:16 (ID 0x0216, ROM 0x024992, 39 bytes) =====
+<SPEAKER>「バロン城は のろわれた城・・・
+悪魔の すみかといわれています<WAIT><SPEAKER>「きっと キングバロンの
+ぼうれいが やどっているに
+ちがいないですわ
+
+===== MSG 02:17 (ID 0x0217, ROM 0x0249BA, 9 bytes) =====
+<SPEAKER>「情報屋の ボブには 会ったか?
+
+===== MSG 02:18 (ID 0x0218, ROM 0x0249C4, 21 bytes) =====
+<SPEAKER>「そうか まあ おたがい
+がんばろう まだ 命は
+おとしたく ないからな
+
+===== MSG 02:19 (ID 0x0219, ROM 0x0249DA, 31 bytes) =====
+<SPEAKER>「おれたちみたいな 賞金かせぎに
+いろんな 情報を 売っている男さ
+けっこう 役にたつ らしいぜ
+
+===== MSG 02:1A (ID 0x021A, ROM 0x0249FA, 77 bytes) =====
+<SPEAKER>「あんた
+ウィップとブーツの
+二つの武器の ちがいがわかる?<WAIT><SPEAKER>「ウィップは ひろい間あいで
+こうげきできる 武器なのよ<WAIT><SPEAKER>「でも ブーツの方が
+こうげき力は 高いのよねー<WAIT><SPEAKER>「あいにく ウィップとブーツは
+どうじに 装備できないのよ
+気をつけてね
+
+===== MSG 02:1B (ID 0x021B, ROM 0x024A48, 15 bytes) =====
+<SPEAKER>「バロン城は この町から
+すこし 北に行ったところだよ
+
+===== MSG 02:1C (ID 0x021C, ROM 0x024A58, 34 bytes) =====
+<SPEAKER>「はー・・・・
+あ ごめんなさい<WAIT><SPEAKER>「あまった にもつや
+よぶんな お金は メグのそうこに
+おまかせください・・・
+
+===== MSG 02:1D (ID 0x021D, ROM 0x024A7B, 30 bytes) =====
+<SPEAKER>「こうして 店ばんを してる方が
+ふっと 主人が 帰ってくる気がして
+なんだか 気が まぎれるんです
+
+===== MSG 02:1E (ID 0x021E, ROM 0x024A9A, 52 bytes) =====
+<SPEAKER>「主人は きっと 生きていますわ
+サジクが この家に もどるまで
+わたし しっかりしなきゃ!<WAIT><SPEAKER>「あまった にもつや
+よぶんな お金は
+メグのそうこに おまかせください!
+
+===== MSG 02:1F (ID 0x021F, ROM 0x024ACF, 39 bytes) =====
+<SPEAKER>「メグさんは 考古学昔の
+サジクさんの 奥さんでな<WAIT><SPEAKER>「かわいそうに だんなさんが
+行方不明に なってから
+ちょっと ぼーっと しとるんじゃよ
+
+===== MSG 02:20 (ID 0x0220, ROM 0x024AF7, 27 bytes) =====
+<SPEAKER>「サジクさんも いいかげん
+こまった人じゃな! 奥さんを
+こんなに しんぱいさせて!
+
+===== MSG 02:21 (ID 0x0221, ROM 0x024B13, 28 bytes) =====
+<SPEAKER>「メグさんと サジクさんは
+1階に いますよ! メグさんも
+すっかり げんきに なりましてな
+
+===== MSG 02:22 (ID 0x0222, ROM 0x024B30, 73 bytes) =====
+<SPEAKER>「レディさん! おれは
+情報屋の ボブの むすこです<WAIT><SPEAKER>「ここで いらなくなった
+にもつを 預りますよ!<WAIT><SPEAKER>「それに この下の フロアにも
+防具の 古い そうこが
+あるんです!<WAIT><SPEAKER>「いま うちの じいさんが
+せいりしてますから いいものが
+でてきたら やすく 売りますよ!
+
+===== MSG 02:23 (ID 0x0223, ROM 0x024B7A, 23 bytes) =====
+<SPEAKER>「あまった にもつや
+よぶんな お金は
+メグのそうこに おまかせください!
+
+===== MSG 02:24 (ID 0x0224, ROM 0x024B92, 63 bytes) =====
+<SPEAKER>「おそらく 塔の中に
+バロンロックへ わたる方法の
+ひみつが あるに ちがいありません<WAIT><SPEAKER>「なんとしても 古代の装置の
+復活だけは くいとめないと・・・<WAIT><SPEAKER>「おお そうだ レディさん!
+この地図は おわたしします
+すこしは お役に たつでしょう
+
+===== MSG 02:25 (ID 0x0225, ROM 0x024BD2, 17 bytes) =====
+<SPEAKER>「この地図を おわたしします
+すこしは お役に たつでしょう
+
+===== MSG 02:26 (ID 0x0226, ROM 0x024BE4, 14 bytes) =====
+<SPEAKER>「レディさん! なんとか
+この島を すくってください!
+
+===== MSG 02:27 (ID 0x0227, ROM 0x024BF3, 21 bytes) =====
+<SPEAKER>「おっと! では いずれ
+おにもつが あいているときに
+おわたししましょう
+
+===== MSG 02:28 (ID 0x0228, ROM 0x024C09, 24 bytes) =====
+<SPEAKER>「おそらく 塔の中に
+バロンロックへ わたる方法の
+ひみつが かくされているはずです!
+
+===== MSG 02:29 (ID 0x0229, ROM 0x024C22, 57 bytes) =====
+<SPEAKER>「なんと! バロンロックへ
+わたった? それはすごい!<WAIT><SPEAKER>「ううー わたしも行きたい!
+考古学昔の ちが さわぐうー!
+だが そんな所へ 行ったら むむ<WAIT><SPEAKER>「こんどは こおりづめでは
+すまないだろう・・・
+
+===== MSG 02:2A (ID 0x022A, ROM 0x024C5C, 74 bytes) =====
+<SPEAKER>「古い ぶんけんに よると
+キングバロンは かずおおくの
+しかけを 作ったと あります<WAIT><SPEAKER>「気をつけてくださいよ
+レディさん! わたしの よみでは
+バロンロックは しかけだらけです<WAIT><SPEAKER>「おそらく 自分の すみかの
+手前に しかけだらけの 迷宮を
+作っているはずです!
+
+===== MSG 02:2B (ID 0x022B, ROM 0x024CA7, 39 bytes) =====
+<SPEAKER>「ジェイビーとかいう 魔物も
+その しかけに てこずるでしょう<WAIT><SPEAKER>「そのすきに なんとか
+古代の装置を はかいできれば
+いいのですが・・・・
+
+===== MSG 02:2C (ID 0x022C, ROM 0x024CCF, 20 bytes) =====
+<SPEAKER>「うえー! 古代の装置が
+復活してしまったー?
+うひゃー! うーん・・・・・
+
+===== MSG 02:2D (ID 0x022D, ROM 0x024CE4, 10 bytes) =====
+<CLEAR>
+サジクは きぜつ してしまった!
+
+===== MSG 02:2E (ID 0x022E, ROM 0x024CEF, 9 bytes) =====
+<CLEAR>
+サジクは きぜつ している
+
+===== MSG 02:2F (ID 0x022F, ROM 0x024CF9, 14 bytes) =====
+<SPEAKER>「サジクさんの はなしを
+きいてやってくれよ!
+
+===== MSG 02:30 (ID 0x0230, ROM 0x024D08, 19 bytes) =====
+<SPEAKER>「あんたの 持っている その
+石像が 塔と かんけいありそうだな
+
+===== MSG 02:31 (ID 0x0231, ROM 0x024D1C, 32 bytes) =====
+<SPEAKER>「そうか あの石像が
+塔に入る カギだったわけか<WAIT><SPEAKER>「むかしの やつも なかなか
+ようじんぶかいんだな
+
+===== MSG 02:32 (ID 0x0232, ROM 0x024D3D, 87 bytes) =====
+<SPEAKER>「げええー! バロンロックに
+わたった? そいつは たまげた!<WAIT><SPEAKER>「なに わたったはいいが
+だんがい ぜっぺきの 岩場で
+さきに行けない?<WAIT><SPEAKER>「バロンロックと いうだけあって
+すげえ 岩場 なんだろうなあ・・・<WAIT><SPEAKER>「おう そうだ! たしか 囚人が
+岩場を のぼる くつが どうとか
+いってた きおくが あるな
+
+===== MSG 02:33 (ID 0x0233, ROM 0x024D95, 20 bytes) =====
+<SPEAKER>「デスベガスの ドドヘイだ!
+ドドヘイが たしか いってたぞ!
+
+===== MSG 02:34 (ID 0x0234, ROM 0x024DAA, 61 bytes) =====
+<SPEAKER>「どんな すごい わなや
+しかけが でてきても とにかく
+れいせいに なるんだ!<WAIT><SPEAKER>「きっと ガヌビスさまが
+護って くださるって!<WAIT><SPEAKER>「え? ガヌビスさまを 知らない?
+どひゃー そりゃ たまげた!
+
+===== MSG 02:35 (ID 0x0235, ROM 0x024DE8, 56 bytes) =====
+<SPEAKER>「ガヌビスさまは わなや
+しかけを 司っていたと
+いわれてるんだ<WAIT><SPEAKER>「その おすがたは
+かおが オオカミで
+体が 人間なんでさあ<WAIT><SPEAKER>「キングバロンも きっと
+すうはいしてた だろうなあ!
+
+===== MSG 02:36 (ID 0x0236, ROM 0x024E21, 26 bytes) =====
+<SPEAKER>「うおお! レディさん!
+バロンロックのことは さすがの
+このボブでも わからないでさあ!
+
+===== MSG 02:37 (ID 0x0237, ROM 0x024E3C, 27 bytes) =====
+<SPEAKER>「主人から すべて 聞きました
+ほんとうに ありがとうございます
+命の おんじんですわ
+
+===== MSG 02:38 (ID 0x0238, ROM 0x024E58, 25 bytes) =====
+<SPEAKER>「ごめんなさい 主人は
+なやみはじめると 誰の
+ことばも 耳に 入らないんです
+
+===== MSG 02:39 (ID 0x0239, ROM 0x024E72, 54 bytes) =====
+<SPEAKER>「わたし もう サジクを
+はなしませんわ!<WAIT><SPEAKER>「リバータウンから いっぽも
+そとに 出しません!
+・・・と いいたいところですが<WAIT><SPEAKER>「この人は
+そういうふうには きっと
+ならないでしょうね・・・
+
+===== MSG 02:3A (ID 0x023A, ROM 0x024EA9, 25 bytes) =====
+<SPEAKER>「ええっ? ジェイビーに
+だまされた? まあ! なんて
+ひれつな やつなんでしょう!
+
+===== MSG 02:3B (ID 0x023B, ROM 0x024EC3, 23 bytes) =====
+<SPEAKER>「ごめんなさい 主人は
+気を うしなうと
+なかなか 目を さまさないんです
+
+===== MSG 02:3C (ID 0x023C, ROM 0x024EDB, 49 bytes) =====
+<SPEAKER>「いやいや けっこう
+せいりするのも 大変じゃ!<WAIT><SPEAKER>「こしが ぬけるまで
+そうこせいりを しますから
+この島を すくっておくれ!<WAIT><SPEAKER>「なにか おいりようの物が
+おありかな?
+
+===== MSG 02:3D (ID 0x023D, ROM 0x024F0D, 36 bytes) =====
+<SPEAKER>「とんでもねえぜ! あの城は!<WAIT><SPEAKER>「おれも 世界を またにかけた
+言険男だが こんな ひでえ
+ところは はじめてだぜ!
+
+===== MSG 02:3E (ID 0x023E, ROM 0x024F32, 43 bytes) =====
+<SPEAKER>「入場券は買ったものの
+いざとなると びびっちゃって
+なかなか 入れないんですよ<WAIT><SPEAKER>「ここで きねん写真でも
+うつして かえろうかなあ うーん
+
+===== MSG 02:3F (ID 0x023F, ROM 0x024F5E, 26 bytes) =====
+<SPEAKER>「サジクも この城から 島の
+北側に いったのかな? うーむ
+あいつ ゆうきあるのう!
+
+===== MSG 02:40 (ID 0x0240, ROM 0x024F79, 29 bytes) =====
+<SPEAKER>「ここは バロン城の入り口です
+入場料は お一人さま
+50エンドルと なっております<WAIT><SPEAKER>「ご入場なさいますか?
+
+===== MSG 02:41 (ID 0x0241, ROM 0x024F97, 24 bytes) =====
+<SPEAKER>「はいよっ! これ入場券だよ!
+一度 買えば 何回でも
+出入り できるからね!
+
+===== MSG 02:42 (ID 0x0242, ROM 0x024FB0, 31 bytes) =====
+<SPEAKER>「城にはいったら じいさんに
+こえを かけてごらん!<WAIT><SPEAKER>「城の中を あんないして
+もらえるかも しれませんぜ!
+
+===== MSG 02:43 (ID 0x0243, ROM 0x024FD0, 21 bytes) =====
+<SPEAKER>「ありゃりゃ お嬢さん!
+にもつがいっぱいで 入場券が
+わたせないですぜ!
+
+===== MSG 02:44 (ID 0x0244, ROM 0x024FE6, 16 bytes) =====
+<SPEAKER>「ごまかしは だめですぜ!
+お金が たりないようですな
+
+===== MSG 02:45 (ID 0x0245, ROM 0x024FF7, 5 bytes) =====
+<SPEAKER>「え そうですかい
+
+===== MSG 02:46 (ID 0x0246, ROM 0x024FFD, 38 bytes) =====
+<SPEAKER>「一説によると このバロン城の
+地下ふかくに 水道があるらしいんだ<WAIT><SPEAKER>「水道は 島の はるか北の
+デスバレー鉱山に 流れていくらしい
+
+===== MSG 02:47 (ID 0x0247, ROM 0x025024, 22 bytes) =====
+<SPEAKER>「かーちゃんに おこられるから
+なにかを買って 宝を
+みつけたことにしよう
+
+===== MSG 02:48 (ID 0x0248, ROM 0x02503B, 82 bytes) =====
+<SPEAKER>「ブルブルブル 城の とちゅうまで
+なんとか たどりついたんだけど
+み み 見たんだ で で で で<WAIT><SPEAKER>「で 伝説の でかい モンスターを
+た たしかに 見たんだよ ほんと
+し しかも 生きていたんだよー<WAIT><SPEAKER>「し しんじてくれよー こわいよー
+ブルブル こわいよー ブルブル
+
+===== MSG 02:49 (ID 0x0249, ROM 0x02508E, 52 bytes) =====
+<SPEAKER>「どっかの こしぬけが 城の中で
+伝説の でかい モンスターを
+見たとか いってたな ふふん<WAIT><SPEAKER>「ますます やる気が でてきたぞ
+そいつを とっつかまえて
+高く 売っぱらうか
+
+===== MSG 02:4A (ID 0x024A, ROM 0x0250C3, 29 bytes) =====
+<SPEAKER>「はいはい いまなら
+サービスきかん だから
+むりょう ですよ!<WAIT><SPEAKER>「きねん写真 を とりますか?
+
+===== MSG 02:4B (ID 0x024B, ROM 0x0250E1, 21 bytes) =====
+<SPEAKER>「ほんじゃあ しょうめんの
+言険刻土の かお から
+こっちを 見てください!
+
+===== MSG 02:4C (ID 0x024C, ROM 0x0250F7, 17 bytes) =====
+<SPEAKER>「そうかい おれは
+とっといたほうが
+いいと 思うけどなー
+
+===== MSG 02:4D (ID 0x024D, ROM 0x025109, 33 bytes) =====
+<SPEAKER>「できあがった きねん写真は
+おうちに おくりますよ!<WAIT><SPEAKER>「なにぶん げんぞうに えらい
+時間が かかるもんでね!
+
+===== MSG 02:4E (ID 0x024E, ROM 0x02512B, 11 bytes) =====
+<SPEAKER>「いきますよー!
+はい チーズ!
+
+===== MSG 02:4F (ID 0x024F, ROM 0x025137, 15 bytes) =====
+<SPEAKER>「おくすり かってくれよー
+おくすり かってくれよー
+
+===== MSG 02:50 (ID 0x0250, ROM 0x025147, 29 bytes) =====
+<SPEAKER>「よお ねえちゃん! どこで
+みちくさ くってたんだい? へへへ
+おれは さきに いかしてもらうぜ
+
+===== MSG 02:51 (ID 0x0251, ROM 0x025165, 19 bytes) =====
+<CLEAR>
+ずっしりと おもそうな
+てつの とびらが しまっている
+
+===== MSG 02:52 (ID 0x0252, ROM 0x025179, 13 bytes) =====
+<CLEAR>
+おんせん
+ご自由に お入りください
+
+===== MSG 02:53 (ID 0x0253, ROM 0x025187, 35 bytes) =====
+<SPEAKER>「ちょっとお そんなとこ
+さわんないでよお!<WAIT><SPEAKER>「おんなどおし なのに
+ちょっと やめてってば
+あ<PAUSE_30> あ<PAUSE_30> ああ
+
+===== MSG 02:54 (ID 0x0254, ROM 0x0251AB, 14 bytes) =====
+<CLEAR>
+目が とろんとしている
+気持ちよさそうだ
+
+===== MSG 02:55 (ID 0x0255, ROM 0x0251BA, 24 bytes) =====
+<SPEAKER>「ひえっ ひえっ ひえっへへへ
+これは これは お嬢ちゃん!
+バロン城に よくぞ まいられた
+
+===== MSG 02:56 (ID 0x0256, ROM 0x0251D3, 16 bytes) =====
+<SPEAKER>「それでは お嬢ちゃん
+にゅうじょうけんを いただくぞい!
+
+===== MSG 02:57 (ID 0x0257, ROM 0x0251E4, 29 bytes) =====
+<SPEAKER>「きょうは とくべつサービスじゃ!
+城の中を あんない してやろう!
+そこの 乗り物に 乗るがよい!
+
+===== MSG 02:58 (ID 0x0258, ROM 0x025202, 10 bytes) =====
+<SPEAKER>「そこの 乗り物に 乗るがよい!
+
+===== MSG 02:59 (ID 0x0259, ROM 0x02520D, 26 bytes) =====
+<SPEAKER>「ひえっ ひえっ ひえっ
+じごくへの とびらを いま
+あけて しんぜよう うりゃ!
+
+===== MSG 02:5A (ID 0x025A, ROM 0x025228, 27 bytes) =====
+<SPEAKER>「けけけけけ! 行くのも よし
+ひきかえすも よし それは
+あんたの 自由じゃてのう
+
+===== MSG 02:5B (ID 0x025B, ROM 0x025244, 16 bytes) =====
+<SPEAKER>「ちょっきん ちょきちょき
+ちょっきん ちょきちょき
+
+===== MSG 02:5C (ID 0x025C, ROM 0x025255, 19 bytes) =====
+<SPEAKER>「べろべろ ばあ けけけけ
+あばばばあ うけけけっ
+
+===== MSG 02:5D (ID 0x025D, ROM 0x025269, 20 bytes) =====
+<SPEAKER>「ここで 行きどまりだよ・・・
+あんたはね・・・
+うききききっ
+
+===== MSG 02:5E (ID 0x025E, ROM 0x02527E, 54 bytes) =====
+<SPEAKER>「この さきで 道が ふたつに
+わかれるけど どっちでも
+すきな方を えらぶといいよ<WAIT><SPEAKER>「行きつくところは いっしょ
+きょうふと せんりつの
+バロン城の さいごのひみつさ・・・
+
+===== MSG 02:5F (ID 0x025F, ROM 0x0252B5, 24 bytes) =====
+<CLEAR>
+ベビーバロンの 像がある
+目のところに 何かを
+はめこむ あなが あいている
+
+===== MSG 02:60 (ID 0x0260, ROM 0x0252CE, 29 bytes) =====
+<CLEAR>
+モンスターが 読みそうな
+えほんが たくさん ある<WAIT>
+<CLEAR>
+「バロンくん」の4巻だけが
+ぬけているようだ
+
+===== MSG 02:61 (ID 0x0261, ROM 0x0252EC, 46 bytes) =====
+<SPEAKER>「えーっと・・・<WAIT><SPEAKER>「「むかし あるところに ベビ・・・
+<PAUSE_30>・・・なんだっけな?<WAIT><SPEAKER>「ぼく ベビきちくんの
+おはなしを おぼえたのに
+もう わすれちゃったよ
+
+===== MSG 02:62 (ID 0x0262, ROM 0x02531B, 18 bytes) =====
+<SPEAKER>「ベビきちくんの おはなしを
+読んでくれて ありがとう
+
+===== MSG 02:63 (ID 0x0263, ROM 0x02532E, 23 bytes) =====
+<CLEAR>
+ちぎれた えほんの ページがある<WAIT>
+<CLEAR>
+「むかし あるところに」<WAIT>
+<CLEAR>
+と 書いてある
+
+===== MSG 02:64 (ID 0x0264, ROM 0x025346, 24 bytes) =====
+<CLEAR>
+ちぎれた えほんの ページがある<WAIT>
+<CLEAR>
+「ベビきちという」<WAIT>
+<CLEAR>
+と 書いてある
+
+===== MSG 02:65 (ID 0x0265, ROM 0x02535F, 24 bytes) =====
+<CLEAR>
+ちぎれた えほんの ページがある<WAIT>
+<CLEAR>
+「ベビーバロンがいました」<WAIT>
+<CLEAR>
+と 書いてある
+
+===== MSG 02:66 (ID 0x0266, ROM 0x025378, 29 bytes) =====
+<CLEAR>
+ちぎれた えほんの ページがある<WAIT>
+<CLEAR>
+「ベビきちは あわてんぼうなので」<WAIT>
+<CLEAR>
+と 書いてある
+
+===== MSG 02:67 (ID 0x0267, ROM 0x025396, 24 bytes) =====
+<CLEAR>
+ちぎれた えほんの ページがある<WAIT>
+<CLEAR>
+「どうくつの なかで」<WAIT>
+<CLEAR>
+と 書いてある
+
+===== MSG 02:68 (ID 0x0268, ROM 0x0253AF, 28 bytes) =====
+<CLEAR>
+ちぎれた えほんの ページがある<WAIT>
+<CLEAR>
+「いわと にんげんを まちがえて」<WAIT>
+<CLEAR>
+と 書いてある
+
+===== MSG 02:69 (ID 0x0269, ROM 0x0253CC, 25 bytes) =====
+<CLEAR>
+ちぎれた えほんの ページがある<WAIT>
+<CLEAR>
+「よく けがを していました」<WAIT>
+<CLEAR>
+と 書いてある
+
+===== MSG 02:6A (ID 0x026A, ROM 0x0253E6, 26 bytes) =====
+<CLEAR>
+ちぎれた えほんの ページがある<WAIT>
+<CLEAR>
+「みんなも きを つけましょうね」<WAIT>
+<CLEAR>
+と 書いてある
+
+===== MSG 02:6B (ID 0x026B, ROM 0x025401, 31 bytes) =====
+<CLEAR>
+いみふめいの むつかしい本が
+ならんでいる・・・・・・・・・ん?<WAIT>
+<CLEAR>
+本の おくに スイッチがある
+おしてみますか?
+
+===== MSG 02:6C (ID 0x026C, ROM 0x025421, 14 bytes) =====
+<CLEAR>
+本の おくに スイッチがある
+スイッチは おされている
+
+===== MSG 02:6D (ID 0x026D, ROM 0x025430, 19 bytes) =====
+<SPEAKER>「おれは 火の玉が
+にがてなんだ あしが すくんで
+行けないよ
+
+===== MSG 02:6E (ID 0x026E, ROM 0x025444, 18 bytes) =====
+<SPEAKER>「ずっと ふんばっていたんで
+あしが しびれて 行けないよ
+
+===== MSG 02:6F (ID 0x026F, ROM 0x025457, 12 bytes) =====
+<CLEAR>
+かべに ボタンがある
+おしてみますか?
+
+===== MSG 02:70 (ID 0x0270, ROM 0x025464, 8 bytes) =====
+<CLEAR>
+ほのおが とまった!
+
+===== MSG 02:71 (ID 0x0271, ROM 0x02546D, 13 bytes) =====
+<CLEAR>
+かべに ボタンがある
+ボタンは おされている
+
+===== MSG 02:72 (ID 0x0272, ROM 0x02547B, 9 bytes) =====
+<CLEAR>
+「使用 ふのう
+と 書いてある
+
+===== MSG 02:73 (ID 0x0273, ROM 0x025485, 10 bytes) =====
+<CLEAR>
+ろうかで なにか おとがした
+
+===== MSG 02:74 (ID 0x0274, ROM 0x025490, 29 bytes) =====
+<CLEAR>
+「じゅんばんに レバーを行かせ
+よく見ろ よく聞け そして 頭を使え
+・・・と かいてある
+
+===== MSG 02:75 (ID 0x0275, ROM 0x0254AE, 13 bytes) =====
+<CLEAR>
+コックスの たましいが
+おたけびをあげた!
+
+===== MSG 02:76 (ID 0x0276, ROM 0x0254BC, 20 bytes) =====
+<SPEAKER>「・・・あのー お嬢さま
+わたしの かんがえを
+いって かまいませんか?
+
+===== MSG 02:77 (ID 0x0277, ROM 0x0254D1, 7 bytes) =====
+<CLEAR>
+コックスの意見を 聞きますか?
+
+===== MSG 02:78 (ID 0x0278, ROM 0x0254D9, 42 bytes) =====
+<SPEAKER>「6本のレバーを じゅんばんに
+行かす やり方は えーと・・・
+720通りも ありますよ!<WAIT><SPEAKER>「しらみつぶしに やるより
+いい方法が あるかも・・・
+
+===== MSG 02:79 (ID 0x0279, ROM 0x025504, 10 bytes) =====
+<CLEAR>
+もっと コックスの意見を 聞きますか?
+
+===== MSG 02:7A (ID 0x027A, ROM 0x02550F, 23 bytes) =====
+<SPEAKER>「レバーを しらべましょう
+きっと 何か 手がかりが
+あると思うんですが・・・
+
+===== MSG 02:7B (ID 0x027B, ROM 0x025527, 21 bytes) =====
+<SPEAKER>「さっき ろうかの方で
+何か ゴトッ・・・て
+いいませんでした?
+
+===== MSG 02:7C (ID 0x027C, ROM 0x02553D, 30 bytes) =====
+<SPEAKER>「でへへへへ ねえちゃんよー
+気持ちええぜえ ごうもんはよー
+びりびりっとな うひゃひゃー
+
+===== MSG 02:7D (ID 0x027D, ROM 0x02555C, 24 bytes) =====
+<SPEAKER>「いいことを おしえてやろう!
+とにかく 体力だ!
+体力を まんたんにしとけ!
+
+===== MSG 02:7E (ID 0x027E, ROM 0x025575, 8 bytes) =====
+<SPEAKER>「おくすりが ほしいのか?
+
+===== MSG 02:7F (ID 0x027F, ROM 0x02557E, 7 bytes) =====
+<SPEAKER>「ほらよ! 感謝しな!
+
+===== MSG 02:80 (ID 0x0280, ROM 0x025586, 20 bytes) =====
+<SPEAKER>「なんだ いっぱい
+持ってるじゃねえか!
+がめついねえ ねえちゃんよ!
+
+===== MSG 02:81 (ID 0x0281, ROM 0x02559B, 17 bytes) =====
+<SPEAKER>「強がり いってんのも
+いまのうちだぜ ねえちゃん!
+
+===== MSG 02:82 (ID 0x0282, ROM 0x0255AD, 2 bytes) =====
+<SPEAKER>「・・・・・・・
+
+===== MSG 02:83 (ID 0x0283, ROM 0x0255B0, 27 bytes) =====
+<SPEAKER>「けけっ ぼくは 見物人さ
+人間が くるしんでるのを
+みるのは しぬほど たのしいよ
+
+===== MSG 02:84 (ID 0x0284, ROM 0x0255CC, 9 bytes) =====
+<SPEAKER>「けっ しなないのか けっ
+
+===== MSG 02:85 (ID 0x0285, ROM 0x0255D6, 10 bytes) =====
+<SPEAKER>「けけけっ ほれ 歩け 歩け!
+
+===== MSG 02:86 (ID 0x0286, ROM 0x0255E1, 19 bytes) =====
+<SPEAKER>「けっ まだ 生きてやがるな!
+ふん! まあ いいか よし
+
+===== MSG 02:87 (ID 0x0287, ROM 0x0255F5, 28 bytes) =====
+<SPEAKER>「れんがをー おとしつづけてー
+うでが たくましくー
+なりましたー もりもりー
+
+===== MSG 02:88 (ID 0x0288, ROM 0x025612, 25 bytes) =====
+<CLEAR>
+たるの中には なみなみと
+ぶどう色の 水が はいっている<WAIT>
+<CLEAR>
+この 水を のみますか?
+
+===== MSG 02:89 (ID 0x0289, ROM 0x02562C, 17 bytes) =====
+<CLEAR>
+レディは ぶどう色の
+水を のんだ<WAIT>
+<CLEAR>
+もっと のみますか?
+
+===== MSG 02:8A (ID 0x028A, ROM 0x02563E, 29 bytes) =====
+<CLEAR>
+レディは ぶどう色の
+水を のんだ<WAIT>
+<CLEAR>
+たるは からっぽになった
+これなら 持ち上げられそうだ!
+
+===== MSG 02:8B (ID 0x028B, ROM 0x02565C, 17 bytes) =====
+<CLEAR>
+あしもとが ふらふらする
+思うように あるけない
+
+===== MSG 02:8C (ID 0x028C, ROM 0x02566E, 16 bytes) =====
+<SPEAKER>「おくすりは いらんかねー
+おいしい おくすりじゃよー
+
+===== MSG 02:8D (ID 0x028D, ROM 0x02567F, 11 bytes) =====
+<SPEAKER>「<INSERT_A>は <NUMBER>Yじゃよ
+かっていくかね?
+
+===== MSG 02:8E (ID 0x028E, ROM 0x02568B, 9 bytes) =====
+<SPEAKER>「どなたが 持つんじゃな?
+
+===== MSG 02:8F (ID 0x028F, ROM 0x025695, 16 bytes) =====
+<SPEAKER>「ほい <INSERT_C>
+わたしましたぞ<WAIT><SPEAKER>「もっと おいりようかな?
+
+===== MSG 02:90 (ID 0x0290, ROM 0x0256A6, 21 bytes) =====
+<SPEAKER>「では <INSERT_C>の
+かんおけに いれておきますぞ<WAIT><SPEAKER>「もっと おいりようかな?
+
+===== MSG 02:91 (ID 0x0291, ROM 0x0256BC, 13 bytes) =====
+<SPEAKER>「おや <INSERT_C>は
+もう にもつがいっぱいじゃな
+
+===== MSG 02:92 (ID 0x0292, ROM 0x0256CA, 11 bytes) =====
+<SPEAKER>「ほかの人に おわたし
+しようかな?
+
+===== MSG 02:93 (ID 0x0293, ROM 0x0256D6, 6 bytes) =====
+<SPEAKER>「おやめに なりますかな
+
+===== MSG 02:94 (ID 0x0294, ROM 0x0256DD, 10 bytes) =====
+<SPEAKER>「おっと お金が
+たりないようじゃな
+
+===== MSG 02:95 (ID 0x0295, ROM 0x0256E8, 41 bytes) =====
+<SPEAKER>「気を つけて くだされ ふが
+ふがふが で 伝説の ふが
+大きな ま 魔物が ふがふが<WAIT><SPEAKER>「あわわ おそろしや ふがふがふが
+
+===== MSG 02:96 (ID 0x0296, ROM 0x025712, 27 bytes) =====
+<SPEAKER>「はやく 帰ったほうが ええ
+この 城には 宝なんて ねえ
+それどころか 魔物に かんづ
+
+===== MSG 02:97 (ID 0x0297, ROM 0x02572E, 22 bytes) =====
+<SPEAKER>「お嬢さん
+また ばけものが来ると いかんから
+はやく かえんなさい
+
+===== MSG 02:98 (ID 0x0298, ROM 0x025745, 13 bytes) =====
+<CLEAR>
+何も いわない
+脳ミソが くさっているようだ
+
+===== MSG 02:99 (ID 0x0299, ROM 0x025753, 14 bytes) =====
+<CLEAR>
+「ちかみち モンスターにちゅうい
+と かいてある
+
+===== MSG 02:9A (ID 0x029A, ROM 0x025762, 12 bytes) =====
+<CLEAR>
+「とおまわり きけん
+と かいてある
+
+===== MSG 02:9B (ID 0x029B, ROM 0x02576F, 39 bytes) =====
+<SPEAKER>「けけけっ ここんとこ
+こっちのみちに 誰も
+こなくて たいくつだったよ<WAIT><SPEAKER>「ここを こえたかったら
+ぼくを たおしていってごらん
+
+===== MSG 02:9C (ID 0x029C, ROM 0x025797, 35 bytes) =====
+<SPEAKER>「へえ きみ ベビすけを
+やっつけたの? 強いね<WAIT><SPEAKER>「でも ぼくは まけないよ
+けけっ かかってこい けけっ
+
+===== MSG 02:9D (ID 0x029D, ROM 0x0257BB, 29 bytes) =====
+<SPEAKER>「けけっ と とおっていいよ
+べ べつに 戦ってもいいんだけど
+ま まあ ゆるしてやるよ けけっ
+
+===== MSG 02:9E (ID 0x029E, ROM 0x0257D9, 50 bytes) =====
+<CLEAR>
+のりものそうこ
+かんけいしゃ いがい
+たちいり きんし<WAIT>
+<CLEAR>
+のりものせんろは ただいま
+かくちょうこうじのため
+みかんせいです    ジェイビー
+
+===== MSG 02:9F (ID 0x029F, ROM 0x02580C, 21 bytes) =====
+<SPEAKER>「ううう う お おねがいだ
+お おくすりを め めぐんでくれ
+
+===== MSG 02:A0 (ID 0x02A0, ROM 0x025822, 22 bytes) =====
+<SPEAKER>「あ ありがてえ ありがてえぜ<WAIT><SPEAKER>「グビグビ ゴクゴク
+
+===== MSG 02:A1 (ID 0x02A1, ROM 0x025839, 17 bytes) =====
+<CLEAR>
+バーボの LPが
+24ポイント かいふくした
+
+===== MSG 02:A2 (ID 0x02A2, ROM 0x02584B, 43 bytes) =====
+<SPEAKER>「うう な なんとか すこしは
+ら らくになったぜ ふうー<WAIT><SPEAKER>「よーし ねえちゃん!
+おくれをとりもどすぜい!
+とりゃー ガッツ ガッツー!
+
+===== MSG 02:A3 (ID 0x02A3, ROM 0x025877, 40 bytes) =====
+<SPEAKER>「うう そんな せっしょうな
+ね ねえちゃん つ つめたいぜ
+うげっ ごほ ごほ うう うー<WAIT><SPEAKER>「くそー 死んで たまるかい
+
+===== MSG 02:A4 (ID 0x02A4, ROM 0x0258A0, 45 bytes) =====
+<SPEAKER>「げげ! ないの? ひとつも?
+なんて むけいかくな・・・
+って おれもか・・・<WAIT><SPEAKER>「うげっ ごほ ごほ うう うー
+くそー 死んで たまるかい
+
+===== MSG 02:A5 (ID 0x02A5, ROM 0x0258CE, 105 bytes) =====
+<SPEAKER>「おお! おお! おおお! なんと!
+あ あんた! に 人間か!
+城を ぬ ぬけてきたのか?<WAIT><SPEAKER>「わ わしらは 島のものじゃが
+化け物に つかまって この城の
+ていれとかを やらされとる<WAIT><SPEAKER>「にげようとしたら 化け物に
+食われてしまうんじゃ・・ もう
+ずいぶん なかまが やられてしもうた<WAIT><SPEAKER>「あんたも 城の中で たぶん
+見たと思うがな<WAIT><SPEAKER>「あの でかい ベビーバロン!
+
+===== MSG 02:A6 (ID 0x02A6, ROM 0x025938, 25 bytes) =====
+<SPEAKER>「やつは まちがいなく じごくから
+よみがえった 伝説の 化け物に
+ちがいないわい!
+
+===== MSG 02:A7 (ID 0x02A7, ROM 0x025952, 48 bytes) =====
+<SPEAKER>「ぶじで なによりじゃ 娘さん!
+あんたは 強そうじゃが
+むりは いかんぞ むりは・・・<WAIT><SPEAKER>「きずついたら いつでも
+わしらの 家に
+泊まってっても ええからな!
+
+===== MSG 02:A8 (ID 0x02A8, ROM 0x025983, 39 bytes) =====
+<SPEAKER>「ふがふが ふがふが なにも
+おかまいできんがのう<WAIT><SPEAKER>「お泊めするくらいなら ふがふが
+できますわい<WAIT><SPEAKER>「お泊まりになりますかの?
+
+===== MSG 02:A9 (ID 0x02A9, ROM 0x0259AB, 14 bytes) =====
+<SPEAKER>「くれぐれも けがを
+せんように 行かっしゃい
+
+===== MSG 02:AA (ID 0x02AA, ROM 0x0259BA, 73 bytes) =====
+<SPEAKER>「バロン城は 人間を
+あざむくために 魔物たちが
+かいぞうしたんじゃ<WAIT><SPEAKER>「宝のうわさを 世界に
+ながしたのも 魔物たちですわい<WAIT><SPEAKER>「わるぢえは すべて あの
+化け物ベビーバロンが
+つけとるんじゃ<WAIT><SPEAKER>「強そうな 人間を
+島にあつめて かんづめに
+して 食っとる
+
+===== MSG 02:AB (ID 0x02AB, ROM 0x025A04, 23 bytes) =====
+<SPEAKER>「わしらの むすこも 宝に
+目がくらんで かんづめに
+されて しもうた・・・・
+
+===== MSG 02:AC (ID 0x02AC, ROM 0x025A1C, 48 bytes) =====
+<SPEAKER>「あつかましいかも しれんが
+むすこの かたきを
+うって くだされ<WAIT><SPEAKER>「あの でかい魔物を
+ぶちのめして くださらんか
+う・う<PAUSE_30> う<PAUSE_30> うー<PAUSE_30> むすこー!
+
+===== MSG 02:AD (ID 0x02AD, ROM 0x025A4D, 133 bytes) =====
+<SPEAKER>「わしらは ベビーバロンどもの
+こづかいかせぎのために ここで
+ものを 高値で 売っとったのです<WAIT><SPEAKER>「やつらの はなしを こみみに
+はさんだんじゃが 北の 鉱山で
+何かを 掘っとるらしいな<WAIT><SPEAKER>「化け物ベビーバロンが ひっしで
+古代の 何かを さがしとる
+とか いっとったのう<WAIT><SPEAKER>「え? 北に 行く方法じゃと?<WAIT><SPEAKER>「うーむ それは 地下水道を
+通るしか ないな・・・でも
+とても むりじゃ!・・・・<WAIT><SPEAKER>「・・・しかし あんたなら
+もしかして こえられるかもしれん
+・・・・・・よしっ!
+
+===== MSG 02:AE (ID 0x02AE, ROM 0x025AD3, 8 bytes) =====
+<SPEAKER>「これを さしあげよう!
+
+===== MSG 02:AF (ID 0x02AF, ROM 0x025ADC, 18 bytes) =====
+<SPEAKER>「地下水道は きけんが いっぱいじゃ!
+こううんを いのりますぞ!
+
+===== MSG 02:B0 (ID 0x02B0, ROM 0x025AEF, 18 bytes) =====
+<SPEAKER>「では にもつをへらして
+また 来てくだされ まってますぞ!
+
+===== MSG 02:B1 (ID 0x02B1, ROM 0x025B02, 36 bytes) =====
+<SPEAKER>「あんたの おかげで
+わしらも じゅうろうどうから
+かいほうされましたわい<WAIT><SPEAKER>「いまは のんびりと
+くらして おりますよ
+
+===== MSG 02:B2 (ID 0x02B2, ROM 0x025B27, 32 bytes) =====
+<SPEAKER>「うわっ! おどろいた!
+人間じゃないかっ? えっ?
+地下水道を ぬけるって?<WAIT><SPEAKER>「どひゃー そんな むちゃな!
+
+===== MSG 02:B3 (ID 0x02B3, ROM 0x025B48, 40 bytes) =====
+<SPEAKER>「この 地下水道は よごれた水を
+きれいにするために いろんな
+仕掛けが してあるんだ<WAIT><SPEAKER>「だから なまみの 人間は
+とても 通れないと 思うよ
+
+===== MSG 02:B4 (ID 0x02B4, ROM 0x025B71, 10 bytes) =====
+<CLEAR>
+すきとおった水が たまっている
+
+===== MSG 02:B5 (ID 0x02B5, ROM 0x025B7C, 15 bytes) =====
+<CLEAR>
+そうさパネルが あります
+スイッチを おしてみますか?
+
+===== MSG 02:B6 (ID 0x02B6, ROM 0x025B8C, 17 bytes) =====
+<CLEAR>
+「水道営 せつぞく かくにん
+水を くみあげます
+
+===== MSG 02:B7 (ID 0x02B7, ROM 0x025B9E, 23 bytes) =====
+<CLEAR>
+「水道営が ただしく
+つながって いないので
+水を くみあげられません
+
+===== MSG 02:B8 (ID 0x02B8, ROM 0x025BB6, 15 bytes) =====
+<CLEAR>
+そうさパネルの スイッチは
+行かなく なってしまった
+
+===== MSG 02:B9 (ID 0x02B9, ROM 0x025BC6, 65 bytes) =====
+<SPEAKER>「へへへ ほら 力持ちだろう?
+水の中では こんな おもい物でも
+持てちゃうよ<WAIT><SPEAKER>「でも ここでは 空気がないから
+体力が へっていくんだ<WAIT><SPEAKER>「だから ところどころで かべから
+空気が もれているから それを
+すうことだな
+
+===== MSG 02:BA (ID 0x02BA, ROM 0x025C08, 22 bytes) =====
+<SPEAKER>「ごくらく ごくらくだぜ
+ごくらくとは この町の
+ことを いうんだなっ
+
+===== MSG 02:BB (ID 0x02BB, ROM 0x025C1F, 39 bytes) =====
+<SPEAKER>「おれたちゃ ふだつきの
+はんざいしゃさ!<WAIT><SPEAKER>「だけど ここは ムショと
+ちがって たいぐうも いいし
+一生 ここに いても いいぜ!
+
+===== MSG 02:BC (ID 0x02BC, ROM 0x025C47, 80 bytes) =====
+<SPEAKER>「おれたちゃ この島から ずっと
+ずっと はなれた ところの
+ろうやから つれてこられたんだ<WAIT><SPEAKER>「いきなり ベビーバロンどもに
+さらわれた日にゃあ そら あんた<WAIT><SPEAKER>「いくら ごく悪人の おれでもよ
+いっしゅん かあちゃんの かおが
+うかぶほど びびりまくったぜ
+
+===== MSG 02:BD (ID 0x02BD, ROM 0x025C98, 37 bytes) =====
+<SPEAKER>「あんた しんいりかい?<WAIT><SPEAKER>「しんいりは まず この町を
+しきってる ヘブリじいさんに
+あいさつしないと だめだぞ!
+
+===== MSG 02:BE (ID 0x02BE, ROM 0x025CBE, 105 bytes) =====
+<SPEAKER>「おう! しんいりかい? ういー
+ここは はんざいしゃに とっちゃ
+てんごく みたいな ところよー<WAIT><SPEAKER>「さけは たんまり あるしよー
+ばくちも ばっちりだしな
+まあ しいていえばだな ういー<WAIT><SPEAKER>「バニーちゃんが いねえこと
+ぐらいだなー うーっぷいー!<WAIT><SPEAKER>「どーだい? ねーちゃんよー
+バニーちゃんに なるかい?
+人気でるぜえ! あんたなら!
+
+===== MSG 02:BF (ID 0x02BF, ROM 0x025D28, 86 bytes) =====
+<SPEAKER>「いいか しんいり よく聞けよ!<WAIT><SPEAKER>「おまえが 何をしたかは
+しらねえが ここへ来たってことは
+どっかの ろうやに いたわけだ<WAIT><SPEAKER>「それを たすけてくれたのは
+ジェイビーさまだ! だから
+くれぐれも わすれんようにな<WAIT><SPEAKER>「ジェイビーさま あっての
+おれたちだって ことをなっ!<WAIT><SPEAKER>「ジェイビーさま ばんざーい!
+
+===== MSG 02:C0 (ID 0x02C0, ROM 0x025D7F, 57 bytes) =====
+<SPEAKER>「いやー もう こしが
+いたくて たまらないよ<WAIT><SPEAKER>「なんたって あさから
+ばんまで ぶっとおしで
+発掘さぎょう だからな<WAIT><SPEAKER>「でも ジェイビーさまは
+いったい 何を ひっしで
+さがしてるのかなあ?
+
+===== MSG 02:C1 (ID 0x02C1, ROM 0x025DB9, 18 bytes) =====
+<SPEAKER>「ぐおわー! ぎゃーす!
+おまえを 食べちゃうぞー!
+
+===== MSG 02:C2 (ID 0x02C2, ROM 0x025DCC, 33 bytes) =====
+<SPEAKER>「でへへ! おどろいたろう!<WAIT><SPEAKER>「ヘブリの家の中から
+体の そしきを 変化させる
+まものエキスが でてきたんだ
+
+===== MSG 02:C3 (ID 0x02C3, ROM 0x025DEE, 16 bytes) =====
+<SPEAKER>「ヘブリの家の きんこの中に
+まだ あるはずだよ
+
+===== MSG 02:C4 (ID 0x02C4, ROM 0x025DFF, 7 bytes) =====
+<SPEAKER>「そうか もう手に入れたか
+
+===== MSG 02:C5 (ID 0x02C5, ROM 0x025E07, 19 bytes) =====
+<SPEAKER>「そいつを 使えば
+モンスターの かくれがにも
+寝入できるかもな!
+
+===== MSG 02:C6 (ID 0x02C6, ROM 0x025E1B, 56 bytes) =====
+<SPEAKER>「うわー ごめんなさーい
+おれ リルちゃんを ひとりじめ
+したかったんだよー<WAIT><SPEAKER>「もう こんなことは しないから
+ゆるしてくれよー!<WAIT><SPEAKER>「それは それとして
+あんたたち ひかるビーダマを
+持ってないかい?
+
+===== MSG 02:C7 (ID 0x02C7, ROM 0x025E54, 85 bytes) =====
+<SPEAKER>「なんじゃ? しんいりか?
+わしゃ 何も ジェイビーさまから
+聞いとらんぞ<WAIT><SPEAKER>「・・・まあ かくにんは あとで
+するか・・・よし よく聞くんだ!<WAIT><SPEAKER>「ここでの おまえの
+しごとは 発掘さぎょうだ!<WAIT><SPEAKER>「しんいりは まず 鉱山へ行け!
+そこで まず おにのように
+はたらきまくるんだ! わかったな!
+
+===== MSG 02:C8 (ID 0x02C8, ROM 0x025EAA, 22 bytes) =====
+<SPEAKER>「よし 鉱山に のぼる ケーブルの
+きっぷを やるぞい! ほれ!
+
+===== MSG 02:C9 (ID 0x02C9, ROM 0x025EC1, 10 bytes) =====
+<SPEAKER>「わかったら さっさと 行けい!
+
+===== MSG 02:CA (ID 0x02CA, ROM 0x025ECC, 21 bytes) =====
+<SPEAKER>「きっぷが ほしけりゃ
+にもつを どうにかして
+またくるんだな!
+
+===== MSG 02:CB (ID 0x02CB, ROM 0x025EE2, 44 bytes) =====
+<SPEAKER>「ここは ムショと ちがって
+はたらいたら はたらいたぶんだけ
+たのしく すごせるところだ<WAIT><SPEAKER>「ジェイビーさまに 感謝の
+気持ちを わすれずになっ!
+
+===== MSG 02:CC (ID 0x02CC, ROM 0x025F0F, 9 bytes) =====
+<CLEAR>
+レディは きんこを しらべた
+
+===== MSG 02:CD (ID 0x02CD, ROM 0x025F19, 11 bytes) =====
+<CLEAR>
+きんこが ある
+あかないようだ・・・
+
+===== MSG 02:CE (ID 0x02CE, ROM 0x025F25, 53 bytes) =====
+<SPEAKER>「おお 話は すべて聞いたぜ
+ジェイビーを たおしてくれるなら
+武器を ちょうたつするぜ<WAIT><SPEAKER>「鉱山には 使える武器が
+たんまりあるから
+掘り出すたびに 店にならべておくぜ
+
+===== MSG 02:CF (ID 0x02CF, ROM 0x025F5B, 44 bytes) =====
+<SPEAKER>「お! それは けられた昔に
+多大なラッキーを もたらすという
+伝説の あかいハイヒール!<WAIT><SPEAKER>「ねえちゃん! たのむ!
+そいつで おれを けってくれないか?
+
+===== MSG 02:D0 (ID 0x02D0, ROM 0x025F88, 7 bytes) =====
+<SPEAKER>「イエー やったぜ!
+
+===== MSG 02:D1 (ID 0x02D1, ROM 0x025F90, 26 bytes) =====
+<SPEAKER>「ねえちゃん たのむよ!
+おれとあんたの なかじゃねえか!
+えんりょはいらねえぜ!
+
+===== MSG 02:D2 (ID 0x02D2, ROM 0x025FAB, 30 bytes) =====
+<SPEAKER>「いてー!
+でもきもちいいー!<WAIT><SPEAKER>「さて いい思いを
+させてもらった ところで
+おれいに これをやるよ!
+
+===== MSG 02:D3 (ID 0x02D3, ROM 0x025FCA, 23 bytes) =====
+<SPEAKER>「お! それは・・・
+ねえちゃん こっちに来て
+そのクツを よく見せてくれねえか?
+
+===== MSG 02:D4 (ID 0x02D4, ROM 0x025FE2, 112 bytes) =====
+<SPEAKER>「いや レディさん!
+ほんとに 感謝してますよ<WAIT><SPEAKER>「ほかの 囚人も なんとか
+あのジェイビーの いきのねを
+とめたいと 思っとるんですが<WAIT><SPEAKER>「わしらでは さかだちしても
+たちうち できん あいてですわ!<WAIT><SPEAKER>「だから・・・レディさん!
+かんづめに された なかまの
+かたきを うってくだせえ!<WAIT><SPEAKER>「かたきを うってくれるんなら
+しにものぐるいで うもれた武器を
+掘り出します! どうかたのんます!
+
+===== MSG 02:D5 (ID 0x02D5, ROM 0x026053, 53 bytes) =====
+<SPEAKER>「え? 岩場を のぼる くつ?<WAIT><SPEAKER>「うん 鉱山で 使ってたけど
+あれは ガスがないと
+やくに たたないよ!<WAIT><SPEAKER>「それでも いいなら
+使ってくださいよ ヘヘ おれ
+今 はいてるんですよ
+
+===== MSG 02:D6 (ID 0x02D6, ROM 0x026089, 16 bytes) =====
+<SPEAKER>「ちょっと くさいかも
+しれないけど はい どーぞ!
+
+===== MSG 02:D7 (ID 0x02D7, ROM 0x02609A, 9 bytes) =====
+<SPEAKER>「さっそく はいてみますかい?
+
+===== MSG 02:D8 (ID 0x02D8, ROM 0x0260A4, 65 bytes) =====
+<SPEAKER>「ロケットぐつを 装備して
+ガスの 噴き出ている ところに
+のれば ガスを ほきゅうできるよ<WAIT><SPEAKER>「そして Aっと さけべば
+すこしくらいの 高さなら
+ジャンプできるよ<WAIT><SPEAKER>「でも すぐ ガスが
+なくなっちゃうけどね!
+
+===== MSG 02:D9 (ID 0x02D9, ROM 0x0260E6, 43 bytes) =====
+<SPEAKER>「こうみえても おれは あしが
+ちいさいんですよ だから
+レディさんにしか あわないよ<WAIT><SPEAKER>「だから レディさんの
+にもつを せいりして
+また 来てくださいよ
+
+===== MSG 02:DA (ID 0x02DA, ROM 0x026112, 13 bytes) =====
+<CLEAR>
+ドドヘイは
+ロケットぐつを装備した
+
+===== MSG 02:DB (ID 0x02DB, ROM 0x026120, 93 bytes) =====
+<SPEAKER>「ヘブリのやろう! 魔物が
+変身していたんですよ!<WAIT><SPEAKER>「レディさんを 鉱山に行かせて
+そのあと すぐに ジェイビーに
+ほうこくしていたんでさあ<WAIT><SPEAKER>「いやはや すっかりだまされましたわ
+あ そうそう うしろのきんこに
+まものエキスが ありやすよ<WAIT><SPEAKER>「そいつをのんで こんどは
+魔物どもの すみかに
+寝入して やりやしょうよ!
+
+===== MSG 02:DC (ID 0x02DC, ROM 0x02617E, 27 bytes) =====
+<SPEAKER>「あんた 見かけん かおだな
+ヘブリじいさんに あいさつ
+しといたほうが いいよ
+
+===== MSG 02:DD (ID 0x02DD, ROM 0x02619A, 18 bytes) =====
+<SPEAKER>「レ レディさん!
+なかまの かたきを
+うってくだせえ!
+
+===== MSG 02:DE (ID 0x02DE, ROM 0x0261AD, 23 bytes) =====
+<SPEAKER>「ねーちゃん しんいりか?
+かわいい かおして なに
+わるさ したんだい?
+
+===== MSG 02:DF (ID 0x02DF, ROM 0x0261C5, 23 bytes) =====
+<SPEAKER>「あの ジャンボやろうを
+ぶちのめすためなら
+なんでも てつだいますぜ!
+
+===== MSG 02:E0 (ID 0x02E0, ROM 0x0261DD, 65 bytes) =====
+<SPEAKER>「お! ドドヘイかい?・・・
+なんだ・・・ しんいりか・・<WAIT><SPEAKER>「いや なに ともだちの
+ドドヘイが 鉱山から 何日も
+もどってこないんだよ<WAIT><SPEAKER>「まあ あいつは タフだから
+とまりこみで ガンガン
+やってるとは 思うけどね
+
+===== MSG 02:E1 (ID 0x02E1, ROM 0x02621F, 50 bytes) =====
+<SPEAKER>「なかまの かんづめは
+とりあえず この町に はこんで
+まいそう してやりました<WAIT><SPEAKER>「それにしても かんづめだなんて
+あの ジャンボベビーのやろう
+人間を なめやがって!
+
+===== MSG 02:E2 (ID 0x02E2, ROM 0x026252, 18 bytes) =====
+<SPEAKER>「おう しんいりか?・・・
+ちょっと 部屋の すみまで
+来いや!
+
+===== MSG 02:E3 (ID 0x02E3, ROM 0x026265, 41 bytes) =====
+<SPEAKER>「いまでも かんづめの ゆめを
+見ることがあるんだよ<WAIT><SPEAKER>「いつか ちびっちまいそうだから
+ねるまえには いつも トイレに
+行っておくんだ
+
+===== MSG 02:E4 (ID 0x02E4, ROM 0x02628F, 31 bytes) =====
+<SPEAKER>「お おれはよー・・・ こ 鉱山の
+中で と とんでもないものを
+見ちまったんだ<WAIT><SPEAKER>「な なかまが うおお・・・
+
+===== MSG 02:E5 (ID 0x02E5, ROM 0x0262AF, 17 bytes) =====
+<SPEAKER>「や やっぱり いえねえ・・
+誰も しんようできねえ!
+
+===== MSG 02:E6 (ID 0x02E6, ROM 0x0262C1, 51 bytes) =====
+<SPEAKER>「おれは シャバでも さかばの
+マスターを やってたんだ<WAIT><SPEAKER>「お嬢さんには うーん・・・
+ロリフル パンチという
+カクテルが にあいかな<WAIT><SPEAKER>「ナタ・デ・モモ入りだよ
+
+===== MSG 02:E7 (ID 0x02E7, ROM 0x0262F5, 55 bytes) =====
+<SPEAKER>「ないしょだけどよ おれは
+あの ジャンボ ベビーバロンが
+だいっきれえ なんだよ<WAIT><SPEAKER>「なんだかんだ たいぐうは
+よくしてくれるんだけどよ<WAIT><SPEAKER>「いまいち しんようが
+できねえんだよ ういー
+
+===== MSG 02:E8 (ID 0x02E8, ROM 0x02632D, 11 bytes) =====
+<CLEAR>
+へんじがない
+にんぎょうのようだ
+
+===== MSG 02:E9 (ID 0x02E9, ROM 0x026339, 22 bytes) =====
+<SPEAKER>「その子は さかばの
+アイドル にんぎょうの
+リルちゃんって いうんだ
+
+===== MSG 02:EA (ID 0x02EA, ROM 0x026350, 42 bytes) =====
+<SPEAKER>「おれたち 鉱山へ さぎょうに
+行くまえには かならず
+リルちゃんに チューしていくんだ<WAIT><SPEAKER>「まあ さぎょう あんぜんの
+おまじない みたいな もんよ
+
+===== MSG 02:EB (ID 0x02EB, ROM 0x02637B, 58 bytes) =====
+<SPEAKER>「くわー! さぎょうの あとの
+さけは うまいなー グピグピ<WAIT><SPEAKER>「そうそう なんか 鉱山の
+下の ほうで 何かが
+みつかった とか いってたな<WAIT><SPEAKER>「くわしいことは よく
+わからんけどな グピグピ
+
+===== MSG 02:EC (ID 0x02EC, ROM 0x0263B6, 26 bytes) =====
+<SPEAKER>「さかばの マスターってのは
+何が おこっても つねに
+れいせいでいないとね!
+
+===== MSG 02:ED (ID 0x02ED, ROM 0x0263D1, 44 bytes) =====
+<SPEAKER>「な! な! やっぱり
+おれの いったとおりだろ!<WAIT><SPEAKER>「あの ジャンボベビーのやつ!<WAIT><SPEAKER>「きっと 世界中の
+人間を かんづめにして
+食べる つもりだぞ!
+
+===== MSG 02:EE (ID 0x02EE, ROM 0x0263FE, 62 bytes) =====
+<SPEAKER>「くそー! どさくさに
+まぎれて リルちゃんが
+ぬすまれてしまった!<WAIT><SPEAKER>「ジェイビーも にくたらしいけど
+リルちゃんを ぬすんだやつは
+100倍 にくたらしいぞ!<WAIT><SPEAKER>「おれの リルちゃんを
+かえせよー かえせよー!
+
+===== MSG 02:EF (ID 0x02EF, ROM 0x02643D, 14 bytes) =====
+<SPEAKER>「うわっ! それは おれの
+リルちゃん! うわーい!
+
+===== MSG 02:F0 (ID 0x02F0, ROM 0x02644C, 17 bytes) =====
+<CLEAR>
+おっさんは リルちゃんを
+だきしめて よろこんでいる
+
+===== MSG 02:F1 (ID 0x02F1, ROM 0x02645E, 26 bytes) =====
+<SPEAKER>「いやー! どうも ありがとう
+カジノで もらった物だけど
+これを うけとってくれよ!
+
+===== MSG 02:F2 (ID 0x02F2, ROM 0x026479, 9 bytes) =====
+<SPEAKER>「ためしに はめてみるかい?
+
+===== MSG 02:F3 (ID 0x02F3, ROM 0x026483, 25 bytes) =====
+<SPEAKER>「おれは もう リルちゃんを
+はなさないぞ! ねぐらに
+持ってかえって かくしておこう!
+
+===== MSG 02:F4 (ID 0x02F4, ROM 0x02649D, 55 bytes) =====
+<SPEAKER>「グピグピ グピグピ
+あんな でかい 魔物に
+かてるわけ ないよ グピ<WAIT><SPEAKER>「どうせ 食われちまうなら
+そのまえに 思うぞんぶん
+のむぞ! グピグピグピグピ!
+
+===== MSG 02:F5 (ID 0x02F5, ROM 0x0264D5, 47 bytes) =====
+<SPEAKER>「へっへっへっ ここの 商品は
+ぜんぶ デスバレー鉱山で
+発掘 したものなんだ<WAIT><SPEAKER>「モンスターどもは いらない
+みたいだから なかまうちで
+売り買いしてるのさ
+
+===== MSG 02:F6 (ID 0x02F6, ROM 0x026505, 31 bytes) =====
+<SPEAKER>「レディさん! おれたち
+ひっしで 武器を
+発掘しますから<WAIT><SPEAKER>「なんとか ジェイビーを
+ぶちのめして くだせえ!
+
+===== MSG 02:F7 (ID 0x02F7, ROM 0x026525, 39 bytes) =====
+<SPEAKER>「武器を 探していたら
+くろい まるいたまを
+みつけたんだよ<WAIT><SPEAKER>「でも さわると 手に
+くろい物が ついちゃったから
+やすくしとくよ
+
+===== MSG 02:F8 (ID 0x02F8, ROM 0x02654D, 18 bytes) =====
+<SPEAKER>「へい いらっしゃい! ここは
+ギャラリー クルーナだ
+
+===== MSG 02:F9 (ID 0x02F9, ROM 0x026560, 19 bytes) =====
+<SPEAKER>「へい いらっしゃい! ここは
+ギャラリー クルーナ2だ
+
+===== MSG 02:FA (ID 0x02FA, ROM 0x026574, 21 bytes) =====
+<SPEAKER>「でも まだ 品物がなくてね・・・
+へへへ 発掘 がんばらなきゃ・・・
+
+===== MSG 02:FB (ID 0x02FB, ROM 0x02658A, 32 bytes) =====
+<SPEAKER>「ようこそ! ここは
+カジノだ!<WAIT><SPEAKER>「ここでは コインしか
+使えないから キャッシャーで
+金を コインに かえてくれ!
+
+===== MSG 02:FC (ID 0x02FC, ROM 0x0265AB, 21 bytes) =====
+<SPEAKER>「コインが たまれば
+ゴージャスな しなものと
+交換できますぜ!
+
+===== MSG 02:FD (ID 0x02FD, ROM 0x0265C1, 24 bytes) =====
+<SPEAKER>「ここにいると なんだか
+かんづめにされる こわさも
+わすれちまうんだなあ
+
+===== MSG 02:FE (ID 0x02FE, ROM 0x0265DA, 38 bytes) =====
+<SPEAKER>「スロットの中には
+目おしできる物と
+できない物があるよ<WAIT><SPEAKER>「でも かくりつは
+変わらないから すきなほうを
+えらんで やるといいよ
+
+===== MSG 02:FF (ID 0x02FF, ROM 0x026601, 44 bytes) =====
+<SPEAKER>「かいてんしてる リールを
+よーく 見るんだ! とにかく
+見て 見て 見まくるんだ!<WAIT><SPEAKER>「そうすれば いずれ リールの
+絵が 見えるようになるぞ!
+
+===== MSG 03:00 (ID 0x0300, ROM 0x02662E, 36 bytes) =====
+<SPEAKER>「おれは なかまから 巨匠と
+よばれるほど スロットは
+とくいなんだ!<WAIT><SPEAKER>「けどよー きょうは ちょっと
+ちょうしが わるいぜ!
+
+===== MSG 03:01 (ID 0x0301, ROM 0x026653, 15 bytes) =====
+<SPEAKER>「うおー! 来た来た!
+れんちゃん はいったでー!
+
+===== MSG 03:02 (ID 0x0302, ROM 0x026663, 41 bytes) =====
+<SPEAKER>「ケ セラ セラー!
+なるように なるぜー!<WAIT><SPEAKER>「たとえー 魔物がー
+せめて来てもー おれはー<WAIT><SPEAKER>「ばくちをー やりつづけますー!
+
+===== MSG 03:03 (ID 0x0303, ROM 0x02668D, 16 bytes) =====
+<SPEAKER>「リバータウンにいる
+情報屋の ボブを
+知っているか?
+
+===== MSG 03:04 (ID 0x0304, ROM 0x02669E, 28 bytes) =====
+<SPEAKER>「そうか おたがい
+こまった時は ボブだのみってわけか
+役にたつ男だよ! あいつは!
+
+===== MSG 03:05 (ID 0x0305, ROM 0x0266BB, 43 bytes) =====
+<SPEAKER>「こまった時の ボブだのみ
+と いってな<WAIT><SPEAKER>「いろいろと オレたちに
+じょげんとか してくれる
+やつなんだよ<WAIT><SPEAKER>「いちど 会っといた方がいいよ
+
+===== MSG 03:06 (ID 0x0306, ROM 0x0266E7, 44 bytes) =====
+<SPEAKER>「カプリ キャッチャーの
+しょうひんは ときどき
+いれかえてるからね<WAIT><SPEAKER>「たまに ものすごい
+ゴージャスな しょうひんを
+いれることも あるんだ
+
+===== MSG 03:07 (ID 0x0307, ROM 0x026714, 40 bytes) =====
+<SPEAKER>「これは カプリキャッチャー<WAIT><SPEAKER>「ケースの中の しょうひんを
+きかいの うでを 使って
+うまく キャッチできれば・・・<WAIT><SPEAKER>「しょうひんは あんたのもの!
+
+===== MSG 03:08 (ID 0x0308, ROM 0x02673D, 13 bytes) =====
+<SPEAKER>「カプリキャッチャーの
+せつめいを きくかい?
+
+===== MSG 03:09 (ID 0x0309, ROM 0x02674B, 51 bytes) =====
+<SPEAKER>「きかいの うでの うごきは
+まず みどりボタンで ↗
+つぎに あかボタンで ↖<WAIT><SPEAKER>「ボタンを はなせば うでは
+その いちの ま下の物を
+つかむって わけさ
+
+===== MSG 03:0A (ID 0x030A, ROM 0x02677F, 14 bytes) =====
+<SPEAKER>「お 来たな?
+それじゃ しょうひんを わたすぜ!
+
+===== MSG 03:0B (ID 0x030B, ROM 0x02678E, 14 bytes) =====
+<SPEAKER>「なんだ まだ
+にもつが いっぱいじゃねーか!
+
+===== MSG 03:0C (ID 0x030C, ROM 0x02679D, 16 bytes) =====
+<CLEAR>
+カプリキャッチャーは
+1回 コイン2枚です
+あそびますか?
+
+===== MSG 03:0D (ID 0x030D, ROM 0x0267AE, 19 bytes) =====
+<CLEAR>
+カプリキャッチャーは
+1回 コイン2枚です
+でも コインが ありませんね・・・
+
+===== MSG 03:0E (ID 0x030E, ROM 0x0267C2, 19 bytes) =====
+<CLEAR>
+カプリキャッチャーは
+1回 コイン2枚です
+でも コインが たりませんね・・・
+
+===== MSG 03:0F (ID 0x030F, ROM 0x0267D6, 11 bytes) =====
+<CLEAR>
+カプリキャッチャーから
+<INSERT_A>が でてきた
+
+===== MSG 03:10 (ID 0x0310, ROM 0x0267E2, 25 bytes) =====
+<SPEAKER>「おやっ お嬢ちゃん
+おこまりのようだね? それじゃあ
+しょうひんは おれが あずかるよ
+
+===== MSG 03:11 (ID 0x0311, ROM 0x0267FC, 26 bytes) =====
+<SPEAKER>「にもつを なんとかして
+とりに来てくれよ! はやく来ないと
+おれがいただいちまうぞ!
+
+===== MSG 03:12 (ID 0x0312, ROM 0x026817, 6 bytes) =====
+<CLEAR>
+ざんねんでした
+
+===== MSG 03:13 (ID 0x0313, ROM 0x02681E, 9 bytes) =====
+<CLEAR>
+もういちど あそびますか?
+
+===== MSG 03:14 (ID 0x0314, ROM 0x026828, 13 bytes) =====
+<CLEAR>
+スロットマシンがあります
+あそびますか?
+
+===== MSG 03:15 (ID 0x0315, ROM 0x026836, 16 bytes) =====
+<CLEAR>
+スロットマシンがあります
+でも コインが ありませんね・・・
+
+===== MSG 03:16 (ID 0x0316, ROM 0x026847, 27 bytes) =====
+<SPEAKER>「なんで みんな こんな物に
+むちゅうに なるんでしょうねえ・・・
+さっぱり わかりませんよ・・・
+
+===== MSG 03:17 (ID 0x0317, ROM 0x026863, 21 bytes) =====
+<SPEAKER>「お お嬢さま!
+話しかけないでくだされ!
+いま だいじな所ですじゃ!
+
+===== MSG 03:18 (ID 0x0318, ROM 0x026879, 46 bytes) =====
+<SPEAKER>「観光名所 デスランド鉱山の
+ペナントは センスがよくて
+人気ばつぐんだよ!<WAIT><SPEAKER>「買ってくのは おっさんや
+囚人ばっかだけどな!
+お嬢ちゃんは 何か用かい?
+
+===== MSG 03:19 (ID 0x0319, ROM 0x0268A8, 8 bytes) =====
+<CLEAR>
+ペナントが はってある
+
+===== MSG 03:1A (ID 0x031A, ROM 0x0268B1, 23 bytes) =====
+<SPEAKER>「なんだ まだ さぎょうは
+おわってない はずだぞ!
+早く 鉱山に もどれ!
+
+===== MSG 03:1B (ID 0x031B, ROM 0x0268C9, 15 bytes) =====
+<SPEAKER>「お! しんいりだな!
+しっかり はたらけよ!
+
+===== MSG 03:1C (ID 0x031C, ROM 0x0268D9, 22 bytes) =====
+<SPEAKER>「なんだ おまえ きっぷを
+持ってないな! わるいが
+通すわけには いかんな
+
+===== MSG 03:1D (ID 0x031D, ROM 0x0268F0, 18 bytes) =====
+<SPEAKER>「がんばって はたらけば
+カジノの券が もらえるからな!
+
+===== MSG 03:1E (ID 0x031E, ROM 0x026903, 21 bytes) =====
+<SPEAKER>「さぎょうを さぼったら
+いたいめにあうぞ!
+早く 鉱山に もどれ!
+
+===== MSG 03:1F (ID 0x031F, ROM 0x026919, 21 bytes) =====
+<SPEAKER>「しんいりだな! ちゃんと
+ヘブリじいさんに
+あいさつに いったか?
+
+===== MSG 03:20 (ID 0x0320, ROM 0x02692F, 20 bytes) =====
+<SPEAKER>「へへへ ごくろうさん
+きょうも 一日
+あんぜんになっ! げへへへ
+
+===== MSG 03:21 (ID 0x0321, ROM 0x026944, 36 bytes) =====
+<SPEAKER>「まってたぜ こむすめよ!<WAIT><SPEAKER>「よくも 地下水道で おれの
+おとうとを やっつけてくれたな!<WAIT><SPEAKER>「おとうとの かたき! うがーっ!
+
+===== MSG 03:22 (ID 0x0322, ROM 0x026969, 8 bytes) =====
+<SPEAKER>「おまえら しんじんだなっ
+
+===== MSG 03:23 (ID 0x0323, ROM 0x026972, 26 bytes) =====
+<SPEAKER>「そこの かべに トロッコの
+うんてんの やりかたが
+かいてあるから よーく読めっ
+
+===== MSG 03:24 (ID 0x0324, ROM 0x02698D, 116 bytes) =====
+<CLEAR>
+さぎょう員の みなさんへ<WAIT>
+<CLEAR>
+トロッコに のると
+じどうてきに かそくされます<WAIT>
+<CLEAR>
+ブレーキは てもとの
+きいろい Bボタンを
+おすと かかります<WAIT>
+<CLEAR>
+ただし ブレーキをおし続けると
+ブレーキが かねつして
+しばらく きかなくなります<WAIT>
+<CLEAR>
+方向てんかん するときは
+まがりたい 方向へ
+十字ボタンを おしてください<WAIT>
+<CLEAR>
+ただし 方向てんかんが
+できない せんろも あります
+
+===== MSG 03:25 (ID 0x0325, ROM 0x026A02, 39 bytes) =====
+<SPEAKER>「おう 地下神殿で
+モンスターどもが 集まってたぜ!<WAIT><SPEAKER>「なんだか どんちゃんさわぎを
+はじめるみたいだよ<WAIT><SPEAKER>「オレも 行こうかなあ
+
+===== MSG 03:26 (ID 0x0326, ROM 0x026A2A, 61 bytes) =====
+<SPEAKER>「この鉱山の さらに北には
+モンスターどもの 村があるんだ<WAIT><SPEAKER>「ふしぎなことに やつらの家には
+人間は 入れないんだ<WAIT><SPEAKER>「きっと とびらに 魔物の
+たましいでも やどっているんだな<WAIT><SPEAKER>「とびら自体が もんばんってわけだ
+
+===== MSG 03:27 (ID 0x0327, ROM 0x026A68, 29 bytes) =====
+<SPEAKER>「ここは かみんじょ
+つかれたときは ねるのが
+いちばんさねっ!<WAIT><SPEAKER>「ちょっくら ねてくかね?
+
+===== MSG 03:28 (ID 0x0328, ROM 0x026A86, 7 bytes) =====
+<SPEAKER>「つかれは とれたかい?
+
+===== MSG 03:29 (ID 0x0329, ROM 0x026A8E, 11 bytes) =====
+<SPEAKER>「ふみんふきゅうは よくないぞ
+
+===== MSG 03:2A (ID 0x032A, ROM 0x026A9A, 32 bytes) =====
+<SPEAKER>「ひさしぶりだな ねーちゃん!<WAIT><SPEAKER>「おれだよ! へっ わかんねえとは
+まだまだ けいけんぶそくだぜ!
+
+===== MSG 03:2B (ID 0x032B, ROM 0x026ABB, 215 bytes) =====
+<SPEAKER>「あんとき おまえさんが
+おくすりを くれたんで
+命びろいを したよ・・・<WAIT><SPEAKER>「あのあと おれは 町に
+もどったんだよ とりあえずな
+そしたら みつけちまったんだ!<WAIT><SPEAKER>「地下水道へ ぬける道をな<WAIT><SPEAKER>「おいっ! あんたの なかまを
+さらった あの ばかでかい
+ベビーバロンな ありゃ ワルだぜ!<WAIT><SPEAKER>「おれは 囚人に ばけて
+この 鉱山で お宝を
+あさってたんだが まいったよ<WAIT><SPEAKER>「囚人どもに 何かを
+ほらせてんのは いいけどよ<WAIT><SPEAKER>「使いものに ならなくなった
+囚人を なんと かんづめに
+してやがるんだ かんづめによ!<WAIT><SPEAKER>「やつは なにを さがしてんだ?<WAIT><SPEAKER>「古代の装置の 復活?<WAIT><SPEAKER>「なんて こったい! あんな
+でかくて わるぢえの まわるやつが
+これいじょう ふえたら まずいぜ!<WAIT><SPEAKER>「くーっ! さきの ことは
+ともかく あんたは なかまを
+たすけるのが さきだな!
+
+===== MSG 03:2C (ID 0x032C, ROM 0x026B93, 18 bytes) =====
+<SPEAKER>「おくすりの おれい
+と いっちゃあ なんだが
+これを やるぜい!
+
+===== MSG 03:2D (ID 0x032D, ROM 0x026BA6, 6 bytes) =====
+<SPEAKER>「装備させてやろうか?
+
+===== MSG 03:2E (ID 0x032E, ROM 0x026BAD, 22 bytes) =====
+<SPEAKER>「ねーちゃん あんたなら
+あの 化け物の たくらみを
+たたきつぶせるぜ!
+
+===== MSG 03:2F (ID 0x032F, ROM 0x026BC4, 19 bytes) =====
+<SPEAKER>「おっと そりゃ ふつごうだな
+にもつを なんとかして またこいよ
+
+===== MSG 03:30 (ID 0x0330, ROM 0x026BD8, 46 bytes) =====
+<SPEAKER>「ここの ボスの モグきちは
+発掘より トロッコの
+かいぞうに ねっしんなんだ<WAIT><SPEAKER>「いま 研究してるのは
+ひのたまが とびだす
+おそろしい トロッコなんだ
+
+===== MSG 03:31 (ID 0x0331, ROM 0x026C07, 22 bytes) =====
+<CLEAR>
+レディは 石板を 見た
+古代文字が かいてある<WAIT>
+<CLEAR>
+しかし レディは 古代文字が
+読めない!
+
+===== MSG 03:32 (ID 0x0332, ROM 0x026C1E, 8 bytes) =====
+<CLEAR>
+ヨシオが 読んでくれた!
+
+===== MSG 03:33 (ID 0x0333, ROM 0x026C27, 12 bytes) =====
+<CLEAR>
+ヨシオの たましいが
+おたけびを あげた!
+
+===== MSG 03:34 (ID 0x0334, ROM 0x026C34, 16 bytes) =====
+<SPEAKER>「うおおー・・・
+お嬢さま・・・
+わしに 読ませてくだされ・・・
+
+===== MSG 03:35 (ID 0x0335, ROM 0x026C45, 141 bytes) =====
+<SPEAKER>「えーと・・・ん?・・・
+石板の 上の方は
+かけてますな・・では 読みます<WAIT><SPEAKER>「・・・よって 装置を
+封印することに きめた・・・
+ふたたび 行かさんと するとき<WAIT><SPEAKER>「ちゅうじつなる わが しもべ
+ガヌビスに 白き ボールを ささげ
+わが名を しめすべし・・・さすれば<WAIT><SPEAKER>「装置は ふたたび 命を
+えるであろう・・・・・・・ただし
+黒き ボールを ささげたときは<WAIT><SPEAKER>「装置は 二度と 目を
+さますことは ないだろう・・・<WAIT><SPEAKER>「・・・以上ですな・・・・・
+この 石板は 持っていた方が
+よさそうですな! お嬢さま!
+
+===== MSG 03:36 (ID 0x0336, ROM 0x026CD3, 8 bytes) =====
+<CLEAR>
+レディは 石板を見ようとした
+
+===== MSG 03:37 (ID 0x0337, ROM 0x026CDC, 13 bytes) =====
+<CLEAR>
+ヨシオの たましいが
+おたけびを あげた!
+
+===== MSG 03:38 (ID 0x0338, ROM 0x026CEA, 18 bytes) =====
+<SPEAKER>「お嬢さま! まず コックスの
+ぐあいを たしかめましょうぞ!
+
+===== MSG 03:39 (ID 0x0339, ROM 0x026CFD, 26 bytes) =====
+<CLEAR>
+レディは コックスを しらべた<WAIT>
+<CLEAR>
+かすかだが まだ いきを している<WAIT>
+<CLEAR>
+レディは コックスを たすけた
+
+===== MSG 03:3A (ID 0x033A, ROM 0x026D18, 12 bytes) =====
+<CLEAR>
+コックスが パーティーに くわわった
+
+===== MSG 03:3B (ID 0x033B, ROM 0x026D25, 116 bytes) =====
+<SPEAKER>「うおおおいっ! はあ はあ
+お おまえら に 人間かっ!<WAIT><SPEAKER>「くわーっ! たすかったあ
+お おれたち だまされてたんだ<WAIT><SPEAKER>「た たしかに 町では
+さけとか ばくちとか
+あそびほうだい だったけどよ<WAIT><SPEAKER>「あげくの はてに
+かんづめに されるなんて
+と とんでもねえぜ<WAIT><SPEAKER>「あ あいつらの
+はなしを きいたんだけどよ<WAIT><SPEAKER>「この 鉱山の むこうに
+ひみつの きちとか いろいろ
+作ってる らしいんだよ
+
+===== MSG 03:3C (ID 0x033C, ROM 0x026D9A, 41 bytes) =====
+<SPEAKER>「このまま ほっといたら
+えれえことに なっちまうぜ!
+みんな かんづめに なっちまうよ!<WAIT><SPEAKER>「とほほ・・・ ねえちゃん!
+なんとかしてよ!
+
+===== MSG 03:3D (ID 0x033D, ROM 0x026DC4, 30 bytes) =====
+<CLEAR>
+大きな かんづめが ある<WAIT>
+<CLEAR>
+ジェイビーじるしの かんづめは
+人間いがいの ざいりょうは
+使っていないようだ
+
+===== MSG 03:3E (ID 0x033E, ROM 0x026DE3, 51 bytes) =====
+<CLEAR>
+きけん! 火の玉トロッコ
+とくべつ さぎょう員 いがい
+むだんじょうしゃ きんし<WAIT>
+<CLEAR>
+そうさばんの あかいボタンで
+火の玉 はっしゃ
+玉かずは むせいげん
+
+===== MSG 03:3F (ID 0x033F, ROM 0x026E17, 24 bytes) =====
+<CLEAR>
+この あかい ランプが
+てんめつ しているときは
+トロッコに のれません
+
+===== MSG 03:40 (ID 0x0340, ROM 0x026E30, 16 bytes) =====
+<SPEAKER>「ぬおー
+噴火のショックで
+こしが ぬけてしまうとは
+
+===== MSG 03:41 (ID 0x0341, ROM 0x026E41, 31 bytes) =====
+<SPEAKER>「しかし 人間め どうせ お前らの
+村や 町も 落岩で埋まっちまったに
+きまってる! ざまーみろ!
+
+===== MSG 03:42 (ID 0x0342, ROM 0x026E61, 17 bytes) =====
+<CLEAR>
+レディは イッキュウから
+スプリングを むしりとった!
+
+===== MSG 03:43 (ID 0x0343, ROM 0x026E73, 27 bytes) =====
+<SPEAKER>「ぬおー なにしやがる!
+それで 町にもどる気だな!
+ちょっといたい やめて おねがい
+
+===== MSG 03:44 (ID 0x0344, ROM 0x026E8F, 27 bytes) =====
+<SPEAKER>「ぬおー なにしやがる!
+それで 町にもどる気だったな!
+でも ちょっと いいきみだぜ!
+
+===== MSG 03:45 (ID 0x0345, ROM 0x026EAB, 19 bytes) =====
+<SPEAKER>「な なんだよ!
+見るんじゃねえよ!
+いい物やるから あっち行けよ!
+
+===== MSG 03:46 (ID 0x0346, ROM 0x026EBF, 24 bytes) =====
+<SPEAKER>「おれさまが びっくりして
+こしをぬかしたことは
+ヒ<PAUSE_30>ミ<PAUSE_30>ツ<PAUSE_30>だぞ! いいな!
+
+===== MSG 03:47 (ID 0x0347, ROM 0x026ED8, 11 bytes) =====
+<SPEAKER>「なんだよ!
+にもつをへらして来い!
+
+===== MSG 03:48 (ID 0x0348, ROM 0x026EE4, 56 bytes) =====
+<SPEAKER>「ここは モンスター村だ!<WAIT><SPEAKER>「ぬぬ おまえら 人間だな!
+このさきは 行かせんぞ!<WAIT><SPEAKER>「う<PAUSE_30> う<PAUSE_30> うがっ<PAUSE_30> うっ<PAUSE_30> うっ!<WAIT><SPEAKER>「だが こんな時に じびょうの
+悪魔びょうの ほっさがっ!
+ぐわーっ!
+
+===== MSG 03:49 (ID 0x0349, ROM 0x026F1D, 11 bytes) =====
+<CLEAR>
+げんしドジーは 死んでしまった
+
+===== MSG 03:4A (ID 0x034A, ROM 0x026F29, 22 bytes) =====
+<SPEAKER>「さっきの じしんは 大きかったな!
+ゲムコさまの びんぼうゆすりかな?
+
+===== MSG 03:4B (ID 0x034B, ROM 0x026F40, 45 bytes) =====
+<SPEAKER>「ううう ゲムコさま・・・
+まっかっかな お体
+つぶらなひとみ かれんなほほえみ<WAIT><SPEAKER>「心のそこから あああ
+おしたい申しあげていたのに・・・
+
+===== MSG 03:4C (ID 0x034C, ROM 0x026F6E, 26 bytes) =====
+<CLEAR>
+大きな ベビーバロンの 像がある<WAIT>
+<CLEAR>
+「キングバロンの後続昔にして
+魔物大王 ジェイビー
+と かいてある
+
+===== MSG 03:4D (ID 0x034D, ROM 0x026F89, 34 bytes) =====
+<CLEAR>
+魔物の死体がある
+噴火の時 落岩にやられたようだ<WAIT>
+<CLEAR>
+死体のまわりに
+まものエキスが とびちっている
+持っていきますか?
+
+===== MSG 03:4E (ID 0x034E, ROM 0x026FAC, 21 bytes) =====
+<SPEAKER>「うわー まいったよー!
+すごい 噴火だったね
+死ぬかと おもっちゃったよ
+
+===== MSG 03:4F (ID 0x034F, ROM 0x026FC2, 16 bytes) =====
+<SPEAKER>「うえーん うえーん
+かわいそうな ゲムコさまー!
+
+===== MSG 03:50 (ID 0x0350, ROM 0x026FD3, 78 bytes) =====
+<SPEAKER>「だから いわんこっちゃない!<WAIT><SPEAKER>「わしは あの火山は ちかぢか
+噴火すると よげん したんじゃ<WAIT><SPEAKER>「それなのに ゲムコのやつが
+わしの よげんを むし しおって<WAIT><SPEAKER>「よりに よって 火山の中に
+基地を つくりおった・・・<WAIT><SPEAKER>「こうなった からには
+ざまあみろ と いいたいわい!
+
+===== MSG 03:51 (ID 0x0351, ROM 0x027022, 80 bytes) =====
+<SPEAKER>「え? なんと・・・・
+ゲムコが・・・・そうか
+そりゃ ゆかいじゃわい!<WAIT><SPEAKER>「よし! これで 火山の
+新しい ボスは
+わしに きまりじゃな!<WAIT><SPEAKER>「そうと きまったら さっそく
+めいれいじゃ! おまえたちは
+スノーバレーへ 行けい!<WAIT><SPEAKER>「そこで いっこくもはやく
+ボールを さがすのじゃ!
+
+===== MSG 03:52 (ID 0x0352, ROM 0x027073, 23 bytes) =====
+<SPEAKER>「トロッコも おまえたちが
+落岩炉を 復活させたから
+もう のれるはずじゃ!
+
+===== MSG 03:53 (ID 0x0353, ROM 0x02708B, 44 bytes) =====
+<SPEAKER>「大変だ! いまの 噴火で
+火山の 基地が こわれたらしい<WAIT><SPEAKER>「トロッコも 行かないと
+いうことは 火山の おくの
+落岩炉も こわれたんだ!<WAIT><SPEAKER>「ふんだり けったりだ!
+
+===== MSG 03:54 (ID 0x0354, ROM 0x0270B8, 38 bytes) =====
+<SPEAKER>「スノーバレーは しょくりょうを
+ほぞんするための 基地なんだ<WAIT><SPEAKER>「だから かんづめや れいとうの
+人間が いっぱいあるんだよ
+
+===== MSG 03:55 (ID 0x0355, ROM 0x0270DF, 50 bytes) =====
+<SPEAKER>「ゲムコさま からの
+れんらくも とだえたんだ!<WAIT><SPEAKER>「きっと 基地の中で
+らくばんが おきて
+とじこめられたに ちがいない!<WAIT><SPEAKER>「これは かなり ひさんな
+じょうきょうだぞ!
+
+===== MSG 03:56 (ID 0x0356, ROM 0x027112, 21 bytes) =====
+<SPEAKER>「ゲムコさまは ちゃんと
+じょうぶつして じごくへ
+いけたのかなー?
+
+===== MSG 03:57 (ID 0x0357, ROM 0x027128, 36 bytes) =====
+<SPEAKER>「この 噴火で ゲムコさまの
+たちばも かなり あぶなく
+なってしまうな<WAIT><SPEAKER>「ジェイビーさまは きっと
+ゆるさないと 思うよ
+
+===== MSG 03:58 (ID 0x0358, ROM 0x02714D, 37 bytes) =====
+<SPEAKER>「みんな スノーバレーの
+ボールを さがしに
+行っちゃったよ<WAIT><SPEAKER>「まったく ジェイビーさまも
+人づかい いや
+魔物づかいが あらいよ
+
+===== MSG 03:59 (ID 0x0359, ROM 0x027173, 59 bytes) =====
+<SPEAKER>「どうも われわれの
+りょういきに 人間が
+寝入 したらしいんだ<WAIT><SPEAKER>「さっき ジェイビーさまが 来て
+そう いっていたよ! みつけたら
+すぐに つかまえろって!<WAIT><SPEAKER>「つかまえたら かんづめを
+いっぱい くれるって!
+
+===== MSG 03:5A (ID 0x035A, ROM 0x0271AF, 58 bytes) =====
+<SPEAKER>「ジェイビーさまが さっき
+また 来たんだよ!<WAIT><SPEAKER>「それで ベビオのやつが
+スノーバレーの まるい たまの
+はなしを ほうこくしたんだ<WAIT><SPEAKER>「そしたら ジェイビーさまは
+けっそうを かえて
+とびだして いったよ!
+
+===== MSG 03:5B (ID 0x035B, ROM 0x0271EA, 88 bytes) =====
+<SPEAKER>「そういえば ジェイビーさまは
+ボールが どうしたとか
+いってたけど あれかなあ<WAIT><SPEAKER>「おれの ともだちが ひがしの
+スノーバレーの 基地に
+いるんだけどね<WAIT><SPEAKER>「そいつが かべの中に
+まるい たまを
+みつけたとか いっていたんだ<WAIT><SPEAKER>「それの ことかなあ・・まあ
+ちがっていたら おこられるから
+べつに いいけどね!
+
+===== MSG 03:5C (ID 0x035C, ROM 0x027243, 78 bytes) =====
+<SPEAKER>「ん? なんだ おまえらは?
+いま しっちゃか めっちゃか
+だから あとに してくれ!<WAIT><SPEAKER>「・・・ん? もしかして
+おまえたち 火山へ ゲムコさまを
+たすけに 行ってくれるのか?<WAIT><SPEAKER>「そうかそうかそうか えらいぞ!<WAIT><SPEAKER>「いま ちょうど 誰を
+行かせるかを はなしあって
+いたところなんだよ
+
+===== MSG 03:5D (ID 0x035D, ROM 0x027292, 53 bytes) =====
+<SPEAKER>「ジェイビーさまが 探している
+その ボールが みつかれば
+いよいよ おれたちも むふふ<WAIT><SPEAKER>「古代の装置を 使って
+大きな 体に
+生まれかわれるぞ!<WAIT><SPEAKER>「そしたら おれは まいにち
+人間を 食うもんね!
+
+===== MSG 03:5E (ID 0x035E, ROM 0x0272C8, 54 bytes) =====
+<SPEAKER>「寝入した 人間どもも
+さがさねば ならんし<WAIT><SPEAKER>「ゲムコさまも たすけださねば
+ならんし 落岩炉も
+こわれとるし まいってるんじゃ<WAIT><SPEAKER>「ほとほと 自然さいがいは
+しまつに おえんよ!
+
+===== MSG 03:5F (ID 0x035F, ROM 0x0272FF, 80 bytes) =====
+<SPEAKER>「おお おまえたち! よくやった!
+さっそく ほうびの ひとつも
+用意せにゃ ならんのだが<WAIT><SPEAKER>「おまえたちも すぐに
+スノーバレーの ほうに
+行ってくれんか?<WAIT><SPEAKER>「ジェイビーさまの めいれいで
+ボールを 探さねば ならんのだ<WAIT><SPEAKER>「とにかく ねこの 手も
+かりたい くらいじゃ!
+
+===== MSG 03:60 (ID 0x0360, ROM 0x027350, 65 bytes) =====
+<SPEAKER>「いいか 落岩炉は ゲムコさまが
+とじこめられてる 部屋の
+さらに おくに ある<WAIT><SPEAKER>「きっと 噴火の しんどうで
+ボルトが ぬけてしまったに
+ちがいない!<WAIT><SPEAKER>「ボルトを はめれば
+落岩炉は なおるはずだ
+たのんだぞ! おまえたち!
+
+===== MSG 03:61 (ID 0x0361, ROM 0x027392, 23 bytes) =====
+<SPEAKER>「ごくろうだったな! え?
+ゲムコさまが・・・そうか・・<WAIT><SPEAKER>「いたしかた あるまい・・・
+
+===== MSG 03:62 (ID 0x0362, ROM 0x0273AA, 16 bytes) =====
+<SPEAKER>「われら 魔物も 自然には
+勝てんのかも しれんな・・・
+
+===== MSG 03:63 (ID 0x0363, ROM 0x0273BB, 29 bytes) =====
+<SPEAKER>「いやいやいやいや
+こりゃまたどうも<WAIT><SPEAKER>「ありをりはべり いまそかり
+またまたどうも
+
+===== MSG 03:64 (ID 0x0364, ROM 0x0273D9, 25 bytes) =====
+<CLEAR>
+しょうかせんが ある
+レバーを 行かせば
+水を ながせそうだ<WAIT>
+<CLEAR>
+レバーを 行かしますか?
+
+===== MSG 03:65 (ID 0x0365, ROM 0x0273F3, 6 bytes) =====
+<CLEAR>
+レバーを 行かした
+
+===== MSG 03:66 (ID 0x0366, ROM 0x0273FA, 13 bytes) =====
+<CLEAR>
+しょうかせんが ある
+すでに 作行した後だ
+
+===== MSG 03:67 (ID 0x0367, ROM 0x027408, 218 bytes) =====
+<SPEAKER>「う う ・・たすけに・・
+来て くれたのですね! で でも
+わたしは もう だ だめです<WAIT><SPEAKER>「噴火の ねつに やられて
+もう たすからないでしょう・・<WAIT><SPEAKER>「も もう 目も かすんで
+あなたが み みえません・・・<WAIT><SPEAKER>「あなたは 誰? タコぼう?<WAIT><SPEAKER>「ごほ ごほ で でも
+もう いいんです・・・わたしは
+もともと 生きては いなかった<WAIT><SPEAKER>「化石だった わたしに あの
+ジャンボ ベビーバロンが・・・<WAIT><SPEAKER>「じゃあくな たましいを
+ふきこんだのです・・・
+う う でも・・<WAIT><SPEAKER>「ひとつだけ いって おきます<WAIT><SPEAKER>「あ あいつは 装置を
+復活させて あなたたちを
+大きな体に するつもりですが・・・<WAIT><SPEAKER>「あの装置で 大きくなると
+力は 強くなりますが・・・
+体は むしばまれていくのです・・・<WAIT><SPEAKER>「・・魔物は 自然のままで
+いいのです・・・う う う・・<WAIT><SPEAKER>「あいつに
+だま<PAUSE_30> さ<PAUSE_30> れ<PAUSE_30> ないで・・
+
+===== MSG 03:68 (ID 0x0368, ROM 0x0274E3, 9 bytes) =====
+<CLEAR>
+ゲムコは 行かなくなった・・・
+
+===== MSG 03:69 (ID 0x0369, ROM 0x0274ED, 9 bytes) =====
+<CLEAR>
+大きな トマトンの 化石がある
+
+===== MSG 03:6A (ID 0x036A, ROM 0x0274F7, 17 bytes) =====
+<CLEAR>
+↘ ロッテンブロー教会
+  神官しゅぎょう場
+
+===== MSG 03:6B (ID 0x036B, ROM 0x027509, 15 bytes) =====
+<SPEAKER>「うわー たすけてくれよー
+なんでも しゃべるよー
+
+===== MSG 03:6C (ID 0x036C, ROM 0x027519, 26 bytes) =====
+<SPEAKER>「ジェイビーさまは
+ここから 白い ボールを
+掘り出したんだ<WAIT><SPEAKER>「すごく うれしそうだったよ
+
+===== MSG 03:6D (ID 0x036D, ROM 0x027534, 13 bytes) =====
+<CLEAR>
+かべに 何か
+掘り出したような あながある
+
+===== MSG 03:6E (ID 0x036E, ROM 0x027542, 28 bytes) =====
+<CLEAR>
+レバーがある
+おしても ぜんぜん行かない<WAIT>
+<CLEAR>
+もっと 強い力で おせば
+行かせるかもしれない・・・
+
+===== MSG 03:6F (ID 0x036F, ROM 0x02755F, 12 bytes) =====
+<CLEAR>
+レバーがある
+ひいても ぜんぜん行かない
+
+===== MSG 03:70 (ID 0x0370, ROM 0x02756C, 77 bytes) =====
+<CLEAR>
+「ジェイビーじるし こうそく
+かんづめ せいぞうき マーク・ワン
+・・・と かいてある<WAIT>
+<CLEAR>
+きかいは ひどくこわれて とまっている
+あちこちに しゅうりした あとがある
+<WAIT>
+<CLEAR>
+使いすぎて もう なおせないほど
+ボロボロに こわれてしまったようだ
+
+===== MSG 03:71 (ID 0x0371, ROM 0x0275BA, 5 bytes) =====
+<CLEAR>
+↘ ラムスの塔
+
+===== MSG 03:72 (ID 0x0372, ROM 0x0275C0, 6 bytes) =====
+<CLEAR>
+↘ なげきの岬
+
+===== MSG 03:73 (ID 0x0373, ROM 0x0275C7, 28 bytes) =====
+<SPEAKER>「あたしは ようせい マミリィ
+あいことばは キミソバ
+たまごの おそばじゃ ないわよ
+
+===== MSG 03:74 (ID 0x0374, ROM 0x0275E4, 78 bytes) =====
+<SPEAKER>「ここは デスランド島の
+もっとも みなみにある
+なげきの岬と よばれるところ<WAIT><SPEAKER>「はるか 苦から 人は
+この 岬の むこうにある
+バロンロックを めざした<WAIT><SPEAKER>「キングバロンの装置を
+手に入れ 領士を
+かくだいするためじゃ<WAIT><SPEAKER>「じゃが 海からの 強い風は
+人間を よせつけんかった・・・
+
+===== MSG 03:75 (ID 0x0375, ROM 0x027633, 31 bytes) =====
+<SPEAKER>「わしは やぼうにとりつかれた
+あわれな昔たちを とむらう
+ほこらの あるじじゃよ 何か用かな?
+
+===== MSG 03:76 (ID 0x0376, ROM 0x027653, 31 bytes) =====
+<SPEAKER>「ここは ラムスの塔・・・<WAIT><SPEAKER>「200年まえ ときの ラムス王が
+キングバロンの 古代装置を
+手に入れるため 建てた塔・・・
+
+===== MSG 03:77 (ID 0x0377, ROM 0x027673, 90 bytes) =====
+<SPEAKER>「バロンロックのまわりは
+海から ふきあげる 強い風で
+船は ちかづけません<WAIT><SPEAKER>「ラムス王は ここに 高い塔を
+建てて 空から バロンロックへ
+行く 方法を さぐりました・・・<WAIT><SPEAKER>「わたしたち かがくしゃを
+ここに とじこめて くる日も
+くる日も 研究ばかり・・・<WAIT><SPEAKER>「とうとう わたしたちは ここで
+死んでしまったのです・・・
+
+===== MSG 03:78 (ID 0x0378, ROM 0x0276CE, 57 bytes) =====
+<SPEAKER>「ラムス王は あらゆることを
+こころみました・・・<WAIT><SPEAKER>「魔術や 呪術にまで たよったり
+きかいの つばさ まで
+作ることを めいじました・・・<WAIT><SPEAKER>「けれども どれひとつ
+うまくは いきませんでした・・・
+
+===== MSG 03:79 (ID 0x0379, ROM 0x027708, 52 bytes) =====
+<SPEAKER>「おお 神よ われらの さまよえる
+たましいを 主のもとへ
+おくりとどけたまえ<WAIT><SPEAKER>「ラムス王の ねがいが
+かなえられぬかぎり われらは
+やすらかに ねむれないのです
+
+===== MSG 03:7A (ID 0x037A, ROM 0x02773D, 22 bytes) =====
+<SPEAKER>「われらの 王の ねがいは
+バロンロックまで 空を
+とんで行くことだった・・・
+
+===== MSG 03:7B (ID 0x037B, ROM 0x027754, 44 bytes) =====
+<SPEAKER>「いちど どこかの商人が
+大空をとぶ じゅうたんを
+持ってきたのですが・・・<WAIT><SPEAKER>「魔法の 力は すでに
+きえうせて とぶことは
+できませんでした・・・
+
+===== MSG 03:7C (ID 0x037C, ROM 0x027781, 37 bytes) =====
+<SPEAKER>「この塔は 14階まである<WAIT><SPEAKER>「最上階の ラムス王が
+大空へ まいあがり
+バロンロックに わたったとき<WAIT><SPEAKER>「われらは かいほうされるのだ
+
+===== MSG 03:7D (ID 0x037D, ROM 0x0277A7, 31 bytes) =====
+<SPEAKER>「この塔の中には
+ラムス王の 集めたものが
+たくさん まだ あります<WAIT><SPEAKER>「その中に 空をとぶものは
+ないのでしょうか?
+
+===== MSG 03:7E (ID 0x037E, ROM 0x0277C7, 12 bytes) =====
+<CLEAR>
+かべに スイッチがあります
+おしますか?
+
+===== MSG 03:7F (ID 0x037F, ROM 0x0277D4, 14 bytes) =====
+<CLEAR>
+かべに スイッチがある
+スイッチは おされている
+
+===== MSG 03:80 (ID 0x0380, ROM 0x0277E3, 114 bytes) =====
+<SPEAKER>「わが名は ラムス・・・
+わが のぞみは 大空に まい
+バロンロックまで ゆくこと・・<WAIT><SPEAKER>「わしは 待った・・・・
+200年も・・・だが 誰ひとり
+空とぶ道具を 持っていなかった<WAIT><SPEAKER>「このままでは 死んでも
+死にきれん! なんとか わしを
+バロンロックまで つれていってくれ!<WAIT><SPEAKER>「あうううう ぐいああああ!
+バ<PAUSE_30> ロ<PAUSE_30> ン<PAUSE_30> ロ<PAUSE_30> ッ<PAUSE_30> クううう <PAUSE_30>ええ<PAUSE_30>
+いいい ぐううう ぐあああ!
+
+===== MSG 03:81 (ID 0x0381, ROM 0x027856, 15 bytes) =====
+<CLEAR>
+古代の いぶつが ある<WAIT>
+<CLEAR>
+古い 石像や 家具のようだ
+
+===== MSG 03:82 (ID 0x0382, ROM 0x027866, 20 bytes) =====
+<CLEAR>
+「光の道は ガヌビスの道
+しるしなき昔の 寝入を ゆるさず
+
+===== MSG 03:83 (ID 0x0383, ROM 0x02787B, 11 bytes) =====
+<CLEAR>
+ガラスに ひびが はいっている!
+
+===== MSG 03:84 (ID 0x0384, ROM 0x027887, 10 bytes) =====
+<CLEAR>
+石板が かべに 埋めこんである
+
+===== MSG 03:85 (ID 0x0385, ROM 0x027892, 16 bytes) =====
+<CLEAR>
+石板には 古代文字が かかれている
+ヨシオが 読んでくれた
+
+===== MSG 03:86 (ID 0x0386, ROM 0x0278A3, 21 bytes) =====
+<CLEAR>
+石板には 古代文字が かかれている
+ヨシオの たましいが おたけびをあげた!
+
+===== MSG 03:87 (ID 0x0387, ROM 0x0278B9, 64 bytes) =====
+<SPEAKER>「いつの日か おとずれる
+いだいなる 後続昔へ<WAIT><SPEAKER>「巨大な 魔物どもに
+とうとう かこまれてしまった<WAIT><SPEAKER>「ここで みずから つくった
+化け物どもに 食われてしまっては
+<ICON_170><ICON_171><ICON_172><ICON_173><ICON_1AF><ICON_174>の 名がすたる・・・<WAIT><SPEAKER>「・・・ここから 下は
+かけてますな
+
+===== MSG 03:88 (ID 0x0388, ROM 0x0278FA, 37 bytes) =====
+<CLEAR>
+ボールをささげる 台がある
+石板とおなじ 古代文字が
+しるされている<WAIT>
+<CLEAR>
+「ボールをささげ わが名を しめすべし
+
+===== MSG 03:89 (ID 0x0389, ROM 0x027920, 12 bytes) =====
+<CLEAR>
+ヨシオの たましいが おたけびをあげた!
+
+===== MSG 03:8A (ID 0x038A, ROM 0x02792D, 17 bytes) =====
+<SPEAKER>「うおおー・・・
+お嬢さま・・・
+わしの意見を 聞いてくだされ・・・
+
+===== MSG 03:8B (ID 0x038B, ROM 0x02793F, 7 bytes) =====
+<CLEAR>
+ヨシオの意見を 聞きますか?
+
+===== MSG 03:8C (ID 0x038C, ROM 0x027947, 32 bytes) =====
+<SPEAKER>「なんらかの方法で 誰かの名前を
+あらわし しかるのちに ここに
+ボールをおけ ということでしょうな
+
+===== MSG 03:8D (ID 0x038D, ROM 0x027968, 9 bytes) =====
+<CLEAR>
+もっと ヨシオの意見を 聞きますか?
+
+===== MSG 03:8E (ID 0x038E, ROM 0x027972, 32 bytes) =====
+<SPEAKER>「このばあい 誰か というのは
+とうぜん キングバロンでしょう<WAIT><SPEAKER>「もんだいは いかにして
+ということですが・・・
+
+===== MSG 03:8F (ID 0x038F, ROM 0x027993, 39 bytes) =====
+<SPEAKER>「ゆかの もようは
+古代文字を モチーフに
+しておるようです<WAIT><SPEAKER>「さてと・・・ どこかに
+古代文字で キングバロンと
+かいて ありませんでしたかな?
+
+===== MSG 03:90 (ID 0x0390, ROM 0x0279BB, 39 bytes) =====
+<SPEAKER>「ドラゴンの石像が 6つ
+おちておりますな<WAIT><SPEAKER>「キングバロンという 名前も
+古代文字でかけば 6文字
+はたして ぐうぜんでしょうかな?
+
+===== MSG 03:91 (ID 0x0391, ROM 0x0279E3, 58 bytes) =====
+<SPEAKER>「石板には ガヌビスに
+名前を しめせ・・・
+と ありましたな<WAIT><SPEAKER>「さいだんの上に ずらっと
+ならんでいるのが その
+ガヌビスの像です<WAIT><SPEAKER>「像から見て 読めるように・・・
+というふうに とるべきでしょうな
+
+===== MSG 03:92 (ID 0x0392, ROM 0x027A1E, 31 bytes) =====
+<CLEAR>
+ヨシオは はなしつかれて
+かたで いきをしている
+<WAIT>
+<CLEAR>
+すこし 休ませてあげないと
+いけないようだ・・・
+
+===== MSG 03:93 (ID 0x0393, ROM 0x027A3E, 21 bytes) =====
+<CLEAR>
+ボールをささげる 台がある
+ホワイトボールが ささげられている
+
+===== MSG 03:94 (ID 0x0394, ROM 0x027A54, 175 bytes) =====
+<SPEAKER>「やあ しばらくです お嬢さん
+そのせつは どうも
+お世話になりまして・・・<WAIT><SPEAKER>「わたし ラムスの塔の神官です<WAIT><SPEAKER>「ラムス王が ゆめを はたされたので
+わたしも 塔の呪いから
+解きはなたれたのですが・・・<WAIT><SPEAKER>「なんだか お嬢さんの
+これからが 気になって 気になって
+おちつかないんですよ<WAIT><SPEAKER>「で ラムス王に たのんで
+天に めされる前に ここまで
+はこんでもらったんです<WAIT><SPEAKER>「あんな みがってな人でも
+200年も つかえてみると
+けっこう いいとこ あるもんです<WAIT><SPEAKER>「おかげで わたしも お嬢さんに
+おんがえしが できるというものです
+させてくれますよね?<WAIT><SPEAKER>「では そういうことで
+今後とも よろしく
+えー オホン それでは
+
+===== MSG 03:95 (ID 0x0395, ROM 0x027B04, 20 bytes) =====
+<CLEAR>
+ドラゴンの像がある<WAIT>
+<CLEAR>
+像は もう
+何も かたろうとしない・・・
+
+===== MSG 03:96 (ID 0x0396, ROM 0x027B19, 61 bytes) =====
+<SPEAKER>「ひひひひひ・・・
+絵を かんせいさせるのじゃ!
+いひひひひ<WAIT><SPEAKER>「絵が かんせいすれば
+キングバロンさまが あんたを
+ここから 出してくださるよ<WAIT><SPEAKER>「いひひひひ・・・・・・
+のたれ死にか 絵をかくかじゃ
+いひひひひ・・・・・
+
+===== MSG 03:97 (ID 0x0397, ROM 0x027B57, 10 bytes) =====
+<CLEAR>
+みかんせいの 大きな絵がある
+
+===== MSG 03:98 (ID 0x0398, ROM 0x027B62, 7 bytes) =====
+<CLEAR>
+ろうそくの 絵がある
+
+===== MSG 03:99 (ID 0x0399, ROM 0x027B6A, 7 bytes) =====
+<CLEAR>
+いすの 絵がある
+
+===== MSG 03:9A (ID 0x039A, ROM 0x027B72, 12 bytes) =====
+<CLEAR>
+どこかへとつづく 道の絵がある
+
+===== MSG 03:9B (ID 0x039B, ROM 0x027B7F, 7 bytes) =====
+<CLEAR>
+宝ばこは あいている
+
+===== MSG 03:9C (ID 0x039C, ROM 0x027B87, 9 bytes) =====
+<CLEAR>
+レディは
+500000000エンドル 見つけた
+
+===== MSG 03:9D (ID 0x039D, ROM 0x027B91, 14 bytes) =====
+<CLEAR>
+レディは
+ひかるビーダマを 4000コ
+手に入れた
+
+===== MSG 03:9E (ID 0x039E, ROM 0x027BA0, 14 bytes) =====
+<CLEAR>
+レディは
+みなごろしのティーバックを
+手に入れた
+
+===== MSG 03:9F (ID 0x039F, ROM 0x027BAF, 18 bytes) =====
+<CLEAR>
+この像の 向こう側から
+カタカタという 音が聞こえる
+
+===== MSG 03:A0 (ID 0x03A0, ROM 0x027BC2, 19 bytes) =====
+<CLEAR>
+像の 向こう側から
+光が もれてきている<WAIT>
+<CLEAR>
+強い 光のようだ
+
+===== MSG 03:A1 (ID 0x03A1, ROM 0x027BD6, 14 bytes) =====
+<CLEAR>
+像の 向こう側に
+きみょうな 道具が 見える
+
+===== MSG 03:A2 (ID 0x03A2, ROM 0x027BE5, 21 bytes) =====
+<CLEAR>
+ほこりだらけの 絵がある<WAIT>
+<CLEAR>
+そうじをすれば 絵が見られそうだ
+
+===== MSG 03:A3 (ID 0x03A3, ROM 0x027BFB, 23 bytes) =====
+<CLEAR>
+きみょうな 道具が 行いている!
+むこうの 部屋に 何かを
+うつしているようだ!
+
+===== MSG 03:A4 (ID 0x03A4, ROM 0x027C13, 11 bytes) =====
+<CLEAR>
+きみょうな 道具は とまっている・・・
+
+===== MSG 03:A5 (ID 0x03A5, ROM 0x027C1F, 14 bytes) =====
+<CLEAR>
+くらやみの中に スイッチがある
+おしてみますか?
+
+===== MSG 03:A6 (ID 0x03A6, ROM 0x027C2E, 7 bytes) =====
+<CLEAR>
+レディは スイッチを おした!
+
+===== MSG 03:A7 (ID 0x03A7, ROM 0x027C36, 11 bytes) =====
+<CLEAR>
+スイッチがある
+スイッチはおされている
+
+===== MSG 03:A8 (ID 0x03A8, ROM 0x027C42, 17 bytes) =====
+<CLEAR>
+レディは くらやみを
+探ってみたが ここには
+何も ないようだ
+
+===== MSG 03:A9 (ID 0x03A9, ROM 0x027C54, 115 bytes) =====
+<SPEAKER>「ああ お嬢さん ごぶじでしたか
+それは なにより・・・
+わたし ラムスの塔の神官ですよ<WAIT><SPEAKER>「このあたりの ひどい
+だんがいぜっぺきは とても 人間の
+しのびこめる所では ありませんが<WAIT><SPEAKER>「ほら わたし ごらんの通りですから<WAIT><SPEAKER>「ひとつだけ あいている
+まどを 見つけたので
+入ってきてしまいました<WAIT><SPEAKER>「ちょっと こわかったですけど
+いまさら 命の しんぱいをしても
+しかたありませんしね・・・はは・・・
+
+===== MSG 03:AA (ID 0x03AA, ROM 0x027CC8, 45 bytes) =====
+<SPEAKER>「ここは 古き伝説の館
+何千年もの間 たちいる人間の
+なかった場所・・・<WAIT><SPEAKER>「おたがい 大変な所に
+来てしまったものですが
+神のしもべが お力になれますか?
+
+===== MSG 03:AB (ID 0x03AB, ROM 0x027CF6, 14 bytes) =====
+<CLEAR>
+ ↖ エンジェルロック
+ ↘ バロンの塔
+
+===== MSG 03:AC (ID 0x03AC, ROM 0x027D05, 20 bytes) =====
+<CLEAR>
+大きな ガラスがある
+たいあたりをすれば つきやぶれそうだ
+
+===== MSG 03:AD (ID 0x03AD, ROM 0x027D1A, 40 bytes) =====
+<CLEAR>
+大きな ガラスがある
+たいあたりをすれば つきやぶれそうだ<WAIT>
+<CLEAR>
+・・・だが ダッシュするほど
+ひろさに よゆうがないようだ
+
+===== MSG 03:AE (ID 0x03AE, ROM 0x027D43, 10 bytes) =====
+<CLEAR>
+「わるフェアリー
+と かいてある
+
+===== MSG 03:AF (ID 0x03AF, ROM 0x027D4E, 60 bytes) =====
+<SPEAKER>「キイキイ たすけてくれよう!
+ジェ ジェイビーさまに
+とじこめられたんだ<WAIT><SPEAKER>「ぼく ジェイビーさまの
+めいれいどおりに 人間を
+おそっていたのに!<WAIT><SPEAKER>「なんで こんな ひどいめに
+あわなきゃいけないんだよー
+
+===== MSG 03:B0 (ID 0x03B0, ROM 0x027D8B, 73 bytes) =====
+<SPEAKER>「キイキイ おいトマトン!
+おまえ こんなとこに いちゃ
+いけないよ!<WAIT><SPEAKER>「ちょっと みぎのほうに
+からっぽの おりが あるだろ?
+おまえの なかまが いたんだよ<WAIT><SPEAKER>「ついさっき えたいのしれない
+きかいに すいこまれて
+どこかへ いっちまったんだよー
+
+===== MSG 03:B1 (ID 0x03B1, ROM 0x027DD5, 9 bytes) =====
+<CLEAR>
+「ベビーバロン
+と かいてある
+
+===== MSG 03:B2 (ID 0x03B2, ROM 0x027DDF, 81 bytes) =====
+<SPEAKER>「ぼくたちは バカだったよ!<WAIT><SPEAKER>「ジェイビーさまを しんじて
+つくしてきたのに このざまさ!<WAIT><SPEAKER>「古代の装置が 復活したとたん
+ぼくたちは 実験ざいりょうさ!
+ふん わらいたければ わらえよ!<WAIT><SPEAKER>「え? 古代の装置の場所?
+さあね この塔の どこかから
+行けるらしいけど しらないね
+
+===== MSG 03:B3 (ID 0x03B3, ROM 0x027E31, 9 bytes) =====
+<CLEAR>
+「スナイパー
+と かいてある
+
+===== MSG 03:B4 (ID 0x03B4, ROM 0x027E3B, 66 bytes) =====
+<SPEAKER>「ひでえこと しやがるよ はふはふ<WAIT><SPEAKER>「ジェイビーさまが 水の中の
+魔物が りくの上で どれくらい
+生きられるかって はふはふはふ<WAIT><SPEAKER>「いきなり こんなとこへ
+入れるんだよ
+たすけてくれー はふはふはふ
+
+===== MSG 03:B5 (ID 0x03B5, ROM 0x027E7E, 9 bytes) =====
+<CLEAR>
+「ジャンボトマト
+と かいてある
+
+===== MSG 03:B6 (ID 0x03B6, ROM 0x027E88, 27 bytes) =====
+<SPEAKER>「ぐぎゃー ぐぎゃあ
+ぐぎぎぎ ぎゃーすっ
+ぐぎ どろどろどろ
+
+===== MSG 03:B7 (ID 0x03B7, ROM 0x027EA4, 23 bytes) =====
+<CLEAR>
+かんぜんに 目が 死んでいる
+何か くすりのような物を
+のまされているようだ
+
+===== MSG 03:B8 (ID 0x03B8, ROM 0x027EBC, 7 bytes) =====
+<CLEAR>
+「トマトン
+と かいてある
+
+===== MSG 03:B9 (ID 0x03B9, ROM 0x027EC4, 10 bytes) =====
+<CLEAR>
+「ゴールドトマト
+と かいてある
+
+===== MSG 03:BA (ID 0x03BA, ROM 0x027ECF, 20 bytes) =====
+<SPEAKER>「われこそは トマトン大王
+ポンム・ド・ロワ二世である!
+
+===== MSG 03:BB (ID 0x03BB, ROM 0x027EE4, 21 bytes) =====
+<SPEAKER>「ながらく とじこめられておる!
+いちぞくの昔に 会いたいのう!
+
+===== MSG 03:BC (ID 0x03BC, ROM 0x027EFA, 88 bytes) =====
+<SPEAKER>「ある昔は 戦いにたおれ
+またある昔は 実験ざいりょう
+にされて・・・・<WAIT><SPEAKER>「わしら ゴールドトマトも
+いまや ぜつめつすんぜんと
+なってしまった!<WAIT><SPEAKER>「わしも このありさまでは
+もはや みらいは くらいと
+いわざるをえん!<WAIT><SPEAKER>「心残りは 王家のあかし
+この チャイナブーツの
+ことなのだ・・・
+
+===== MSG 03:BD (ID 0x03BD, ROM 0x027F53, 26 bytes) =====
+<SPEAKER>「そこな ゆうかんなる わかき
+ゴールドトマトよ! このブーツを
+たくされてくれぬか?
+
+===== MSG 03:BE (ID 0x03BE, ROM 0x027F6E, 8 bytes) =====
+<SPEAKER>「装備させて しんぜようか?
+
+===== MSG 03:BF (ID 0x03BF, ROM 0x027F77, 111 bytes) =====
+<SPEAKER>「かつて トマトンと 人間は
+なかよく くらしていた・・・<WAIT><SPEAKER>「今となっては しんじられぬような
+話ではある・・・<WAIT><SPEAKER>「しかし チャイナブーツこそ
+伝説の時代の トマトンと 人間の
+ゆうじょうの あかし!<WAIT><SPEAKER>「チャイナブーツあるかぎり
+いつか ふたたび そのような
+時代が 来るかもしれぬ!<WAIT><SPEAKER>「わしのことは 気にせず
+行くがよい! チャイナブーツを
+まだ来ぬ世代に つたえるのだ!
+
+===== MSG 03:C0 (ID 0x03C0, ROM 0x027FE7, 18 bytes) =====
+<SPEAKER>「では いつでも
+とりにくるがよい
+わしは 待っておるぞ!
+
+===== MSG 03:C1 (ID 0x03C1, ROM 0x027FFA, 23 bytes) =====
+<CLEAR>
+てつごうしが しまっている
+たいあたりをすれば つきやぶれそうだ
+
+===== MSG 03:C2 (ID 0x03C2, ROM 0x028012, 20 bytes) =====
+<CLEAR>
+魔物の ひょうほんが ある<WAIT>
+<CLEAR>
+生きているのか 死んでいるのかは
+わからない
+
+===== MSG 03:C3 (ID 0x03C3, ROM 0x028027, 25 bytes) =====
+<CLEAR>
+魔物の ひょうほんが ある<WAIT>
+<CLEAR>
+ちが ぜんぶ ぬかれているようだ
+体全体が ひからびている
+
+===== MSG 03:C4 (ID 0x03C4, ROM 0x028041, 9 bytes) =====
+<CLEAR>
+魔物が ぴくりと 行いた!
+
+===== MSG 03:C5 (ID 0x03C5, ROM 0x02804B, 44 bytes) =====
+<SPEAKER>「ジェ ジェイビーに 気をつけろ
+やつは にくしみの かたまりじゃ<WAIT><SPEAKER>「魔物も 人間も 全部・・・
+生あるもの すべてを
+ジェイビーは にくんでおるぞ・・・
+
+===== MSG 03:C6 (ID 0x03C6, ROM 0x028078, 29 bytes) =====
+<SPEAKER>「わしの にくたいは やられたが
+たましいは ふめつじゃ・・・
+すこしは 役に たてるじゃろう・・・
+
+===== MSG 03:C7 (ID 0x03C7, ROM 0x028096, 10 bytes) =====
+<CLEAR>
+ちいさな あなが あいている
+
+===== MSG 03:C8 (ID 0x03C8, ROM 0x0280A1, 23 bytes) =====
+<SPEAKER>「ぐごーっ んがががっ
+ぐーごー すーはー ぐごご
+
+===== MSG 03:C9 (ID 0x03C9, ROM 0x0280B9, 9 bytes) =====
+<CLEAR>
+こんな所でも ねているようだ
+
+===== MSG 03:CA (ID 0x03CA, ROM 0x0280C3, 22 bytes) =====
+<CLEAR>
+ちくちくする
+まるで はりのようだ
+けがを しそうな 所もある
+
+===== MSG 03:CB (ID 0x03CB, ROM 0x0280DA, 52 bytes) =====
+<SPEAKER>「たいへん 長らく おまたせしました
+ただいまより 活行写真を
+じょうえい いたします<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「べんしは ふしょう わたくし
+博物館長が
+つとめさせて いただきます<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 03:CC (ID 0x03CC, ROM 0x02810F, 22 bytes) =====
+<SPEAKER>「デスランド博物館が
+ていきょう いたしまするは
+題して 古代デスランド伝説なり
+
+===== MSG 03:CD (ID 0x03CD, ROM 0x028126, 24 bytes) =====
+<SPEAKER>「今をさること 何千年もまえ
+この デスランドの 地には
+魔物どもしか おりませんでした
+
+===== MSG 03:CE (ID 0x03CE, ROM 0x02813F, 58 bytes) =====
+<SPEAKER>「とつぜんへんいか はたまた
+神の使いか! そこに生まれたるは
+悪魔の申し子 キングバロン<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「書物によれば 人間より
+はるか こうどな ちのうを持つ
+悪魔の申し子 キングバロン
+
+===== MSG 03:CF (ID 0x03CF, ROM 0x02817A, 29 bytes) =====
+<SPEAKER>「仕掛け からくり ごうもん装置
+じごくの ごとき 発明を
+つぎから つぎへと 生み出した!
+
+===== MSG 03:D0 (ID 0x03D0, ROM 0x028198, 85 bytes) =====
+<SPEAKER>「魔物も やつには さからえず
+島は とうとう キングバロンの
+天上天下ゆいがどくそん!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「ところがどっこい だがしかし
+天才となんとかは かみひとえ!
+<PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「悪魔の 発明は
+とどまるところをしらず
+<PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「魔物の 生体実験を
+くりかえし くりかえし
+また くりかえし
+
+===== MSG 03:D1 (ID 0x03D1, ROM 0x0281EE, 46 bytes) =====
+<SPEAKER>「とうとう つくりたるは
+ひげきの 発明
+魔物巨大化装置なり<PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「きょうき らんぶのキングバロン
+島の 魔物を つかまえて
+つくりまくるは かいぶつを!
+
+===== MSG 03:D2 (ID 0x03D2, ROM 0x02821D, 36 bytes) =====
+<SPEAKER>「とどのつまりは 島中
+大きな 魔物だらけ!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「力も 強い こいつらは
+たちまち ともぐい はじめます
+
+===== MSG 03:D3 (ID 0x03D3, ROM 0x028242, 49 bytes) =====
+<SPEAKER>「大きな 魔物は みさかいなく
+えさを さがして うろつきまわり
+キングバロンも ねらいます<PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「自ら 生んだ 魔物どもに
+おいつめられたる キングバロン
+<PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 03:D4 (ID 0x03D4, ROM 0x028274, 59 bytes) =====
+<SPEAKER>「これも はたまた うんめいか
+自ら 装置に とびこんだ!
+はたして うんめいは いかに?<PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「その後の 記録は 残っておらず
+時の ながれが きざまれて
+古代の 謎は ふかまるばかり
+
+===== MSG 03:D5 (ID 0x03D5, ROM 0x0282B0, 59 bytes) =====
+<SPEAKER>「いつの世も 伝説は 人の心を
+かきたてて いく千人の旅人や
+王様 兵土に 領主様<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「いせき もとめて 島を おとずれ
+つぎから つぎへと 命を おとし
+ついた名前が デスランド
+
+===== MSG 03:D6 (ID 0x03D6, ROM 0x0282EC, 100 bytes) =====
+<SPEAKER>「ところが ところが ついにというか
+発見しました 魔物の化石
+考古学昔の しゅうねんか!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「世紀の発見 したひとは
+考古学昔のサジクさん!
+<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「ああ サジクさん サジクさん!
+化石の発見は いいけれど
+<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「ふたたび 奥地に 行ったまま
+いまのいまでも 行方不明
+<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「ああ 人生は なんとやら
+どこにいるのか サジクさん!
+<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 03:D7 (ID 0x03D7, ROM 0x028351, 18 bytes) =====
+<SPEAKER>「ひえっ ひえっ ひえ
+ほれ ほれ まあ みるがよい
+
+===== MSG 03:D8 (ID 0x03D8, ROM 0x028364, 37 bytes) =====
+<SPEAKER>「はあ はあ はあ はあ
+なんというところだ! ここは!
+うおっ! しかも見物人がっ!<WAIT><SPEAKER>「よーし かっこつけるぜえ!
+
+===== MSG 03:D9 (ID 0x03D9, ROM 0x02838A, 9 bytes) =====
+<SPEAKER>「うわー い いかん うわー!
+
+===== MSG 03:DA (ID 0x03DA, ROM 0x028394, 30 bytes) =====
+<SPEAKER>「ここは客間じゃ けけけ
+おまえさんも ここまで来たら けけ
+泊まってって ええぞ 一生な けけ
+
+===== MSG 03:DB (ID 0x03DB, ROM 0x0283B3, 24 bytes) =====
+<SPEAKER>「ここでは まいにち
+たのしいことが いっぱいじゃよ
+いひえっ ひえっ ひえっ
+
+===== MSG 03:DC (ID 0x03DC, ROM 0x0283CC, 18 bytes) =====
+<SPEAKER>「ひえっ ひえっへっ
+ほら ほら 耳を すましてごらん!
+
+===== MSG 03:DD (ID 0x03DD, ROM 0x0283DF, 11 bytes) =====
+<CLEAR>
+目の前の 部屋の中から 声がする
+
+===== MSG 03:DE (ID 0x03DE, ROM 0x0283EB, 21 bytes) =====
+<SPEAKER>「ぐぎゃー ぎえぎゃー! ぐわっ
+だ だすけてぐれええっ!
+
+===== MSG 03:DF (ID 0x03DF, ROM 0x028401, 8 bytes) =====
+<CLEAR>
+声は 聞こえなくなった・・・
+
+===== MSG 03:E0 (ID 0x03E0, ROM 0x02840A, 26 bytes) =====
+<CLEAR>
+・・・何か ガサガサした音が
+下から 聞こえてくる・・・
+何かが 行きまわっているようだ
+
+===== MSG 03:E1 (ID 0x03E1, ROM 0x028425, 30 bytes) =====
+<SPEAKER>「ういー ひっく おりゃー!
+おれさまはなあー ういー ひっく
+おれさまだぞうー ういー げろっ
+
+===== MSG 03:E2 (ID 0x03E2, ROM 0x028444, 26 bytes) =====
+<SPEAKER>「後続昔よ よくぞ来た!
+キングバロンの 名において
+そなたを ためすが よいかね?
+
+===== MSG 03:E3 (ID 0x03E3, ROM 0x02845F, 34 bytes) =====
+<SPEAKER>「ほう なかなか すなおで
+よろしい では きくが<WAIT><SPEAKER>「この世で もっとも いだいなのは
+キングバロンだと 思っとるか?
+
+===== MSG 03:E4 (ID 0x03E4, ROM 0x028482, 10 bytes) =====
+<SPEAKER>「ふむ しょうじきでよろしい
+
+===== MSG 03:E5 (ID 0x03E5, ROM 0x02848D, 41 bytes) =====
+<SPEAKER>「わしを おこらせんようにな!
+どんどん たずねるぞい!
+ところで・・・<WAIT><SPEAKER>「わしに てもちの お金ぜんぶを
+あげてもいいと おもっとるか?
+
+===== MSG 03:E6 (ID 0x03E6, ROM 0x0284B7, 18 bytes) =====
+<SPEAKER>「うほほ それは うれしいな
+では さっそく もらうぞい!
+
+===== MSG 03:E7 (ID 0x03E7, ROM 0x0284CA, 7 bytes) =====
+<CLEAR>
+レディは
+<NUMBER>Yを あげた
+
+===== MSG 03:E8 (ID 0x03E8, ROM 0x0284D2, 46 bytes) =====
+<SPEAKER>「おこっては いかん いかんぞ!
+後続昔に なるためには
+なにごとも たえしのばねばならん<WAIT><SPEAKER>「いま あんたは わしのことを
+むかついとるの? どうじゃ?
+
+===== MSG 03:E9 (ID 0x03E9, ROM 0x028501, 27 bytes) =====
+<SPEAKER>「おお これは ゆかい! それでこそ
+キングバロンの 後続昔じゃ!
+金を はんぶん かえしてやろう
+
+===== MSG 03:EA (ID 0x03EA, ROM 0x02851D, 42 bytes) =====
+<SPEAKER>「どうじゃい わしの愛は? ん?
+ちょっと ふまんそうじゃのう<WAIT><SPEAKER>「では さいごの しつもんじゃ<WAIT><SPEAKER>「わしと たたかって
+かてると 思っとるか?
+
+===== MSG 03:EB (ID 0x03EB, ROM 0x028548, 30 bytes) =====
+<SPEAKER>「なんと! そんな よわ気では
+とても キングバロンの
+後続昔に なれんぞい!<WAIT><SPEAKER>「そんなやつには これをやろう!
+
+===== MSG 03:EC (ID 0x03EC, ROM 0x028567, 21 bytes) =====
+<SPEAKER>「そうか それでもよかろう・・・
+じゃが 後続昔としては
+みとめられぬぞ!
+
+===== MSG 03:ED (ID 0x03ED, ROM 0x02857D, 12 bytes) =====
+<SPEAKER>「そんな こころがけでは
+後続昔には なれんぞ!
+
+===== MSG 03:EE (ID 0x03EE, ROM 0x02858A, 17 bytes) =====
+<SPEAKER>「おお これは ゆかい! それでこそ
+キングバロンの 後続昔じゃ!
+
+===== MSG 03:EF (ID 0x03EF, ROM 0x02859C, 25 bytes) =====
+<SPEAKER>「ほほう なかなか 強気じゃの
+では そなたの力
+たしかめさせて もらうぞい!
+
+===== MSG 03:F0 (ID 0x03F0, ROM 0x0285B6, 17 bytes) =====
+<SPEAKER>「へけけっ おねえちゃん
+ぼくと かくれんぼ しようよ
+
+===== MSG 03:F1 (ID 0x03F1, ROM 0x0285C8, 25 bytes) =====
+<SPEAKER>「へけけっ それじゃあ ぼく
+かくれるからねっ へけけっ
+みつけてねっ けけけっ
+
+===== MSG 03:F2 (ID 0x03F2, ROM 0x0285E2, 18 bytes) =====
+<SPEAKER>「へけけっ じゃあ いやでも
+ぼくを さがさせてやるっ!
+
+===== MSG 03:F3 (ID 0x03F3, ROM 0x0285F5, 16 bytes) =====
+<CLEAR>
+ベビーバロンは レディの
+お金を ぜんぶ うばった!
+
+===== MSG 03:F4 (ID 0x03F4, ROM 0x028606, 30 bytes) =====
+<SPEAKER>「せっかく いいもの あげようと
+おもったのに・・・ ざんねんだなあ・・・<WAIT><SPEAKER>「どう? 気がかわった?
+
+===== MSG 03:F5 (ID 0x03F5, ROM 0x028625, 26 bytes) =====
+<SPEAKER>「うわあ みつかっちゃったー!
+こんなところ よくわかったね
+へけけっ これ あげるよ!
+
+===== MSG 03:F6 (ID 0x03F6, ROM 0x028640, 8 bytes) =====
+<CLEAR>
+レディは お金をとりもどした
+
+===== MSG 03:F7 (ID 0x03F7, ROM 0x028649, 19 bytes) =====
+<SPEAKER>「へけけっ にもつが いっぱいだよ
+使うか すてるか してきてよ
+
+===== MSG 03:F8 (ID 0x03F8, ROM 0x02865D, 17 bytes) =====
+<SPEAKER>「おねえちゃん かわいいね
+ぼくの ステディにならない?
+
+===== MSG 03:F9 (ID 0x03F9, ROM 0x02866F, 71 bytes) =====
+<SPEAKER>「けけけっ また ばかな
+人間が よくに 目がくらんで
+ひっかかりやがったな けけけっ<WAIT><SPEAKER>「ぼくたち モンスターは いつも
+おまえら 人間たちに
+しいたげられてきたんだ!<WAIT><SPEAKER>「きょうは その おれいを
+たっぷりと してやるもんね
+かくごしてよねっ!
+
+===== MSG 03:FA (ID 0x03FA, ROM 0x0286B7, 36 bytes) =====
+<SPEAKER>「けけけっ じわじわと たっぷり
+おまえらを いたぶってやる!<WAIT><SPEAKER>「ごうもんに たえられたら
+ここから だして あげるよ
+
+===== MSG 03:FB (ID 0x03FB, ROM 0x0286DC, 14 bytes) =====
+<SPEAKER>「けけけっ おくすりは
+あずからせてもらうよ
+
+===== MSG 03:FC (ID 0x03FC, ROM 0x0286EB, 13 bytes) =====
+<CLEAR>
+レディは おくすりを
+ぜんぶ とられてしまった
+
+===== MSG 03:FD (ID 0x03FD, ROM 0x0286F9, 27 bytes) =====
+<SPEAKER>「この 3つの いすの どれか
+2つが しびれるはずだ<WAIT><SPEAKER>「どれか えらんで のれ!
+
+===== MSG 03:FE (ID 0x03FE, ROM 0x028715, 9 bytes) =====
+<SPEAKER>「つぎの ごうもんに 行け!
+
+===== MSG 03:FF (ID 0x03FF, ROM 0x02871F, 8 bytes) =====
+<SPEAKER>「おまえさん うんが いいな
+
+===== MSG 04:00 (ID 0x0400, ROM 0x028728, 23 bytes) =====
+<SPEAKER>「かべから 火の玉がでるぞ
+ひっしで にげまわれ!
+ではいくぞ!
+
+===== MSG 04:01 (ID 0x0401, ROM 0x028740, 13 bytes) =====
+<SPEAKER>「わはははは!
+にげろ! にげろ!
+
+===== MSG 04:02 (ID 0x0402, ROM 0x02874E, 10 bytes) =====
+<SPEAKER>「よくがんばったな! ねえちゃん!
+
+===== MSG 04:03 (ID 0x0403, ROM 0x028759, 19 bytes) =====
+<SPEAKER>「けけけ なかなか やるじゃない!
+とりあえず これを かえすよ
+
+===== MSG 04:04 (ID 0x0404, ROM 0x02876D, 10 bytes) =====
+<CLEAR>
+レディは おくすりを
+かえしてもらった
+
+===== MSG 04:05 (ID 0x0405, ROM 0x028778, 16 bytes) =====
+<SPEAKER>「けけけ なかなか やるじゃない!
+これは ごほうびだよ
+
+===== MSG 04:06 (ID 0x0406, ROM 0x028789, 7 bytes) =====
+<SPEAKER>「なあんだ じゃ やめた
+
+===== MSG 04:07 (ID 0x0407, ROM 0x028791, 43 bytes) =====
+<SPEAKER>「けけけっ でも ごうもんは
+これで おわりじゃないよ<WAIT><SPEAKER>「いまのは ほんの こてしらべさっ
+おたのしみは これからなのさ
+けけけ けけけけけっ
+
+===== MSG 04:08 (ID 0x0408, ROM 0x0287BD, 30 bytes) =====
+<SPEAKER>「このさきの てつごうしを あけたから
+となりの部屋に 行きなっ!
+そこで ほんばんなのさ けけっ
+
+===== MSG 04:09 (ID 0x0409, ROM 0x0287DC, 43 bytes) =====
+<SPEAKER>「けけけっ よく 生きのこったな
+おんなの くせに 体を
+きたえているんだな けけけっ<WAIT><SPEAKER>「きたえられた 人間は さぞ
+おいしいんだろうな けけけっ
+
+===== MSG 04:0A (ID 0x040A, ROM 0x028808, 73 bytes) =====
+<SPEAKER>「おっと! これは これは
+わかい ねーさんだねえ へへ<WAIT><SPEAKER>「ごうもんの しゅるいは
+3しゅるいだ! まずは ここ
+てっぱんじごくだ!<WAIT><SPEAKER>「てっぱんの ところどころが
+まっかに あつくなるから
+がんばって にげまわってくれ<WAIT><SPEAKER>「ほんじゃあ いくぞ!
+
+===== MSG 04:0B (ID 0x040B, ROM 0x028852, 7 bytes) =====
+<SPEAKER>「おっと! まだまだ!
+
+===== MSG 04:0C (ID 0x040C, ROM 0x02885A, 25 bytes) =====
+<SPEAKER>「へへへ わかい おんなの
+てっぱんダンスは いかすぜ
+つぎの 部屋に いきな!
+
+===== MSG 04:0D (ID 0x040D, ROM 0x028874, 72 bytes) =====
+<SPEAKER>「けけけっ ここは むかしから
+つたわる ゆいしょある
+れんがじごくの ごうもんだっ!<WAIT><SPEAKER>「いまから 上から れんがを
+おとすから それを持って 歩け!<WAIT><SPEAKER>「この れんが道を 2しゅうだ
+けけけっ すごい おもさだぞ!
+・・よし おとせっ!
+
+===== MSG 04:0E (ID 0x040E, ROM 0x0288BD, 67 bytes) =====
+<SPEAKER>「ここは ばくだんじごくだ
+上から ダイナマッドが
+たくさん おちてくる<WAIT><SPEAKER>「ただ にげているだけでは だめだ
+そこの だんさの 下に 5ひき
+なげこまなければ でられんぞ!<WAIT><SPEAKER>「それではいくぞ! うりゃ
+
+===== MSG 04:0F (ID 0x040F, ROM 0x028901, 14 bytes) =====
+<SPEAKER>「むはは むは むは
+がんばれ! がんばれ!
+
+===== MSG 04:10 (ID 0x0410, ROM 0x028910, 24 bytes) =====
+<SPEAKER>「ごくろうさん これで ごうもんは
+すべて しゅうりょうだ
+よく がんばったな
+
+===== MSG 04:11 (ID 0x0411, ROM 0x028929, 27 bytes) =====
+<SPEAKER>「こらー じじい 何いってんだ
+よけいなこと いってると
+生かして おかないぞ けけっ
+
+===== MSG 04:12 (ID 0x0412, ROM 0x028945, 9 bytes) =====
+<SPEAKER>「ジャンボ ベビーバロンさま!
+
+===== MSG 04:13 (ID 0x0413, ROM 0x02894F, 18 bytes) =====
+<SPEAKER>「ばかもの! おれのことは
+ジェイビー とよべと いったろう
+
+===== MSG 04:14 (ID 0x0414, ROM 0x028962, 26 bytes) =====
+<SPEAKER>「は<PAUSE_30> はい ジェイビーさま!
+デスバレー鉱山から ほうこくです!
+なにか みつかったようです!
+
+===== MSG 04:15 (ID 0x0415, ROM 0x02897D, 10 bytes) =====
+<SPEAKER>「なに!
+そうか よーし いいぞ!
+
+===== MSG 04:16 (ID 0x0416, ROM 0x028988, 19 bytes) =====
+<SPEAKER>「ジェイビーさまが あらわれてから
+まいにちが たのしくなったな
+
+===== MSG 04:17 (ID 0x0417, ROM 0x02899C, 38 bytes) =====
+<SPEAKER>「うんうん そうだな まったく
+すごいやつだよ ジェイビーさまは<WAIT><SPEAKER>「これから 人間が まいにち
+食えるなんて ゆめのようだね
+
+===== MSG 04:18 (ID 0x0418, ROM 0x0289C3, 25 bytes) =====
+<SPEAKER>「いや それは まだ わからないよ
+古代の装置を 復活させないと
+うまくいかない らしいよ
+
+===== MSG 04:19 (ID 0x0419, ROM 0x0289DD, 17 bytes) =====
+<SPEAKER>「魔物の ていこくを つくるとか
+いってたけど ほんとかな
+
+===== MSG 04:1A (ID 0x041A, ROM 0x0289EF, 35 bytes) =====
+<SPEAKER>「そうなれば いいけどなあ<WAIT><SPEAKER>「まあ いいや とにかく
+うっとうしい 人間たちに
+たくらみが ばれなきゃいいや
+
+===== MSG 04:1B (ID 0x041B, ROM 0x028A13, 19 bytes) =====
+<CLEAR>
+ひじょうベルの スイッチが
+おされている<WAIT>
+<CLEAR>
+もういちど おしますか?
+
+===== MSG 04:1C (ID 0x041C, ROM 0x028A27, 27 bytes) =====
+<CLEAR>
+ひじょうベルは かいじょされた
+しかし 力を いれすぎて
+スイッチが こわれてしまった
+
+===== MSG 04:1D (ID 0x041D, ROM 0x028A43, 12 bytes) =====
+<CLEAR>
+ひじょうベルの スイッチは
+こわれている
+
+===== MSG 04:1E (ID 0x041E, ROM 0x028A50, 9 bytes) =====
+<SPEAKER>「うわっ! 何もの? 人間かっ
+
+===== MSG 04:1F (ID 0x041F, ROM 0x028A5A, 9 bytes) =====
+<CLEAR>
+魔物は ひじょうベルを おした
+
+===== MSG 04:20 (ID 0x0420, ROM 0x028A64, 43 bytes) =====
+<SPEAKER>「こんなところに 人間が
+くるとは さては バロン城を
+ぬけてきおったな<WAIT><SPEAKER>「わしこそは この 地下水道の
+かんりにん ゲスタフだ!
+じごくへ 行けい!
+
+===== MSG 04:21 (ID 0x0421, ROM 0x028A90, 142 bytes) =====
+<CLEAR>
+ゆうきある 言険昔へ<WAIT>
+<CLEAR>
+わたしの 名は サジク
+古代デスランドの 謎を
+研究する 考古学昔だ<WAIT>
+<CLEAR>
+わたしは デスバレー鉱山と
+よばれる 山の 地下深くで
+ついに 化石を 発見した<WAIT>
+<CLEAR>
+伝説に すぎなかった
+巨大な トマトンの 化石だ<WAIT>
+<CLEAR>
+わたしは うちょうてんになり
+化石を 町に 持ち帰ったあと
+ふたたび 鉱山に もぐった<WAIT>
+<CLEAR>
+なぜなら もっと 化石が
+あるのでは ないかと
+おもったからだ・・・・<WAIT>
+<CLEAR>
+そして わたしは とうとう
+キングバロンの ひつぎと
+おもわれる・・・・・<WAIT>
+<CLEAR>
+てがみは ここで やぶれている
+
+===== MSG 04:22 (ID 0x0422, ROM 0x028B1F, 111 bytes) =====
+<SPEAKER>「これは! これは!
+好奇心 おうせいで げんきな
+お嬢さんでは ないですか?<WAIT><SPEAKER>「こんな 山の上まで
+いったい わざわざ 何をしに
+来たんですかな? ゲルルルル<WAIT><SPEAKER>「ゲルルル 好奇心の
+ついきゅうは 死を まねくことを
+みをもって かんじさせてやろう!<WAIT><SPEAKER>「おれは なにごとも
+じゃまされるのが へどがでるほど
+きらいでね ゲルルルル<WAIT><SPEAKER>「よーし こむすめを
+ろうやに ぶちこめっ!
+
+===== MSG 04:23 (ID 0x0423, ROM 0x028B8F, 17 bytes) =====
+<SPEAKER>「きょうの ジェイビーさまは
+ずいぶんと ごきげんだな
+
+===== MSG 04:24 (ID 0x0424, ROM 0x028BA1, 27 bytes) =====
+<SPEAKER>「そりゃ そうだよ だって<WAIT><SPEAKER>「古代の装置 復活に
+ひつような物が やっと
+発掘 できたんだもん
+
+===== MSG 04:25 (ID 0x0425, ROM 0x028BBD, 18 bytes) =====
+<SPEAKER>「ふーん ところで おまえ
+古代の装置って 何?
+おいしいのか?
+
+===== MSG 04:26 (ID 0x0426, ROM 0x028BD0, 27 bytes) =====
+<SPEAKER>「いや 装置は かんづめじゃ
+なくて なんか わからんけど
+きかい みたいなもんだって
+
+===== MSG 04:27 (ID 0x0427, ROM 0x028BEC, 5 bytes) =====
+<SPEAKER>「なんじゃ それ
+
+===== MSG 04:28 (ID 0x0428, ROM 0x028BF2, 25 bytes) =====
+<SPEAKER>「うん それを 使えば
+ぼくたちも ジェイビーさま
+みたいに 大きくなれるんだって
+
+===== MSG 04:29 (ID 0x0429, ROM 0x028C0C, 8 bytes) =====
+<SPEAKER>「へえ それは すごいな!
+
+===== MSG 04:2A (ID 0x042A, ROM 0x028C15, 9 bytes) =====
+<SPEAKER>「しっかり つかまってな!
+
+===== MSG 04:2B (ID 0x042B, ROM 0x028C1F, 7 bytes) =====
+<SPEAKER>「おっしゃー! いいぞー
+
+===== MSG 04:2C (ID 0x042C, ROM 0x028C27, 10 bytes) =====
+<SPEAKER>「うわっ おまえ いつのまにっ!
+
+===== MSG 04:2D (ID 0x042D, ROM 0x028C32, 62 bytes) =====
+<SPEAKER>「みなの ものよ! いよいよ
+われら 魔物が うまれかわる
+ときが ちかづいてきた! ゲルルル<WAIT><SPEAKER>「大きな 体と
+はったつした 脳・・・・・<WAIT><SPEAKER>「その ふたつを てに
+いれれば 人間なんぞ
+まいにちでも くえるのだ
+
+===== MSG 04:2E (ID 0x042E, ROM 0x028C71, 3 bytes) =====
+<SPEAKER>「おおー!
+
+===== MSG 04:2F (ID 0x042F, ROM 0x028C75, 27 bytes) =====
+<SPEAKER>「おまえたちの おかげで
+さがしもとめていた ひつぎも
+ついに みつけることができた
+
+===== MSG 04:30 (ID 0x0430, ROM 0x028C91, 20 bytes) =====
+<SPEAKER>「そこで きょうは
+おまえたちに とっておきの
+ショーを みせてやろう!
+
+===== MSG 04:31 (ID 0x0431, ROM 0x028CA6, 5 bytes) =====
+<SPEAKER>「おおー! おおー!
+
+===== MSG 04:32 (ID 0x0432, ROM 0x028CAC, 49 bytes) =====
+<SPEAKER>「さあ わかき 人間よ<WAIT><SPEAKER>「お前に めいよある
+しごとを あたえてやろう<WAIT><SPEAKER>「なあに かんたんなことだ
+この ひつぎを あけるだけだよ
+さあ あけろ! あけるのだ!
+
+===== MSG 04:33 (ID 0x0433, ROM 0x028CDE, 21 bytes) =====
+<SPEAKER>「えーい この よわむしがっ!
+ていこうすると いたいめに あうぞ
+
+===== MSG 04:34 (ID 0x0434, ROM 0x028CF4, 56 bytes) =====
+<SPEAKER>「うっ しまった! ちょっと
+おどかす つもりだったのに
+おれは 力が 強すぎるのだ!<WAIT><SPEAKER>「うーむ・・まいったな・・・
+あけて 中から ぶっそうなものが
+出たら オレは たまらんからな・・・
+
+===== MSG 04:35 (ID 0x0435, ROM 0x028D2D, 7 bytes) =====
+<SPEAKER>「おれが あけてやろう!
+
+===== MSG 04:36 (ID 0x0436, ROM 0x028D35, 24 bytes) =====
+<SPEAKER>「ん? モグきちが?
+ゲルルルル?
+びっくりばこだったら どうするのだ?
+
+===== MSG 04:37 (ID 0x0437, ROM 0x028D4E, 18 bytes) =====
+<SPEAKER>「ここからでも へへへ
+あけられるのさ! このオレはなっ!
+
+===== MSG 04:38 (ID 0x0438, ROM 0x028D61, 11 bytes) =====
+<SPEAKER>「おお! モグきち! すごいぞ!
+
+===== MSG 04:39 (ID 0x0439, ROM 0x028D6D, 14 bytes) =====
+<SPEAKER>「だてに 研究は
+してねえぜ! フッフッ
+
+===== MSG 04:3A (ID 0x043A, ROM 0x028D7C, 20 bytes) =====
+<SPEAKER>「どうやら ひつぎには
+わなは しかけられて ないようだな
+ゲルル
+
+===== MSG 04:3B (ID 0x043B, ROM 0x028D91, 23 bytes) =====
+<SPEAKER>「ゲルルル うおおー!
+なんてことだ! いつのまに・・・・
+ゲルルル うかつだった!
+
+===== MSG 04:3C (ID 0x043C, ROM 0x028DA9, 24 bytes) =====
+<SPEAKER>「モグきち ここは
+たのんだぞ! おれは また
+探さねば ならん物が できた
+
+===== MSG 04:3D (ID 0x043D, ROM 0x028DC2, 7 bytes) =====
+<SPEAKER>「オーケー わかった
+
+===== MSG 04:3E (ID 0x043E, ROM 0x028DCA, 35 bytes) =====
+<CLEAR>
+ヨシオの字で ふりがなが ふってある<WAIT>
+<CLEAR>
+「・・・よって 装置を
+封印することに きめた・・・
+ふたたび 行かさんと するとき
+
+===== MSG 04:3F (ID 0x043F, ROM 0x028DEE, 75 bytes) =====
+<CLEAR>
+「ちゅうじつなる わが しもべ
+ガヌビスに 白き ボールを ささげ
+わが名を しめすべし・・・さすれば<WAIT>
+<CLEAR>
+「装置は ふたたび 命を
+えるであろう・・・・・・・ただし
+黒き ボールを ささげたときは<WAIT>
+<CLEAR>
+「装置は 二度と 目を
+さますことは ないだろう・・・
+
+===== MSG 04:40 (ID 0x0440, ROM 0x028E3A, 17 bytes) =====
+<CLEAR>
+地なりと しんどうが しずまった
+落岩炉が なおったようだ
+
+===== MSG 04:41 (ID 0x0441, ROM 0x028E4C, 120 bytes) =====
+<SPEAKER>「お お嬢さまー!
+ご ごぶじでしたかっ!<WAIT><SPEAKER>「この ヨシオが どんなに
+しんぱいしたか! まったく もう!<WAIT><SPEAKER>「しかも 火をけそうと
+さわいでいたら 魔術を あらかた
+どわすれして しまいましたわい!<WAIT><SPEAKER>「おかげで お嬢さまを
+おいかけて この島に 来たとたん
+この ありさまですじゃ・・・<WAIT><SPEAKER>「とにかく お嬢さまっ!
+コックスを さがしましょう!<WAIT><SPEAKER>「たった今 この鉱山の
+どこかへ つれていかれたのです
+さあ 急ぎましょうぞ!
+
+===== MSG 04:42 (ID 0x0442, ROM 0x028EC5, 12 bytes) =====
+<CLEAR>
+ヨシオが パーティーに くわわった
+
+===== MSG 04:43 (ID 0x0443, ROM 0x028ED2, 44 bytes) =====
+<CLEAR>
+かべに ひびが はいっている
+ヨシオも がんばっていたようだ<WAIT>
+<CLEAR>
+はげしい しょうげきを あたえれば
+かべを やぶれるかもしれない・・・
+
+===== MSG 04:44 (ID 0x0444, ROM 0x028EFF, 15 bytes) =====
+<SPEAKER>「うう う うう・・・・・<WAIT><SPEAKER>「こ ここは? いったい・・・・
+
+===== MSG 04:45 (ID 0x0445, ROM 0x028F0F, 119 bytes) =====
+<SPEAKER>「あ あなたたちが わたしを
+たすけてくれたんですね・・・<WAIT><SPEAKER>「かたじけない・・いやいや
+なんと おれいを いったら
+よいか わかりません・・・・<WAIT><SPEAKER>「わたしの名は サジク
+この島で 古代の伝説の
+研究をしていた 考古学昔です<WAIT><SPEAKER>「え? 知っていなさる?
+そりゃまた どうして?<WAIT><SPEAKER>「・・・・・・そうですか
+・・・ぎせい昔が そんなに?<WAIT><SPEAKER>「すべて わたしの せいです!
+わたしが あんな物を う う
+ほりださなければ よかったのです
+
+===== MSG 04:46 (ID 0x0446, ROM 0x028F87, 220 bytes) =====
+<SPEAKER>「じつは デスバレーで 化石を
+掘り出したあと わたしは さらに
+奥で ひつぎを 発見したのです!<WAIT><SPEAKER>「とても 大きなひつぎで
+こおりのように つめたくて
+あおじろく かがやいていました<WAIT><SPEAKER>「ひつぎには 古代文字で
+キングバロン と かかれていました<WAIT><SPEAKER>「そして ひつぎを
+あけたとたん 中の むらさき色の
+大きな 何かが 目をあけて・・・<WAIT><SPEAKER>「そのあとの きおくは
+ありません・・気がつくと
+あなたたちが いたのです・・・<WAIT><SPEAKER>「はっ! こうしては いられない
+すぐに メグに あいたい! わたしの
+いとしき つま メグ!<WAIT><SPEAKER>「のちほど わたしの家に
+来てください! リバータウンの
+2かいだての 家です!<WAIT><SPEAKER>「わたしなりに 情報を せいりして
+なんとか 島を すくいたいのです!<WAIT><SPEAKER>「おっと はなしを
+いそぎすぎましたね・・・
+もういちど お話しましょうか?
+
+===== MSG 04:47 (ID 0x0447, ROM 0x029064, 17 bytes) =====
+<SPEAKER>「そうですか
+それでは しつれいします
+ヤッホー! メグー!
+
+===== MSG 04:48 (ID 0x0448, ROM 0x029076, 30 bytes) =====
+<CLEAR>
+「れいぞう中
+と かいてある<WAIT>
+<CLEAR>
+食品の しんせんさを たもつため
+とびらは とざされているようだ
+
+===== MSG 04:49 (ID 0x0449, ROM 0x029095, 18 bytes) =====
+<CLEAR>
+こおりの中に 人かげが見える
+とても すずしそうだ
+
+===== MSG 04:4A (ID 0x044A, ROM 0x0290A8, 93 bytes) =====
+<SPEAKER>「レディどの!
+お待ちしておりましたぞ!<WAIT><SPEAKER>「ボブの情報と わたしの
+ちしきを せいりしてみたところ
+おぼろげながら わかりましたぞ<WAIT><SPEAKER>「まず わたしが 発見した
+ひつぎに 入っていたモンスターは
+キングバロンでは ありませんな<WAIT><SPEAKER>「おそらく ジェイビーという
+モンスターが なんらかの理由で
+キングバロンの ひつぎに入った
+
+===== MSG 04:4B (ID 0x044B, ROM 0x029106, 7 bytes) =====
+<SPEAKER>「・・・と かんがえます
+
+===== MSG 04:4C (ID 0x044C, ROM 0x02910E, 46 bytes) =====
+<SPEAKER>「にげてきた 囚人の話でも
+ジェイビーは キングバロンの
+発明した 巨大化装置・・・・<WAIT><SPEAKER>「ぞくにいう 古代の装置を
+復活させるのに ちまなこに
+なっている と いうじゃねえか
+
+===== MSG 04:4D (ID 0x044D, ROM 0x02913D, 51 bytes) =====
+<SPEAKER>「そのてんからも ジェイビーは
+キングバロンでは ないでしょう<WAIT><SPEAKER>「では キングバロンの
+古代の装置は いったい
+どこにあるのか?<WAIT><SPEAKER>「その なぞは おそらく
+この 地図にあると わたしは
+思います!
+
+===== MSG 04:4E (ID 0x044E, ROM 0x029171, 21 bytes) =====
+<SPEAKER>「これも 掘り出した物で
+過去の 考古学昔が 作った物と
+思われますが・・・
+
+===== MSG 04:4F (ID 0x044F, ROM 0x029187, 69 bytes) =====
+<SPEAKER>「この部分 島からも はなれた
+この時代では バロンロックと
+よばれていた 巨大な 岩の島<WAIT><SPEAKER>「ここを キングバロンは
+きょてんに していたものと
+しるされています<WAIT><SPEAKER>「ただ ここには 誰も
+たどりついた ことがない・・
+とも かかれています・・
+
+===== MSG 04:50 (ID 0x0450, ROM 0x0291CD, 47 bytes) =====
+<SPEAKER>「この時代の 人たちは
+王の めいれいで この塔を
+建てた とも ありますな<WAIT><SPEAKER>「バロンロックを 見おろす
+ばしょに 塔を建てて そこで
+研究していたんでしょうな・・・
+
+===== MSG 04:51 (ID 0x0451, ROM 0x0291FD, 26 bytes) =====
+<SPEAKER>「ん? この塔の このマークは
+なんでえ? どっかで見たことが・・・
+あっ! そうだ!
+
+===== MSG 04:52 (ID 0x0452, ROM 0x029218, 14 bytes) =====
+<SPEAKER>「こりゃあ 博物館にある
+石像と そっくりだよ!
+
+===== MSG 04:53 (ID 0x0453, ROM 0x029227, 23 bytes) =====
+<SPEAKER>「うーむ その石像と
+この塔は いったい どういう
+かんけいなのか? うーむ
+
+===== MSG 04:54 (ID 0x0454, ROM 0x02923F, 105 bytes) =====
+<SPEAKER>「うぐおお! それは たしか
+はるか むかしに どこかの商人が
+持ってきた 空とぶじゅうたん!<WAIT><SPEAKER>「・・・だが だめじゃった・・ふん!
+そんな たましいの ぬけた
+じゅうたんを いまさら・・・・・・<WAIT><SPEAKER>「・・・・・・・・・・・・・・<WAIT><SPEAKER>「・・・そうかっ!・・・・・
+わたしじしんが その じゅうたんの
+たましいに なれば・・・!<WAIT><SPEAKER>「おお<PAUSE_30> 全能なる 神よ!<PAUSE_30>
+200年の わが 思いを
+いま かなえたまえ!
+
+===== MSG 04:55 (ID 0x0455, ROM 0x0292A9, 18 bytes) =====
+<SPEAKER>「さあ わたしと 空をとび
+バロンロックへ 行こうではないか!
+
+===== MSG 04:56 (ID 0x0456, ROM 0x0292BC, 18 bytes) =====
+<SPEAKER>「そこから わたしに
+とびのるがよい! さあ おいで!
+
+===== MSG 04:57 (ID 0x0457, ROM 0x0292CF, 17 bytes) =====
+<SPEAKER>「なんと よく見れば
+なかまが 死んでおるではないか!
+
+===== MSG 04:58 (ID 0x0458, ROM 0x0292E1, 46 bytes) =====
+<SPEAKER>「むう! さすがに 3人も
+乗ると すこし おもいな!<WAIT><SPEAKER>「よし いきなり バロンロックに
+行かないで すこし 島のようすを
+空から 見てから 行くとしよう!
+
+===== MSG 04:59 (ID 0x0459, ROM 0x029310, 24 bytes) =====
+<SPEAKER>「ここから さきは 海から
+ふきあがる 強い風で 進めない
+ここで おりるぞ!
+
+===== MSG 04:5A (ID 0x045A, ROM 0x029329, 80 bytes) =====
+<SPEAKER>「バロンロックは 謎だらけだ!
+キングバロンが あらゆる 仕掛けを
+実験した ところらしい・・・<WAIT><SPEAKER>「わたしは やっと この世から
+すがたを けすことができる・・・<WAIT><SPEAKER>「塔にいる わが しもべたちも
+やすらかに ねむれるだろう・・・<WAIT><SPEAKER>「ありがとう お嬢さん!
+くれぐれも 気をつけてな・・・
+
+===== MSG 04:5B (ID 0x045B, ROM 0x02937A, 47 bytes) =====
+<SPEAKER>「お嬢さま このがけは
+どうかんがえても なまみでは
+のぼれそうに ないですぞ!<WAIT><SPEAKER>「ここは いったん 町に
+もどって 島の人たちに
+ちえを かしてもらいましょうぞ!
+
+===== MSG 04:5C (ID 0x045C, ROM 0x0293AA, 82 bytes) =====
+<CLEAR>
+キングバロン
+古代名 <ICON_170><ICON_171><ICON_172><ICON_173><ICON_1AF><ICON_174><WAIT>
+<CLEAR>
+古代の王に つかえた 神官<WAIT>
+<CLEAR>
+悪魔と 人間の あいだに
+生まれた と つたえられている<WAIT>
+<CLEAR>
+神官でありながら 魔物の
+生体実験などを くりかえしたため
+ときの 王に 島流しに された<WAIT>
+<CLEAR>
+魔物の 体を 大きくする
+装置を 作ったとされているが
+かくにんは されていない・・・
+
+===== MSG 04:5D (ID 0x045D, ROM 0x0293FD, 9 bytes) =====
+<SPEAKER>「おい! 上に 誰か いるぞ!
+
+===== MSG 04:5E (ID 0x045E, ROM 0x029407, 20 bytes) =====
+<SPEAKER>「人間だ! 人間だ!
+きっと ジェイビーさまの いってた
+寝入昔にちがいない!
+
+===== MSG 04:5F (ID 0x045F, ROM 0x02941C, 19 bytes) =====
+<SPEAKER>「よーし おれたちが やっつけて
+ジェイビーさまに ほめてもらおう
+
+===== MSG 04:60 (ID 0x0460, ROM 0x029430, 20 bytes) =====
+<SPEAKER>「じゃあ まずは おれから
+行ってくるぜ! みんな!
+見ててくれよ!
+
+===== MSG 04:61 (ID 0x0461, ROM 0x029445, 18 bytes) =====
+<SPEAKER>「くそー おれの ともだちを
+よくも やっつけて くれたなー
+
+===== MSG 04:62 (ID 0x0462, ROM 0x029458, 28 bytes) =====
+<SPEAKER>「うわー 人間のくせに
+やたらと 強いぞ こいつら!
+しようがない・・・ にげろー
+
+===== MSG 04:63 (ID 0x0463, ROM 0x029475, 33 bytes) =====
+<SPEAKER>「ジェイビーさまの じゃまを
+するやつは ゆるさないぞ!<WAIT><SPEAKER>「こおりづけの おまえたちなんか
+こなごなに してやる!
+
+===== MSG 04:64 (ID 0x0464, ROM 0x029497, 7 bytes) =====
+<CLEAR>
+レディの体力が回復した
+
+===== MSG 04:65 (ID 0x0465, ROM 0x02949F, 8 bytes) =====
+<CLEAR>
+レディたちの体力が回復した
+
+===== MSG 04:66 (ID 0x0466, ROM 0x0294A8, 10 bytes) =====
+<CLEAR>
+ここでは ほのおが でない
+
+===== MSG 04:67 (ID 0x0467, ROM 0x0294B3, 7 bytes) =====
+<CLEAR>
+ガスが なくなった
+
+===== MSG 04:68 (ID 0x0468, ROM 0x0294BB, 14 bytes) =====
+<CLEAR>
+ロケットぐつに ガスをじゅうてんした
+
+===== MSG 04:69 (ID 0x0469, ROM 0x0294CA, 13 bytes) =====
+<CLEAR>
+あしもとの あなから ガスが
+噴出している
+
+===== MSG 04:6A (ID 0x046A, ROM 0x0294D8, 30 bytes) =====
+<SPEAKER>「おろかな昔に わが主の
+いだいなる 遺産を
+あたえる わけには いかぬ!<WAIT><SPEAKER>「たちさるが よい!
+
+===== MSG 04:6B (ID 0x046B, ROM 0x0294F7, 73 bytes) =====
+<SPEAKER>「わが主 キングバロンの名と
+その 白く かがやく
+ホワイトボール<WAIT><SPEAKER>「まさに キングバロンの
+後続昔の あかし!<WAIT><SPEAKER>「いま しかと この目で
+かくにんいたしましたぞ!<WAIT><SPEAKER>「キングバロンさまの
+ごめいれいどおり ふたたび
+魔物巨大化装置を 作行します!
+
+===== MSG 04:6C (ID 0x046C, ROM 0x029541, 20 bytes) =====
+<SPEAKER>「パチパチパチパチ! ゲルル
+みごとな 謎解きだよ お嬢さん!
+
+===== MSG 04:6D (ID 0x046D, ROM 0x029556, 227 bytes) =====
+<SPEAKER>「おれは この部屋の 謎が
+どうしても わからなかった・・・<WAIT><SPEAKER>「だが こんなところで
+あきらめては 何千年もねむっていた
+いみも なくなってしまう・・・<WAIT><SPEAKER>「そこで おれは 思いついた!<WAIT><SPEAKER>「はえのように おれのまわりを
+とびまわる こざかしい こむすめに
+この部屋の謎を 解かせることをな!<WAIT><SPEAKER>「ゲルルルルル あんたも
+ほんとに おりこうさんだが<WAIT><SPEAKER>「ちょっとばかり この
+ジェイビーさまの方が
+ちえが まわるって ことよ!<WAIT><SPEAKER>「お嬢ちゃんの だいじに
+持っていた ブラックボールはな!<WAIT><SPEAKER>「おれが ホワイトボールを
+黒く ぬっといた物だったのさ!
+本物は とっくに すててしまったのさ<WAIT><SPEAKER>「ゲルゲルゲル げははは
+これで キングバロンの装置も
+ついに 復活したぞ!<WAIT><SPEAKER>「お前らは この
+バロンロックで のたれ死ぬがよい!<WAIT><SPEAKER>「おれさまに ころされずに
+すむだけでも ありがたく思え!
+げはははは ゲルゲルゲル!
+
+===== MSG 04:6E (ID 0x046E, ROM 0x02963A, 102 bytes) =====
+<SPEAKER>「え?<PAUSE_30> これは? ・・・・・主人の!
+・・・・・・・・・・・・・・・・・
+う・・・う・・・サジク!<WAIT><SPEAKER>「わざわざ とどけていただいて
+ありがとうございます<WAIT><SPEAKER>「主人は きっと 生きています!
+レディさん! なんとか主人を!
+主人を みつけてください!<WAIT><SPEAKER>「むりな おねがいだとは
+わかって いるのですが・・・
+あっ! そうだわ<WAIT><SPEAKER>「どうか これを お持ちください
+ほんの おれいの 気持ちです
+
+===== MSG 04:6F (ID 0x046F, ROM 0x0296A1, 13 bytes) =====
+<SPEAKER>「ためしに かぶって
+ごらんになります?
+
+===== MSG 04:70 (ID 0x0470, ROM 0x0296AF, 8 bytes) =====
+<SPEAKER>「あらまあ ぴったり!
+
+===== MSG 04:71 (ID 0x0471, ROM 0x0296B8, 14 bytes) =====
+<SPEAKER>「とりゃー!<PAUSE_30> えいやー!<PAUSE_30>
+はあ<PAUSE_30> はあ
+
+===== MSG 04:72 (ID 0x0472, ROM 0x0296C7, 47 bytes) =====
+<SPEAKER>「わたしは しゅぎょう中の
+神官です<WAIT><SPEAKER>「でも 山おくに こもっていると
+すこし ストレスが たまります<WAIT><SPEAKER>「だから こうやって 体を
+行かして はっさん してるんです
+
+===== MSG 04:73 (ID 0x0473, ROM 0x0296F7, 50 bytes) =====
+<SPEAKER>「あなたも どうですか? この
+こおりの はしらに 向かって
+Aやー と パンチするんですよ!<WAIT><SPEAKER>「この こおりが われれば
+大きな岩をも
+くだけるかも しれませんよ!
+
+===== MSG 04:74 (ID 0x0474, ROM 0x02972A, 42 bytes) =====
+<SPEAKER>「あれっ いま何か ナイフみたいのが
+見えなかった?<WAIT><SPEAKER>「えっ そんなことない?
+げんかくを見るようでは
+まだまだ しゅぎょうが たりないな
+
+===== MSG 04:75 (ID 0x0475, ROM 0x029755, 27 bytes) =====
+<SPEAKER>「しゅぎょうで あせをかいたら
+そこの おんせんに はいるんですよ
+あなたも どうですか?
+
+===== MSG 04:76 (ID 0x0476, ROM 0x029771, 28 bytes) =====
+<SPEAKER>「ゲルゲルゲル
+こんにちは よく 会いますねえ
+ゲルゲルゲル・・・<WAIT><SPEAKER>「おーい! 聞こえてますかー?
+
+===== MSG 04:77 (ID 0x0477, ROM 0x02978E, 43 bytes) =====
+<SPEAKER>「おっとっとっと
+いかん いかん あんまり
+力を 入れては いかんな!<WAIT><SPEAKER>「ゲルゲルゲル
+では さようなら<WAIT><SPEAKER>「いずれ
+じごくで 会いましょう げへへ
+
+===== MSG 04:78 (ID 0x0478, ROM 0x0297BA, 76 bytes) =====
+<SPEAKER>「おっ そうだ お嬢さん!
+じごくの みやげに いいことを
+おしえてやろう! ゲルルルル<WAIT><SPEAKER>「この いせきの さいごの
+部屋には 古代の装置を
+作行させる しかけが あるんだよ<WAIT><SPEAKER>「ゲルルル でも そんなことは
+死んでゆく おまえらには
+なんの かんけいも ないな!<WAIT><SPEAKER>「こりゃ しつれい!
+
+===== MSG 04:79 (ID 0x0479, ROM 0x029807, 30 bytes) =====
+<CLEAR>
+持っていた 石板を
+かべの石板の下に はめこんだ<WAIT>
+<CLEAR>
+二枚の 石板は ぴったりと
+一枚に つながった!
+
+===== MSG 04:7A (ID 0x047A, ROM 0x029826, 96 bytes) =====
+<CLEAR>
+石板には 古代文字が かかれている
+ヨシオの字で ふりがなが ふってある<WAIT>
+<CLEAR>
+「いつの日か おとずれる
+いだいなる 後続昔へ<WAIT>
+<CLEAR>
+「巨大な 魔物どもに
+とうとう かこまれてしまった<WAIT>
+<CLEAR>
+「ここで みずから つくった
+化け物どもに 食われてしまっては
+<ICON_170><ICON_171><ICON_172><ICON_173><ICON_1AF><ICON_174>の 名がすたる<WAIT>
+<CLEAR>
+「よって 装置を
+封印することに きめた・・・
+ふたたび 行かさんと するとき
+
+===== MSG 04:7B (ID 0x047B, ROM 0x029887, 107 bytes) =====
+<SPEAKER>「わたしの 後続昔よ
+よくぞ ここまで 来た!<WAIT><SPEAKER>「だが ここから先の
+しれんは いままでのような
+なまやさしい ものではない・・・<WAIT><SPEAKER>「わたし以上の 頭脳を
+持つ昔でなければ 古代の装置に
+逆に しはいされてしまうからだ!<WAIT><SPEAKER>「わたしの やしきの
+謎を解き そして おのれ自身に
+勝利した時こそ・・・・・<WAIT><SPEAKER>「古代の装置へと
+通じる道が ひらかれるだろう!<WAIT><SPEAKER>「こううんを いのる・・・
+
+===== MSG 04:7C (ID 0x047C, ROM 0x0298F3, 62 bytes) =====
+<SPEAKER>「・・・さあ ここで
+自分を 見つめなおすのだ<WAIT><SPEAKER>「にくしみ いかり うらみ
+あらゆる うちなる 心こそ
+おのれ自身の 最大の敵・・<WAIT><SPEAKER>「神に ちかづきたくば
+まず おのれ自身に うち勝つのだ・・
+
+===== MSG 04:7D (ID 0x047D, ROM 0x029932, 21 bytes) =====
+<CLEAR>
+大きな鏡がある<WAIT>
+<CLEAR>
+どうしたことか 自分のすがたが
+うつっていない・・・
+
+===== MSG 04:7E (ID 0x047E, ROM 0x029948, 13 bytes) =====
+<CLEAR>
+レディたちの体が
+ちいさくなってしまった
+
+===== MSG 04:7F (ID 0x047F, ROM 0x029956, 34 bytes) =====
+<SPEAKER>「ぶはっ ぶふぉ ばかめっ
+ジェイビーさまに さからうなんて
+1000年 はやいわいっ<WAIT><SPEAKER>「ふみつぶしてやるっ
+
+===== MSG 04:80 (ID 0x0480, ROM 0x029979, 40 bytes) =====
+<SPEAKER>「ジェイビーさまからは てごわい
+こむすめと 聞いていたが
+たいしたこと なかったな<WAIT><SPEAKER>「さてと ちょっくら
+ひるねでも するか
+
+===== MSG 04:81 (ID 0x0481, ROM 0x0299A2, 12 bytes) =====
+<CLEAR>
+ヨシオの たましいが
+おたけびをあげた!
+
+===== MSG 04:82 (ID 0x0482, ROM 0x0299AF, 70 bytes) =====
+<SPEAKER>「いやー お嬢さま
+ききいっぱつ でしたのう!<WAIT><SPEAKER>「この ゆかの すきまが
+なかったら ぺったんこでしたな!
+いやいや よかったわい!<WAIT><SPEAKER>「と ひとあんしん してる
+ばあいでも ありませんな<WAIT><SPEAKER>「なんとか もとの 大きさに
+もどらないと・・・・・・
+
+===== MSG 04:83 (ID 0x0483, ROM 0x0299F6, 190 bytes) =====
+<SPEAKER>「ゲルおほほほ ゲルルル<WAIT><SPEAKER>「お前らの しつこさには
+ほとほと 頭が下がるぜ ゲルルル<WAIT><SPEAKER>「おれが いったい 何を
+したと いうのだ? ゲルルル?<WAIT><SPEAKER>「まだ なんにも しとらんよ<WAIT><SPEAKER>「魔物は ていこくを
+きずいては いけないのか?<WAIT><SPEAKER>「人間は 国を
+つくっているでは ないか!<WAIT><SPEAKER>「ふふゲルゲル! ふふふ
+お嬢さんに むつかしいことを
+いっても わかるまいな!<WAIT><SPEAKER>「だが おれは お嬢さんを
+気に入ったよ ゲルルル ほんと!<WAIT><SPEAKER>「だから おしえてやろう!
+この バロンの塔の おくに
+古代の装置が あるのだ!<WAIT><SPEAKER>「古代の装置こそ
+魔物の ていこくの ゲルっ
+みなもとと なるのだ ゲルル<WAIT><SPEAKER>「ゲルゲル ぐわぐぶゲル
+げごぐげええええ ゲルぐははひひ
+げひひひひいひいひいひひいいー
+
+===== MSG 04:84 (ID 0x0484, ROM 0x029AB5, 66 bytes) =====
+<SPEAKER>「とうとう ここまで 来たか
+ならば とくと おがむがいい
+この 古代の装置をなっ!<WAIT><SPEAKER>「そして おまえたちに
+おれと おなじ くるしみを
+あじあわせて やろう!<WAIT><SPEAKER>「ゲルルルルルルル
+おまえら 3人まとめて
+装置に たたきこんでやるっ!
+
+===== MSG 04:85 (ID 0x0485, ROM 0x029AF8, 27 bytes) =====
+<SPEAKER>「あぐぐ<PAUSE_30> あぐぐぐぐぐ<PAUSE_60>
+あの日<PAUSE_30> おれは<PAUSE_30> もりを
+さんぽしていた・・・・・
+
+===== MSG 04:86 (ID 0x0486, ROM 0x029B14, 8 bytes) =====
+<CLEAR>
+何千年もまえ デスランド島
+
+===== MSG 04:87 (ID 0x0487, ROM 0x029B1D, 17 bytes) =====
+<SPEAKER>「らん らん らん
+にんげんでも おどかそうかな
+
+===== MSG 04:88 (ID 0x0488, ROM 0x029B2F, 17 bytes) =====
+<SPEAKER>「ぐはははは こんどは
+ベビーバロンで 実験だ ひひひひ
+
+===== MSG 04:89 (ID 0x0489, ROM 0x029B41, 13 bytes) =====
+<SPEAKER>「うわー なんだこれ
+なんだこれ うわー
+
+===== MSG 04:8A (ID 0x048A, ROM 0x029B4F, 9 bytes) =====
+<SPEAKER>「うわー<PAUSE_30> や<PAUSE_30>め<PAUSE_30>てー
+
+===== MSG 04:8B (ID 0x048B, ROM 0x029B59, 27 bytes) =====
+<SPEAKER>「知能の高いベビーバロンが
+どう 生まれ変わるかが
+最大の 見どころじゃな・・ひひ
+
+===== MSG 04:8C (ID 0x048C, ROM 0x029B75, 25 bytes) =====
+<SPEAKER>「う<PAUSE_30>ぐ<PAUSE_30>おお あたまが・・<PAUSE_30>
+あたまが いたい・・<PAUSE_30>
+からだが おもい・・
+
+===== MSG 04:8D (ID 0x048D, ROM 0x029B8F, 34 bytes) =====
+<SPEAKER>「ひえひえひえっ
+やったぞ しゃべりおった<WAIT><SPEAKER>「脳には 何も
+えいきょうは ないぞ!
+やったぞ やったぞ ひひひ
+
+===== MSG 04:8E (ID 0x048E, ROM 0x029BB2, 38 bytes) =====
+<SPEAKER>「ジェイビー!
+ジェイビーは どこじゃ?<WAIT><SPEAKER>「もっと もっとじゃ!
+どんどん 魔物を 大きくするのじゃ!
+ぜんぶつかまえてくるのじゃ! ひひひ
+
+===== MSG 04:8F (ID 0x048F, ROM 0x029BD9, 114 bytes) =====
+<SPEAKER>「装置を 使って
+でかくなった モンスターの中で
+知能を 維持できたのは おれだけだ<WAIT><SPEAKER>「だから キングバロンは
+おれを どれいのように
+こきつかいやがった・・・<WAIT><SPEAKER>「島中の 魔物をつかまえて
+装置に ほおりこみ・・・
+おたけびを あげる キングバロン<WAIT><SPEAKER>「悪魔ぞくの おれが
+いうのも 変な話だが<WAIT><SPEAKER>「あのときの キングバロンは
+まさに 悪魔 そのものだった・・・<WAIT><SPEAKER>「見ろ おまえたち!
+おれの この すがたを!
+
+===== MSG 04:90 (ID 0x0490, ROM 0x029C4C, 66 bytes) =====
+<SPEAKER>「この 悪魔の 発明は
+おれの 体を
+めちゃくちゃに しやがった<WAIT><SPEAKER>「おまえらも 大きく
+なりたいだろう? ゲグググ<WAIT><SPEAKER>「くるしみを わかちあい
+ともに じごくへ 行こうじゃないか!<WAIT><SPEAKER>「その前に 最後の
+おくりものを やろう!
+
+===== MSG 04:91 (ID 0x0491, ROM 0x029C8F, 16 bytes) =====
+<SPEAKER>「見上げた こんじょうだな
+記録は いらんというのか?
+
+===== MSG 04:92 (ID 0x0492, ROM 0x029CA0, 5 bytes) =====
+<SPEAKER>「用意は いいな?
+
+===== MSG 04:93 (ID 0x0493, ROM 0x029CA6, 14 bytes) =====
+<SPEAKER>「ならば すぐに
+装置に たたきこんでやる!
+
+===== MSG 04:94 (ID 0x0494, ROM 0x029CB5, 95 bytes) =====
+<SPEAKER>「う<PAUSE_30> ぐ<PAUSE_30> げ<PAUSE_30> ぐ<PAUSE_30> ぐぐ<WAIT><SPEAKER>「お おれは 島中が
+でかい 魔物だらけになったとき
+すぐに にげたんだ・・・うぐぐ<WAIT><SPEAKER>「そして やつの作った
+冬眠用の ひつぎに はいって
+時が たつのを 待った・・・<WAIT><SPEAKER>「うぐぐ だが けっきょく
+ぶざまに じごくへ 行くのかっ
+くくく<PAUSE_30> くくくくくく<PAUSE_30> げぼっ
+
+===== MSG 04:95 (ID 0x0495, ROM 0x029D15, 63 bytes) =====
+<SPEAKER>「ぐおおおお<PAUSE_30> ぐぼぎああ<PAUSE_30>
+体が あつい<PAUSE_30> うおおおおお
+頭が われる<PAUSE_30> うおおおおお<WAIT><SPEAKER>「ジェイビーは どこじゃあ?
+魔物が せめてきたぞおおお
+おいはらええええ ぐばげぼおおおお
+
+===== MSG 04:96 (ID 0x0496, ROM 0x029D55, 43 bytes) =====
+<SPEAKER>「ゲル ゲル ゲハハハ
+ばかか おまえらは・・・
+せっかく 命びろいをしたものを・・・<WAIT><SPEAKER>「わざわざ ころされに
+もどって来るとはなっ!
+
+===== MSG 04:97 (ID 0x0497, ROM 0x029D81, 13 bytes) =====
+<CLEAR>
+コックスの たましいが
+おたけびを あげた!
+
+===== MSG 04:98 (ID 0x0498, ROM 0x029D8F, 80 bytes) =====
+<SPEAKER>「あのー お嬢さま・・・
+古代の装置を ほっといて
+いいんでしょうか?<WAIT><SPEAKER>「何千年にも わたって
+おおぜいの 人や 魔物の
+うんめいをくるわせ 命をうばった・・<WAIT><SPEAKER>「ジェイビーが いってましたね
+悪魔の発明と・・・<WAIT><SPEAKER>「こんな おそろしいことが
+二度と おきないように こわして
+しまったら いかがでしょう?
+
+===== MSG 04:99 (ID 0x0499, ROM 0x029DE0, 14 bytes) =====
+ヨシオの たましいが
+おたけびを あげた!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:9A (ID 0x049A, ROM 0x029DEF, 37 bytes) =====
+<SPEAKER>「自分のつくった装置に
+ころされたような ものですな
+・・・・・・・・<PAUSE_60>悲惨じゃ・・・<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「・・・・さあ お嬢さま
+町へ もどりましょうぞ!
+<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:9B (ID 0x049B, ROM 0x029E15, 42 bytes) =====
+<CLEAR>
+見上げるような 大きな
+きかいがある
+<WAIT>
+<CLEAR>
+これが キングバロンの
+魔物巨大化装置だ・・・
+<WAIT>
+<CLEAR>
+中から かすかに こどうのような
+音が 聞こえる・・・
+
+===== MSG 04:9C (ID 0x049C, ROM 0x029E40, 24 bytes) =====
+<SPEAKER>「ゲル ゲル ゲハハハ
+よく もどって来たな 人間ども!
+さあ 続きをやろうぜ!
+
+===== MSG 04:9D (ID 0x049D, ROM 0x029E59, 69 bytes) =====
+<SPEAKER>「レディさん! ほんとうに
+どうも ありがとう!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「おかげで 島も もとの
+活気を とりもどせそうです!
+<PAUSE_60><PAUSE_60><PAUSE_60>
+それにしても レディさん!<PAUSE_60><PAUSE_60>
+<SPEAKER>「島の いせきを りようして
+ゆうえんちに しようなんて
+よく かんがえましたねえ!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:9E (ID 0x049E, ROM 0x029E9F, 41 bytes) =====
+<SPEAKER>「それでね あたしらも
+デスランドに かわる 新しい
+名前を かんがえましたよ!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「ほら 見てくださいよ!
+上 ですよ! 上 上!
+<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:9F (ID 0x049F, ROM 0x029EC9, 50 bytes) =====
+<SPEAKER>「レディさまに ちなんで
+じゃじゃうまランド
+あっしが 名づけたんでさあ!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「ありゃ! あんなところに
+ジェイビーの 像が!
+誰が 置いたんだ? いったい?<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:A0 (ID 0x04A0, ROM 0x029EFC, 18 bytes) =====
+<SPEAKER>「お嬢さまでしょ?
+ジェイビー像を あそこに
+置いたのは?<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:A1 (ID 0x04A1, ROM 0x029F0F, 17 bytes) =====
+<SPEAKER>「だって 花火くらい
+見せて あげても いいじゃない?<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:A2 (ID 0x04A2, ROM 0x029F21, 3 bytes) =====
+<SPEAKER>「でやっ!
+
+===== MSG 04:A3 (ID 0x04A3, ROM 0x029F25, 25 bytes) =====
+<SPEAKER>「・・・・ええ・と・
+5たす7から1ひくから・・・・
+・・・・・・11ねっ! へへん!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:A4 (ID 0x04A4, ROM 0x029F3F, 51 bytes) =====
+<SPEAKER>「・・むむう! 正解ですな!
+それにしても お嬢様 今日は
+やけに まじめですな・・・・<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「また何か わるさを
+たくらんでおるんでしょう?
+でへへ はくじょうせんかい!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:A5 (ID 0x04A5, ROM 0x029F73, 53 bytes) =====
+<SPEAKER>「あいかわらず
+うたぐりぶかい じじいね!
+ふん! 何にもたくらんでないわよっ<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「ほざいてないで つぎの
+べんきょうの じゅんびを
+さっさと しなよ!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:A6 (ID 0x04A6, ROM 0x029FA9, 29 bytes) =====
+<SPEAKER>「いやいやいやいや わしは
+しんじませんぞ! むむむ さては
+また ばくだんを このへやに?<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:A7 (ID 0x04A7, ROM 0x029FC7, 31 bytes) =====
+<SPEAKER>「はあ はあ はあ ぐはあー
+どうやら わしの 思いちがいの
+ようじゃのう ふあー よかった!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:A8 (ID 0x04A8, ROM 0x029FE7, 51 bytes) =====
+<SPEAKER>「何が よかったよ
+この あたしが おんなじことを
+二度も やるわけないでしょ!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「べんきょうするのか
+しないのか どっちなのよ?
+この かおでかじじいっ!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:A9 (ID 0x04A9, ROM 0x02A01B, 24 bytes) =====
+<SPEAKER>「むふぉおおお!・・・・
+い いかん ここでおこったら
+お嬢様の 思うツボ・・・・<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:AA (ID 0x04AA, ROM 0x02A034, 28 bytes) =====
+<SPEAKER>「むふぉふぉ そうですな・・
+ほいでゃあ こ これなんか
+どうでげすかのう・・これ!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:AB (ID 0x04AB, ROM 0x02A051, 50 bytes) =====
+<SPEAKER>「これですじゃよ! これこれ!
+謎のデスランド島伝説! これは
+お嬢様むきの 本ですぞ!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「ちょっと 難解ですじゃが
+読めるようになると お父様は
+おおよろこびですぞ!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:AC (ID 0x04AC, ROM 0x02A084, 25 bytes) =====
+<SPEAKER>「ふうん おもしろそうね
+じゃあ 読むから しばらく
+ひとりに してくれない?<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:AD (ID 0x04AD, ROM 0x02A09E, 45 bytes) =====
+<SPEAKER>「おお! ワンダフルな!
+お嬢様! ついに 知せいに
+おめざめですな ひいひいひい<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「よろしいですとも!
+何時間でも お読みくださいな
+<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:AE (ID 0x04AE, ROM 0x02A0CC, 33 bytes) =====
+<SPEAKER>「へええ 魔物巨大化装置?
+なんだか すごそうだわ<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「でも 古代文字ばっかりで
+読めないわ! むかつくわ!
+<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:AF (ID 0x04AF, ROM 0x02A0EE, 26 bytes) =====
+<SPEAKER>「ヨシオさまは ほんとに
+うたぐりぶかいですね だから
+おくさん にげたんですよ<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B0 (ID 0x04B0, ROM 0x02A109, 38 bytes) =====
+<SPEAKER>「なんじゃと! いきなり
+わけのわからんこと いうな!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「おまえこそ なんじゃ!
+オカマじゃという うわさじゃぞ!
+<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B1 (ID 0x04B1, ROM 0x02A130, 16 bytes) =====
+<SPEAKER>「うわあ そのとーりー!
+チュー チュー チュー<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B2 (ID 0x04B2, ROM 0x02A141, 47 bytes) =====
+<SPEAKER>「うるさいわね! そとから
+のぞいて ギャーギャー
+わめいてんじゃないわよ!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「あんたたち ほんとに
+あたしに べんきょう
+させる気があるの?<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B3 (ID 0x04B3, ROM 0x02A171, 29 bytes) =====
+<SPEAKER>「行くわよ デスランド島へ!
+ああ 体がうずく! ああ
+はやく あばれまわりたい!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B4 (ID 0x04B4, ROM 0x02A18F, 15 bytes) =====
+<SPEAKER>「今日は しくじれないわ!
+・・・・・・・・・よおし!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B5 (ID 0x04B5, ROM 0x02A19F, 30 bytes) =====
+<SPEAKER>「げはっはっはっ あまいですな
+このヨシオ お嬢様の お考えは
+すべて お見通しですわい<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B6 (ID 0x04B6, ROM 0x02A1BE, 47 bytes) =====
+<SPEAKER>「くっ あたしのやることを
+わかってて 待ちぶせするなんて
+ほんとに いやなやつね<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「かならず にげてやるわ!
+この ハゲじじい!
+<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B7 (ID 0x04B7, ROM 0x02A1EE, 18 bytes) =====
+<SPEAKER>「お嬢様 おねがいですから
+おとなしくしてくださいよお!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B8 (ID 0x04B8, ROM 0x02A201, 12 bytes) =====
+<SPEAKER>「いたいわね!
+あんたも グルね!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:B9 (ID 0x04B9, ROM 0x02A20E, 33 bytes) =====
+<SPEAKER>「げふぉっふぉっふぉ
+何をやっても われわれからは
+にげられませんよ!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+<SPEAKER>「あきらめて くだされ
+
+<PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:BA (ID 0x04BA, ROM 0x02A230, 18 bytes) =====
+<SPEAKER>「ヨシオぬかったわね
+向こうのドアが あいてるわよ!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:BB (ID 0x04BB, ROM 0x02A243, 8 bytes) =====
+<SPEAKER>「しかたがありませんな<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:BC (ID 0x04BC, ROM 0x02A24C, 12 bytes) =====
+<SPEAKER>「そんなものには
+あたらないよーだっ!<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:BD (ID 0x04BD, ROM 0x02A259, 10 bytes) =====
+<SPEAKER>「な なんですと
+と とりゃー<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:BE (ID 0x04BE, ROM 0x02A264, 17 bytes) =====
+<SPEAKER>「ヨ ヨシオさまー
+やめてくだされー 火じだー<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:BF (ID 0x04BF, ROM 0x02A276, 5 bytes) =====
+<SPEAKER>「お お嬢様ー<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:C0 (ID 0x04C0, ROM 0x02A27C, 14 bytes) =====
+<SPEAKER>「帰るまでには
+家を なおしておいてね<PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60><PAUSE_60>
+
+===== MSG 04:C1 (ID 0x04C1, ROM 0x02A28B, 12 bytes) =====
+<CLEAR>
+ビーカーの中に
+まものエキスを みつけた
+
+===== MSG 04:C2 (ID 0x04C2, ROM 0x02A298, 17 bytes) =====
+<CLEAR>
+ビーカーの中に
+まものエキスが 入っている
+持っていきますか?
+
+===== MSG 04:C3 (ID 0x04C3, ROM 0x02A2AA, 42 bytes) =====
+<SPEAKER>「もしもし! こちらデスランド
+テレショッピングサーヴィスだ!
+まいど ありがとうよ!<WAIT><SPEAKER>「どこでも 一発道具を
+おとどけするぜ!
+
+===== DYNAMIC LOOKUP STRINGS =====
+These names and short phrases are inserted by message control codes.
+
+--- BYTE LOOKUP 000 (entity/name, ROM 0x0D8092) ---
+レディ
+
+--- BYTE LOOKUP 001 (entity/name, ROM 0x0D8098) ---
+コックス
+
+--- BYTE LOOKUP 002 (entity/name, ROM 0x0D809E) ---
+ヨシオ
+
+--- BYTE LOOKUP 003 (entity/name, ROM 0x0D80A3) ---
+モグきち
+
+--- BYTE LOOKUP 004 (entity/name, ROM 0x0D80AA) ---
+バーボ
+
+--- BYTE LOOKUP 005 (entity/name, ROM 0x0D80B1) ---
+ボブ
+
+--- BYTE LOOKUP 006 (entity/name, ROM 0x0D80B7) ---
+こボブ
+
+--- BYTE LOOKUP 007 (entity/name, ROM 0x0D80BE) ---
+じじボブ
+
+--- BYTE LOOKUP 008 (entity/name, ROM 0x0D80C8) ---
+サジク
+
+--- BYTE LOOKUP 009 (entity/name, ROM 0x0D80CE) ---
+メグ
+
+--- BYTE LOOKUP 010 (entity/name, ROM 0x0D80D3) ---
+ラムス
+
+--- BYTE LOOKUP 011 (entity/name, ROM 0x0D80D8) ---
+カプリ
+
+--- BYTE LOOKUP 012 (entity/name, ROM 0x0D80DE) ---
+コレクタ
+
+--- BYTE LOOKUP 013 (entity/name, ROM 0x0D80E4) ---
+じじいのこえ
+
+--- BYTE LOOKUP 014 (entity/name, ROM 0x0D80EE) ---
+ぐんしゅう
+
+--- BYTE LOOKUP 015 (entity/name, ROM 0x0D80F6) ---
+ぐんしゅう
+
+--- BYTE LOOKUP 016 (entity/name, ROM 0x0D80FE) ---
+ベビすけ
+
+--- BYTE LOOKUP 017 (entity/name, ROM 0x0D8106) ---
+ベビへい
+
+--- BYTE LOOKUP 018 (entity/name, ROM 0x0D810E) ---
+ベビた
+
+--- BYTE LOOKUP 019 (entity/name, ROM 0x0D8115) ---
+ベビオ
+
+--- BYTE LOOKUP 020 (entity/name, ROM 0x0D811C) ---
+ジェイビー
+
+--- BYTE LOOKUP 021 (entity/name, ROM 0x0D8125) ---
+ヘブリ
+
+--- BYTE LOOKUP 022 (entity/name, ROM 0x0D812B) ---
+ドドヘイ
+
+--- BYTE LOOKUP 023 (entity/name, ROM 0x0D8133) ---
+ゲムコ
+
+--- BYTE LOOKUP 024 (entity/name, ROM 0x0D8139) ---
+ミニー
+
+--- BYTE LOOKUP 025 (entity/name, ROM 0x0D813E) ---
+デモリン
+
+--- BYTE LOOKUP 026 (entity/name, ROM 0x0D8145) ---
+ゆきぼう
+
+--- BYTE LOOKUP 027 (entity/name, ROM 0x0D814C) ---
+ガヌビス
+
+--- BYTE LOOKUP 028 (entity/name, ROM 0x0D8154) ---
+※
+
+--- BYTE LOOKUP 029 (entity/name, ROM 0x0D8157) ---
+※
+
+--- BYTE LOOKUP 030 (entity/name, ROM 0x0D815A) ---
+※
+
+--- BYTE LOOKUP 031 (entity/name, ROM 0x0D815D) ---
+キングバロン
+
+--- BYTE LOOKUP 032 (entity/name, ROM 0x0D8167) ---
+※
+
+--- BYTE LOOKUP 033 (entity/name, ROM 0x0D816A) ---
+イノブ
+
+--- BYTE LOOKUP 034 (entity/name, ROM 0x0D8170) ---
+ベビー
+
+--- BYTE LOOKUP 035 (entity/name, ROM 0x0D8177) ---
+まみ
+
+--- BYTE LOOKUP 036 (entity/name, ROM 0x0D817B) ---
+ヤス
+
+--- BYTE LOOKUP 037 (entity/name, ROM 0x0D817F) ---
+リカ
+
+--- BYTE LOOKUP 038 (entity/name, ROM 0x0D8183) ---
+ゲム
+
+--- BYTE LOOKUP 039 (entity/name, ROM 0x0D8188) ---
+※
+
+--- BYTE LOOKUP 040 (entity/name, ROM 0x0D818B) ---
+トマトン
+
+--- BYTE LOOKUP 041 (entity/name, ROM 0x0D8191) ---
+グリーンパパ
+
+--- BYTE LOOKUP 042 (entity/name, ROM 0x0D819C) ---
+わるいフェアリー
+
+--- BYTE LOOKUP 043 (entity/name, ROM 0x0D81A6) ---
+くされトマトン
+
+--- BYTE LOOKUP 044 (entity/name, ROM 0x0D81AF) ---
+ピーハンマ
+
+--- BYTE LOOKUP 045 (entity/name, ROM 0x0D81B7) ---
+きょだいミミー
+
+--- BYTE LOOKUP 046 (entity/name, ROM 0x0D81C1) ---
+どくもんじろう
+
+--- BYTE LOOKUP 047 (entity/name, ROM 0x0D81CC) ---
+ミドラ
+
+--- BYTE LOOKUP 048 (entity/name, ROM 0x0D81D2) ---
+モクン
+
+--- BYTE LOOKUP 049 (entity/name, ROM 0x0D81D7) ---
+ボワドローン
+
+--- BYTE LOOKUP 050 (entity/name, ROM 0x0D81E1) ---
+あくまパピー
+
+--- BYTE LOOKUP 051 (entity/name, ROM 0x0D81EB) ---
+かいふくくん
+
+--- BYTE LOOKUP 052 (entity/name, ROM 0x0D81F3) ---
+いかれブーメラン
+
+--- BYTE LOOKUP 053 (entity/name, ROM 0x0D81FE) ---
+リーハウンゼン
+
+--- BYTE LOOKUP 054 (entity/name, ROM 0x0D8208) ---
+すいまミドラ
+
+--- BYTE LOOKUP 055 (entity/name, ROM 0x0D8211) ---
+きょうふせんし
+
+--- BYTE LOOKUP 056 (entity/name, ROM 0x0D821A) ---
+はらだし
+
+--- BYTE LOOKUP 057 (entity/name, ROM 0x0D8221) ---
+じごくおじさん
+
+--- BYTE LOOKUP 058 (entity/name, ROM 0x0D822D) ---
+しろいミイラ
+
+--- BYTE LOOKUP 059 (entity/name, ROM 0x0D8235) ---
+ゴールドトマト
+
+--- BYTE LOOKUP 060 (entity/name, ROM 0x0D8240) ---
+かんでんくん
+
+--- BYTE LOOKUP 061 (entity/name, ROM 0x0D8249) ---
+ピラルク
+
+--- BYTE LOOKUP 062 (entity/name, ROM 0x0D8250) ---
+キングマンタ
+
+--- BYTE LOOKUP 063 (entity/name, ROM 0x0D8259) ---
+たこばんにん
+
+--- BYTE LOOKUP 064 (entity/name, ROM 0x0D8262) ---
+あやつりボーイ
+
+--- BYTE LOOKUP 065 (entity/name, ROM 0x0D826C) ---
+ナメテルトボン
+
+--- BYTE LOOKUP 066 (entity/name, ROM 0x0D8276) ---
+しゅらさま
+
+--- BYTE LOOKUP 067 (entity/name, ROM 0x0D827D) ---
+ミャミャン
+
+--- BYTE LOOKUP 068 (entity/name, ROM 0x0D8284) ---
+だいかいふくくん
+
+--- BYTE LOOKUP 069 (entity/name, ROM 0x0D828F) ---
+クリオイ
+
+--- BYTE LOOKUP 070 (entity/name, ROM 0x0D8295) ---
+ジャンボトマト
+
+--- BYTE LOOKUP 071 (entity/name, ROM 0x0D82A0) ---
+でんきブーメラン
+
+--- BYTE LOOKUP 072 (entity/name, ROM 0x0D82AC) ---
+モルグのひと
+
+--- BYTE LOOKUP 073 (entity/name, ROM 0x0D82B5) ---
+イッキュウ
+
+--- BYTE LOOKUP 074 (entity/name, ROM 0x0D82BC) ---
+ドンカチー
+
+--- BYTE LOOKUP 075 (entity/name, ROM 0x0D82C4) ---
+バネデトム
+
+--- BYTE LOOKUP 076 (entity/name, ROM 0x0D82CD) ---
+でんねつぐも
+
+--- BYTE LOOKUP 077 (entity/name, ROM 0x0D82D7) ---
+びっくりばこ
+
+--- BYTE LOOKUP 078 (entity/name, ROM 0x0D82E1) ---
+ファイア
+
+--- BYTE LOOKUP 079 (entity/name, ROM 0x0D82E7) ---
+ひだるまじじい
+
+--- BYTE LOOKUP 080 (entity/name, ROM 0x0D82F3) ---
+かなしいひとだま
+
+--- BYTE LOOKUP 081 (entity/name, ROM 0x0D82FE) ---
+ほっきょくぐも
+
+--- BYTE LOOKUP 082 (entity/name, ROM 0x0D8308) ---
+コールデス
+
+--- BYTE LOOKUP 083 (entity/name, ROM 0x0D8310) ---
+スナイパー
+
+--- BYTE LOOKUP 084 (entity/name, ROM 0x0D8318) ---
+アカイナズマ
+
+--- BYTE LOOKUP 085 (entity/name, ROM 0x0D8321) ---
+テンタクルス
+
+--- BYTE LOOKUP 086 (entity/name, ROM 0x0D8329) ---
+アイスマジシャン
+
+--- BYTE LOOKUP 087 (entity/name, ROM 0x0D8334) ---
+ボディ
+
+--- BYTE LOOKUP 088 (entity/name, ROM 0x0D833B) ---
+アイスマッシュ
+
+--- BYTE LOOKUP 089 (entity/name, ROM 0x0D8344) ---
+サンズ
+
+--- BYTE LOOKUP 090 (entity/name, ROM 0x0D834A) ---
+ベビーバロン
+
+--- BYTE LOOKUP 091 (entity/name, ROM 0x0D8355) ---
+むきむきおとこ
+
+--- BYTE LOOKUP 092 (entity/name, ROM 0x0D835E) ---
+マジックキャット
+
+--- BYTE LOOKUP 093 (entity/name, ROM 0x0D8369) ---
+マジカール
+
+--- BYTE LOOKUP 094 (entity/name, ROM 0x0D8371) ---
+スゴイカイフク
+
+--- BYTE LOOKUP 095 (entity/name, ROM 0x0D837B) ---
+パワーミドラ
+
+--- BYTE LOOKUP 096 (entity/name, ROM 0x0D8385) ---
+どくゲロマスタ
+
+--- BYTE LOOKUP 097 (entity/name, ROM 0x0D8390) ---
+ロボソルジャー
+
+--- BYTE LOOKUP 098 (entity/name, ROM 0x0D839B) ---
+デビルズナイト
+
+--- BYTE LOOKUP 099 (entity/name, ROM 0x0D83A7) ---
+レイハリーマン
+
+--- BYTE LOOKUP 100 (entity/name, ROM 0x0D83B0) ---
+ブラックドラゴン
+
+--- BYTE LOOKUP 101 (entity/name, ROM 0x0D83BD) ---
+ダイナマッド
+
+--- BYTE LOOKUP 102 (entity/name, ROM 0x0D83C7) ---
+しのはこ
+
+--- BYTE LOOKUP 103 (entity/name, ROM 0x0D83CD) ---
+よみのばんにん
+
+--- BYTE LOOKUP 104 (entity/name, ROM 0x0D83D7) ---
+ニンジャナイト
+
+--- BYTE LOOKUP 105 (entity/name, ROM 0x0D83E1) ---
+ベビーデビル
+
+--- BYTE LOOKUP 106 (entity/name, ROM 0x0D83ED) ---
+ブラディナイト
+
+--- BYTE LOOKUP 107 (entity/name, ROM 0x0D83F8) ---
+くされダイヤ
+
+--- BYTE LOOKUP 108 (entity/name, ROM 0x0D8401) ---
+スカール
+
+--- BYTE LOOKUP 109 (entity/name, ROM 0x0D8407) ---
+ちをすうやいば
+
+--- BYTE LOOKUP 110 (entity/name, ROM 0x0D8411) ---
+ふっかつマイト
+
+--- BYTE LOOKUP 111 (entity/name, ROM 0x0D841A) ---
+かいふくでかトマト
+
+--- BYTE LOOKUP 112 (entity/name, ROM 0x0D8426) ---
+マジックアーム
+
+--- BYTE LOOKUP 113 (entity/name, ROM 0x0D8430) ---
+まにんぎょう
+
+--- BYTE LOOKUP 114 (entity/name, ROM 0x0D8439) ---
+チェンジ
+
+--- BYTE LOOKUP 115 (entity/name, ROM 0x0D8440) ---
+おしごとあくま
+
+--- BYTE LOOKUP 116 (entity/name, ROM 0x0D844A) ---
+きりさきジャック
+
+--- BYTE LOOKUP 117 (entity/name, ROM 0x0D8455) ---
+かたいおとこ
+
+--- BYTE LOOKUP 118 (entity/name, ROM 0x0D845D) ---
+パラノフリー
+
+--- BYTE LOOKUP 119 (entity/name, ROM 0x0D8466) ---
+ウイングドラゴン
+
+--- BYTE LOOKUP 120 (entity/name, ROM 0x0D8473) ---
+あやしいはにわ
+
+--- BYTE LOOKUP 121 (entity/name, ROM 0x0D847C) ---
+ナラスーベニール
+
+--- BYTE LOOKUP 122 (entity/name, ROM 0x0D8487) ---
+ハニワスター
+
+--- BYTE LOOKUP 123 (entity/name, ROM 0x0D848F) ---
+とけい
+
+--- BYTE LOOKUP 124 (entity/name, ROM 0x0D8494) ---
+しょくだい
+
+--- BYTE LOOKUP 125 (entity/name, ROM 0x0D849C) ---
+ベビーバロン
+
+--- BYTE LOOKUP 126 (entity/name, ROM 0x0D84A7) ---
+げんしドジー
+
+--- BYTE LOOKUP 127 (entity/name, ROM 0x0D84B2) ---
+ゲスタフ
+
+--- BYTE LOOKUP 128 (entity/name, ROM 0x0D84B9) ---
+ゲドー
+
+--- BYTE LOOKUP 129 (entity/name, ROM 0x0D84C0) ---
+デモリン
+
+--- BYTE LOOKUP 130 (entity/name, ROM 0x0D84C7) ---
+ミニー
+
+--- BYTE LOOKUP 131 (entity/name, ROM 0x0D84CC) ---
+ゆきぼう
+
+--- BYTE LOOKUP 132 (entity/name, ROM 0x0D84D3) ---
+ジェイビーペット
+
+--- BYTE LOOKUP 133 (entity/name, ROM 0x0D84E0) ---
+にせレディ
+
+--- BYTE LOOKUP 134 (entity/name, ROM 0x0D84E8) ---
+にせコックス
+
+--- BYTE LOOKUP 135 (entity/name, ROM 0x0D84F0) ---
+にせヨシオ
+
+--- BYTE LOOKUP 136 (entity/name, ROM 0x0D84F7) ---
+ジェイビー
+
+--- BYTE LOOKUP 137 (entity/name, ROM 0x0D8500) ---
+ジャビー
+
+--- BYTE LOOKUP 138 (entity/name, ROM 0x0D8508) ---
+すいどうだこ
+
+--- BYTE LOOKUP 139 (entity/name, ROM 0x0D8512) ---
+キングバロン
+
+--- BYTE LOOKUP 140 (entity/name, ROM 0x0D851C) ---
+むきむきヘッド
+
+--- BYTE LOOKUP 141 (entity/name, ROM 0x0D8526) ---
+ドラゴンヘッド
+
+--- BYTE LOOKUP 142 (entity/name, ROM 0x0D8532) ---
+はなちょうちん
+
+--- BYTE LOOKUP 143 (entity/name, ROM 0x0D853B) ---
+<EMPTY>
+
+--- BYTE LOOKUP 144 (entity/name, ROM 0x0D853D) ---
+あ
+
+--- BYTE LOOKUP 145 (entity/name, ROM 0x0D8540) ---
+い
+
+--- BYTE LOOKUP 146 (entity/name, ROM 0x0D8543) ---
+う
+
+--- BYTE LOOKUP 147 (entity/name, ROM 0x0D8546) ---
+ロッククラッシュ
+
+--- BYTE LOOKUP 148 (entity/name, ROM 0x0D8550) ---
+スティンガー
+
+--- BYTE LOOKUP 149 (entity/name, ROM 0x0D8559) ---
+スピンヒールキック
+
+--- BYTE LOOKUP 150 (entity/name, ROM 0x0D8565) ---
+シャドウファング
+
+--- BYTE LOOKUP 151 (entity/name, ROM 0x0D8571) ---
+サマーソルト
+
+--- BYTE LOOKUP 152 (entity/name, ROM 0x0D8579) ---
+ラットトラップ
+
+--- BYTE LOOKUP 153 (entity/name, ROM 0x0D8583) ---
+レディスペシャル
+
+--- BYTE LOOKUP 154 (entity/name, ROM 0x0D858F) ---
+ブランディッシュ
+
+--- BYTE LOOKUP 155 (entity/name, ROM 0x0D859B) ---
+レディたち
+
+--- BYTE LOOKUP 156 (entity/name, ROM 0x0D85A3) ---
+<EMPTY>
+
+--- BYTE LOOKUP 157 (entity/name, ROM 0x0D85A5) ---
+ボワ
+
+--- BYTE LOOKUP 158 (entity/name, ROM 0x0D85AA) ---
+ボワワ
+
+--- BYTE LOOKUP 159 (entity/name, ROM 0x0D85B0) ---
+ズガ
+
+--- BYTE LOOKUP 160 (entity/name, ROM 0x0D85B6) ---
+ズガガン
+
+--- BYTE LOOKUP 161 (entity/name, ROM 0x0D85BF) ---
+ビカ
+
+--- BYTE LOOKUP 162 (entity/name, ROM 0x0D85C4) ---
+ビカデカー
+
+--- BYTE LOOKUP 163 (entity/name, ROM 0x0D85CD) ---
+コルド
+
+--- BYTE LOOKUP 164 (entity/name, ROM 0x0D85D3) ---
+ソーコルド
+
+--- BYTE LOOKUP 165 (entity/name, ROM 0x0D85DB) ---
+アイシー
+
+--- BYTE LOOKUP 166 (entity/name, ROM 0x0D85E1) ---
+シニ
+
+--- BYTE LOOKUP 167 (entity/name, ROM 0x0D85E5) ---
+シネネ
+
+--- BYTE LOOKUP 168 (entity/name, ROM 0x0D85EA) ---
+ダウン
+
+--- BYTE LOOKUP 169 (entity/name, ROM 0x0D85F0) ---
+ソダウン
+
+--- BYTE LOOKUP 170 (entity/name, ROM 0x0D85F7) ---
+ダマリーン
+
+--- BYTE LOOKUP 171 (entity/name, ROM 0x0D85FF) ---
+チュー
+
+--- BYTE LOOKUP 172 (entity/name, ROM 0x0D8604) ---
+ダブラップ
+
+--- BYTE LOOKUP 173 (entity/name, ROM 0x0D860E) ---
+<EMPTY>
+
+--- BYTE LOOKUP 174 (entity/name, ROM 0x0D8610) ---
+アップ
+
+--- BYTE LOOKUP 175 (entity/name, ROM 0x0D8616) ---
+ソアップ
+
+--- BYTE LOOKUP 176 (entity/name, ROM 0x0D861D) ---
+マボロシ
+
+--- BYTE LOOKUP 177 (entity/name, ROM 0x0D8624) ---
+チャジ
+
+--- BYTE LOOKUP 178 (entity/name, ROM 0x0D862A) ---
+チャージ
+
+--- BYTE LOOKUP 179 (entity/name, ROM 0x0D8631) ---
+フルチャ
+
+--- BYTE LOOKUP 180 (entity/name, ROM 0x0D8637) ---
+ミナチャジ
+
+--- BYTE LOOKUP 181 (entity/name, ROM 0x0D863F) ---
+ミナマンタン
+
+--- BYTE LOOKUP 182 (entity/name, ROM 0x0D8647) ---
+チャネル
+
+--- BYTE LOOKUP 183 (entity/name, ROM 0x0D864D) ---
+リンネル
+
+--- BYTE LOOKUP 184 (entity/name, ROM 0x0D8653) ---
+チュウワ
+
+--- BYTE LOOKUP 185 (entity/name, ROM 0x0D8659) ---
+ザップ
+
+--- BYTE LOOKUP 186 (entity/name, ROM 0x0D8660) ---
+テンソー
+
+--- BYTE LOOKUP 187 (entity/name, ROM 0x0D8666) ---
+ザコナイ
+
+--- BYTE LOOKUP 188 (entity/name, ROM 0x0D866D) ---
+ゴムグツ
+
+--- BYTE LOOKUP 189 (entity/name, ROM 0x0D8675) ---
+ネムネム
+
+--- BYTE LOOKUP 190 (entity/name, ROM 0x0D867B) ---
+ネムグーグ
+
+--- BYTE LOOKUP 191 (entity/name, ROM 0x0D8684) ---
+ジバック
+
+--- BYTE LOOKUP 192 (entity/name, ROM 0x0D868C) ---
+バクジバ
+
+--- BYTE LOOKUP 193 (entity/name, ROM 0x0D8695) ---
+ボワ
+
+--- BYTE LOOKUP 194 (entity/name, ROM 0x0D869A) ---
+ボワワ
+
+--- BYTE LOOKUP 195 (entity/name, ROM 0x0D86A0) ---
+ズガ
+
+--- BYTE LOOKUP 196 (entity/name, ROM 0x0D86A6) ---
+ズガガン
+
+--- BYTE LOOKUP 197 (entity/name, ROM 0x0D86AF) ---
+アイシー
+
+--- BYTE LOOKUP 198 (entity/name, ROM 0x0D86B5) ---
+ビカデカー
+
+--- BYTE LOOKUP 199 (entity/name, ROM 0x0D86BE) ---
+<EMPTY>
+
+--- BYTE LOOKUP 200 (entity/name, ROM 0x0D86C0) ---
+<EMPTY>
+
+--- BYTE LOOKUP 201 (entity/name, ROM 0x0D86C2) ---
+<EMPTY>
+
+--- BYTE LOOKUP 202 (entity/name, ROM 0x0D86C4) ---
+<EMPTY>
+
+--- BYTE LOOKUP 203 (entity/name, ROM 0x0D86C6) ---
+<EMPTY>
+
+--- BYTE LOOKUP 204 (entity/name, ROM 0x0D86C8) ---
+<EMPTY>
+
+--- BYTE LOOKUP 205 (entity/name, ROM 0x0D86CA) ---
+<EMPTY>
+
+--- BYTE LOOKUP 206 (entity/name, ROM 0x0D86CC) ---
+<EMPTY>
+
+--- BYTE LOOKUP 207 (entity/name, ROM 0x0D86CE) ---
+<EMPTY>
+
+--- BYTE LOOKUP 208 (entity/name, ROM 0x0D86D0) ---
+<EMPTY>
+
+--- BYTE LOOKUP 209 (entity/name, ROM 0x0D86D2) ---
+<EMPTY>
+
+--- BYTE LOOKUP 210 (entity/name, ROM 0x0D86D4) ---
+<EMPTY>
+
+--- BYTE LOOKUP 211 (entity/name, ROM 0x0D86D6) ---
+<EMPTY>
+
+--- BYTE LOOKUP 212 (entity/name, ROM 0x0D86D8) ---
+ズガ
+
+--- BYTE LOOKUP 213 (entity/name, ROM 0x0D86DE) ---
+ズガガン
+
+--- BYTE LOOKUP 214 (entity/name, ROM 0x0D86E7) ---
+<EMPTY>
+
+--- BYTE LOOKUP 215 (entity/name, ROM 0x0D86E9) ---
+<EMPTY>
+
+--- BYTE LOOKUP 216 (entity/name, ROM 0x0D86EB) ---
+<EMPTY>
+
+--- BYTE LOOKUP 217 (entity/name, ROM 0x0D86ED) ---
+<EMPTY>
+
+--- BYTE LOOKUP 218 (entity/name, ROM 0x0D86EF) ---
+<EMPTY>
+
+--- BYTE LOOKUP 219 (entity/name, ROM 0x0D86F1) ---
+チェンジ
+
+--- BYTE LOOKUP 220 (entity/name, ROM 0x0D86F8) ---
+<EMPTY>
+
+--- BYTE LOOKUP 221 (entity/name, ROM 0x0D86FA) ---
+<EMPTY>
+
+--- BYTE LOOKUP 222 (entity/name, ROM 0x0D86FC) ---
+<EMPTY>
+
+--- BYTE LOOKUP 223 (entity/name, ROM 0x0D86FE) ---
+<EMPTY>
+
+--- BYTE LOOKUP 224 (entity/name, ROM 0x0D8700) ---
+<EMPTY>
+
+--- BYTE LOOKUP 225 (entity/name, ROM 0x0D8702) ---
+<EMPTY>
+
+--- BYTE LOOKUP 226 (item/name, ROM 0x0D8704) ---
+スコップ
+
+--- BYTE LOOKUP 227 (item/name, ROM 0x0D870B) ---
+こんぼう
+
+--- BYTE LOOKUP 228 (item/name, ROM 0x0D8712) ---
+キチンナイフ
+
+--- BYTE LOOKUP 229 (item/name, ROM 0x0D871A) ---
+ごしんぼう
+
+--- BYTE LOOKUP 230 (item/name, ROM 0x0D8723) ---
+ヘビーナイフ
+
+--- BYTE LOOKUP 231 (item/name, ROM 0x0D872C) ---
+コブラスコップ
+
+--- BYTE LOOKUP 232 (item/name, ROM 0x0D8737) ---
+ニードル
+
+--- BYTE LOOKUP 233 (item/name, ROM 0x0D873E) ---
+ボワスコップ
+
+--- BYTE LOOKUP 234 (item/name, ROM 0x0D8748) ---
+シャネブーツ
+
+--- BYTE LOOKUP 235 (item/name, ROM 0x0D8751) ---
+おうのナイフ
+
+--- BYTE LOOKUP 236 (item/name, ROM 0x0D8759) ---
+パワードロッド
+
+--- BYTE LOOKUP 237 (item/name, ROM 0x0D8765) ---
+あかいハイヒール
+
+--- BYTE LOOKUP 238 (item/name, ROM 0x0D876F) ---
+ふういんスコップ
+
+--- BYTE LOOKUP 239 (item/name, ROM 0x0D877A) ---
+ガラスのくつ
+
+--- BYTE LOOKUP 240 (item/name, ROM 0x0D8783) ---
+ツークラッチ
+
+--- BYTE LOOKUP 241 (item/name, ROM 0x0D878B) ---
+ホーリーナイフ
+
+--- BYTE LOOKUP 242 (item/name, ROM 0x0D8794) ---
+アンデッドナイフ
+
+--- BYTE LOOKUP 243 (item/name, ROM 0x0D87A0) ---
+ファイアブーツ
+
+--- BYTE LOOKUP 244 (item/name, ROM 0x0D87AA) ---
+ひのでるスコップ
+
+--- BYTE LOOKUP 245 (item/name, ROM 0x0D87B6) ---
+19ばん
+
+--- BYTE LOOKUP 246 (item/name, ROM 0x0D87BD) ---
+ゴールデンソード
+
+--- BYTE LOOKUP 247 (item/name, ROM 0x0D87CA) ---
+レノブーツ
+
+--- BYTE LOOKUP 248 (item/name, ROM 0x0D87D2) ---
+パワーブーツ
+
+--- BYTE LOOKUP 249 (item/name, ROM 0x0D87DC) ---
+ヘルブーツ
+
+--- BYTE LOOKUP 250 (item/name, ROM 0x0D87E4) ---
+ブーツ
+
+--- BYTE LOOKUP 251 (item/name, ROM 0x0D87EA) ---
+ララバイブーツ
+
+--- BYTE LOOKUP 252 (item/name, ROM 0x0D87F5) ---
+アイスナイフ
+
+--- BYTE LOOKUP 253 (item/name, ROM 0x0D87FD) ---
+ウィップ
+
+--- BYTE LOOKUP 254 (item/name, ROM 0x0D8804) ---
+レノウィップ
+
+--- BYTE LOOKUP 255 (item/name, ROM 0x0D880D) ---
+ローズウィップ
+
+--- BYTE LOOKUP 256 (item/name, ROM 0x0D8818) ---
+イノブのかぎ
+
+--- BYTE LOOKUP 257 (item/name, ROM 0x0D8822) ---
+だいりせきのかぎ
+
+--- BYTE LOOKUP 258 (item/name, ROM 0x0D882E) ---
+バロンのほうき
+
+--- BYTE LOOKUP 259 (item/name, ROM 0x0D8838) ---
+バロンのえのぐ
+
+--- BYTE LOOKUP 260 (item/name, ROM 0x0D8843) ---
+とうめいなかぎ
+
+--- BYTE LOOKUP 261 (item/name, ROM 0x0D884D) ---
+たんけんにっき
+
+--- BYTE LOOKUP 262 (item/name, ROM 0x0D8856) ---
+ガヌビスのかぎ
+
+--- BYTE LOOKUP 263 (item/name, ROM 0x0D8862) ---
+てつのくつ
+
+--- BYTE LOOKUP 264 (item/name, ROM 0x0D8869) ---
+リルちゃん
+
+--- BYTE LOOKUP 265 (item/name, ROM 0x0D8870) ---
+ガヌビスのしるし
+
+--- BYTE LOOKUP 266 (item/name, ROM 0x0D887C) ---
+キングにんぎょう
+
+--- BYTE LOOKUP 267 (item/name, ROM 0x0D8888) ---
+ロケットぐつ
+
+--- BYTE LOOKUP 268 (item/name, ROM 0x0D8891) ---
+おようふく
+
+--- BYTE LOOKUP 269 (item/name, ROM 0x0D8898) ---
+よそいきのふく
+
+--- BYTE LOOKUP 270 (item/name, ROM 0x0D88A1) ---
+けいこぎ
+
+--- BYTE LOOKUP 271 (item/name, ROM 0x0D88A8) ---
+レザースーツ
+
+--- BYTE LOOKUP 272 (item/name, ROM 0x0D88B1) ---
+レザードレス
+
+--- BYTE LOOKUP 273 (item/name, ROM 0x0D88BB) ---
+チェインメイル
+
+--- BYTE LOOKUP 274 (item/name, ROM 0x0D88C4) ---
+ボディコート
+
+--- BYTE LOOKUP 275 (item/name, ROM 0x0D88CE) ---
+ごうきんのふく
+
+--- BYTE LOOKUP 276 (item/name, ROM 0x0D88D8) ---
+さいしんのふく
+
+--- BYTE LOOKUP 277 (item/name, ROM 0x0D88E1) ---
+おうのよろい
+
+--- BYTE LOOKUP 278 (item/name, ROM 0x0D88E9) ---
+ていばんのコート
+
+--- BYTE LOOKUP 279 (item/name, ROM 0x0D88F4) ---
+しんぴのふく
+
+--- BYTE LOOKUP 280 (item/name, ROM 0x0D88FD) ---
+ヘブンコート
+
+--- BYTE LOOKUP 281 (item/name, ROM 0x0D8906) ---
+ボディコンシャス
+
+--- BYTE LOOKUP 282 (item/name, ROM 0x0D8912) ---
+ひけしのふく
+
+--- BYTE LOOKUP 283 (item/name, ROM 0x0D891A) ---
+アテナスーツ
+
+--- BYTE LOOKUP 284 (item/name, ROM 0x0D8922) ---
+ゴールドコート
+
+--- BYTE LOOKUP 285 (item/name, ROM 0x0D892D) ---
+デビルコート
+
+--- BYTE LOOKUP 286 (item/name, ROM 0x0D8937) ---
+チャイナドレス
+
+--- BYTE LOOKUP 287 (item/name, ROM 0x0D8941) ---
+チャイナブーツ
+
+--- BYTE LOOKUP 288 (item/name, ROM 0x0D894B) ---
+ペナント
+
+--- BYTE LOOKUP 289 (item/name, ROM 0x0D8952) ---
+いしのたて
+
+--- BYTE LOOKUP 290 (item/name, ROM 0x0D8959) ---
+きんぞくたて
+
+--- BYTE LOOKUP 291 (item/name, ROM 0x0D8962) ---
+おうのたて
+
+--- BYTE LOOKUP 292 (item/name, ROM 0x0D8969) ---
+しんぴのたて
+
+--- BYTE LOOKUP 293 (item/name, ROM 0x0D8972) ---
+じゅんきんのたて
+
+--- BYTE LOOKUP 294 (item/name, ROM 0x0D897D) ---
+せいなるたて
+
+--- BYTE LOOKUP 295 (item/name, ROM 0x0D8985) ---
+チャイナパッド
+
+--- BYTE LOOKUP 296 (item/name, ROM 0x0D8990) ---
+こうらのこて
+
+--- BYTE LOOKUP 297 (item/name, ROM 0x0D8998) ---
+<EMPTY>
+
+--- BYTE LOOKUP 298 (item/name, ROM 0x0D899A) ---
+<EMPTY>
+
+--- BYTE LOOKUP 299 (item/name, ROM 0x0D899C) ---
+きれのぼうし
+
+--- BYTE LOOKUP 300 (item/name, ROM 0x0D89A5) ---
+コックぼう
+
+--- BYTE LOOKUP 301 (item/name, ROM 0x0D89AD) ---
+ピナぼうし
+
+--- BYTE LOOKUP 302 (item/name, ROM 0x0D89B6) ---
+テンガロンハット
+
+--- BYTE LOOKUP 303 (item/name, ROM 0x0D89C1) ---
+レディウォッチ
+
+--- BYTE LOOKUP 304 (item/name, ROM 0x0D89CB) ---
+ヘルメット
+
+--- BYTE LOOKUP 305 (item/name, ROM 0x0D89D2) ---
+ゴールドハット
+
+--- BYTE LOOKUP 306 (item/name, ROM 0x0D89DD) ---
+ベビーマスク
+
+--- BYTE LOOKUP 307 (item/name, ROM 0x0D89E7) ---
+チャイナぼうし
+
+--- BYTE LOOKUP 308 (item/name, ROM 0x0D89F1) ---
+シアネルリボン
+
+--- BYTE LOOKUP 309 (item/name, ROM 0x0D89FB) ---
+ベルサチスコップ
+
+--- BYTE LOOKUP 310 (item/name, ROM 0x0D8A07) ---
+おくすり
+
+--- BYTE LOOKUP 311 (item/name, ROM 0x0D8A0D) ---
+どくちゅうわ
+
+--- BYTE LOOKUP 312 (item/name, ROM 0x0D8A16) ---
+マヒノン
+
+--- BYTE LOOKUP 313 (item/name, ROM 0x0D8A1C) ---
+おふだ
+
+--- BYTE LOOKUP 314 (item/name, ROM 0x0D8A22) ---
+スプリング
+
+--- BYTE LOOKUP 315 (item/name, ROM 0x0D8A2B) ---
+まかいのにく
+
+--- BYTE LOOKUP 316 (item/name, ROM 0x0D8A33) ---
+マジックウォータ
+
+--- BYTE LOOKUP 317 (item/name, ROM 0x0D8A3E) ---
+テレショップ
+
+--- BYTE LOOKUP 318 (item/name, ROM 0x0D8A47) ---
+ゲムおかし
+
+--- BYTE LOOKUP 319 (item/name, ROM 0x0D8A4F) ---
+パワーチャージ
+
+--- BYTE LOOKUP 320 (item/name, ROM 0x0D8A5A) ---
+カジノのコイン
+
+--- BYTE LOOKUP 321 (item/name, ROM 0x0D8A64) ---
+ひかるビーダマ
+
+--- BYTE LOOKUP 322 (item/name, ROM 0x0D8A6F) ---
+チカルシウム
+
+--- BYTE LOOKUP 323 (item/name, ROM 0x0D8A77) ---
+チャージンガム
+
+--- BYTE LOOKUP 324 (item/name, ROM 0x0D8A82) ---
+チョコレータム
+
+--- BYTE LOOKUP 325 (item/name, ROM 0x0D8A8B) ---
+マジキャンデー
+
+--- BYTE LOOKUP 326 (item/name, ROM 0x0D8A96) ---
+ライブアゲイン
+
+--- BYTE LOOKUP 327 (item/name, ROM 0x0D8AA1) ---
+セントウォーター
+
+--- BYTE LOOKUP 328 (item/name, ROM 0x0D8AAB) ---
+ルイスウィップ
+
+--- BYTE LOOKUP 329 (item/name, ROM 0x0D8AB5) ---
+バリアウィップ
+
+--- BYTE LOOKUP 330 (item/name, ROM 0x0D8AC0) ---
+スノウウィップ
+
+--- BYTE LOOKUP 331 (item/name, ROM 0x0D8ACA) ---
+ビザ
+
+--- BYTE LOOKUP 332 (item/name, ROM 0x0D8AD0) ---
+くろいかぎ
+
+--- BYTE LOOKUP 333 (item/name, ROM 0x0D8AD8) ---
+すいどうのかぎ
+
+--- BYTE LOOKUP 334 (item/name, ROM 0x0D8AE3) ---
+にゅうじょうけん
+
+--- BYTE LOOKUP 335 (item/name, ROM 0x0D8AEE) ---
+ケーブルのきっぷ
+
+--- BYTE LOOKUP 336 (item/name, ROM 0x0D8AFA) ---
+バロンくん4
+
+--- BYTE LOOKUP 337 (item/name, ROM 0x0D8B03) ---
+うえきばさみ
+
+--- BYTE LOOKUP 338 (item/name, ROM 0x0D8B0C) ---
+あおいかぎ
+
+--- BYTE LOOKUP 339 (item/name, ROM 0x0D8B14) ---
+あかいかぎ
+
+--- BYTE LOOKUP 340 (item/name, ROM 0x0D8B1C) ---
+バロンのめ
+
+--- BYTE LOOKUP 341 (item/name, ROM 0x0D8B24) ---
+サジクのてがみ
+
+--- BYTE LOOKUP 342 (item/name, ROM 0x0D8B2F) ---
+せきばん
+
+--- BYTE LOOKUP 343 (item/name, ROM 0x0D8B36) ---
+まものエキス
+
+--- BYTE LOOKUP 344 (item/name, ROM 0x0D8B3E) ---
+こだいのほん
+
+--- BYTE LOOKUP 345 (item/name, ROM 0x0D8B47) ---
+ホワイトボール
+
+--- BYTE LOOKUP 346 (item/name, ROM 0x0D8B51) ---
+ブラックボール
+
+--- BYTE LOOKUP 347 (item/name, ROM 0x0D8B5C) ---
+ラムスのぞう
+
+--- BYTE LOOKUP 348 (item/name, ROM 0x0D8B65) ---
+ふるいちず
+
+--- BYTE LOOKUP 349 (item/name, ROM 0x0D8B6D) ---
+ふるいじゅうたん
+
+--- BYTE LOOKUP 350 (item/name, ROM 0x0D8B78) ---
+まほうじゅうたん
+
+--- BYTE LOOKUP 351 (item/name, ROM 0x0D8B83) ---
+こおりのかぎ
+
+--- WORD LOOKUP 000 (dynamic phrase, ROM 0x0D91CB) ---
+お嬢さん
+
+--- WORD LOOKUP 001 (dynamic phrase, ROM 0x0D91D6) ---
+おニイさん
+
+--- WORD LOOKUP 002 (dynamic phrase, ROM 0x0D91E3) ---
+おじいさん
+
+--- WORD LOOKUP 003 (dynamic phrase, ROM 0x0D91F2) ---
+お嬢ちゃん
+
+--- WORD LOOKUP 004 (dynamic phrase, ROM 0x0D91FF) ---
+色男
+
+--- WORD LOOKUP 005 (dynamic phrase, ROM 0x0D9206) ---
+じいさん
+
