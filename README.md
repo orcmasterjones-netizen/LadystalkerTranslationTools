@@ -1,12 +1,29 @@
-# Lady Stalker extraction and retranslation kit
+# Experimental Lady Stalker extraction and retranslation kit
 
-This package extracts the Japanese text from the headerless Super Famicom ROM
-`Lady Stalker - Kako kara no Chousen (Japan).sfc`. It also analyzes the existing
-ENG v1.0 machine-translation patch, pairs its English with the Japanese source,
-and can compile edited workspaces into an overlay IPS. The reinserter can also
-produce one combined overlay containing the edited translation, exact
-Landstalker USA dialogue font, fit-safe spacing, and the ENG-v1.0 battle-message
-renderer fix with a correct final checksum.
+Credit to **RetchErezzed** for the English machine-translation patch for
+*Lady Stalker: Kako kara no Chousen* (Super Famicom/SNES):
+
+- [Lady Stalker ENG v1.0 on ROMhacking.net](https://www.romhacking.net/translations/7687/)
+
+A viewable spreadsheet comparing the machine translation with the corrected
+Japanese text is also available:
+
+- [Lady Stalker translation workspace on Google Sheets](https://docs.google.com/spreadsheets/d/1r9tgzWNMF61ixo1x2PMF-ePCaV6QFM3urqfz5nA3llY/edit?gid=510070301#gid=510070301)
+
+This package extracts the Japanese text from the exact headerless Super Famicom
+ROM `Lady Stalker - Kako kara no Chousen (Japan).sfc`. It also analyzes the
+existing ENG v1.0 patch, pairs its English with the Japanese source, and can
+compile edited workspaces into an overlay IPS containing replacement script,
+lookup-table, pointer, and checksum data. An optional combined mode also imports
+the exact Landstalker USA dialogue font, enables fit-safe spacing, and installs
+the ENG-v1.0 battle-message renderer fix before calculating one final checksum.
+
+The goal is to provide a practical starting point for a human translation or
+human-edited retranslation. The toolkit is experimental and has not been
+exhaustively tested, so translators should verify the Japanese rip, preserve
+control tags, and carefully playtest every generated build. No guarantees are
+made about translation accuracy, line fit, or complete in-game coverage of
+every visual text element.
 
 ## Results
 
@@ -18,27 +35,31 @@ renderer fix with a correct final checksum.
 - Every valid compressed message reaches the game's `0x1C0` end symbol
 - No unknown character glyphs occur in the compressed message bank
 
+The human-readable dump is `ladystalker_japanese_text.txt`. It contains the
+message bank first, followed by the lookup strings that the engine inserts at
+runtime.
+
+The extractor does not copy the original ROM into its output. The reinsertion
+tool can optionally create a complete ROM for private testing; do not distribute
+ROM images.
+
 ## Japanese glyph-map correction
 
 The current files correct eleven visually similar kanji that were mislabeled in
 the first generated Unicode dump: `行→動`, `昔→者`, `苦→昔`, `言→冒`, `落→溶`,
-`土→士`, `士→土`, `営→管`, `寝→侵`, `刻→剣`, and `続→継`. Examples include
-`自動`, `学者`, `冒険`, `溶岩`, `兵士`, `水道管`, `侵入`, and `後継者`.
+`土→士`, `士→土`, `営→管`, `寝→侵`, `刻→剣`, and `続→継`. Corrected examples
+include `自動`, `学者`, `冒険`, `溶岩`, `兵士`, `水道管`, `侵入`, and `後継者`.
 
 This correction changes only the human-readable Unicode rendering. Message IDs,
 ROM offsets, raw symbol codes, controls, row alignment, and English references
 are unchanged.
 
-The human-readable dump is `ladystalker_japanese_text.txt`. It contains the
-message bank first, followed by the lookup strings that the engine inserts at
-runtime.
-
-The supplied ROM itself is not copied into any output.
-
 ## Files
 
 | File | Purpose |
 | --- | --- |
+| `LadyStalker_Retranslation_Kit_v4.zip` | Downloadable copy of the current complete toolkit |
+| `LadyStalker_Translation_Workspace_Corrected.xlsx` | Formatted workbook containing the dialogue, lookups, and glyph-correction audit |
 | `ladystalker_japanese_text.txt` | Readable UTF-8 dump of messages and dynamic lookup strings |
 | `ladystalker_japanese_text.tsv` | Lossless message table with IDs, ROM offsets, compressed sizes, raw symbols, and Unicode text |
 | `ladystalker_lookup_strings.tsv` | Entity names, item names, and dynamic phrases with offsets and raw codes |
@@ -46,58 +67,228 @@ The supplied ROM itself is not copied into any output.
 | `ladystalker_extract.py` | Reproducible extractor |
 | `ladystalker_script_workspace.tsv` | Japanese and machine-English messages with an empty professional-translation column |
 | `ladystalker_lookup_workspace.tsv` | Japanese and machine-English names/items/phrases with an editable translation column |
-| `LadyStalker_Translation_Workspace_Corrected.xlsx` | Formatted three-sheet workbook for Excel or Google Sheets, including the glyph-correction audit |
 | `ladystalker_machine_english_text.txt` | Readable reference dump from ENG v1.0 |
 | `ladystalker_patch_workspace.py` | Reproducibly rebuild the paired workspaces |
 | `ladystalker_reinsert.py` | Compile edited workspaces; optionally include the exact Landstalker font and battle-message fix in one overlay IPS |
 | `ladystalker_patch_map.json` | Machine-readable addresses and record counts |
-| `PATCH_ANALYSIS.md` | Reverse-engineering findings and proof |
+| `PATCH_ANALYSIS.md` | Reverse-engineering findings and supporting evidence |
 | `TRANSLATOR_GUIDE.md` | Editing, compilation, and QA workflow |
 | `CHANGELOG.md` | Package correction and release notes |
+| `Lady_Stalker_Landstalker_Font_FitSafe_v1.1.ips` | Standalone exact-Landstalker-font and battle-message-fix overlay for ENG v1.0 |
+| `ladystalker_landstalker_font.py` | Reproducibly rebuild the standalone font overlay from both verified ROMs |
+| `Landstalker_Exact_Dialogue_Font_Sheet.png` | Extracted Landstalker font reference sheet |
+| `QA_REPORT.md` | Standalone font-patch testing and technical notes |
 
-## Optional combined Landstalker-font build
+## Standalone Landstalker-font patch
 
-The normal reinserter command still creates a text-only overlay. To create one
-combined patch containing the edited translation and the complete Landstalker
-font v1.1 add-on, supply the exact US Landstalker ROM:
+`Lady_Stalker_Landstalker_Font_FitSafe_v1.1.ips` is an optional overlay for
+players who want to keep the released ENG v1.0 translation while replacing its
+dialogue font with the exact font from the USA release of *Landstalker*.
+
+Use a **headerless** Lady Stalker ROM and apply the patches in this order:
+
+1. Japanese Lady Stalker ROM → `Lady_Stalker_ENG_v10.ips`
+2. Resulting ENG v1.0 ROM → `Lady_Stalker_Landstalker_Font_FitSafe_v1.1.ips`
+
+The ROM expected before step 2 is exactly 4 MiB and has this SHA-256:
+
+```text
+3a698798b844e248cd3cf612941d18d1837bc6af1805df18b6eff609bc97e3cf
+```
+
+After applying the standalone v1.1 overlay, the ROM should have this SHA-256:
+
+```text
+c127b04160416c62c0c049543a2badfc52c4bea839cded8221decf1284e12964
+```
+
+Version 1.1:
+
+- imports 81 exact printable-ASCII glyphs from Landstalker USA;
+- changes the word-space advance from 12 to 7 internal units so every literal
+  line in the released ENG v1.0 script stays within the existing 240-unit line
+  budget; and
+- fixes ENG v1.0's separate 8×8 battle-message path, which supplied English
+  ASCII but displayed Japanese-looking tiles for notices such as
+  `Tomaton attacked!`.
+
+The conditional battle hook affects only direct English messages. Original
+compressed/fallback messages, control symbols, and unrelated game code retain
+their previous behavior. The overlay does not rewrite the translation, menus,
+game logic, or frame-timing code.
+
+The actual standalone patch remains **v1.1**. There is no separate v1.2 patch.
+For a professionally edited script, do not stack this standalone overlay over a
+newly generated translation IPS; use the combined reinserter mode documented
+below so every change receives one correct final checksum.
+
+The Landstalker glyph artwork remains an original game asset. This repository
+grants no license to that artwork; obtain appropriate permission before public
+redistribution.
+
+## Retranslation quick start
+
+The compiler reads these two UTF-8 TSV files:
+
+- `ladystalker_script_workspace.tsv`: dialogue and system messages
+- `ladystalker_lookup_workspace.tsv`: names, items, and dynamic phrases
+
+Enter new text only in `professional_translation`. Leave the Japanese and
+machine-reference columns unchanged. A blank professional-translation cell
+deliberately falls back to `machine_english_reference`, allowing partially
+translated builds to be compiled and tested.
+
+For example, message `0x0000` initially contains:
+
+| Field | Text |
+| --- | --- |
+| Japanese | `その 方向には 何もない<WAIT_INPUT>` |
+| Machine English | `There's nothing that way.<WAIT_INPUT>` |
+| Professional translation | `Nothing lies in that direction.<WAIT_INPUT>` |
+
+Keep identifier fields such as `message_id` unchanged, including their leading
+zeroes. If a spreadsheet program automatically reformats identifiers, import
+those columns as text. Preserve the exact column names and row order.
+
+`LadyStalker_Translation_Workspace_Corrected.xlsx` contains the same workspaces
+as formatted `Dialogue` and `Lookups` sheets, plus a `Glyph Corrections` audit
+sheet. It is convenient for Excel or Google Sheets. The compiler still requires
+TSV input, so export the two workspace sheets as UTF-8 TSV files with their
+original headers and filenames before compiling.
+
+### Controls and supported characters
+
+Keep runtime tags intact and in the same order unless you deliberately intend
+to change engine behavior. Important examples include:
+
+- `<SPEAKER>`: insert the current speaker's name
+- `<INSERT_A>` through `<INSERT_D>`: insert a runtime-selected name or phrase
+- `<NUMBER>`: insert a runtime number
+- `<WAIT>` and `<WAIT_INPUT>`: pause or wait for input
+- `<PAUSE_30>` and `<PAUSE_60>`: timed pauses
+- `<CLEAR>`: clear/reset the text area
+- `<LINE>`: the original patch's explicit line control
+
+A real newline inside a spreadsheet cell becomes the normal in-game newline:
+
+```text
+This is the first line.
+This is the second line.<WAIT_INPUT>
+```
+
+The compiler rejects accidental changes to structural controls by default. Use
+`--allow-control-changes` only for a deliberate, tested edit. To intentionally
+compile an empty record or lookup value, enter `<EMPTY>` by itself.
+
+The dialogue font supports printable ASCII. Use straight quotes and apostrophes;
+curly characters such as `’`, `“`, and `”`, as well as em dashes and Unicode
+ellipsis characters, are unsupported. The smaller system font used for names,
+items, and other lookup strings has a more limited character set. The compiler
+reports unsupported characters instead of silently corrupting them.
+
+### Build the overlay IPS
+
+First apply `Lady_Stalker_ENG_v10.ips` to the exact headerless Japanese ROM.
+The resulting 4 MiB ENG v1.0 ROM must have this SHA-256:
+
+```text
+3a698798b844e248cd3cf612941d18d1837bc6af1805df18b6eff609bc97e3cf
+```
+
+Run the compiler from the directory containing the scripts and workspaces.
+
+Windows Command Prompt:
+
+```bat
+py ladystalker_reinsert.py ^
+  "Lady_Stalker_ENG_v10.sfc" ^
+  "ladystalker_script_workspace.tsv" ^
+  "ladystalker_lookup_workspace.tsv" ^
+  --output-ips "Lady_Stalker_Professional_Translation.ips" ^
+  --output-rom "Lady_Stalker_Professional_Test.sfc"
+```
+
+There must be a real line break immediately after each caret, with no trailing
+spaces after it.
+
+Windows PowerShell:
+
+```powershell
+py ladystalker_reinsert.py "Lady_Stalker_ENG_v10.sfc" "ladystalker_script_workspace.tsv" "ladystalker_lookup_workspace.tsv" --output-ips "Lady_Stalker_Professional_Translation.ips" --output-rom "Lady_Stalker_Professional_Test.sfc"
+```
+
+Linux or macOS:
 
 ```bash
 python3 ladystalker_reinsert.py \
   "Lady_Stalker_ENG_v10.sfc" \
   "ladystalker_script_workspace.tsv" \
   "ladystalker_lookup_workspace.tsv" \
-  --landstalker-rom "Landstalker (USA).md" \
-  --output-ips "Lady_Stalker_Professional_Landstalker_Font.ips" \
-  --output-rom "Lady_Stalker_Professional_Landstalker_Test.sfc"
+  --output-ips "Lady_Stalker_Professional_Translation.ips" \
+  --output-rom "Lady_Stalker_Professional_Test.sfc"
 ```
 
-The required Landstalker ROM is the USA release with product code
-`GM MK-1353-00`, size `0x200000`, and SHA-256:
+The command creates:
+
+- `Lady_Stalker_Professional_Translation.ips`: the distributable overlay patch
+- `Lady_Stalker_Professional_Test.sfc`: a private ROM for emulator testing
+
+The overlay IPS must be applied to the already ENG-v1.0-patched ROM, not
+directly to the original Japanese ROM. The optional test ROM must not be
+distributed.
+
+The compiler verifies the base-ROM hash, workspace row counts and IDs, supported
+characters, structural controls, available ROM space, pointers, and checksum.
+It cannot determine whether a sentence visually overflows a dialogue box or
+menu field. Long text still requires emulator playtesting and manual line
+breaks.
+
+### Optional combined Landstalker-font build
+
+Instead of stacking the separate font v1.1 IPS over a newly translated ROM,
+the reinserter can now build the edited translation, exact Landstalker font,
+fit-safe spacing, battle-message fix, and final checksum together:
+
+```powershell
+py ladystalker_reinsert.py "Lady_Stalker_ENG_v10.sfc" "ladystalker_script_workspace.tsv" "ladystalker_lookup_workspace.tsv" --landstalker-rom "Landstalker (USA).md" --output-ips "Lady_Stalker_Professional_Landstalker_Font.ips" --output-rom "Lady_Stalker_Professional_Landstalker_Test.sfc"
+```
+
+The required Landstalker ROM is the USA release `GM MK-1353-00`, size
+`0x200000`, with SHA-256:
 
 ```text
 ad9f49cf2d528ee40fab74f8687ed908036873e54a7dd30c5dc32286c29fc614
 ```
 
-This option:
+This mode extracts 81 exact printable-ASCII glyphs from the supplied ROM,
+changes word-space advance from 12 to 7 internal units, and fixes the separate
+8×8 battle renderer that displayed direct English messages such as
+`Tomaton attacked!` as Japanese-looking tiles. It performs every modification
+before calculating one valid final checksum.
 
-- extracts and imports 81 exact printable-ASCII glyphs from the supplied ROM;
-- narrows word-space advance from 12 to 7 internal units;
-- fixes direct English battle notices that ENG v1.0 displayed as Japanese-looking tiles;
-- reports any edited dialogue characters that must retain ENG-v1.0 fallback glyphs; and
-- calculates the checksum only after every text, font, spacing, and renderer change.
-
-The resulting single IPS targets the exact ENG v1.0 ROM. Do not stack the
-separate `Lady_Stalker_Landstalker_Font_FitSafe_v1.1.ips` over this combined
-output. Custom translations still require manual line-fit and emulator QA.
+The generated combined IPS is applied directly to the exact ENG v1.0 base. Do
+not apply `Lady_Stalker_Landstalker_Font_FitSafe_v1.1.ips` afterward. The build
+report lists any edited dialogue symbols that must retain ENG-v1.0 fallback
+glyphs. Custom prose still requires manual line-fit and emulator testing.
 
 To keep the existing ENG-v1.0 dialogue font and spacing while correcting only
 the inherited battle-notice rendering bug, add `--fix-battle-messages` instead
-of `--landstalker-rom`. This still produces one overlay with one final checksum
-and does not require the Landstalker ROM.
+of `--landstalker-rom`. This mode requires no Landstalker ROM and still creates
+one overlay with one correct final checksum.
 
 The Landstalker glyph artwork remains an original game asset. This toolkit
-grants no license to that artwork and never copies either supplied ROM into its
-outputs.
+grants no license to that artwork and never includes either supplied ROM.
+
+For names and items, use the same process in
+`ladystalker_lookup_workspace.tsv`. For example:
+
+| Field | Text |
+| --- | --- |
+| Japanese | `コックス` |
+| Machine English | `Cox` |
+| Professional translation | `Cox` |
+
+See `TRANSLATOR_GUIDE.md` for the complete editing and QA workflow.
 
 ## Running the extractor
 
@@ -105,7 +296,7 @@ outputs.
 python3 ladystalker_extract.py "Lady Stalker - Kako kara no Chousen (Japan).sfc" --out-dir output
 ```
 
-The script intentionally validates the exact input before decoding it:
+The extractor intentionally validates the exact input before decoding it:
 
 - Size: `0x280000` bytes (2,621,440 bytes), with no copier header
 - SHA-256: `d0275f6fdc38f26b53b017bdd7fe26e13b9871a93671c76f48800e4f733b2385`
@@ -113,8 +304,8 @@ The script intentionally validates the exact input before decoding it:
 
 ## Text format
 
-Message IDs are written as `GG:II`. `GG` selects one of five compressed groups
-and `II` is the record index within that group. The final group has 196 valid
+Message IDs are written as `GG:II`. `GG` selects one of five compressed groups,
+and `II` is the record index within that group. The final group has **196** valid
 records; the other four have 256 each.
 
 Voicing marks are stored before their kana in the ROM. The extractor reorders
@@ -135,7 +326,7 @@ readable tag:
 | `<NOP>` | Explicit no-operation control |
 | `<ICON_170>` etc. | Non-Unicode pictogram preserved by exact glyph ID |
 
-The arrow glyphs have been represented as `↘`, `↖`, `↙`, and `↗`.
+The arrow glyphs are represented as `↘`, `↖`, `↙`, and `↗`.
 
 ## Compression and storage notes
 
@@ -145,8 +336,7 @@ The main text uses a context-adaptive Huffman code over 9-bit symbols:
 2. Records are byte-length-prefixed. The valid record area ends exactly at
    `0x02A2D4`, where executable code resumes. The five group counts are
    `256, 256, 256, 256, 196`.
-3. The previous decoded symbol is the context. Context `0x1C0` starts a
-   message.
+3. The previous decoded symbol is the context. Context `0x1C0` starts a message.
 4. A context points into a preorder-coded binary tree through the table at
    `0x0201AA`. A zero bit is a branch and a one bit is a leaf.
 5. Each tree's leaf values are packed as reverse-addressed 9-bit symbols
@@ -161,8 +351,8 @@ contains 448 glyphs. The dynamic byte-string table occupies
 ## Verification
 
 The ROM was run under an instrumented SNES emulator while its ROM reads, WRAM,
-VRAM, message state, and PPU state were captured. The first-room line at
-message `04:B3` independently renders in-game as:
+VRAM, message state, and PPU state were captured. The first-room line at message
+`04:B3` independently renders in-game as:
 
 ```text
 <SPEAKER>「行くわよ デスランド島へ!
@@ -173,11 +363,23 @@ message `04:B3` independently renders in-game as:
 That observation verifies the Huffman traversal, glyph ordering, dakuten
 handling, line control, and message-index calculation together.
 
-The v1.0 English patch independently confirms the `0x02A2D4` boundary: its
+The ENG v1.0 patch independently confirms the `0x02A2D4` boundary: its
 direct-text pointer table supplies 1,220 translated records, then uses fifteen
-`FF:FFFF` fallback entries for IDs `04:C4` through `04:D2`. Those IDs point
-into executable code in the Japanese ROM and are not script messages.
+`FF:FFFF` fallback entries for IDs `04:C4` through `04:D2`. Those IDs point into
+executable code in the Japanese ROM and are not script messages.
 
-Decorative text baked into artwork (for example, the title logo) is not OCR
-output and is outside the engine text stores. The dump covers the complete
+Decorative text baked into artwork, such as the title logo, is not OCR output
+and lies outside the engine text stores. The dump covers the complete
 engine-readable message and dynamic-name stores for this exact ROM revision.
+
+## Publishing and testing
+
+- Distribute patches and documentation only, never ROM images.
+- Apply the generated overlay only after applying ENG v1.0 to the supported
+  headerless Japanese ROM.
+- Credit and coordinate with RetchErezzed before publicly releasing a derived
+  translation that depends on the existing hack.
+- Playtest story branches, optional NPCs, shops, battles, menus, saves, dynamic
+  inserts, waits, page clears, and long lines.
+- Keep a terminology sheet for names, locations, items, and recurring jokes.
+- Test on an accurate emulator and, ideally, real hardware or a flash cartridge.
