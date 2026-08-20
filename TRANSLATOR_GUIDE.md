@@ -63,6 +63,42 @@ The output is an overlay: apply it to the ENG v1.0 patched ROM, not directly to
 the Japanese ROM. `--output-rom test.sfc` may also be used for a private test
 build; do not distribute ROM images.
 
+## Optional combined Landstalker-font build
+
+To include the exact Landstalker USA dialogue font, fit-safe spacing, and the
+ENG-v1.0 battle-message fix in the same professionally translated overlay, add
+`--landstalker-rom`:
+
+```bash
+python3 ladystalker_reinsert.py \
+  Lady_Stalker_ENG_v10.sfc \
+  ladystalker_script_workspace.tsv \
+  ladystalker_lookup_workspace.tsv \
+  --landstalker-rom "Landstalker (USA).md" \
+  --output-ips Lady_Stalker_Professional_Landstalker_Font.ips \
+  --output-rom Lady_Stalker_Professional_Landstalker_Test.sfc
+```
+
+The required Landstalker ROM is the USA release `GM MK-1353-00`, exactly
+`0x200000` bytes, with SHA-256:
+
+`ad9f49cf2d528ee40fab74f8687ed908036873e54a7dd30c5dc32286c29fc614`
+
+The reinserter validates both ROMs, performs all script and add-on edits, and
+then calculates one correct final SNES checksum. The resulting IPS is applied
+directly to the exact ENG v1.0 base; do not apply the separate Landstalker-font
+v1.1 IPS afterward.
+
+The exact font supplies 81 printable-ASCII glyphs. If an edited dialogue uses
+one of Landstalker's unavailable symbols, the build succeeds but reports it in
+`landstalker_font_fallbacks_used`; that symbol retains its ENG-v1.0 glyph.
+Custom dialogue still needs manual line breaks and emulator testing even with
+the fit-safe seven-unit word spacing.
+
+To retain the ENG-v1.0 dialogue font and spacing while fixing only the inherited
+battle-notice rendering bug, add `--fix-battle-messages` instead. It requires no
+Landstalker ROM and is included automatically when `--landstalker-rom` is used.
+
 ## QA checklist
 
 - Test each story branch, optional NPC, shop, battle, save/config screen, and

@@ -35,5 +35,14 @@
   "dialogue_font_base": {
     "file_offset": "0x290000",
     "cpu_address": "E9:0000"
+  },
+  "optional_landstalker_addon": {
+    "space_advance_operand_file_offset": "0x0502B1",
+    "battle_hook_file_offset": "0x01F895",
+    "battle_routine_file_offset": "0x282000",
+    "battle_table_file_offset": "0x282040",
+    "landstalker_rom_sha256": "ad9f49cf2d528ee40fab74f8687ed908036873e54a7dd30c5dc32286c29fc614",
+    "landstalker_font_file_offset": "0x02A884",
+    "landstalker_font_sha256": "732edc07d7a8486803ab20e8f054db75b8a36e5967484728a7483b9644aa5b6c"
   }
 }
